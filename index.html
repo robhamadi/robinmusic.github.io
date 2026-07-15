@@ -2,47 +2,25 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>🎵 Ma Collection Musicale</title>
-    <link rel="manifest" href="manifest.json">
     <link rel="stylesheet" href="style.css">
-    <meta name="theme-color" content="#1a1a2e">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 </head>
 <body>
     <header>
-        <div class="header-content">
-            <h1>🎵 Ma Collection</h1>
-            <div class="header-stats">
-                <span id="total-albums">0</span> albums
-            </div>
-        </div>
+        <h1>🎵 Ma Collection</h1>
+        <div class="header-stats"><span id="total-albums">0</span> albums</div>
     </header>
-
     <nav class="search-bar">
-        <input type="text" id="search-input" placeholder="🔍 Rechercher un artiste, un album..." oninput="filterAlbums()">
+        <input type="text" id="search-input" placeholder="🔍 Rechercher..." oninput="filterAlbums()">
         <div class="filter-options">
             <button class="filter-btn active" data-filter="all" onclick="setFilter('all')">Tous</button>
             <button class="filter-btn" data-filter="favorites" onclick="setFilter('favorites')">⭐ Favoris</button>
         </div>
     </nav>
-
-    <main id="album-grid">
-        <div class="loading">Chargement...</div>
-    </main>
-
-    <div id="album-modal" class="modal">
-        <div class="modal-content">
-            <span class="close" onclick="closeModal()">&times;</span>
-            <div id="modal-body"></div>
-        </div>
-    </div>
-
-    <footer>
-        <p>🎵 Collection personnelle • Mise à jour: <span id="update-date"></span></p>
-    </footer>
-
+    <main id="album-grid"><div class="loading">Chargement...</div></main>
+    <div id="album-modal" class="modal"><div class="modal-content"><span class="close" onclick="closeModal()">&times;</span><div id="modal-body"></div></div></div>
+    <footer>🎵 Collection personnelle • <span id="update-date"></span></footer>
     <script src="app.js"></script>
 </body>
 </html>
