@@ -1,0 +1,61 @@
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#0f0f1a;color:#e0e0e0;padding-bottom:80px;min-height:100vh}
+header{background:linear-gradient(135deg,#1a1a2e,#16213e);padding:16px 20px;position:sticky;top:0;z-index:100;border-bottom:1px solid #2a2a4a;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px}
+header h1{font-size:20px;font-weight:700;background:linear-gradient(135deg,#e94560,#ff6b6b);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.header-stats{font-size:14px;color:#8888aa}
+.header-stats span{color:#e0e0e0;font-weight:600}
+.back-link{color:#e94560;text-decoration:none;font-size:16px;font-weight:500}
+.back-link:hover{text-decoration:underline}
+
+/* Page d'accueil */
+.hero{max-width:900px;margin:30px auto;padding:20px;cursor:pointer;position:relative;border-radius:16px;overflow:hidden;transition:transform .3s}
+.hero:hover{transform:scale(1.01)}
+.hero img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:12px;border:1px solid #2a2a4a}
+.hero-text{position:absolute;bottom:40px;left:40px;right:40px;background:rgba(0,0,0,.7);padding:20px 30px;border-radius:12px;backdrop-filter:blur(4px)}
+.hero-text h2{font-size:24px;margin-bottom:8px;color:#e94560}
+.hero-text p{font-size:16px;color:#ccc;margin:4px 0}
+.hero-click{color:#888;font-size:14px;margin-top:8px!important}
+
+/* Page artistes */
+#artistes-grid{max-width:1200px;margin:0 auto;padding:20px}
+.artistes-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:16px}
+.artiste-card{background:#1a1a2e;border-radius:12px;overflow:hidden;cursor:pointer;border:1px solid #2a2a4a;transition:transform .2s;text-align:center}
+.artiste-card:hover{transform:translateY(-4px)}
+.artiste-card img{width:100%;aspect-ratio:1/1;object-fit:cover;background:#0f0f1a;display:block}
+.artiste-card .no-image{width:100%;aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;font-size:48px;background:#1a1a2e}
+.artiste-info{padding:10px}
+.artiste-name{font-size:14px;font-weight:600;color:#e94560;display:block}
+.artiste-count{font-size:12px;color:#666;display:block;margin-top:2px}
+
+/* Grille albums */
+.album-grid{max-width:1200px;margin:0 auto;padding:16px 12px;display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:16px}
+.album-card{background:#1a1a2e;border-radius:12px;overflow:hidden;cursor:pointer;border:1px solid #2a2a4a;transition:transform .2s}
+.album-card:hover{transform:translateY(-4px)}
+.album-card .cover{width:100%;aspect-ratio:1/1;object-fit:cover;background:#0f0f1a}
+.album-card .info{padding:10px 12px 14px}
+.album-card .artiste{font-size:13px;font-weight:600;color:#e94560;display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.album-card .album-title{font-size:14px;font-weight:500;display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-top:2px}
+.album-card .annee{font-size:12px;color:#666;display:block;margin-top:4px}
+
+/* Album detail */
+.album-detail-container{max-width:800px;margin:30px auto;padding:0 20px;display:flex;gap:30px;flex-wrap:wrap}
+.album-cover-large{flex:1;min-width:250px}
+.album-cover-large img{width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:12px;border:1px solid #2a2a4a}
+.album-info{flex:1;min-width:250px}
+.album-info h2{font-size:22px;color:#e94560}
+.album-info .detail-annee{color:#888;font-size:16px}
+.album-info .detail-album{font-size:28px;font-weight:700;margin:4px 0 8px}
+.album-info .detail-pistes{color:#888;font-size:14px}
+.detail-rating{margin:16px 0}
+.detail-commentaire{margin:12px 0 20px}
+.detail-pistes-list ul{padding-left:20px}
+.detail-pistes-list li{padding:4px 0;font-size:14px;border-bottom:1px solid #2a2a4a;list-style:none}
+.detail-pistes-list li:last-child{border-bottom:none}
+.detail-pistes-list .piste-num{color:#666;margin-right:8px;font-weight:500}
+
+.loading{text-align:center;padding:40px;color:#444;grid-column:1/-1}
+
+footer{position:fixed;bottom:0;width:100%;text-align:center;padding:12px;background:#0f0f1a;border-top:1px solid #2a2a4a;font-size:12px;color:#444}
+
+@media(max-width:600px){.hero-text{left:20px;right:20px;bottom:20px;padding:15px 20px}.hero-text h2{font-size:18px}.hero-text p{font-size:14px}.artistes-grid{grid-template-columns:repeat(auto-fill,minmax(120px,1fr))}.album-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:12px;padding:12px 8px}.album-detail-container{flex-direction:column;padding:0 12px}.album-cover-large{min-width:auto}}
+@media(min-width:768px){.album-grid{grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:24px;padding:24px}.artistes-grid{grid-template-columns:repeat(auto-fill,minmax(180px,1fr))}}
