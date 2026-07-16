@@ -5,7 +5,12 @@ header h1{font-size:20px;font-weight:700;background:linear-gradient(135deg,#e945
 .header-stats{font-size:14px;color:#8888aa}
 .header-stats span{color:#e0e0e0;font-weight:600}
 .back-link{color:#e94560;text-decoration:none;font-size:16px;font-weight:500}
-.back-link:hover{text-decoration:underline}
+
+/* Navigation */
+.main-nav{background:#1a1a2e;padding:10px 20px;display:flex;gap:20px;border-bottom:1px solid #2a2a4a;flex-wrap:wrap}
+.nav-link{color:#8888aa;text-decoration:none;font-size:14px;font-weight:500;padding:4px 12px;border-radius:20px;transition:all .3s}
+.nav-link:hover{color:#e0e0e0}
+.nav-link.active{color:#e94560;background:rgba(233,69,96,.1)}
 
 /* Page d'accueil */
 .hero{max-width:900px;margin:30px auto;padding:20px;cursor:pointer;position:relative;border-radius:16px;overflow:hidden;transition:transform .3s}
@@ -16,16 +21,16 @@ header h1{font-size:20px;font-weight:700;background:linear-gradient(135deg,#e945
 .hero-text p{font-size:16px;color:#ccc;margin:4px 0}
 .hero-click{color:#888;font-size:14px;margin-top:8px!important}
 
-/* Page artistes */
+/* Artistes */
 #artistes-grid{max-width:1200px;margin:0 auto;padding:20px}
 .artistes-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:16px}
 .artiste-card{background:#1a1a2e;border-radius:12px;overflow:hidden;cursor:pointer;border:1px solid #2a2a4a;transition:transform .2s;text-align:center}
 .artiste-card:hover{transform:translateY(-4px)}
-.artiste-card img{width:100%;aspect-ratio:1/1;object-fit:cover;background:#0f0f1a;display:block}
+.artiste-card img{width:100%;aspect-ratio:1/1;object-fit:cover;background:#0f0f1a}
 .artiste-card .no-image{width:100%;aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;font-size:48px;background:#1a1a2e}
 .artiste-info{padding:10px}
 .artiste-name{font-size:14px;font-weight:600;color:#e94560;display:block}
-.artiste-count{font-size:12px;color:#666;display:block;margin-top:2px}
+.artiste-count{font-size:12px;color:#666}
 
 /* Grille albums */
 .album-grid{max-width:1200px;margin:0 auto;padding:16px 12px;display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:16px}
@@ -38,24 +43,65 @@ header h1{font-size:20px;font-weight:700;background:linear-gradient(135deg,#e945
 .album-card .annee{font-size:12px;color:#666;display:block;margin-top:4px}
 
 /* Album detail */
-.album-detail-container{max-width:800px;margin:30px auto;padding:0 20px;display:flex;gap:30px;flex-wrap:wrap}
-.album-cover-large{flex:1;min-width:250px}
+.album-detail-container{max-width:900px;margin:30px auto;padding:0 20px;display:flex;gap:30px;flex-wrap:wrap}
+.album-cover-large{flex:0 0 280px}
 .album-cover-large img{width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:12px;border:1px solid #2a2a4a}
-.album-info{flex:1;min-width:250px}
+.album-info{flex:1;min-width:280px}
 .album-info h2{font-size:22px;color:#e94560}
 .album-info .detail-annee{color:#888;font-size:16px}
 .album-info .detail-album{font-size:28px;font-weight:700;margin:4px 0 8px}
 .album-info .detail-pistes{color:#888;font-size:14px}
-.detail-rating{margin:16px 0}
-.detail-commentaire{margin:12px 0 20px}
+
+/* Ratings */
+.ratings-section{background:#1a1a2e;border-radius:12px;padding:16px;margin:16px 0;border:1px solid #2a2a4a}
+.ratings-section h3{font-size:16px;color:#e94560;margin-bottom:12px}
+.rating-row{display:flex;align-items:center;gap:12px;padding:6px 0;flex-wrap:wrap}
+.rating-row label{font-size:13px;color:#aaa;min-width:120px}
+.rating-stars{display:flex;gap:2px;align-items:center;flex-wrap:wrap}
+.rating-stars .star{font-size:18px;cursor:pointer;color:#444;transition:color .2s,transform .2s}
+.rating-stars .star.active{color:#ffd700}
+.rating-stars .star:hover{transform:scale(1.2)}
+.rating-value{font-size:14px;color:#888;min-width:40px;margin-left:8px;font-weight:600}
+
+.comment-section{background:#1a1a2e;border-radius:12px;padding:16px;margin:16px 0;border:1px solid #2a2a4a}
+.comment-section h3{font-size:16px;color:#e94560;margin-bottom:10px}
+.comment-section textarea{width:100%;padding:10px 12px;border:1px solid #2a2a4a;border-radius:8px;background:#0f0f1a;color:#e0e0e0;font-size:14px;resize:vertical;min-height:80px;font-family:inherit}
+.comment-section textarea:focus{outline:none;border-color:#e94560}
+.save-btn{padding:8px 20px;background:#e94560;color:#fff;border:none;border-radius:8px;font-size:14px;cursor:pointer;margin-top:10px}
+.save-btn:hover{background:#c73652}
+
+.detail-pistes-list{margin-top:20px}
+.detail-pistes-list h3{font-size:16px;color:#e94560;margin-bottom:10px}
 .detail-pistes-list ul{padding-left:20px}
 .detail-pistes-list li{padding:4px 0;font-size:14px;border-bottom:1px solid #2a2a4a;list-style:none}
 .detail-pistes-list li:last-child{border-bottom:none}
 .detail-pistes-list .piste-num{color:#666;margin-right:8px;font-weight:500}
 
+/* Classement */
+.classement-grid{max-width:900px;margin:0 auto;padding:20px}
+.classement-filters{display:flex;gap:10px;margin-bottom:20px;flex-wrap:wrap}
+.classement-filters .filter-btn{padding:8px 20px;border:1px solid #2a2a4a;border-radius:20px;background:transparent;color:#8888aa;cursor:pointer;transition:all .3s}
+.classement-filters .filter-btn:hover{color:#e0e0e0}
+.classement-filters .filter-btn.active{background:#e94560;border-color:#e94560;color:#fff}
+
+.classement-card{display:flex;align-items:center;gap:16px;background:#1a1a2e;border-radius:12px;padding:12px 16px;margin-bottom:12px;border:1px solid #2a2a4a;cursor:pointer;transition:transform .2s}
+.classement-card:hover{transform:translateX(4px)}
+.classement-card .classement-rank{font-size:24px;font-weight:700;min-width:50px;color:#888}
+.classement-card .classement-cover{width:60px;height:60px;object-fit:cover;border-radius:8px;background:#0f0f1a}
+.classement-card .classement-info{flex:1}
+.classement-card .classement-artiste{font-size:13px;color:#e94560;font-weight:600;display:block}
+.classement-card .classement-album{font-size:15px;font-weight:500;display:block}
+.classement-card .classement-annee{font-size:12px;color:#666}
+.classement-card .classement-note{font-size:18px;color:#ffd700;font-weight:700}
+.classement-card .classement-details{display:flex;gap:8px;flex-wrap:wrap;margin-top:4px}
+.classement-card .classement-details .rating-detail{font-size:11px;color:#888;background:#0f0f1a;padding:2px 8px;border-radius:10px}
+.classement-card.rank-1{border-color:#ffd700;background:linear-gradient(135deg,#1a1a2e,#2a1a0a)}
+.classement-card.rank-2{border-color:#c0c0c0;background:linear-gradient(135deg,#1a1a2e,#1a1a1a)}
+.classement-card.rank-3{border-color:#cd7f32;background:linear-gradient(135deg,#1a1a2e,#1a150a)}
+
 .loading{text-align:center;padding:40px;color:#444;grid-column:1/-1}
 
 footer{position:fixed;bottom:0;width:100%;text-align:center;padding:12px;background:#0f0f1a;border-top:1px solid #2a2a4a;font-size:12px;color:#444}
 
-@media(max-width:600px){.hero-text{left:20px;right:20px;bottom:20px;padding:15px 20px}.hero-text h2{font-size:18px}.hero-text p{font-size:14px}.artistes-grid{grid-template-columns:repeat(auto-fill,minmax(120px,1fr))}.album-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:12px;padding:12px 8px}.album-detail-container{flex-direction:column;padding:0 12px}.album-cover-large{min-width:auto}}
-@media(min-width:768px){.album-grid{grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:24px;padding:24px}.artistes-grid{grid-template-columns:repeat(auto-fill,minmax(180px,1fr))}}
+@media(max-width:600px){.hero-text{left:20px;right:20px;bottom:20px;padding:15px 20px}.hero-text h2{font-size:18px}.hero-text p{font-size:14px}.artistes-grid{grid-template-columns:repeat(auto-fill,minmax(120px,1fr))}.album-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr))}.album-detail-container{flex-direction:column}.album-cover-large{flex:1}.classement-card{flex-wrap:wrap}.classement-card .classement-rank{min-width:30px}.rating-row label{min-width:80px}.rating-stars .star{font-size:15px}}
+@media(min-width:768px){.album-grid{grid-template-columns:repeat(auto-fill,minmax(180px,1fr))}.artistes-grid{grid-template-columns:repeat(auto-fill,minmax(180px,1fr))}}
