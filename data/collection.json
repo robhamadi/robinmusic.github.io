@@ -373,7 +373,7 @@
       }
     ],
     "duree_totale": 16721.75145000001,
-    "image": null,
+    "image": "Agentic Orange - 2025 - Compilation.jpg",
     "nom": "Agentic Orange - 2025 - Compilation"
   },
   {
@@ -633,7 +633,7 @@
       }
     ],
     "duree_totale": 6049.104750000001,
-    "image": null,
+    "image": "AI Temporaire - 2025 - Compilation.jpg",
     "nom": "AI Temporaire - 2025 - Compilation"
   },
   {
@@ -2063,16 +2063,6 @@
   },
   {
     "artiste": "Alton McClain and Destiny",
-    "annee": "1980",
-    "album": "More of You",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "Alton McClain and Destiny - 1980 - More of You.jpg",
-    "nom": "Alton McClain and Destiny - 1980 - More of You"
-  },
-  {
-    "artiste": "Alton McClain and Destiny",
     "annee": "1981",
     "album": "Gonna Tell the World",
     "nb_pistes": 11,
@@ -3022,16 +3012,6 @@
     "duree_totale": 2618.3519999999994,
     "image": "Angela Bofill - 1983 - Teaser.jpg",
     "nom": "Angela Bofill - 1983 - Teaser"
-  },
-  {
-    "artiste": "Angela Bofill",
-    "annee": "1983",
-    "album": "Too Tough",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "Angela Bofill - 1983 - Too Tough.jpg",
-    "nom": "Angela Bofill - 1983 - Too Tough"
   },
   {
     "artiste": "Angela Bofill",
@@ -8522,21 +8502,6 @@
   },
   {
     "artiste": "Bob James",
-    "annee": "1996",
-    "album": "Joined at the Hip",
-    "nb_pistes": 1,
-    "pistes": [
-      {
-        "numero": "01",
-        "titre": "Midnight at the Oasis"
-      }
-    ],
-    "duree_totale": 347.28,
-    "image": null,
-    "nom": "Bob James - 1996 - Joined at the Hip"
-  },
-  {
-    "artiste": "Bob James",
     "annee": "1999",
     "album": "Joy Ride",
     "nb_pistes": 12,
@@ -13551,6 +13516,1321 @@
     "nom": "Casiopea - 1981 - Cross Point"
   },
   {
+    "artiste": "Casiopea",
+    "annee": "1981",
+    "album": "Eyes of the Mind",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Asayake"
+      },
+      {
+        "numero": "02",
+        "titre": "A Place In The Sun"
+      },
+      {
+        "numero": "03",
+        "titre": "Take Me"
+      },
+      {
+        "numero": "04",
+        "titre": "Lakai"
+      },
+      {
+        "numero": "05",
+        "titre": "Eyes Of The Mind"
+      },
+      {
+        "numero": "06",
+        "titre": "Black Joke"
+      },
+      {
+        "numero": "07",
+        "titre": "La Costa"
+      },
+      {
+        "numero": "08",
+        "titre": "Magic Ray"
+      },
+      {
+        "numero": "09",
+        "titre": "Space Road"
+      }
+    ],
+    "duree_totale": 2376.792,
+    "image": "Casiopea - 1981 - Eyes of the Mind.jpg",
+    "nom": "Casiopea - 1981 - Eyes of the Mind"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1982",
+    "album": "4x4",
+    "nb_pistes": 6,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Mid-Manhattan"
+      },
+      {
+        "numero": "02",
+        "titre": "Pavane Pour Une Infante Defunte"
+      },
+      {
+        "numero": "03",
+        "titre": "Transatlantic"
+      },
+      {
+        "numero": "04",
+        "titre": "Galactic Funk"
+      },
+      {
+        "numero": "05",
+        "titre": "Kauai"
+      },
+      {
+        "numero": "06",
+        "titre": "Chandelier"
+      }
+    ],
+    "duree_totale": 1828.44,
+    "image": "Casiopea - 1982 - 4x4.jpg",
+    "nom": "Casiopea - 1982 - 4x4"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1983",
+    "album": "Jive Jive",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sweat It Out"
+      },
+      {
+        "numero": "02",
+        "titre": "In The Pocket"
+      },
+      {
+        "numero": "03",
+        "titre": "Right From The Heart"
+      },
+      {
+        "numero": "04",
+        "titre": "Step Daughter"
+      },
+      {
+        "numero": "05",
+        "titre": "Secret Chase"
+      },
+      {
+        "numero": "06",
+        "titre": "Fabbydabby"
+      },
+      {
+        "numero": "07",
+        "titre": "Living On A Feeling"
+      },
+      {
+        "numero": "08",
+        "titre": "S-E"
+      },
+      {
+        "numero": "09",
+        "titre": "What Can't Speak Can't Lie"
+      }
+    ],
+    "duree_totale": 2297.832,
+    "image": "Casiopea - 1983 - Jive Jive.jpg",
+    "nom": "Casiopea - 1983 - Jive Jive"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1983",
+    "album": "Photographs",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Looking Up"
+      },
+      {
+        "numero": "02",
+        "titre": "Dazzling"
+      },
+      {
+        "numero": "03",
+        "titre": "Long Term Memory"
+      },
+      {
+        "numero": "04",
+        "titre": "Strasse"
+      },
+      {
+        "numero": "05",
+        "titre": "Out Drive"
+      },
+      {
+        "numero": "06",
+        "titre": "Misty Lady"
+      },
+      {
+        "numero": "07",
+        "titre": "Love You Day By Day"
+      },
+      {
+        "numero": "08",
+        "titre": "Spice Road"
+      },
+      {
+        "numero": "09",
+        "titre": "Fruit Salad Sunday"
+      },
+      {
+        "numero": "10",
+        "titre": "From Over The Sky"
+      }
+    ],
+    "duree_totale": 2458.752,
+    "image": "Casiopea - 1983 - Photographs.jpg",
+    "nom": "Casiopea - 1983 - Photographs"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1984",
+    "album": "The Soundgraphy",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The Soundgraphy"
+      },
+      {
+        "numero": "02",
+        "titre": "Gypsy Wind"
+      },
+      {
+        "numero": "03",
+        "titre": "Eyes Of The Mind"
+      },
+      {
+        "numero": "04",
+        "titre": "Sunnyside Feelin'"
+      },
+      {
+        "numero": "05",
+        "titre": "Asayake"
+      },
+      {
+        "numero": "06",
+        "titre": "Mid-Manhattan"
+      },
+      {
+        "numero": "07",
+        "titre": "Looking Up"
+      },
+      {
+        "numero": "08",
+        "titre": "Misty Lady"
+      },
+      {
+        "numero": "09",
+        "titre": "What Can't Speak Can't Lie"
+      },
+      {
+        "numero": "10",
+        "titre": "Fabbydabby"
+      }
+    ],
+    "duree_totale": 2544.9599999999996,
+    "image": "Casiopea - 1984 - The Soundgraphy.jpg",
+    "nom": "Casiopea - 1984 - The Soundgraphy"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1985",
+    "album": "Halle",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Halle"
+      },
+      {
+        "numero": "02",
+        "titre": "Hoshi-Zora"
+      },
+      {
+        "numero": "03",
+        "titre": "Street Performer"
+      },
+      {
+        "numero": "04",
+        "titre": "The Turning Bell"
+      },
+      {
+        "numero": "05",
+        "titre": "North Sea"
+      },
+      {
+        "numero": "06",
+        "titre": "Matsuri-Bayashi"
+      },
+      {
+        "numero": "07",
+        "titre": "Touch The Rainbow"
+      },
+      {
+        "numero": "08",
+        "titre": "After School"
+      },
+      {
+        "numero": "09",
+        "titre": "Freesia"
+      },
+      {
+        "numero": "10",
+        "titre": "Marine Blue"
+      },
+      {
+        "numero": "11",
+        "titre": "Paradox March"
+      }
+    ],
+    "duree_totale": 2545.92,
+    "image": "Casiopea - 1985 - Halle.jpg",
+    "nom": "Casiopea - 1985 - Halle"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1986",
+    "album": "Sun Sun",
+    "nb_pistes": 14,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Conjunction"
+      },
+      {
+        "numero": "02",
+        "titre": "Coast To Coast"
+      },
+      {
+        "numero": "03",
+        "titre": "Keepers"
+      },
+      {
+        "numero": "04",
+        "titre": "Lunar Shade"
+      },
+      {
+        "numero": "05",
+        "titre": "Sun"
+      },
+      {
+        "numero": "06",
+        "titre": "After Glow"
+      },
+      {
+        "numero": "07",
+        "titre": "Mr.Unique"
+      },
+      {
+        "numero": "08",
+        "titre": "Samba Mania"
+      },
+      {
+        "numero": "09",
+        "titre": "Departure"
+      },
+      {
+        "numero": "10",
+        "titre": "Someone's Love"
+      },
+      {
+        "numero": "11",
+        "titre": "Mi Senora"
+      },
+      {
+        "numero": "12",
+        "titre": "Something's Wrong (Change It)"
+      },
+      {
+        "numero": "13",
+        "titre": "Transformation 1"
+      },
+      {
+        "numero": "14",
+        "titre": "Planetoid Mother Earth"
+      }
+    ],
+    "duree_totale": 3081.72,
+    "image": "Casiopea - 1986 - Sun Sun.jpg",
+    "nom": "Casiopea - 1986 - Sun Sun"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1988",
+    "album": "Euphony",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Taiyo-Fu The Wind From The Sun"
+      },
+      {
+        "numero": "02",
+        "titre": "Shadow Man"
+      },
+      {
+        "numero": "03",
+        "titre": "Super Sonic Movement"
+      },
+      {
+        "numero": "04",
+        "titre": "Inishie Old Times"
+      },
+      {
+        "numero": "05",
+        "titre": "Bayside Express"
+      },
+      {
+        "numero": "06",
+        "titre": "Sentimental Avenue"
+      },
+      {
+        "numero": "07",
+        "titre": "Solid Swing"
+      },
+      {
+        "numero": "08",
+        "titre": "Hacker"
+      },
+      {
+        "numero": "09",
+        "titre": "Pure Green"
+      },
+      {
+        "numero": "10",
+        "titre": "Red Zone"
+      },
+      {
+        "numero": "11",
+        "titre": "Mei-mu Shallow Dreams"
+      },
+      {
+        "numero": "12",
+        "titre": "Halle (Live)"
+      }
+    ],
+    "duree_totale": 2695.8959999999997,
+    "image": "Casiopea - 1988 - Euphony.jpg",
+    "nom": "Casiopea - 1988 - Euphony"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1990",
+    "album": "The Party",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "CYBER ZONE"
+      },
+      {
+        "numero": "02",
+        "titre": "AOI HONO"
+      },
+      {
+        "numero": "03",
+        "titre": "ILLUSION"
+      },
+      {
+        "numero": "04",
+        "titre": "NOSTALGIA"
+      },
+      {
+        "numero": "05",
+        "titre": "FLUSH UP"
+      },
+      {
+        "numero": "06",
+        "titre": "STORMY HEARTS"
+      },
+      {
+        "numero": "07",
+        "titre": "MOKUGEKISYA"
+      },
+      {
+        "numero": "08",
+        "titre": "ROMANCING"
+      },
+      {
+        "numero": "09",
+        "titre": "TOKIMEKI"
+      },
+      {
+        "numero": "10",
+        "titre": "GOLDEN ISLAND"
+      },
+      {
+        "numero": "11",
+        "titre": "THE PARTY NIGHT"
+      },
+      {
+        "numero": "12",
+        "titre": "DAISEKAI"
+      }
+    ],
+    "duree_totale": 2944.7519999999995,
+    "image": "Casiopea - 1990 - The Party.jpg",
+    "nom": "Casiopea - 1990 - The Party"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1991",
+    "album": "Full Colors",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "FIGHTMAN"
+      },
+      {
+        "numero": "02",
+        "titre": "THE SKY"
+      },
+      {
+        "numero": "03",
+        "titre": "PASSIONATE VOLTAGE"
+      },
+      {
+        "numero": "04",
+        "titre": "PURPLE HOURS"
+      },
+      {
+        "numero": "05",
+        "titre": "FINAL CHANCE"
+      },
+      {
+        "numero": "06",
+        "titre": "AKAPPACHI-IZM"
+      },
+      {
+        "numero": "07",
+        "titre": "PRIVATE SUNDAY"
+      },
+      {
+        "numero": "08",
+        "titre": "SEARCH MY HEART"
+      },
+      {
+        "numero": "09",
+        "titre": "STREET OF DREAMS"
+      },
+      {
+        "numero": "10",
+        "titre": "NAVIGATORS"
+      },
+      {
+        "numero": "11",
+        "titre": "ONCE IN A BLUE MOON"
+      },
+      {
+        "numero": "12",
+        "titre": "TOP WIND"
+      }
+    ],
+    "duree_totale": 2725.728,
+    "image": "Casiopea - 1991 - Full Colors.jpg",
+    "nom": "Casiopea - 1991 - Full Colors"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1993",
+    "album": "Dramatic",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Glory"
+      },
+      {
+        "numero": "02",
+        "titre": "Fly To The Sun"
+      },
+      {
+        "numero": "03",
+        "titre": "The Tornado"
+      },
+      {
+        "numero": "04",
+        "titre": "Shadow Of Midnight"
+      },
+      {
+        "numero": "05",
+        "titre": "Life Goes On"
+      },
+      {
+        "numero": "06",
+        "titre": "Voice From Others"
+      },
+      {
+        "numero": "07",
+        "titre": "Cubic Music"
+      },
+      {
+        "numero": "08",
+        "titre": "Ancient Roman"
+      },
+      {
+        "numero": "09",
+        "titre": "Shocking Function"
+      },
+      {
+        "numero": "10",
+        "titre": "Michi"
+      },
+      {
+        "numero": "11",
+        "titre": "Oriental Spirits"
+      },
+      {
+        "numero": "12",
+        "titre": "Key Of Miracle"
+      }
+    ],
+    "duree_totale": 3064.344000000001,
+    "image": "Casiopea - 1993 - Dramatic.jpg",
+    "nom": "Casiopea - 1993 - Dramatic"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1994",
+    "album": "Answers",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Set Sail"
+      },
+      {
+        "numero": "02",
+        "titre": "Fortunate Breeze"
+      },
+      {
+        "numero": "03",
+        "titre": "Take Courage"
+      },
+      {
+        "numero": "04",
+        "titre": "Living Things"
+      },
+      {
+        "numero": "05",
+        "titre": "Previous Matters"
+      },
+      {
+        "numero": "06",
+        "titre": "Warning"
+      },
+      {
+        "numero": "07",
+        "titre": "Dynamic Road"
+      },
+      {
+        "numero": "08",
+        "titre": "Surf's Up"
+      },
+      {
+        "numero": "09",
+        "titre": "Pal"
+      },
+      {
+        "numero": "10",
+        "titre": "Cool Rain"
+      },
+      {
+        "numero": "11",
+        "titre": "Mr. Dungeon"
+      },
+      {
+        "numero": "12",
+        "titre": "A Fine Day"
+      }
+    ],
+    "duree_totale": 3251.9280000000003,
+    "image": "Casiopea - 1994 - Answers.jpg",
+    "nom": "Casiopea - 1994 - Answers"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1994",
+    "album": "Asian Dreamer",
+    "nb_pistes": 20,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "ASAYAKE"
+      },
+      {
+        "numero": "02",
+        "titre": "SPACE ROAD"
+      },
+      {
+        "numero": "03",
+        "titre": "MIDNIGHT RENDEZVOUS"
+      },
+      {
+        "numero": "04",
+        "titre": "DOMINO LINE"
+      },
+      {
+        "numero": "05",
+        "titre": "HOSHIZORA"
+      },
+      {
+        "numero": "06",
+        "titre": "BLACK JOKE"
+      },
+      {
+        "numero": "07",
+        "titre": "EYES OF THE MIND"
+      },
+      {
+        "numero": "08",
+        "titre": "NORTH SEA"
+      },
+      {
+        "numero": "09",
+        "titre": "MISTY LADY"
+      },
+      {
+        "numero": "10",
+        "titre": "THE SONDGRAPHY"
+      },
+      {
+        "numero": "11",
+        "titre": "LOOKING UP"
+      },
+      {
+        "numero": "12",
+        "titre": "CONJUNCTION"
+      },
+      {
+        "numero": "13",
+        "titre": "TAKE ME"
+      },
+      {
+        "numero": "14",
+        "titre": "DOWN UP BEAT"
+      },
+      {
+        "numero": "15",
+        "titre": "THE CONTINENTAL WAY"
+      },
+      {
+        "numero": "16",
+        "titre": "COAST TO COAST"
+      },
+      {
+        "numero": "17",
+        "titre": "TWILIGHT SOLITUDE"
+      },
+      {
+        "numero": "18",
+        "titre": "SWEAR"
+      },
+      {
+        "numero": "19",
+        "titre": "GALACTIC FUNK"
+      },
+      {
+        "numero": "20",
+        "titre": "ASIAN DREAMER"
+      }
+    ],
+    "duree_totale": 5358.552000000001,
+    "image": "Casiopea - 1994 - Asian Dreamer.jpg",
+    "nom": "Casiopea - 1994 - Asian Dreamer"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1994",
+    "album": "Hearty Notes",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sweet Vision"
+      },
+      {
+        "numero": "02",
+        "titre": "Dazzling"
+      },
+      {
+        "numero": "03",
+        "titre": "Justice"
+      },
+      {
+        "numero": "04",
+        "titre": "Pleasure"
+      },
+      {
+        "numero": "05",
+        "titre": "Believe Again"
+      },
+      {
+        "numero": "06",
+        "titre": "Distance To Paradise"
+      },
+      {
+        "numero": "07",
+        "titre": "Sombrero"
+      },
+      {
+        "numero": "08",
+        "titre": "So Long"
+      },
+      {
+        "numero": "09",
+        "titre": "Magic Ray"
+      },
+      {
+        "numero": "10",
+        "titre": "Shinning Voyage"
+      }
+    ],
+    "duree_totale": 2568.0719999999997,
+    "image": "Casiopea - 1994 - Hearty Notes.jpg",
+    "nom": "Casiopea - 1994 - Hearty Notes"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1995",
+    "album": "Freshness",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "HELLO THERE"
+      },
+      {
+        "numero": "02",
+        "titre": "KEEP AHEAD"
+      },
+      {
+        "numero": "03",
+        "titre": "HARD BOILED"
+      },
+      {
+        "numero": "04",
+        "titre": "JUICY JAM"
+      },
+      {
+        "numero": "05",
+        "titre": "INTENSIVE WAY"
+      },
+      {
+        "numero": "06",
+        "titre": "陽炎 (HEAT HAZE)"
+      },
+      {
+        "numero": "07",
+        "titre": "IHILANI"
+      },
+      {
+        "numero": "08",
+        "titre": "STAR CAROUSEL"
+      },
+      {
+        "numero": "09",
+        "titre": "COASTAL DREAMING"
+      },
+      {
+        "numero": "10",
+        "titre": "LOOP OF MAGIC"
+      },
+      {
+        "numero": "11",
+        "titre": "SLEEK PASSAGE"
+      }
+    ],
+    "duree_totale": 2947.296,
+    "image": "Casiopea - 1995 - Freshness.jpg",
+    "nom": "Casiopea - 1995 - Freshness"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1996",
+    "album": "Flowers",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "BLOOMING"
+      },
+      {
+        "numero": "02",
+        "titre": "THE MIND QUAKE"
+      },
+      {
+        "numero": "03",
+        "titre": "TRANSIENT VIEW"
+      },
+      {
+        "numero": "04",
+        "titre": "JUST ONE WAY"
+      },
+      {
+        "numero": "05",
+        "titre": "ABERDEEN"
+      },
+      {
+        "numero": "06",
+        "titre": "SECRET MESSAGE"
+      },
+      {
+        "numero": "07",
+        "titre": "SEASONS"
+      },
+      {
+        "numero": "08",
+        "titre": "SUPER SENSE"
+      },
+      {
+        "numero": "09",
+        "titre": "MYSTIC LIE"
+      },
+      {
+        "numero": "10",
+        "titre": "TRANCE EVOLUTION"
+      },
+      {
+        "numero": "11",
+        "titre": "CANDLE LIGHT"
+      }
+    ],
+    "duree_totale": 3144.768,
+    "image": "Casiopea - 1996 - Flowers.jpg",
+    "nom": "Casiopea - 1996 - Flowers"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1997",
+    "album": "Light and Shadows",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "GOLDEN WAVES"
+      },
+      {
+        "numero": "02",
+        "titre": "FORBIDDEN FRUITS"
+      },
+      {
+        "numero": "03",
+        "titre": "CHAIN REACTION"
+      },
+      {
+        "numero": "04",
+        "titre": "MISSING DAYS"
+      },
+      {
+        "numero": "05",
+        "titre": "SPEEDED AGE"
+      },
+      {
+        "numero": "06",
+        "titre": "THE TEASE"
+      },
+      {
+        "numero": "07",
+        "titre": "DON'T LEAVE ME ALONE"
+      },
+      {
+        "numero": "08",
+        "titre": "MOVIN'"
+      },
+      {
+        "numero": "09",
+        "titre": "THE SMILE オF TENDER"
+      },
+      {
+        "numero": "10",
+        "titre": "RIDDLE"
+      },
+      {
+        "numero": "11",
+        "titre": "A DRESSY MORNING"
+      }
+    ],
+    "duree_totale": 3278.424,
+    "image": "Casiopea - 1997 - Light and Shadows.jpg",
+    "nom": "Casiopea - 1997 - Light and Shadows"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "1999",
+    "album": "Material",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "FREAK JACK"
+      },
+      {
+        "numero": "02",
+        "titre": "DOWN SOUTH"
+      },
+      {
+        "numero": "03",
+        "titre": "TWINKLE VISIONS"
+      },
+      {
+        "numero": "04",
+        "titre": "NATURALLY"
+      },
+      {
+        "numero": "05",
+        "titre": "THE NIGHT IN BLUE"
+      },
+      {
+        "numero": "06",
+        "titre": "LONGING"
+      },
+      {
+        "numero": "07",
+        "titre": "PRECIOUS JOY"
+      },
+      {
+        "numero": "08",
+        "titre": "LUCKY STARS"
+      },
+      {
+        "numero": "09",
+        "titre": "PROMENADE"
+      },
+      {
+        "numero": "10",
+        "titre": "DAY and NIGHT"
+      },
+      {
+        "numero": "11",
+        "titre": "CITY TALK"
+      }
+    ],
+    "duree_totale": 2955.4559999999997,
+    "image": "Casiopea - 1999 - Material.jpg",
+    "nom": "Casiopea - 1999 - Material"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "2000",
+    "album": "Bitter Sweet",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "GO ON!"
+      },
+      {
+        "numero": "02",
+        "titre": "PICK UP THE GOOD ONE"
+      },
+      {
+        "numero": "03",
+        "titre": "HARD WORKER"
+      },
+      {
+        "numero": "04",
+        "titre": "TIGHT LINE"
+      },
+      {
+        "numero": "05",
+        "titre": "Go On! (Guitar MINUS ONE)"
+      },
+      {
+        "numero": "06",
+        "titre": "Pick Up The Good One (Guitar MINUS ONE)"
+      },
+      {
+        "numero": "07",
+        "titre": "Hard Worker (Guitar MINUS ONE)"
+      },
+      {
+        "numero": "08",
+        "titre": "TIGHT LINE (Guitar MINUS ONE)"
+      }
+    ],
+    "duree_totale": 1985.664,
+    "image": "Casiopea - 2000 - Bitter Sweet.jpg",
+    "nom": "Casiopea - 2000 - Bitter Sweet"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "2002",
+    "album": "Inspire",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "WINDY SUNSHINE"
+      },
+      {
+        "numero": "02",
+        "titre": "GLOWING"
+      },
+      {
+        "numero": "03",
+        "titre": "SUGGESTIVE ONE"
+      },
+      {
+        "numero": "04",
+        "titre": "CRY WITH TERRA"
+      },
+      {
+        "numero": "05",
+        "titre": "WINDY SUNSHINE (Guitar MINUS ONE)"
+      },
+      {
+        "numero": "06",
+        "titre": "GLOWING (Guitar MINUS ONE)"
+      },
+      {
+        "numero": "07",
+        "titre": "SUGGESTIVE ONE (Guitar MINUS ONE)"
+      },
+      {
+        "numero": "08",
+        "titre": "CRY WITH TERRA (Guitar MINUS ONE)"
+      }
+    ],
+    "duree_totale": 2508.192,
+    "image": "Casiopea - 2002 - Inspire.jpg",
+    "nom": "Casiopea - 2002 - Inspire"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "2003",
+    "album": "Places",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Right On The Orbit"
+      },
+      {
+        "numero": "02",
+        "titre": "Rare One In N.Y."
+      },
+      {
+        "numero": "03",
+        "titre": "Teatro Saudade"
+      },
+      {
+        "numero": "04",
+        "titre": "Tokyo Sunset"
+      },
+      {
+        "numero": "05",
+        "titre": "Right On The Orbit (Guitar MINUS ONE)"
+      },
+      {
+        "numero": "06",
+        "titre": "Rare One In N.Y. (Guitar MINUS ONE)"
+      },
+      {
+        "numero": "07",
+        "titre": "Teatro Saudade (Guitar MINUS ONE)"
+      },
+      {
+        "numero": "08",
+        "titre": "Tokyo Sunset (Guitar MINUS ONE)"
+      }
+    ],
+    "duree_totale": 2342.088,
+    "image": "Casiopea - 2003 - Places.jpg",
+    "nom": "Casiopea - 2003 - Places"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "2004",
+    "album": "Marble",
+    "nb_pistes": 4,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "REMINISCENCE (Live)"
+      },
+      {
+        "numero": "02",
+        "titre": "SPREAD (Live)"
+      },
+      {
+        "numero": "03",
+        "titre": "REMINISCENCE (Guitar MINUS ONE)"
+      },
+      {
+        "numero": "04",
+        "titre": "SPREAD (Guitar MINUS ONE)"
+      }
+    ],
+    "duree_totale": 1189.008,
+    "image": "Casiopea - 2004 - Marble.jpg",
+    "nom": "Casiopea - 2004 - Marble"
+  },
+  {
+    "artiste": "Casiopea",
+    "annee": "2005",
+    "album": "Signal",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "AWAKEN"
+      },
+      {
+        "numero": "02",
+        "titre": "MIST"
+      },
+      {
+        "numero": "03",
+        "titre": "KOKOROCK"
+      },
+      {
+        "numero": "04",
+        "titre": "WILL YOU LOVE ME TOMORROW"
+      },
+      {
+        "numero": "05",
+        "titre": "ESCALATION"
+      },
+      {
+        "numero": "06",
+        "titre": "ASOBINI TSURETETTE"
+      },
+      {
+        "numero": "07",
+        "titre": "LIFE LONG SERENADE"
+      },
+      {
+        "numero": "08",
+        "titre": "PITY"
+      },
+      {
+        "numero": "09",
+        "titre": "ARDENT"
+      }
+    ],
+    "duree_totale": 2650.3920000000003,
+    "image": "Casiopea - 2005 - Signal.jpg",
+    "nom": "Casiopea - 2005 - Signal"
+  },
+  {
+    "artiste": "Casiopea-P4",
+    "annee": "2024",
+    "album": "Right Now",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "THE TIME HAS COME"
+      },
+      {
+        "numero": "02",
+        "titre": "THE HOPEFUL WORLD"
+      },
+      {
+        "numero": "03",
+        "titre": "WHICH WAY？"
+      },
+      {
+        "numero": "04",
+        "titre": "NO PLACE LIKE HERE"
+      },
+      {
+        "numero": "05",
+        "titre": "CHALLENGERS"
+      },
+      {
+        "numero": "06",
+        "titre": "ADMIRATION"
+      },
+      {
+        "numero": "07",
+        "titre": "HOUR OF THE RAINBOW"
+      },
+      {
+        "numero": "08",
+        "titre": "90's A GO GO"
+      },
+      {
+        "numero": "09",
+        "titre": "LOOK UP THE STARS"
+      },
+      {
+        "numero": "10",
+        "titre": "HAPPINESS"
+      }
+    ],
+    "duree_totale": 2814.168,
+    "image": "Casiopea-P4 - 2024 - Right Now.jpg",
+    "nom": "Casiopea-P4 - 2024 - Right Now"
+  },
+  {
+    "artiste": "Casiopea-P4",
+    "annee": "2025",
+    "album": "True Blue",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "SKY SO HIGH"
+      },
+      {
+        "numero": "02",
+        "titre": "THE LIGHT FROM FUTURE"
+      },
+      {
+        "numero": "03",
+        "titre": "DESTINATIONS"
+      },
+      {
+        "numero": "04",
+        "titre": "ZERO POINT FIELD"
+      },
+      {
+        "numero": "05",
+        "titre": "TIME FLIES BY"
+      },
+      {
+        "numero": "06",
+        "titre": "MIRACLES HAPPEN"
+      },
+      {
+        "numero": "07",
+        "titre": "CARAVEL"
+      },
+      {
+        "numero": "08",
+        "titre": "NEW DIRECTIONS"
+      },
+      {
+        "numero": "09",
+        "titre": "EAGLE FLY AROUND"
+      },
+      {
+        "numero": "10",
+        "titre": "DEDICATION"
+      }
+    ],
+    "duree_totale": 2903.544,
+    "image": "Casiopea-P4 - 2025 - True Blue.jpg",
+    "nom": "Casiopea-P4 - 2025 - True Blue"
+  },
+  {
     "artiste": "Charlie Wilson",
     "annee": "2013",
     "album": "Love, Charlie",
@@ -15747,16 +17027,6 @@
   },
   {
     "artiste": "Curtis Mayfield",
-    "annee": "1973",
-    "album": "Back to the World",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "Curtis Mayfield - 1973 - Back to the World.jpg",
-    "nom": "Curtis Mayfield - 1973 - Back to the World"
-  },
-  {
-    "artiste": "Curtis Mayfield",
     "annee": "1974",
     "album": "Got to Find a Way",
     "nb_pistes": 6,
@@ -16277,6 +17547,49 @@
     "duree_totale": 2381.76,
     "image": "Curtis Mayfield - 1990 - Take It to the Streets.jpg",
     "nom": "Curtis Mayfield - 1990 - Take It to the Streets"
+  },
+  {
+    "artiste": "Curtis Mayfield",
+    "annee": "1990",
+    "album": "The Return of Superfly",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Little Child Runnin' Wild"
+      },
+      {
+        "numero": "02",
+        "titre": "Pusherman"
+      },
+      {
+        "numero": "03",
+        "titre": "Freddie's Dead (Theme From 'Superfly')"
+      },
+      {
+        "numero": "04",
+        "titre": "Junkie Chase (Instrumental)"
+      },
+      {
+        "numero": "05",
+        "titre": "Give Me Your Love (Love Song)"
+      },
+      {
+        "numero": "06",
+        "titre": "Eddie You Should Know Better"
+      },
+      {
+        "numero": "07",
+        "titre": "No Thing on Me (Cocaine Song)"
+      },
+      {
+        "numero": "08",
+        "titre": "Think (Instrumental)"
+      }
+    ],
+    "duree_totale": 1984.3919999999998,
+    "image": "Curtis Mayfield - 1990 - The Return of Superfly.jpg",
+    "nom": "Curtis Mayfield - 1990 - The Return of Superfly"
   },
   {
     "artiste": "Curtis Mayfield",
@@ -20881,26 +22194,6 @@
     "duree_totale": 2417.2079999999996,
     "image": "Diane Schuur - 2011 - The Gathering.jpg",
     "nom": "Diane Schuur - 2011 - The Gathering"
-  },
-  {
-    "artiste": "Diane Schuur",
-    "annee": "2014",
-    "album": "I Remember You Love to Stan and Frank",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "Diane Schuur - 2014 - I Remember You Love to Stan and Frank.jpg",
-    "nom": "Diane Schuur - 2014 - I Remember You Love to Stan and Frank"
-  },
-  {
-    "artiste": "Diane Schuur",
-    "annee": "2020",
-    "album": "Running on Faith",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "Diane Schuur - 2020 - Running on Faith.jpg",
-    "nom": "Diane Schuur - 2020 - Running on Faith"
   },
   {
     "artiste": "Dynasty",
@@ -27628,6 +28921,2014 @@
     "nom": "George Duke - 2013 - DreamWeaver"
   },
   {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1962",
+    "album": "Letter Full of Tears",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Letter Full of Tears"
+      },
+      {
+        "numero": "02",
+        "titre": "You Broke Your Promise"
+      },
+      {
+        "numero": "03",
+        "titre": "Operator"
+      },
+      {
+        "numero": "04",
+        "titre": "I'll Trust You"
+      },
+      {
+        "numero": "05",
+        "titre": "Morning, Noon & Night"
+      },
+      {
+        "numero": "06",
+        "titre": "I Really Didn't Mean It"
+      },
+      {
+        "numero": "07",
+        "titre": "Every Beat of My Heart"
+      },
+      {
+        "numero": "08",
+        "titre": "Room in Your Heart"
+      },
+      {
+        "numero": "09",
+        "titre": "Guess Who"
+      },
+      {
+        "numero": "10",
+        "titre": "Stop Runnin' Around"
+      },
+      {
+        "numero": "11",
+        "titre": "Darlin'"
+      }
+    ],
+    "duree_totale": 1682.9520000000002,
+    "image": "Gladys Knight & the Pips - 1962 - Letter Full of Tears.jpg",
+    "nom": "Gladys Knight & the Pips - 1962 - Letter Full of Tears"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1965",
+    "album": "Gladys Knight and the Pips",
+    "nb_pistes": 18,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Every Beat Of My Heart"
+      },
+      {
+        "numero": "02",
+        "titre": "Letter Full Of Tears"
+      },
+      {
+        "numero": "03",
+        "titre": "You Broke Your Promise"
+      },
+      {
+        "numero": "04",
+        "titre": "Come See About Me"
+      },
+      {
+        "numero": "05",
+        "titre": "I Want That Kind Of Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Jungle Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Before Now, After Then"
+      },
+      {
+        "numero": "08",
+        "titre": "I Can't Stand By"
+      },
+      {
+        "numero": "09",
+        "titre": "What Shall I Do"
+      },
+      {
+        "numero": "10",
+        "titre": "Trust In You"
+      },
+      {
+        "numero": "11",
+        "titre": "Stay Away"
+      },
+      {
+        "numero": "12",
+        "titre": "Get A Hold Of Yourself"
+      },
+      {
+        "numero": "13",
+        "titre": "Either Way I Lose"
+      },
+      {
+        "numero": "14",
+        "titre": "Goodnight My Love"
+      },
+      {
+        "numero": "15",
+        "titre": "Love Me Again"
+      },
+      {
+        "numero": "16",
+        "titre": "One More Lonely Night"
+      },
+      {
+        "numero": "17",
+        "titre": "I Really Didn't Mean It"
+      },
+      {
+        "numero": "18",
+        "titre": "How Do You Say Goodbye"
+      }
+    ],
+    "duree_totale": 2858.6639999999993,
+    "image": "Gladys Knight & the Pips - 1965 - Gladys Knight and the Pips.jpg",
+    "nom": "Gladys Knight & the Pips - 1965 - Gladys Knight and the Pips"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1967",
+    "album": "Everybody Needs Love",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Everybody Needs Love"
+      },
+      {
+        "numero": "02",
+        "titre": "I'll Be Standing By"
+      },
+      {
+        "numero": "03",
+        "titre": "Since I've Lost You"
+      },
+      {
+        "numero": "04",
+        "titre": "I Heard It Through the Grapevine"
+      },
+      {
+        "numero": "05",
+        "titre": "You Don't Love Me No More"
+      },
+      {
+        "numero": "06",
+        "titre": "Ain't No Sun Since You've Been Gone"
+      },
+      {
+        "numero": "07",
+        "titre": "Take Me in Your Arms and Love Me"
+      },
+      {
+        "numero": "08",
+        "titre": "He's My Kind of Fellow"
+      },
+      {
+        "numero": "09",
+        "titre": "Yes I'm Ready"
+      },
+      {
+        "numero": "10",
+        "titre": "My Bed of Thorns"
+      },
+      {
+        "numero": "11",
+        "titre": "Do You Love Me Just a Little, Honey"
+      },
+      {
+        "numero": "12",
+        "titre": "Just Walk in My Shoes"
+      }
+    ],
+    "duree_totale": 1999.8000000000002,
+    "image": "Gladys Knight & the Pips - 1967 - Everybody Needs Love.jpg",
+    "nom": "Gladys Knight & the Pips - 1967 - Everybody Needs Love"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1968",
+    "album": "Feelin' Bluesy",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The End Of Our Road"
+      },
+      {
+        "numero": "02",
+        "titre": "That's The Way Love Is"
+      },
+      {
+        "numero": "03",
+        "titre": "Don't You Miss Me A Little Bit Baby"
+      },
+      {
+        "numero": "04",
+        "titre": "The Boy From Crosstown"
+      },
+      {
+        "numero": "05",
+        "titre": "Ain't You Glad You Chose Love"
+      },
+      {
+        "numero": "06",
+        "titre": "I Know Better"
+      },
+      {
+        "numero": "07",
+        "titre": "Don't Let Her Take Your Love From Me"
+      },
+      {
+        "numero": "08",
+        "titre": "It Should Have Been Me"
+      },
+      {
+        "numero": "09",
+        "titre": "Don't Turn Me Away"
+      },
+      {
+        "numero": "10",
+        "titre": "What Good Am I Without You"
+      },
+      {
+        "numero": "11",
+        "titre": "Your Old Standby"
+      },
+      {
+        "numero": "12",
+        "titre": "It's Time To Go Now"
+      }
+    ],
+    "duree_totale": 1998.4080000000001,
+    "image": "Gladys Knight & the Pips - 1968 - Feelin' Bluesy.jpg",
+    "nom": "Gladys Knight & the Pips - 1968 - Feelin' Bluesy"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1968",
+    "album": "Silk N' Soul",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Wish It Would Rain"
+      },
+      {
+        "numero": "02",
+        "titre": "The Look Of Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Goin' Out Of My Head"
+      },
+      {
+        "numero": "04",
+        "titre": "Yesterday"
+      },
+      {
+        "numero": "05",
+        "titre": "Groovin'"
+      },
+      {
+        "numero": "06",
+        "titre": "You've Lost That Lovin' Feelin'"
+      },
+      {
+        "numero": "07",
+        "titre": "Theme From 'Valley Of The Dolls'"
+      },
+      {
+        "numero": "08",
+        "titre": "Baby I Need Your Loving"
+      },
+      {
+        "numero": "09",
+        "titre": "Together"
+      },
+      {
+        "numero": "10",
+        "titre": "The Tracks Of My Tears"
+      },
+      {
+        "numero": "11",
+        "titre": "You're My Everything"
+      },
+      {
+        "numero": "12",
+        "titre": "Every Little Bit Hurts"
+      }
+    ],
+    "duree_totale": 2188.608,
+    "image": "Gladys Knight & the Pips - 1968 - Silk N' Soul.jpg",
+    "nom": "Gladys Knight & the Pips - 1968 - Silk N' Soul"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1969",
+    "album": "Nitty Gritty",
+    "nb_pistes": 14,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Cloud Nine"
+      },
+      {
+        "numero": "02",
+        "titre": "Runnin' Out"
+      },
+      {
+        "numero": "03",
+        "titre": "Didn't You Know (You'd Have To Cry Sometime)"
+      },
+      {
+        "numero": "04",
+        "titre": "[I Know] I'm Losing You"
+      },
+      {
+        "numero": "05",
+        "titre": "The Nitty Gritty"
+      },
+      {
+        "numero": "06",
+        "titre": "Ain't No Sun Since You've Been Gone"
+      },
+      {
+        "numero": "07",
+        "titre": "All I Could Do Was Cry"
+      },
+      {
+        "numero": "08",
+        "titre": "Keep An Eye"
+      },
+      {
+        "numero": "09",
+        "titre": "Got Myself A Good Man"
+      },
+      {
+        "numero": "10",
+        "titre": "It's Summer"
+      },
+      {
+        "numero": "11",
+        "titre": "The Stranger"
+      },
+      {
+        "numero": "12",
+        "titre": "I Want Him To Say It Again"
+      },
+      {
+        "numero": "13",
+        "titre": "Billy, Come On Back As Quick As You Can"
+      },
+      {
+        "numero": "14",
+        "titre": "Friendship Train"
+      }
+    ],
+    "duree_totale": 2532.696,
+    "image": "Gladys Knight & the Pips - 1969 - Nitty Gritty.jpg",
+    "nom": "Gladys Knight & the Pips - 1969 - Nitty Gritty"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1971",
+    "album": "If I Were Your Woman",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "If I Were Your Woman (Single Version)"
+      },
+      {
+        "numero": "02",
+        "titre": "Feeling Alright"
+      },
+      {
+        "numero": "03",
+        "titre": "One Less Bell To Answer (Album Version)"
+      },
+      {
+        "numero": "04",
+        "titre": "Let It Be"
+      },
+      {
+        "numero": "05",
+        "titre": "I Don't Want To Do Wrong (Single Version)"
+      },
+      {
+        "numero": "06",
+        "titre": "One Step Away"
+      },
+      {
+        "numero": "07",
+        "titre": "Here I Am Again"
+      },
+      {
+        "numero": "08",
+        "titre": "How Can You Say That Ain't Love"
+      },
+      {
+        "numero": "09",
+        "titre": "Is There A Place (In This Heart For Me)"
+      },
+      {
+        "numero": "10",
+        "titre": "Everybody Is A Star"
+      },
+      {
+        "numero": "11",
+        "titre": "Signed Gladys (Album Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "Your Love's Been Good For Me"
+      }
+    ],
+    "duree_totale": 2351.424,
+    "image": "Gladys Knight & the Pips - 1971 - If I Were Your Woman.jpg",
+    "nom": "Gladys Knight & the Pips - 1971 - If I Were Your Woman"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1971",
+    "album": "Standing Ovation",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Make Me The Woman That You Go Home To"
+      },
+      {
+        "numero": "02",
+        "titre": "Can You Give Me Love With A Guarantee"
+      },
+      {
+        "numero": "03",
+        "titre": "Fire And Rain"
+      },
+      {
+        "numero": "04",
+        "titre": "Master Of My Mind"
+      },
+      {
+        "numero": "05",
+        "titre": "Medley： He Ain't Heavy, He's My Brother⧸Bridge Over Troubled Water"
+      },
+      {
+        "numero": "06",
+        "titre": "It Takes A Whole Lotta Man For A Woman Like Me"
+      },
+      {
+        "numero": "07",
+        "titre": "Help Me Make It Through The Night"
+      },
+      {
+        "numero": "08",
+        "titre": "The Long And Winding Road"
+      },
+      {
+        "numero": "09",
+        "titre": "If You Gonna Leave (Just Leave)"
+      },
+      {
+        "numero": "10",
+        "titre": "No One Could Love You More"
+      }
+    ],
+    "duree_totale": 2237.52,
+    "image": "Gladys Knight & the Pips - 1971 - Standing Ovation.jpg",
+    "nom": "Gladys Knight & the Pips - 1971 - Standing Ovation"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1973",
+    "album": "All I Need Is Time",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I'll Be Here (When You Get Home)"
+      },
+      {
+        "numero": "02",
+        "titre": "All I Need Is Time"
+      },
+      {
+        "numero": "03",
+        "titre": "Heavy Makes You Happy"
+      },
+      {
+        "numero": "04",
+        "titre": "The Only Time You Love Me Is When You're Losing Me"
+      },
+      {
+        "numero": "05",
+        "titre": "Here I Am Again"
+      },
+      {
+        "numero": "06",
+        "titre": "There's A Lesson To Be Learned"
+      },
+      {
+        "numero": "07",
+        "titre": "Oh! What A Love I Have Found"
+      },
+      {
+        "numero": "08",
+        "titre": "The Singer"
+      },
+      {
+        "numero": "09",
+        "titre": "Thank You (Falettinme Be Mice Elf Agin)"
+      }
+    ],
+    "duree_totale": 2011.1520000000003,
+    "image": "Gladys Knight & the Pips - 1973 - All I Need Is Time.jpg",
+    "nom": "Gladys Knight & the Pips - 1973 - All I Need Is Time"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1973",
+    "album": "Neither One of Us",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Neither One Of Us (Wants To Be The First To Say Goodbye)"
+      },
+      {
+        "numero": "02",
+        "titre": "It's Gotta Be That Way"
+      },
+      {
+        "numero": "03",
+        "titre": "For Once In My Life"
+      },
+      {
+        "numero": "04",
+        "titre": "This Child Needs Its Father"
+      },
+      {
+        "numero": "05",
+        "titre": "Who Is She (And What Is She To You)"
+      },
+      {
+        "numero": "06",
+        "titre": "And This Is Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Daddy Could Swear, I Declare"
+      },
+      {
+        "numero": "08",
+        "titre": "Can't Give It Up No More"
+      },
+      {
+        "numero": "09",
+        "titre": "Don't It Make You Feel Guilty"
+      }
+    ],
+    "duree_totale": 2081.664,
+    "image": "Gladys Knight & the Pips - 1973 - Neither One of Us.jpg",
+    "nom": "Gladys Knight & the Pips - 1973 - Neither One of Us"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1974",
+    "album": "I Feel a Song",
+    "nb_pistes": 17,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Feel a Song (In My Heart)"
+      },
+      {
+        "numero": "02",
+        "titre": "Love Finds Its Own Way"
+      },
+      {
+        "numero": "03",
+        "titre": "Seconds"
+      },
+      {
+        "numero": "04",
+        "titre": "The Going Ups and the Going Downs"
+      },
+      {
+        "numero": "05",
+        "titre": "The Way We Were ⧸ Try to Remember"
+      },
+      {
+        "numero": "06",
+        "titre": "Better You Go Your Way"
+      },
+      {
+        "numero": "07",
+        "titre": "Don't Burn Down the Bridge"
+      },
+      {
+        "numero": "08",
+        "titre": "The Need to Be"
+      },
+      {
+        "numero": "09",
+        "titre": "Tenderness Is His Way"
+      },
+      {
+        "numero": "10",
+        "titre": "The Way We Were ⧸ Try to Remember (Single Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "On and On (Single Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "The Makings of You (From ＂Claudine＂ - Original Soundtrack)"
+      },
+      {
+        "numero": "13",
+        "titre": "Make Yours a Happy Home (Single Version)"
+      },
+      {
+        "numero": "14",
+        "titre": "Make Yours a Happy Home (Alternate Mix)"
+      },
+      {
+        "numero": "15",
+        "titre": "Mr. Welfare Man"
+      },
+      {
+        "numero": "16",
+        "titre": "To Be Invisible"
+      },
+      {
+        "numero": "17",
+        "titre": "Hold On"
+      }
+    ],
+    "duree_totale": 4065.768,
+    "image": "Gladys Knight & the Pips - 1974 - I Feel a Song.jpg",
+    "nom": "Gladys Knight & the Pips - 1974 - I Feel a Song"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1974",
+    "album": "Knight Time",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "How Can You Say That Ain't Love"
+      },
+      {
+        "numero": "02",
+        "titre": "Somebody Stole The Sunshine"
+      },
+      {
+        "numero": "03",
+        "titre": "Between Her Goodbye And My Hello"
+      },
+      {
+        "numero": "04",
+        "titre": "It's All Over But The Shoutin'"
+      },
+      {
+        "numero": "05",
+        "titre": "We've Got Such A Mellow Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Ease Me To The Ground"
+      },
+      {
+        "numero": "07",
+        "titre": "Your Heartaches I Can Surely Heal"
+      },
+      {
+        "numero": "08",
+        "titre": "Master Of My Mind"
+      },
+      {
+        "numero": "09",
+        "titre": "Billy, Come On Back As Quick As You Can"
+      },
+      {
+        "numero": "10",
+        "titre": "It Takes A Whole Lot Of Human Feeling"
+      }
+    ],
+    "duree_totale": 2035.7519999999995,
+    "image": "Gladys Knight & the Pips - 1974 - Knight Time.jpg",
+    "nom": "Gladys Knight & the Pips - 1974 - Knight Time"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1975",
+    "album": "2nd Anniversary",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Money"
+      },
+      {
+        "numero": "02",
+        "titre": "Street Brother"
+      },
+      {
+        "numero": "03",
+        "titre": "Part Time Love"
+      },
+      {
+        "numero": "04",
+        "titre": "At Every End There's a Beginning"
+      },
+      {
+        "numero": "05",
+        "titre": "Georgia on My Mind"
+      },
+      {
+        "numero": "06",
+        "titre": "You and Me Against the World"
+      },
+      {
+        "numero": "07",
+        "titre": "Where Do I Put His Memory"
+      },
+      {
+        "numero": "08",
+        "titre": "Summer Sun"
+      },
+      {
+        "numero": "09",
+        "titre": "Feel Like Makin' Love"
+      },
+      {
+        "numero": "10",
+        "titre": "Money (Long Mix)"
+      },
+      {
+        "numero": "11",
+        "titre": "We Don't Look for Trouble (Session Outtake - 1975)"
+      },
+      {
+        "numero": "12",
+        "titre": "Alone Again (Session Outtake - 1975)"
+      },
+      {
+        "numero": "13",
+        "titre": "Rainbow Ride (Session Outtake - 1975)"
+      }
+    ],
+    "duree_totale": 3603.0240000000003,
+    "image": "Gladys Knight & the Pips - 1975 - 2nd Anniversary.jpg",
+    "nom": "Gladys Knight & the Pips - 1975 - 2nd Anniversary"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1975",
+    "album": "A Little Knight Music",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "In The Middle Of The Road"
+      },
+      {
+        "numero": "02",
+        "titre": "Come Together"
+      },
+      {
+        "numero": "03",
+        "titre": "All I Need Is A Miracle"
+      },
+      {
+        "numero": "04",
+        "titre": "No One Could Love You More"
+      },
+      {
+        "numero": "05",
+        "titre": "Don't Tell Me I'm Crazy"
+      },
+      {
+        "numero": "06",
+        "titre": "Sugar Sugar"
+      },
+      {
+        "numero": "07",
+        "titre": "Can You Give Me Love With A Guarantee"
+      },
+      {
+        "numero": "08",
+        "titre": "I Hate Myself For Loving You"
+      },
+      {
+        "numero": "09",
+        "titre": "Put A Little Love In Your Heart"
+      }
+    ],
+    "duree_totale": 1902.528,
+    "image": "Gladys Knight & the Pips - 1975 - A Little Knight Music.jpg",
+    "nom": "Gladys Knight & the Pips - 1975 - A Little Knight Music"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1975",
+    "album": "Bless This House",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The Night Before Christmas"
+      },
+      {
+        "numero": "02",
+        "titre": "Do You Hear What I Hear"
+      },
+      {
+        "numero": "03",
+        "titre": "The Christmas Song (Chestnuts Roasting On An Open Fire)"
+      },
+      {
+        "numero": "04",
+        "titre": "Away In A Manger"
+      },
+      {
+        "numero": "05",
+        "titre": "Ave Maria"
+      },
+      {
+        "numero": "06",
+        "titre": "Silent Night"
+      },
+      {
+        "numero": "07",
+        "titre": "Bless This House"
+      },
+      {
+        "numero": "08",
+        "titre": "Gospel Medley： Jesu Joy Of Man's Desire ⧸ Jesus Is My Kind Of People ⧸ Jesus Is Just All Right..."
+      },
+      {
+        "numero": "09",
+        "titre": "Ave Maria"
+      }
+    ],
+    "duree_totale": 2097.0240000000003,
+    "image": "Gladys Knight & the Pips - 1975 - Bless This House.jpg",
+    "nom": "Gladys Knight & the Pips - 1975 - Bless This House"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1978",
+    "album": "The One and Only",
+    "nb_pistes": 17,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sorry Doesn't Always Make It Right"
+      },
+      {
+        "numero": "02",
+        "titre": "Come Back and Finish What You Started"
+      },
+      {
+        "numero": "03",
+        "titre": "All the Time"
+      },
+      {
+        "numero": "04",
+        "titre": "It's a Better Than Good Time"
+      },
+      {
+        "numero": "05",
+        "titre": "Butterfly"
+      },
+      {
+        "numero": "06",
+        "titre": "The One and Only"
+      },
+      {
+        "numero": "07",
+        "titre": "Saved By the Grace of Your Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Don't Say No to Me Tonight"
+      },
+      {
+        "numero": "09",
+        "titre": "Be Yourself"
+      },
+      {
+        "numero": "10",
+        "titre": "What If I Should Ever Need You"
+      },
+      {
+        "numero": "11",
+        "titre": "It's Up to You (Do What You Do) (7＂ Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "It's a Better Than Good Time (Full Extended Mix)"
+      },
+      {
+        "numero": "13",
+        "titre": "Saved By the Grace of Your Love (12＂ Version)"
+      },
+      {
+        "numero": "14",
+        "titre": "I'm Still Caught Up with You (7＂ Version)"
+      },
+      {
+        "numero": "15",
+        "titre": "It's a Better Than Good Time (Single Edit Version)"
+      },
+      {
+        "numero": "16",
+        "titre": "Everybody's Got to Find a Way (7＂ Version)"
+      },
+      {
+        "numero": "17",
+        "titre": "Stringman (Demo)"
+      }
+    ],
+    "duree_totale": 4786.68,
+    "image": "Gladys Knight & the Pips - 1978 - The One and Only.jpg",
+    "nom": "Gladys Knight & the Pips - 1978 - The One and Only"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1980",
+    "album": "About Love",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Landlord"
+      },
+      {
+        "numero": "02",
+        "titre": "Taste of Bitter Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Still Such a Thing"
+      },
+      {
+        "numero": "04",
+        "titre": "Get the Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Add It Up"
+      },
+      {
+        "numero": "06",
+        "titre": "Bourgie', Bourgie'"
+      },
+      {
+        "numero": "07",
+        "titre": "Friendly Persuasion"
+      },
+      {
+        "numero": "08",
+        "titre": "We Need Hearts"
+      },
+      {
+        "numero": "09",
+        "titre": "Landlord (Single Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "Taste of Bitter Love (Single Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "Bourgie', Bourgie' (Single Version)"
+      }
+    ],
+    "duree_totale": 2791.4400000000005,
+    "image": "Gladys Knight & the Pips - 1980 - About Love.jpg",
+    "nom": "Gladys Knight & the Pips - 1980 - About Love"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1981",
+    "album": "Touch",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Will Fight"
+      },
+      {
+        "numero": "02",
+        "titre": "If That'll Make You Happy"
+      },
+      {
+        "numero": "03",
+        "titre": "Baby, Baby Don't Waste My Time"
+      },
+      {
+        "numero": "04",
+        "titre": "A Friend of Mine"
+      },
+      {
+        "numero": "05",
+        "titre": "Love Was Made for Two"
+      },
+      {
+        "numero": "06",
+        "titre": "God Is"
+      },
+      {
+        "numero": "07",
+        "titre": "Changed"
+      },
+      {
+        "numero": "08",
+        "titre": "Reach High"
+      },
+      {
+        "numero": "09",
+        "titre": "I Will Survive"
+      }
+    ],
+    "duree_totale": 2340.36,
+    "image": "Gladys Knight & the Pips - 1981 - Touch.jpg",
+    "nom": "Gladys Knight & the Pips - 1981 - Touch"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1983",
+    "album": "Visions",
+    "nb_pistes": 33,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "When You're Far Away"
+      },
+      {
+        "numero": "02",
+        "titre": "Just Be My Lover"
+      },
+      {
+        "numero": "03",
+        "titre": "Save the Overtime (For Me)"
+      },
+      {
+        "numero": "04",
+        "titre": "Heaven Sent"
+      },
+      {
+        "numero": "05",
+        "titre": "Don't Make Me Run Away"
+      },
+      {
+        "numero": "06",
+        "titre": "Ain't No Greater Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Seconds"
+      },
+      {
+        "numero": "08",
+        "titre": "You're Number One (In My Book)"
+      },
+      {
+        "numero": "09",
+        "titre": "Oh La De Da"
+      },
+      {
+        "numero": "10",
+        "titre": "Hero (Wind Beneath My Wings)"
+      },
+      {
+        "numero": "11",
+        "titre": "Here's That Sunny Day (Single Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "Save the Overtime (For Me) (Single Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "When You're Far Away (Single Version)"
+      },
+      {
+        "numero": "14",
+        "titre": "You're Number One (In My Book) (Single Version)"
+      },
+      {
+        "numero": "15",
+        "titre": "Heaven Sent (Extended Mix)"
+      },
+      {
+        "numero": "16",
+        "titre": "Love's Gonna Get You"
+      },
+      {
+        "numero": "17",
+        "titre": "When You Live Through as Many Heartaches"
+      },
+      {
+        "numero": "18",
+        "titre": "You Got It (Go On With Your Bad Self)"
+      },
+      {
+        "numero": "19",
+        "titre": "Save the Overtime (For Me) (John Luongo Disco Mix)"
+      },
+      {
+        "numero": "20",
+        "titre": "Save the Overtime (For Me) (12＂ Instrumental Mix)"
+      },
+      {
+        "numero": "21",
+        "titre": "Save the Overtime (For Me) (12＂ Promo Edit)"
+      },
+      {
+        "numero": "22",
+        "titre": "When You're Far Away (12＂ Version)"
+      },
+      {
+        "numero": "23",
+        "titre": "When You're Far Away (12＂ Instrumental Mix)"
+      },
+      {
+        "numero": "24",
+        "titre": "Here Now (Instrumental)"
+      },
+      {
+        "numero": "25",
+        "titre": "Look at the Two of Us (Take 2)"
+      },
+      {
+        "numero": "26",
+        "titre": "More, More, More"
+      },
+      {
+        "numero": "27",
+        "titre": "Long Line (Take 3)"
+      },
+      {
+        "numero": "28",
+        "titre": "You've Got My Word on That"
+      },
+      {
+        "numero": "29",
+        "titre": "It Used to Be Me (Instrumental)"
+      },
+      {
+        "numero": "30",
+        "titre": "She Believes in Me"
+      },
+      {
+        "numero": "31",
+        "titre": "Hard Act to Follow"
+      },
+      {
+        "numero": "32",
+        "titre": "Kiss Away the Pain"
+      },
+      {
+        "numero": "33",
+        "titre": "Precious Lord, Take My Hand"
+      }
+    ],
+    "duree_totale": 9354.36,
+    "image": "Gladys Knight & the Pips - 1983 - Visions.jpg",
+    "nom": "Gladys Knight & the Pips - 1983 - Visions"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1985",
+    "album": "Life",
+    "nb_pistes": 24,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Strivin'"
+      },
+      {
+        "numero": "02",
+        "titre": "Keep Givin' Me Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Just Let Me Love You"
+      },
+      {
+        "numero": "04",
+        "titre": "Life"
+      },
+      {
+        "numero": "05",
+        "titre": "Till I See You Again"
+      },
+      {
+        "numero": "06",
+        "titre": "My Time"
+      },
+      {
+        "numero": "07",
+        "titre": "Forever"
+      },
+      {
+        "numero": "08",
+        "titre": "Do You Wanna Have Some Fun"
+      },
+      {
+        "numero": "09",
+        "titre": "Straight Up"
+      },
+      {
+        "numero": "10",
+        "titre": "Glitter"
+      },
+      {
+        "numero": "11",
+        "titre": "My Time (Extended Dance Mix)"
+      },
+      {
+        "numero": "12",
+        "titre": "My Time (12＂ Instrumental Mix)"
+      },
+      {
+        "numero": "13",
+        "titre": "My Time (Body Slam Mix)"
+      },
+      {
+        "numero": "14",
+        "titre": "My Time (Single Version)"
+      },
+      {
+        "numero": "15",
+        "titre": "My Time (Instrumental Version)"
+      },
+      {
+        "numero": "16",
+        "titre": "Keep Givin' Me Love (7＂ Version)"
+      },
+      {
+        "numero": "17",
+        "titre": "Do You Wanna Have Some Fun (7＂ Version)"
+      },
+      {
+        "numero": "18",
+        "titre": "Do You Wanna Have Some Fun (12＂ Mix)"
+      },
+      {
+        "numero": "19",
+        "titre": "Do You Wanna Have Some Fun (Instrumental Mix)"
+      },
+      {
+        "numero": "20",
+        "titre": "Life (Instrumental Mix)"
+      },
+      {
+        "numero": "21",
+        "titre": "Running the Race (Demo)"
+      },
+      {
+        "numero": "22",
+        "titre": "How Deep is Your Love (Demo)"
+      },
+      {
+        "numero": "23",
+        "titre": "Beverly Hills"
+      },
+      {
+        "numero": "24",
+        "titre": "One Hundred Ways ⧸ And I Am Telling You I'm Not Going (Medley)"
+      }
+    ],
+    "duree_totale": 7134.5520000000015,
+    "image": "Gladys Knight & the Pips - 1985 - Life.jpg",
+    "nom": "Gladys Knight & the Pips - 1985 - Life"
+  },
+  {
+    "artiste": "Gladys Knight & the Pips",
+    "annee": "1987",
+    "album": "All Our Love",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Love Overboard"
+      },
+      {
+        "numero": "02",
+        "titre": "Lovin' On Next To Nothin'"
+      },
+      {
+        "numero": "03",
+        "titre": "Thief In Paradise"
+      },
+      {
+        "numero": "04",
+        "titre": "You"
+      },
+      {
+        "numero": "05",
+        "titre": "Let Me Be The One"
+      },
+      {
+        "numero": "06",
+        "titre": "Complete Recovery"
+      },
+      {
+        "numero": "07",
+        "titre": "Say What You Mean"
+      },
+      {
+        "numero": "08",
+        "titre": "It's Gonna Take All Our Love"
+      },
+      {
+        "numero": "09",
+        "titre": "Love Is Fire (Love Is Ice)"
+      },
+      {
+        "numero": "10",
+        "titre": "Point Of View"
+      },
+      {
+        "numero": "11",
+        "titre": "Overnight Success"
+      }
+    ],
+    "duree_totale": 3354.72,
+    "image": "Gladys Knight & the Pips - 1987 - All Our Love.jpg",
+    "nom": "Gladys Knight & the Pips - 1987 - All Our Love"
+  },
+  {
+    "artiste": "Gladys Knight",
+    "annee": "1978",
+    "album": "Miss Gladys Knight",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I'm Coming Home Again"
+      },
+      {
+        "numero": "02",
+        "titre": "Sail Away ⧸ Freedom For the Stallions"
+      },
+      {
+        "numero": "03",
+        "titre": "I'm Still Caught Up with You"
+      },
+      {
+        "numero": "04",
+        "titre": "It's a Better Than Good Time"
+      },
+      {
+        "numero": "05",
+        "titre": "We Don't Make Each Other Laugh Anymore"
+      },
+      {
+        "numero": "06",
+        "titre": "The Way It Was"
+      },
+      {
+        "numero": "07",
+        "titre": "I'll Take A Melody"
+      },
+      {
+        "numero": "08",
+        "titre": "With You In Mind"
+      },
+      {
+        "numero": "09",
+        "titre": "Love Gives You the Power"
+      }
+    ],
+    "duree_totale": 2262.84,
+    "image": "Gladys Knight - 1978 - Miss Gladys Knight.jpg",
+    "nom": "Gladys Knight - 1978 - Miss Gladys Knight"
+  },
+  {
+    "artiste": "Gladys Knight",
+    "annee": "1979",
+    "album": "Gladys Knight",
+    "nb_pistes": 19,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Am I Too Late"
+      },
+      {
+        "numero": "02",
+        "titre": "You Bring Out the Best in Me"
+      },
+      {
+        "numero": "03",
+        "titre": "I Just Want to Be with You"
+      },
+      {
+        "numero": "04",
+        "titre": "If You Ever Need Somebody"
+      },
+      {
+        "numero": "05",
+        "titre": "My World"
+      },
+      {
+        "numero": "06",
+        "titre": "I (Who Have Nothing)"
+      },
+      {
+        "numero": "07",
+        "titre": "You Don't Have to Say I Love You"
+      },
+      {
+        "numero": "08",
+        "titre": "The Best Thing We Can Do Is Say Goodbye"
+      },
+      {
+        "numero": "09",
+        "titre": "It's the Same Old Song"
+      },
+      {
+        "numero": "10",
+        "titre": "You Loved Away the Pain"
+      },
+      {
+        "numero": "11",
+        "titre": "Am I Too Late (Single Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "It's the Same Old Song (Extended Single Mix)"
+      },
+      {
+        "numero": "13",
+        "titre": "You Bring Out the Best in Me (Single Version)"
+      },
+      {
+        "numero": "14",
+        "titre": "You Bring Out the Best in Me (John Luongo Disco Mix)"
+      },
+      {
+        "numero": "15",
+        "titre": "It's Me Again"
+      },
+      {
+        "numero": "16",
+        "titre": "For All We Know"
+      },
+      {
+        "numero": "17",
+        "titre": "Am I Losing You？"
+      },
+      {
+        "numero": "18",
+        "titre": "Maybe, Maybe Baby (1979 Version)"
+      },
+      {
+        "numero": "19",
+        "titre": "A Friend of Mine (Extended Mix)"
+      }
+    ],
+    "duree_totale": 4704.936,
+    "image": "Gladys Knight - 1979 - Gladys Knight.jpg",
+    "nom": "Gladys Knight - 1979 - Gladys Knight"
+  },
+  {
+    "artiste": "Gladys Knight",
+    "annee": "1991",
+    "album": "Good Woman",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Men"
+      },
+      {
+        "numero": "02",
+        "titre": "Meet Me In The Middle"
+      },
+      {
+        "numero": "03",
+        "titre": "This Is Love"
+      },
+      {
+        "numero": "04",
+        "titre": "Where Would I Be"
+      },
+      {
+        "numero": "05",
+        "titre": "Superwoman"
+      },
+      {
+        "numero": "06",
+        "titre": "Give Me A Chance"
+      },
+      {
+        "numero": "07",
+        "titre": "Good Woman"
+      },
+      {
+        "numero": "08",
+        "titre": "If You Only Knew"
+      },
+      {
+        "numero": "09",
+        "titre": "Mr. Love"
+      },
+      {
+        "numero": "10",
+        "titre": "Waiting On You"
+      },
+      {
+        "numero": "11",
+        "titre": "In This Life"
+      }
+    ],
+    "duree_totale": 3247.296,
+    "image": "Gladys Knight - 1991 - Good Woman.jpg",
+    "nom": "Gladys Knight - 1991 - Good Woman"
+  },
+  {
+    "artiste": "Gladys Knight",
+    "annee": "1994",
+    "album": "Just for You",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Next Time"
+      },
+      {
+        "numero": "02",
+        "titre": "I Don't Want To Know"
+      },
+      {
+        "numero": "03",
+        "titre": "I'll Fall In Love If You Hang Around"
+      },
+      {
+        "numero": "04",
+        "titre": "Our Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Home Alone"
+      },
+      {
+        "numero": "06",
+        "titre": "Choice Of Colors"
+      },
+      {
+        "numero": "07",
+        "titre": "Guilty"
+      },
+      {
+        "numero": "08",
+        "titre": "Somehow He Loves Me"
+      },
+      {
+        "numero": "09",
+        "titre": "End Of The Road Medley"
+      }
+    ],
+    "duree_totale": 2939.448,
+    "image": "Gladys Knight - 1994 - Just for You.jpg",
+    "nom": "Gladys Knight - 1994 - Just for You"
+  },
+  {
+    "artiste": "Gladys Knight",
+    "annee": "1998",
+    "album": "Many Different Roads",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Mercy's Arms"
+      },
+      {
+        "numero": "02",
+        "titre": "Open Up Your Eyes"
+      },
+      {
+        "numero": "03",
+        "titre": "Precious Lord"
+      },
+      {
+        "numero": "04",
+        "titre": "Everybody"
+      },
+      {
+        "numero": "05",
+        "titre": "Mr. Love"
+      },
+      {
+        "numero": "06",
+        "titre": "What Would I Do Without You (Interlude)"
+      },
+      {
+        "numero": "07",
+        "titre": "He Never Will"
+      },
+      {
+        "numero": "08",
+        "titre": "Jesus Love Is Like A River"
+      },
+      {
+        "numero": "09",
+        "titre": "Good Morning Heavenly Father"
+      },
+      {
+        "numero": "10",
+        "titre": "Many Different Roads"
+      },
+      {
+        "numero": "11",
+        "titre": "With A Smile"
+      },
+      {
+        "numero": "12",
+        "titre": "Saints Medley  (Just A Little Talk With Jesus, By And By, When The Saints Go Marching In)"
+      },
+      {
+        "numero": "13",
+        "titre": "Worship You  (Interlude)"
+      }
+    ],
+    "duree_totale": 3143.3280000000004,
+    "image": "Gladys Knight - 1998 - Many Different Roads.jpg",
+    "nom": "Gladys Knight - 1998 - Many Different Roads"
+  },
+  {
+    "artiste": "Gladys Knight",
+    "annee": "2000",
+    "album": "At Last",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Do You Really Want To Know (What Makes Me Fall In Love)"
+      },
+      {
+        "numero": "02",
+        "titre": "If I Were Your Woman II"
+      },
+      {
+        "numero": "03",
+        "titre": "I Said You Lied"
+      },
+      {
+        "numero": "04",
+        "titre": "Grandma's Hands"
+      },
+      {
+        "numero": "05",
+        "titre": "Love Hurts"
+      },
+      {
+        "numero": "06",
+        "titre": "I Wanna Be Loved"
+      },
+      {
+        "numero": "07",
+        "titre": "Greatest Love Of All"
+      },
+      {
+        "numero": "08",
+        "titre": "Better Love Next Time"
+      },
+      {
+        "numero": "09",
+        "titre": "Please Help Me I'm Falling (In Love With You)"
+      },
+      {
+        "numero": "10",
+        "titre": "Something Blue"
+      },
+      {
+        "numero": "11",
+        "titre": "Just Take Me"
+      },
+      {
+        "numero": "12",
+        "titre": "Rose Bouquet"
+      },
+      {
+        "numero": "13",
+        "titre": "That's Why They Call It Love"
+      }
+    ],
+    "duree_totale": 3423.576000000001,
+    "image": "Gladys Knight - 2000 - At Last.jpg",
+    "nom": "Gladys Knight - 2000 - At Last"
+  },
+  {
+    "artiste": "Gladys Knight",
+    "annee": "2005",
+    "album": "One Voice",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "One Voice"
+      },
+      {
+        "numero": "02",
+        "titre": "Over My Head"
+      },
+      {
+        "numero": "03",
+        "titre": "Come, Come, Ye Saints"
+      },
+      {
+        "numero": "04",
+        "titre": "Love One Another"
+      },
+      {
+        "numero": "05",
+        "titre": "Pass Me Not"
+      },
+      {
+        "numero": "06",
+        "titre": "Right Here Waiting"
+      },
+      {
+        "numero": "07",
+        "titre": "Prayer"
+      },
+      {
+        "numero": "08",
+        "titre": "Did You Know"
+      },
+      {
+        "numero": "09",
+        "titre": "I Am a Child of God"
+      },
+      {
+        "numero": "10",
+        "titre": "Jesu Me Kanaka Waiwai"
+      },
+      {
+        "numero": "11",
+        "titre": "Blessed Assurance"
+      },
+      {
+        "numero": "12",
+        "titre": "He Shines on Me"
+      },
+      {
+        "numero": "13",
+        "titre": "Uphold Me"
+      },
+      {
+        "numero": "14",
+        "titre": "He's Worthy"
+      },
+      {
+        "numero": "15",
+        "titre": "He Lives"
+      }
+    ],
+    "duree_totale": 2934.2400000000002,
+    "image": "Gladys Knight - 2005 - One Voice.jpg",
+    "nom": "Gladys Knight - 2005 - One Voice"
+  },
+  {
+    "artiste": "Gladys Knight",
+    "annee": "2006",
+    "album": "A Christmas Celebration",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Introduction⧸Opening"
+      },
+      {
+        "numero": "02",
+        "titre": "Breath of Heaven"
+      },
+      {
+        "numero": "03",
+        "titre": "Silent Night⧸O Holy Night"
+      },
+      {
+        "numero": "04",
+        "titre": "I Wonder as I Wander"
+      },
+      {
+        "numero": "05",
+        "titre": "We Three Kings"
+      },
+      {
+        "numero": "06",
+        "titre": "Little Drummer Boy"
+      },
+      {
+        "numero": "07",
+        "titre": "Oh, Come, All Ye Faithful"
+      },
+      {
+        "numero": "08",
+        "titre": "Jesus, Oh, What a Wonderful Child"
+      },
+      {
+        "numero": "09",
+        "titre": "The Christmas Song (Chestnuts Roasting on an Open Fire)"
+      },
+      {
+        "numero": "10",
+        "titre": "White Christmas"
+      },
+      {
+        "numero": "11",
+        "titre": "Winter Wonderland⧸Jingle Bells"
+      },
+      {
+        "numero": "12",
+        "titre": "The Lord's Prayer"
+      }
+    ],
+    "duree_totale": 2966.1839999999997,
+    "image": "Gladys Knight - 2006 - A Christmas Celebration.jpg",
+    "nom": "Gladys Knight - 2006 - A Christmas Celebration"
+  },
+  {
+    "artiste": "Gladys Knight",
+    "annee": "2006",
+    "album": "Before Me",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Do Nothing Till You Hear From Me"
+      },
+      {
+        "numero": "02",
+        "titre": "The Man I Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Good Morning Heartache"
+      },
+      {
+        "numero": "04",
+        "titre": "Since I Fell For You"
+      },
+      {
+        "numero": "05",
+        "titre": "God Bless The Child"
+      },
+      {
+        "numero": "06",
+        "titre": "This Bitter Earth"
+      },
+      {
+        "numero": "07",
+        "titre": "I Got It Bad (And That Ain't Good)"
+      },
+      {
+        "numero": "08",
+        "titre": "Someone To Watch Over Me"
+      },
+      {
+        "numero": "09",
+        "titre": "But Not For Me"
+      },
+      {
+        "numero": "10",
+        "titre": "I'll Be Seeing You"
+      },
+      {
+        "numero": "11",
+        "titre": "Stormy Weather"
+      },
+      {
+        "numero": "12",
+        "titre": "Come Sunday"
+      }
+    ],
+    "duree_totale": 3178.44,
+    "image": "Gladys Knight - 2006 - Before Me.jpg",
+    "nom": "Gladys Knight - 2006 - Before Me"
+  },
+  {
+    "artiste": "Gladys Knight",
+    "annee": "2013",
+    "album": "Another Journey",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Old School"
+      },
+      {
+        "numero": "02",
+        "titre": "I Who Have Nothing"
+      },
+      {
+        "numero": "03",
+        "titre": "The Dream"
+      },
+      {
+        "numero": "04",
+        "titre": "All in Due Time"
+      },
+      {
+        "numero": "05",
+        "titre": "Settle"
+      },
+      {
+        "numero": "06",
+        "titre": "I L-O-V-E Y-O-U"
+      },
+      {
+        "numero": "07",
+        "titre": "I Hope You Dance"
+      },
+      {
+        "numero": "08",
+        "titre": "I Who Have Nothing (Club Mix)"
+      },
+      {
+        "numero": "09",
+        "titre": "Searching for the Real Thing"
+      }
+    ],
+    "duree_totale": 2327.592,
+    "image": "Gladys Knight - 2013 - Another Journey.jpg",
+    "nom": "Gladys Knight - 2013 - Another Journey"
+  },
+  {
+    "artiste": "Gladys Knight",
+    "annee": "2014",
+    "album": "Where My Heart Belongs",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Need You Love You"
+      },
+      {
+        "numero": "02",
+        "titre": "Always"
+      },
+      {
+        "numero": "03",
+        "titre": "Just Look Up"
+      },
+      {
+        "numero": "04",
+        "titre": "Life"
+      },
+      {
+        "numero": "05",
+        "titre": "Immersed"
+      },
+      {
+        "numero": "06",
+        "titre": "Midst of the Rain"
+      },
+      {
+        "numero": "07",
+        "titre": "Champions"
+      },
+      {
+        "numero": "08",
+        "titre": "There Is a Green Hill Far Away"
+      },
+      {
+        "numero": "09",
+        "titre": "Were You There"
+      },
+      {
+        "numero": "10",
+        "titre": "Happy Birthday Jesus ⧸ Sweet Little Jesus Boy"
+      }
+    ],
+    "duree_totale": 2521.3679999999995,
+    "image": "Gladys Knight - 2014 - Where My Heart Belongs.jpg",
+    "nom": "Gladys Knight - 2014 - Where My Heart Belongs"
+  },
+  {
     "artiste": "Glen Campbell",
     "annee": "1974",
     "album": "Houston (Comin' To See You)",
@@ -27732,6 +31033,368 @@
     "duree_totale": 2011.3068999999996,
     "image": "Glen Campbell - 1978 - Basic.jpg",
     "nom": "Glen Campbell - 1978 - Basic"
+  },
+  {
+    "artiste": "Glenn Jones",
+    "annee": "1983",
+    "album": "Everybody Loves a Winner",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Am Somebody"
+      },
+      {
+        "numero": "02",
+        "titre": "Keep on Doin'"
+      },
+      {
+        "numero": "03",
+        "titre": "Everybody Loves a Winner"
+      },
+      {
+        "numero": "04",
+        "titre": "Love Intensity"
+      },
+      {
+        "numero": "05",
+        "titre": "Thank You for the Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Share My Love"
+      },
+      {
+        "numero": "07",
+        "titre": "I Am Somebody (12＂ Vocal)"
+      },
+      {
+        "numero": "08",
+        "titre": "I Am Somebody (Instrumental)"
+      },
+      {
+        "numero": "09",
+        "titre": "I Am Somebody (7＂ Vocal)"
+      },
+      {
+        "numero": "10",
+        "titre": "I Am Somebody (7＂ Instrumental)"
+      },
+      {
+        "numero": "11",
+        "titre": "Finesse (Remix)"
+      },
+      {
+        "numero": "12",
+        "titre": "Finesse (Dub Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "Finesse (Edited Remix Version)"
+      },
+      {
+        "numero": "14",
+        "titre": "Show Me"
+      },
+      {
+        "numero": "15",
+        "titre": "On the Floor (7＂ Version)"
+      }
+    ],
+    "duree_totale": 4542.168,
+    "image": "Glenn Jones - 1983 - Everybody Loves a Winner.jpg",
+    "nom": "Glenn Jones - 1983 - Everybody Loves a Winner"
+  },
+  {
+    "artiste": "Glenn Jones",
+    "annee": "1986",
+    "album": "Take It from Me",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Stay"
+      },
+      {
+        "numero": "02",
+        "titre": "Set the Night on Fire"
+      },
+      {
+        "numero": "03",
+        "titre": "Love Will Show Us How"
+      },
+      {
+        "numero": "04",
+        "titre": "Be My Lady"
+      },
+      {
+        "numero": "05",
+        "titre": "Giving Myself to You"
+      },
+      {
+        "numero": "06",
+        "titre": "All Work No Play"
+      },
+      {
+        "numero": "07",
+        "titre": "Dangerous"
+      },
+      {
+        "numero": "08",
+        "titre": "Take It from Me"
+      },
+      {
+        "numero": "09",
+        "titre": "Talk Me Into It (Extended Dance Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "Giving Myself to You (Extended East Coast Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "Giving Myself to You (West Coast Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "Giving Myself to You (Instrumental Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "Set the Night on Fire (Extended Remix Version)"
+      },
+      {
+        "numero": "14",
+        "titre": "Stay (T.V. Track)"
+      },
+      {
+        "numero": "15",
+        "titre": "Stay (Edited Version)"
+      }
+    ],
+    "duree_totale": 4688.976000000001,
+    "image": "Glenn Jones - 1986 - Take It from Me.jpg",
+    "nom": "Glenn Jones - 1986 - Take It from Me"
+  },
+  {
+    "artiste": "Glenn Jones",
+    "annee": "1992",
+    "album": "Here I Go Again",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Here I Go Again"
+      },
+      {
+        "numero": "02",
+        "titre": "I've Been Searchin' (Nobody Like You)"
+      },
+      {
+        "numero": "03",
+        "titre": "Call Me"
+      },
+      {
+        "numero": "04",
+        "titre": "Good Thang"
+      },
+      {
+        "numero": "05",
+        "titre": "Open up Your Heart"
+      },
+      {
+        "numero": "06",
+        "titre": "The Way You Do"
+      },
+      {
+        "numero": "07",
+        "titre": "Baby Come to Me"
+      },
+      {
+        "numero": "08",
+        "titre": "In You"
+      },
+      {
+        "numero": "09",
+        "titre": "Love Is Forever"
+      },
+      {
+        "numero": "10",
+        "titre": "Get It Right"
+      },
+      {
+        "numero": "11",
+        "titre": "Say Yeah"
+      }
+    ],
+    "duree_totale": 3219.96,
+    "image": "Glenn Jones - 1992 - Here I Go Again.jpg",
+    "nom": "Glenn Jones - 1992 - Here I Go Again"
+  },
+  {
+    "artiste": "Glenn Jones",
+    "annee": "1994",
+    "album": "Here I Am",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Here I Am"
+      },
+      {
+        "numero": "02",
+        "titre": "It's Gonna Be Alright"
+      },
+      {
+        "numero": "03",
+        "titre": "Love Songs"
+      },
+      {
+        "numero": "04",
+        "titre": "Round and Round"
+      },
+      {
+        "numero": "05",
+        "titre": "Make It up to You"
+      },
+      {
+        "numero": "06",
+        "titre": "Coming Back to You"
+      },
+      {
+        "numero": "07",
+        "titre": "Give Love a Chance"
+      },
+      {
+        "numero": "08",
+        "titre": "Everything to Me"
+      },
+      {
+        "numero": "09",
+        "titre": "Since You've Been Gone (A House Is Not a Home)"
+      },
+      {
+        "numero": "10",
+        "titre": "Don't Walk Away"
+      },
+      {
+        "numero": "11",
+        "titre": "In You"
+      }
+    ],
+    "duree_totale": 3601.992,
+    "image": "Glenn Jones - 1994 - Here I Am.jpg",
+    "nom": "Glenn Jones - 1994 - Here I Am"
+  },
+  {
+    "artiste": "Glenn Jones",
+    "annee": "2002",
+    "album": "Feels Good",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Dreams Do Come True"
+      },
+      {
+        "numero": "02",
+        "titre": "Every Time"
+      },
+      {
+        "numero": "03",
+        "titre": "Feels Good"
+      },
+      {
+        "numero": "04",
+        "titre": "All That You Need"
+      },
+      {
+        "numero": "05",
+        "titre": "I Wonder Why"
+      },
+      {
+        "numero": "06",
+        "titre": "Girl In The Corner"
+      },
+      {
+        "numero": "07",
+        "titre": "I'll Always Be Here (Interlude)"
+      },
+      {
+        "numero": "08",
+        "titre": "Has Anybody？"
+      },
+      {
+        "numero": "09",
+        "titre": "From Now On"
+      },
+      {
+        "numero": "10",
+        "titre": "When Love Breaks U Down"
+      },
+      {
+        "numero": "11",
+        "titre": "In Your Eyes"
+      },
+      {
+        "numero": "12",
+        "titre": "You Should've Stayed Here"
+      }
+    ],
+    "duree_totale": 2970.6240000000003,
+    "image": "Glenn Jones - 2002 - Feels Good.jpg",
+    "nom": "Glenn Jones - 2002 - Feels Good"
+  },
+  {
+    "artiste": "Glenn Jones",
+    "annee": "2006",
+    "album": "Forever Timeless R&B Classics",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Another Sad Love Song"
+      },
+      {
+        "numero": "02",
+        "titre": "Anniversary"
+      },
+      {
+        "numero": "03",
+        "titre": "Where Is The Love"
+      },
+      {
+        "numero": "04",
+        "titre": "Here I Go Again"
+      },
+      {
+        "numero": "05",
+        "titre": "My First Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Reaching For The Sky"
+      },
+      {
+        "numero": "07",
+        "titre": "You're Sweet, You're Fine, You're Everything"
+      },
+      {
+        "numero": "08",
+        "titre": "Show And Tell"
+      },
+      {
+        "numero": "09",
+        "titre": "Signed, Sealed, Delivered"
+      },
+      {
+        "numero": "10",
+        "titre": "I Wish He Didn't Trust Me So Much"
+      }
+    ],
+    "duree_totale": 2724.0480000000007,
+    "image": "Glenn Jones - 2006 - Forever Timeless R&B Classics.jpg",
+    "nom": "Glenn Jones - 2006 - Forever Timeless R&B Classics"
   },
   {
     "artiste": "Gregory Hines",
@@ -28426,25 +32089,6 @@
   },
   {
     "artiste": "Imagination",
-    "annee": "1981",
-    "album": "Body Talk",
-    "nb_pistes": 2,
-    "pistes": [
-      {
-        "numero": "01",
-        "titre": "Body Talk"
-      },
-      {
-        "numero": "02",
-        "titre": "Body Talk (Instrumental)"
-      }
-    ],
-    "duree_totale": 749.52,
-    "image": null,
-    "nom": "Imagination - 1981 - Body Talk"
-  },
-  {
-    "artiste": "Imagination",
     "annee": "1982",
     "album": "In the Heat of the Night",
     "nb_pistes": 8,
@@ -28590,13 +32234,209 @@
   },
   {
     "artiste": "Imagination",
-    "annee": "1988",
-    "album": "Closer",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "Imagination - 1988 - Closer.jpg",
-    "nom": "Imagination - 1988 - Closer"
+    "annee": "1992",
+    "album": "The Fascination of the Physical",
+    "nb_pistes": 27,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Work"
+      },
+      {
+        "numero": "02",
+        "titre": "I Like It (Version 1)"
+      },
+      {
+        "numero": "03",
+        "titre": "The Best of My Life (Version 1)"
+      },
+      {
+        "numero": "04",
+        "titre": "Ooh Aah"
+      },
+      {
+        "numero": "05",
+        "titre": "Loving Tight (Version 1)"
+      },
+      {
+        "numero": "06",
+        "titre": "Fascination Of The Physical (12＂ Version)"
+      },
+      {
+        "numero": "07",
+        "titre": "The Night We Loved"
+      },
+      {
+        "numero": "08",
+        "titre": "I Can't Wait"
+      },
+      {
+        "numero": "09",
+        "titre": "Private Hearts"
+      },
+      {
+        "numero": "10",
+        "titre": "Call On Me (Version 1)"
+      },
+      {
+        "numero": "11",
+        "titre": "Alone Again (Version 1)"
+      },
+      {
+        "numero": "12",
+        "titre": "Fascination Of The Physical (Full Mix)"
+      },
+      {
+        "numero": "13",
+        "titre": "Ooh Aah (12＂ Version)"
+      },
+      {
+        "numero": "14",
+        "titre": "Work (Master Plan Mix)"
+      },
+      {
+        "numero": "15",
+        "titre": "Work (12＂ Version)"
+      },
+      {
+        "numero": "16",
+        "titre": "Work (NYC Mix)"
+      },
+      {
+        "numero": "17",
+        "titre": "I Like It (Version 2)"
+      },
+      {
+        "numero": "18",
+        "titre": "I Like It (12＂ Version)"
+      },
+      {
+        "numero": "19",
+        "titre": "I Like It (Dubbing)"
+      },
+      {
+        "numero": "20",
+        "titre": "The Best of My Life (Version 2)"
+      },
+      {
+        "numero": "21",
+        "titre": "The Best of My Life (12＂ Version)"
+      },
+      {
+        "numero": "22",
+        "titre": "Loving Tight (Version 2)"
+      },
+      {
+        "numero": "23",
+        "titre": "Call On Me (Version 2)"
+      },
+      {
+        "numero": "24",
+        "titre": "Alone Again (Version 2)"
+      },
+      {
+        "numero": "25",
+        "titre": "Once In A Lifetime"
+      },
+      {
+        "numero": "26",
+        "titre": "Feeling Free"
+      },
+      {
+        "numero": "27",
+        "titre": "Feeling Free (A Capella)"
+      }
+    ],
+    "duree_totale": 8480.591999999999,
+    "image": "Imagination - 1992 - The Fascination of the Physical.jpg",
+    "nom": "Imagination - 1992 - The Fascination of the Physical"
+  },
+  {
+    "artiste": "Imagination",
+    "annee": "2016",
+    "album": "Retropia",
+    "nb_pistes": 19,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Utopia (feat. Leee John)"
+      },
+      {
+        "numero": "02",
+        "titre": "Secrets (feat. Leee John)"
+      },
+      {
+        "numero": "03",
+        "titre": "Fantasia (feat. Leee John)"
+      },
+      {
+        "numero": "04",
+        "titre": "Solitude (feat. Leee John)"
+      },
+      {
+        "numero": "05",
+        "titre": "Do It Right Now (feat. Leee John)"
+      },
+      {
+        "numero": "06",
+        "titre": "Hello Goodbye (feat. Leee John)"
+      },
+      {
+        "numero": "07",
+        "titre": "Tell Her Love Has Felt the Need (feat. Leee John)"
+      },
+      {
+        "numero": "08",
+        "titre": "Highway to Hell (feat. Leee John)"
+      },
+      {
+        "numero": "09",
+        "titre": "Brighter Day (feat. Leee John)"
+      },
+      {
+        "numero": "10",
+        "titre": "Make Your Mind Up (feat. Leee John)"
+      },
+      {
+        "numero": "11",
+        "titre": "The Best I Could (feat. Leee John)"
+      },
+      {
+        "numero": "12",
+        "titre": "Visions (feat. Leee John, Mike Lindup)"
+      },
+      {
+        "numero": "13",
+        "titre": "In the Heat of the Night (feat. Leee John)"
+      },
+      {
+        "numero": "14",
+        "titre": "Just an Illusion (feat. Leee John) [21st Century Version]"
+      },
+      {
+        "numero": "15",
+        "titre": "Krash All Nite Long (feat. Leee John) [Radio Mix]"
+      },
+      {
+        "numero": "16",
+        "titre": "Police and Thieves (feat. Leee John)"
+      },
+      {
+        "numero": "17",
+        "titre": "The Truth (feat. Leee John) [Alternative Mix]"
+      },
+      {
+        "numero": "18",
+        "titre": "The Art of Love Pt. 1 & 2 (feat. Snowboy, Leee John)"
+      },
+      {
+        "numero": "19",
+        "titre": "Magic in U (feat. Leee John)"
+      }
+    ],
+    "duree_totale": 5636.424000000001,
+    "image": "Imagination - 2016 - Retropia.jpg",
+    "nom": "Imagination - 2016 - Retropia"
   },
   {
     "artiste": "Isaac Hayes",
@@ -28652,6 +32492,649 @@
     "duree_totale": 3851.6334500000003,
     "image": "Isaac Hayes - 1995 - Branded.jpg",
     "nom": "Isaac Hayes - 1995 - Branded"
+  },
+  {
+    "artiste": "Jaki Graham",
+    "annee": "1985",
+    "album": "Heaven Knows",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Round and Around"
+      },
+      {
+        "numero": "02",
+        "titre": "Heaven Knows (Feels so Good)"
+      },
+      {
+        "numero": "03",
+        "titre": "Could It Be I'm Falling In Love"
+      },
+      {
+        "numero": "04",
+        "titre": "I Fell for You"
+      },
+      {
+        "numero": "05",
+        "titre": "Hold On"
+      },
+      {
+        "numero": "06",
+        "titre": "The Facts of Love"
+      },
+      {
+        "numero": "07",
+        "titre": "You're Mine"
+      },
+      {
+        "numero": "08",
+        "titre": "Loving You"
+      },
+      {
+        "numero": "09",
+        "titre": "What's the Name of Your Game"
+      },
+      {
+        "numero": "10",
+        "titre": "Stay the Way You Are"
+      },
+      {
+        "numero": "11",
+        "titre": "Could It Be I'm Falling In Love (Extended Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "Round and Around (Extended Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "Victim of Emotion"
+      },
+      {
+        "numero": "14",
+        "titre": "Heaven Knows (Feels So Good) (Extended Version)"
+      },
+      {
+        "numero": "15",
+        "titre": "Who's Making up Your Mind"
+      }
+    ],
+    "duree_totale": 4091.16,
+    "image": "Jaki Graham - 1985 - Heaven Knows.jpg",
+    "nom": "Jaki Graham - 1985 - Heaven Knows"
+  },
+  {
+    "artiste": "Jaki Graham",
+    "annee": "1986",
+    "album": "Breaking Away",
+    "nb_pistes": 25,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Set Me Free"
+      },
+      {
+        "numero": "02",
+        "titre": "Breaking Away"
+      },
+      {
+        "numero": "03",
+        "titre": "Still in Love"
+      },
+      {
+        "numero": "04",
+        "titre": "Love Under Moonlight"
+      },
+      {
+        "numero": "05",
+        "titre": "Let's Get Blue"
+      },
+      {
+        "numero": "06",
+        "titre": "Stop the World"
+      },
+      {
+        "numero": "07",
+        "titre": "Luv 2 Much"
+      },
+      {
+        "numero": "08",
+        "titre": "The Love of Your Life"
+      },
+      {
+        "numero": "09",
+        "titre": "The Closest One"
+      },
+      {
+        "numero": "10",
+        "titre": "Step Right Up"
+      },
+      {
+        "numero": "11",
+        "titre": "Mated"
+      },
+      {
+        "numero": "12",
+        "titre": "Love Me Tonight"
+      },
+      {
+        "numero": "13",
+        "titre": "The Facts of Love (7＂ B-Side)"
+      },
+      {
+        "numero": "14",
+        "titre": "Mated (Extended Version) (12＂ B-Side)"
+      },
+      {
+        "numero": "15",
+        "titre": "Stop the World (7＂ B-Side)"
+      },
+      {
+        "numero": "16",
+        "titre": "Set Me Free (Special Extended Remix) (Mark S Berry Remix)"
+      },
+      {
+        "numero": "17",
+        "titre": "Set Me Free (Dance 'Til You Drop Mix)"
+      },
+      {
+        "numero": "18",
+        "titre": "Set Me Free (Extended Version)"
+      },
+      {
+        "numero": "19",
+        "titre": "Breaking Away (Extended Version)"
+      },
+      {
+        "numero": "20",
+        "titre": "Breaking Away (feat. Molly Duncan) (Sax Version)"
+      },
+      {
+        "numero": "21",
+        "titre": "Breaking Away (Special Dub ＂Multi Band Delayed＂ Remix) (Gerry 'Rambo' Kitchingham Remix)"
+      },
+      {
+        "numero": "22",
+        "titre": "Love Me Tonight (Extended Version)"
+      },
+      {
+        "numero": "23",
+        "titre": "Step Right Up (Pure Dance Mix)"
+      },
+      {
+        "numero": "24",
+        "titre": "Step Right Up (Dub Mix)"
+      },
+      {
+        "numero": "25",
+        "titre": "The Megamix (Set Me Free ⧸ The Closest One ⧸ Step Right Up)"
+      }
+    ],
+    "duree_totale": 7525.583999999999,
+    "image": "Jaki Graham - 1986 - Breaking Away.jpg",
+    "nom": "Jaki Graham - 1986 - Breaking Away"
+  },
+  {
+    "artiste": "Jaki Graham",
+    "annee": "1989",
+    "album": "From Now On",
+    "nb_pistes": 17,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "From Now On"
+      },
+      {
+        "numero": "02",
+        "titre": "Provocative"
+      },
+      {
+        "numero": "03",
+        "titre": "The Better Part of Me"
+      },
+      {
+        "numero": "04",
+        "titre": "Faking the Feeling"
+      },
+      {
+        "numero": "05",
+        "titre": "I Still Run to You"
+      },
+      {
+        "numero": "06",
+        "titre": "Baby Don't You Want Me"
+      },
+      {
+        "numero": "07",
+        "titre": "I Want to Thank You (Heavenly Father)"
+      },
+      {
+        "numero": "08",
+        "titre": "First in Line"
+      },
+      {
+        "numero": "09",
+        "titre": "Every Little Bit Hurts"
+      },
+      {
+        "numero": "10",
+        "titre": "Nobody's Fool"
+      },
+      {
+        "numero": "11",
+        "titre": "No More Tears (7＂ Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "Set Me Free"
+      },
+      {
+        "numero": "13",
+        "titre": "Have You Seen Him？"
+      },
+      {
+        "numero": "14",
+        "titre": "No More Tears (12＂ Version)"
+      },
+      {
+        "numero": "15",
+        "titre": "The Better Part of Me (7＂ Edit)"
+      },
+      {
+        "numero": "16",
+        "titre": "From Now On (7＂ Remix)"
+      },
+      {
+        "numero": "17",
+        "titre": "No Mercy"
+      }
+    ],
+    "duree_totale": 4552.584000000001,
+    "image": "Jaki Graham - 1989 - From Now On.jpg",
+    "nom": "Jaki Graham - 1989 - From Now On"
+  },
+  {
+    "artiste": "Jaki Graham",
+    "annee": "1994",
+    "album": "Real Life",
+    "nb_pistes": 17,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "YOU CAN COUNT ON ME FOR LOVE"
+      },
+      {
+        "numero": "02",
+        "titre": "AIN'T NOBODY"
+      },
+      {
+        "numero": "03",
+        "titre": "THE FACTS OF LOVE"
+      },
+      {
+        "numero": "04",
+        "titre": "ABSOLUTE E - SENSUAL"
+      },
+      {
+        "numero": "05",
+        "titre": "DEPEND ON ME"
+      },
+      {
+        "numero": "06",
+        "titre": "THROUGH YOUR EYES"
+      },
+      {
+        "numero": "07",
+        "titre": "BREAKING AWAY"
+      },
+      {
+        "numero": "08",
+        "titre": "SHIVERS"
+      },
+      {
+        "numero": "09",
+        "titre": "RESCUE ME"
+      },
+      {
+        "numero": "10",
+        "titre": "REAL LIFE"
+      },
+      {
+        "numero": "11",
+        "titre": "COME INTO MY LIFE"
+      },
+      {
+        "numero": "12",
+        "titre": "DO ME BABY"
+      },
+      {
+        "numero": "13",
+        "titre": "SET ME FREE"
+      },
+      {
+        "numero": "14",
+        "titre": "AIN'T NOBODY (Calssic Paradise Radio Mix)"
+      },
+      {
+        "numero": "15",
+        "titre": "SPEND THE NIGHT"
+      },
+      {
+        "numero": "16",
+        "titre": "AIN'T NOBODY (DAVE WAY RADIO Remix)"
+      },
+      {
+        "numero": "17",
+        "titre": "BREAKING AWAY (UNPLUGGED RHYTHM⧸ACOUSTIC Version)"
+      }
+    ],
+    "duree_totale": 4452.648,
+    "image": "Jaki Graham - 1994 - Real Life.jpg",
+    "nom": "Jaki Graham - 1994 - Real Life"
+  },
+  {
+    "artiste": "Jaki Graham",
+    "annee": "1995",
+    "album": "Hold On",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "HOLD ON"
+      },
+      {
+        "numero": "02",
+        "titre": "DON'T KEEP ME WAITING"
+      },
+      {
+        "numero": "03",
+        "titre": "HEAVEN"
+      },
+      {
+        "numero": "04",
+        "titre": "STYLE"
+      },
+      {
+        "numero": "05",
+        "titre": "SAVING IT UP"
+      },
+      {
+        "numero": "06",
+        "titre": "SEEK & YOU WILL FIND"
+      },
+      {
+        "numero": "07",
+        "titre": "BIRTHDAY"
+      },
+      {
+        "numero": "08",
+        "titre": "LAY WITH ME"
+      },
+      {
+        "numero": "09",
+        "titre": "ABSOLUTE E - SENSUAL"
+      }
+    ],
+    "duree_totale": 2587.4159999999997,
+    "image": "Jaki Graham - 1995 - Hold On.jpg",
+    "nom": "Jaki Graham - 1995 - Hold On"
+  },
+  {
+    "artiste": "Jaki Graham",
+    "annee": "1996",
+    "album": "Rhythm of Life",
+    "nb_pistes": 14,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "YOU'RE ONE DESIRE"
+      },
+      {
+        "numero": "02",
+        "titre": "WALKING ON WATER"
+      },
+      {
+        "numero": "03",
+        "titre": "YOU AND I"
+      },
+      {
+        "numero": "04",
+        "titre": "HOW CAN I BE SURE"
+      },
+      {
+        "numero": "05",
+        "titre": "SHOW A LITTLE LOVE"
+      },
+      {
+        "numero": "06",
+        "titre": "RHYTHM OF LIFE"
+      },
+      {
+        "numero": "07",
+        "titre": "RAIN DOWN ON ME"
+      },
+      {
+        "numero": "08",
+        "titre": "HOW LONG MUST I WAIT"
+      },
+      {
+        "numero": "09",
+        "titre": "ALL I DO"
+      },
+      {
+        "numero": "10",
+        "titre": "AS WE LAY"
+      },
+      {
+        "numero": "11",
+        "titre": "WISHING ON EVERY STAR"
+      },
+      {
+        "numero": "12",
+        "titre": "I'LL BE GOOD TO YOU"
+      },
+      {
+        "numero": "13",
+        "titre": "THE ONLY LOVE"
+      },
+      {
+        "numero": "14",
+        "titre": "STYLE"
+      }
+    ],
+    "duree_totale": 3882.1200000000003,
+    "image": "Jaki Graham - 1996 - Rhythm of Life.jpg",
+    "nom": "Jaki Graham - 1996 - Rhythm of Life"
+  },
+  {
+    "artiste": "Jaki Graham",
+    "annee": "1998",
+    "album": "My Life",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "INTRO"
+      },
+      {
+        "numero": "02",
+        "titre": "LET ME KNOW"
+      },
+      {
+        "numero": "03",
+        "titre": "NEVER STOP"
+      },
+      {
+        "numero": "04",
+        "titre": "I CAN LEARN TO LOVE YOU"
+      },
+      {
+        "numero": "05",
+        "titre": "INTERLUDE"
+      },
+      {
+        "numero": "06",
+        "titre": "THE LOOK OF LOVE"
+      },
+      {
+        "numero": "07",
+        "titre": "MY LIFE"
+      },
+      {
+        "numero": "08",
+        "titre": "LOVIN' LIVIN' FREE!"
+      },
+      {
+        "numero": "09",
+        "titre": "THINKING ABOUT YOU"
+      },
+      {
+        "numero": "10",
+        "titre": "I ALWAYS"
+      },
+      {
+        "numero": "11",
+        "titre": "FLOWERS YOU BRING"
+      },
+      {
+        "numero": "12",
+        "titre": "HAPPY EVER AFTER"
+      },
+      {
+        "numero": "13",
+        "titre": "OUTRO"
+      }
+    ],
+    "duree_totale": 2832.1439999999993,
+    "image": "Jaki Graham - 1998 - My Life.jpg",
+    "nom": "Jaki Graham - 1998 - My Life"
+  },
+  {
+    "artiste": "Jaki Graham",
+    "annee": "2012",
+    "album": "For Sentimental Reasons",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Ain't Nobody's Business"
+      },
+      {
+        "numero": "02",
+        "titre": "For Sentimental Reasons"
+      },
+      {
+        "numero": "03",
+        "titre": "God Bless The Child"
+      },
+      {
+        "numero": "04",
+        "titre": "Good Morning Heartache"
+      },
+      {
+        "numero": "05",
+        "titre": "How Long Has This Been Going On"
+      },
+      {
+        "numero": "06",
+        "titre": "Lover Man"
+      },
+      {
+        "numero": "07",
+        "titre": "My Funny Valentine"
+      },
+      {
+        "numero": "08",
+        "titre": "I Only Have Eyes For You"
+      },
+      {
+        "numero": "09",
+        "titre": "Someone To Watch Over Me"
+      },
+      {
+        "numero": "10",
+        "titre": "Summertime"
+      },
+      {
+        "numero": "11",
+        "titre": "Unforgettable"
+      },
+      {
+        "numero": "12",
+        "titre": "What A Little Moonlight Can Do"
+      }
+    ],
+    "duree_totale": 3209.0640000000003,
+    "image": "Jaki Graham - 2012 - For Sentimental Reasons.jpg",
+    "nom": "Jaki Graham - 2012 - For Sentimental Reasons"
+  },
+  {
+    "artiste": "Jaki Graham",
+    "annee": "2018",
+    "album": "When a Woman Loves",
+    "nb_pistes": 14,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sometimes"
+      },
+      {
+        "numero": "02",
+        "titre": "News for You"
+      },
+      {
+        "numero": "03",
+        "titre": "Stop the Ride"
+      },
+      {
+        "numero": "04",
+        "titre": "Get It Right"
+      },
+      {
+        "numero": "05",
+        "titre": "Eye to Eye"
+      },
+      {
+        "numero": "06",
+        "titre": "Through the Rain"
+      },
+      {
+        "numero": "07",
+        "titre": "When a Woman Loves"
+      },
+      {
+        "numero": "08",
+        "titre": "Leftover Tears"
+      },
+      {
+        "numero": "09",
+        "titre": "Someone Like You"
+      },
+      {
+        "numero": "10",
+        "titre": "About Your Love"
+      },
+      {
+        "numero": "11",
+        "titre": "Use Me"
+      },
+      {
+        "numero": "12",
+        "titre": "All Night Long (1985)"
+      },
+      {
+        "numero": "13",
+        "titre": "Song Inside Me"
+      },
+      {
+        "numero": "14",
+        "titre": "Ready for Love"
+      }
+    ],
+    "duree_totale": 3523.1759999999995,
+    "image": "Jaki Graham - 2018 - When a Woman Loves.jpg",
+    "nom": "Jaki Graham - 2018 - When a Woman Loves"
   },
   {
     "artiste": "James Brown",
@@ -30080,6 +34563,108 @@
     "duree_totale": 2545.8799249999997,
     "image": "Jeffrey Daniel - 1990 - Skinny Boy.jpg",
     "nom": "Jeffrey Daniel - 1990 - Skinny Boy"
+  },
+  {
+    "artiste": "Jeffrey Osborne",
+    "annee": "1982",
+    "album": "Jeffrey Osborne",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "New Love"
+      },
+      {
+        "numero": "02",
+        "titre": "Eenie Meenie"
+      },
+      {
+        "numero": "03",
+        "titre": "I Really Don't Need No Light"
+      },
+      {
+        "numero": "04",
+        "titre": "On The Wings Of Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Ready For Your Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Who You Talkin To？"
+      },
+      {
+        "numero": "07",
+        "titre": "You Were Made To Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Ain't Nothin' Missin'"
+      },
+      {
+        "numero": "09",
+        "titre": "Baby"
+      },
+      {
+        "numero": "10",
+        "titre": "Congratulations"
+      }
+    ],
+    "duree_totale": 2382.4320000000002,
+    "image": "Jeffrey Osborne - 1982 - Jeffrey Osborne.jpg",
+    "nom": "Jeffrey Osborne - 1982 - Jeffrey Osborne"
+  },
+  {
+    "artiste": "Jeffrey Osborne",
+    "annee": "1983",
+    "album": "Stay with Me Tonight",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Don't You Get So Mad"
+      },
+      {
+        "numero": "02",
+        "titre": "We're Going All The Way"
+      },
+      {
+        "numero": "03",
+        "titre": "Stay With Me Tonight"
+      },
+      {
+        "numero": "04",
+        "titre": "Greatest Love Affair"
+      },
+      {
+        "numero": "05",
+        "titre": "Plane Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Other Side Of The Coin"
+      },
+      {
+        "numero": "07",
+        "titre": "I'll Make Believe"
+      },
+      {
+        "numero": "08",
+        "titre": "When Are You Comin Back"
+      },
+      {
+        "numero": "09",
+        "titre": "Forever Mine"
+      },
+      {
+        "numero": "10",
+        "titre": "Two Wrongs Don't Make A Right"
+      }
+    ],
+    "duree_totale": 2720.9040000000005,
+    "image": "Jeffrey Osborne - 1983 - Stay with Me Tonight.jpg",
+    "nom": "Jeffrey Osborne - 1983 - Stay with Me Tonight"
   },
   {
     "artiste": "Jeffrey Osborne",
@@ -33484,29 +38069,6 @@
   },
   {
     "artiste": "MFSB",
-    "annee": "1974",
-    "album": "The Sound of Philadelphia",
-    "nb_pistes": 3,
-    "pistes": [
-      {
-        "numero": "01",
-        "titre": "T.S.O.P. (The Sound of Philadelphia) (Tracy Young Mix)"
-      },
-      {
-        "numero": "02",
-        "titre": "T.S.O.P. (The Sound of Philadelphia) (Tracy Young Dub Mix)"
-      },
-      {
-        "numero": "03",
-        "titre": "T.S.O.P. (The Sound of Philadelphia) (Tracy Young Instrumental Mix)"
-      }
-    ],
-    "duree_totale": 954.36,
-    "image": "MFSB - 1974 - The Sound of Philadelphia.jpg",
-    "nom": "MFSB - 1974 - The Sound of Philadelphia"
-  },
-  {
-    "artiste": "MFSB",
     "annee": "1975",
     "album": "Philadelphia Freedom",
     "nb_pistes": 11,
@@ -33559,16 +38121,6 @@
     "duree_totale": 2642.0400000000004,
     "image": "MFSB - 1975 - Philadelphia Freedom.jpg",
     "nom": "MFSB - 1975 - Philadelphia Freedom"
-  },
-  {
-    "artiste": "MFSB",
-    "annee": "1975",
-    "album": "Universal Love",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "MFSB - 1975 - Universal Love.jpg",
-    "nom": "MFSB - 1975 - Universal Love"
   },
   {
     "artiste": "MFSB",
@@ -34984,16 +39536,6 @@
   },
   {
     "artiste": "Norman Connors",
-    "annee": "1976",
-    "album": "You Are My Starship",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "Norman Connors - 1976 - You Are My Starship.jpg",
-    "nom": "Norman Connors - 1976 - You Are My Starship"
-  },
-  {
-    "artiste": "Norman Connors",
     "annee": "1977",
     "album": "Romantic Journey",
     "nb_pistes": 9,
@@ -35089,16 +39631,6 @@
     "duree_totale": 2966.064,
     "image": "Norman Connors - 1978 - This Is Your Life.jpg",
     "nom": "Norman Connors - 1978 - This Is Your Life"
-  },
-  {
-    "artiste": "Norman Connors",
-    "annee": "1979",
-    "album": "Invitation",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "Norman Connors - 1979 - Invitation.jpg",
-    "nom": "Norman Connors - 1979 - Invitation"
   },
   {
     "artiste": "Norman Connors",
@@ -39534,16 +44066,6 @@
     "artiste": "Tower of Power",
     "annee": "1993",
     "album": "T.O.P",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "Tower of Power - 1993 - T.O.P.jpg",
-    "nom": "Tower of Power - 1993 - T.O.P"
-  },
-  {
-    "artiste": "Tower of Power",
-    "annee": "1993",
-    "album": "T.O.P#",
     "nb_pistes": 14,
     "pistes": [
       {
@@ -39605,7 +44127,7 @@
     ],
     "duree_totale": 3542.016,
     "image": null,
-    "nom": "Tower of Power - 1993 - T.O.P#"
+    "nom": "Tower of Power - 1993 - T.O.P"
   },
   {
     "artiste": "Tower of Power",
@@ -39986,7 +44508,7 @@
     "nom": "Tower of Power - 2023 - It's Christmas"
   },
   {
-    "artiste": "Tower Of Power",
+    "artiste": "Tower of Power",
     "annee": "2024",
     "album": "It's Christmas",
     "nb_pistes": 11,
@@ -40037,8 +44559,8 @@
       }
     ],
     "duree_totale": 2674.9476999999997,
-    "image": "Tower Of Power - 2024 - It's Christmas.jpg",
-    "nom": "Tower Of Power - 2024 - It's Christmas"
+    "image": "Tower of Power - 2024 - It's Christmas.jpg",
+    "nom": "Tower of Power - 2024 - It's Christmas"
   },
   {
     "artiste": "Tyrone Davis",
@@ -40267,16 +44789,6 @@
     "duree_totale": 2219.808,
     "image": "Tyrone Davis - 1970 - Turn Back the Hands of Time.jpg",
     "nom": "Tyrone Davis - 1970 - Turn Back the Hands of Time"
-  },
-  {
-    "artiste": "Tyrone Davis",
-    "annee": "1972",
-    "album": "Without You in My Life",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "Tyrone Davis - 1972 - Without You in My Life.jpg",
-    "nom": "Tyrone Davis - 1972 - Without You in My Life"
   },
   {
     "artiste": "Tyrone Davis",
@@ -40591,16 +45103,6 @@
     "duree_totale": 3063.12,
     "image": "Tyrone Davis - 1990 - For the Good Times.jpg",
     "nom": "Tyrone Davis - 1990 - For the Good Times"
-  },
-  {
-    "artiste": "Tyrone Davis",
-    "annee": "2008",
-    "album": "It's All in the Game",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "Tyrone Davis - 2008 - It's All in the Game.jpg",
-    "nom": "Tyrone Davis - 2008 - It's All in the Game"
   },
   {
     "artiste": "Urban Knights",
