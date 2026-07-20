@@ -12,27 +12,17 @@
         <a href="artistes.html">🎤 Artistes</a>
         <a href="classement.html">🏆 Classement</a>
         <a href="recommandation.html" class="active">⭐ Recommandation</a>
-        <button id="authBtn" class="auth-btn">🔑 Connexion</button>
+        <button id="authBtn" class="auth-btn" onclick="alert('Connexion à venir')">🔑 Connexion</button>
     </nav>
-    
     <main>
         <h1>⭐ Recommandation du jour</h1>
         <div id="recommandationContainer"></div>
-        
-        <div id="adminZone" style="display:none; margin-top: 3rem; border-top: 2px solid #eee; padding-top: 2rem;">
-            <h2>Admin : Définir la recommandation</h2>
-            <div class="admin-controls">
-                <select id="albumSelect" style="padding:0.8rem; width:100%; max-width:400px; border-radius:8px;">
-                    <option value="">Choisir un album...</option>
-                </select>
-                <button id="setRecommandationBtn" class="save-btn" style="margin-top:1rem;">Définir comme recommandation</button>
-            </div>
-        </div>
+        <div id="adminZone" style="margin-top:3rem;border-top:2px solid #eee;padding-top:2rem;"></div>
     </main>
-    
     <script src="app.js"></script>
     <script>
-        document.addEventListener('DOMContentLoaded', () => {
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('📄 Page recommandation chargée');
             chargerRecommandation();
             chargerAlbumsPourAdmin();
         });

@@ -19820,6 +19820,120 @@
     "nom": "David Foster - 1988 - The Symphony Sessions"
   },
   {
+    "artiste": "David Roberts",
+    "annee": "1982",
+    "album": "All Dressed Up",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "All in the Name of Love"
+      },
+      {
+        "numero": "02",
+        "titre": "Too Good to Last"
+      },
+      {
+        "numero": "03",
+        "titre": "Someone Like You"
+      },
+      {
+        "numero": "04",
+        "titre": "Boys of Autumn"
+      },
+      {
+        "numero": "05",
+        "titre": "She's Still Mine (That's My Girl)"
+      },
+      {
+        "numero": "06",
+        "titre": "Wrong Side of the Tracks"
+      },
+      {
+        "numero": "07",
+        "titre": "Midnight Rendezvous"
+      },
+      {
+        "numero": "08",
+        "titre": "Anywhere You Run To"
+      },
+      {
+        "numero": "09",
+        "titre": "Never Gonna Let You Go"
+      },
+      {
+        "numero": "10",
+        "titre": "Another World"
+      }
+    ],
+    "duree_totale": 2327.448,
+    "image": "David Roberts - 1982 - All Dressed Up.jpg",
+    "nom": "David Roberts - 1982 - All Dressed Up"
+  },
+  {
+    "artiste": "David Roberts",
+    "annee": "2008",
+    "album": "Better Late Than Never",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Better Late Than Never"
+      },
+      {
+        "numero": "02",
+        "titre": "Estocolmo"
+      },
+      {
+        "numero": "03",
+        "titre": "Lokita Por Mí"
+      },
+      {
+        "numero": "04",
+        "titre": "Jezabel"
+      },
+      {
+        "numero": "05",
+        "titre": "Dardos"
+      },
+      {
+        "numero": "06",
+        "titre": "La Amaré"
+      },
+      {
+        "numero": "07",
+        "titre": "Celeste"
+      },
+      {
+        "numero": "08",
+        "titre": "Ay! San Miguel"
+      },
+      {
+        "numero": "09",
+        "titre": "Encerrados"
+      },
+      {
+        "numero": "10",
+        "titre": "Menor"
+      },
+      {
+        "numero": "11",
+        "titre": "Blanca Nieves"
+      },
+      {
+        "numero": "12",
+        "titre": "Mi Plan"
+      },
+      {
+        "numero": "13",
+        "titre": "La Última Bachata"
+      }
+    ],
+    "duree_totale": 3006.8399999999997,
+    "image": "David Roberts - 2008 - Better Late Than Never.jpg",
+    "nom": "David Roberts - 2008 - Better Late Than Never"
+  },
+  {
     "artiste": "David Sanborn",
     "annee": "1987",
     "album": "A Change of Heart",
@@ -40408,6 +40522,1365 @@
   },
   {
     "artiste": "Prince",
+    "annee": "1978",
+    "album": "For You",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "For You"
+      },
+      {
+        "numero": "02",
+        "titre": "In Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Soft and Wet"
+      },
+      {
+        "numero": "04",
+        "titre": "Crazy You"
+      },
+      {
+        "numero": "05",
+        "titre": "Just as Long as We're Together"
+      },
+      {
+        "numero": "06",
+        "titre": "Baby"
+      },
+      {
+        "numero": "07",
+        "titre": "My Love Is Forever"
+      },
+      {
+        "numero": "08",
+        "titre": "So Blue"
+      },
+      {
+        "numero": "09",
+        "titre": "I'm Yours"
+      }
+    ],
+    "duree_totale": 2005.6799999999998,
+    "image": "Prince - 1978 - For You.jpg",
+    "nom": "Prince - 1978 - For You"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1979",
+    "album": "Prince",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Wanna Be Your Lover"
+      },
+      {
+        "numero": "02",
+        "titre": "Why You Wanna Treat Me so Bad？"
+      },
+      {
+        "numero": "03",
+        "titre": "Sexy Dancer"
+      },
+      {
+        "numero": "04",
+        "titre": "When We're Dancing Close and Slow"
+      },
+      {
+        "numero": "05",
+        "titre": "With You"
+      },
+      {
+        "numero": "06",
+        "titre": "Bambi"
+      },
+      {
+        "numero": "07",
+        "titre": "Still Waiting"
+      },
+      {
+        "numero": "08",
+        "titre": "I Feel for You"
+      },
+      {
+        "numero": "09",
+        "titre": "It's Gonna Be Lonely"
+      }
+    ],
+    "duree_totale": 2452.536,
+    "image": "Prince - 1979 - Prince.jpg",
+    "nom": "Prince - 1979 - Prince"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1980",
+    "album": "Dirty Mind",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Dirty Mind"
+      },
+      {
+        "numero": "02",
+        "titre": "When You Were Mine"
+      },
+      {
+        "numero": "03",
+        "titre": "Do It All Night"
+      },
+      {
+        "numero": "04",
+        "titre": "Gotta Broken Heart Again"
+      },
+      {
+        "numero": "05",
+        "titre": "Uptown"
+      },
+      {
+        "numero": "06",
+        "titre": "Head"
+      },
+      {
+        "numero": "07",
+        "titre": "Sister"
+      },
+      {
+        "numero": "08",
+        "titre": "Partyup"
+      }
+    ],
+    "duree_totale": 1813.4640000000002,
+    "image": "Prince - 1980 - Dirty Mind.jpg",
+    "nom": "Prince - 1980 - Dirty Mind"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1981",
+    "album": "Controversy",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Controversy"
+      },
+      {
+        "numero": "02",
+        "titre": "Sexuality"
+      },
+      {
+        "numero": "03",
+        "titre": "Do Me, Baby"
+      },
+      {
+        "numero": "04",
+        "titre": "Private Joy"
+      },
+      {
+        "numero": "05",
+        "titre": "Ronnie, Talk to Russia"
+      },
+      {
+        "numero": "06",
+        "titre": "Let's Work"
+      },
+      {
+        "numero": "07",
+        "titre": "Annie Christian"
+      },
+      {
+        "numero": "08",
+        "titre": "Jack U Off"
+      }
+    ],
+    "duree_totale": 2235.72,
+    "image": "Prince - 1981 - Controversy.jpg",
+    "nom": "Prince - 1981 - Controversy"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1982",
+    "album": "1999",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "1999 (2019 Remaster)"
+      },
+      {
+        "numero": "02",
+        "titre": "Little Red Corvette (2019 Remaster)"
+      },
+      {
+        "numero": "03",
+        "titre": "Delirious (2019 Remaster)"
+      },
+      {
+        "numero": "04",
+        "titre": "Let's Pretend We're Married (2019 Remaster)"
+      },
+      {
+        "numero": "05",
+        "titre": "D.M.S.R. (2019 Remaster)"
+      },
+      {
+        "numero": "06",
+        "titre": "Automatic (2019 Remaster)"
+      },
+      {
+        "numero": "07",
+        "titre": "Something In The Water (Does Not Compute) (2019 Remaster)"
+      },
+      {
+        "numero": "08",
+        "titre": "Free (2019 Remaster)"
+      },
+      {
+        "numero": "09",
+        "titre": "Lady Cab Driver (2019 Remaster)"
+      },
+      {
+        "numero": "10",
+        "titre": "All The Critics Love U In New York (2019 Remaster)"
+      },
+      {
+        "numero": "11",
+        "titre": "International Lover (2019 Remaster)"
+      }
+    ],
+    "duree_totale": 4223.808,
+    "image": "Prince - 1982 - 1999.jpg",
+    "nom": "Prince - 1982 - 1999"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1984",
+    "album": "Purple Rain",
+    "nb_pistes": 34,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Let's Go Crazy (2015 Paisley Park Remaster)"
+      },
+      {
+        "numero": "02",
+        "titre": "Take Me with U (2015 Paisley Park Remaster)"
+      },
+      {
+        "numero": "03",
+        "titre": "The Beautiful Ones (2015 Paisley Park Remaster)"
+      },
+      {
+        "numero": "04",
+        "titre": "Computer Blue (2015 Paisley Park Remaster)"
+      },
+      {
+        "numero": "05",
+        "titre": "Darling Nikki (2015 Paisley Park Remaster)"
+      },
+      {
+        "numero": "06",
+        "titre": "When Doves Cry (2015 Paisley Park Remaster)"
+      },
+      {
+        "numero": "07",
+        "titre": "I Would Die 4 U (2015 Paisley Park Remaster)"
+      },
+      {
+        "numero": "08",
+        "titre": "Baby I'm a Star (2015 Paisley Park Remaster)"
+      },
+      {
+        "numero": "09",
+        "titre": "Purple Rain (2015 Paisley Park Remaster)"
+      },
+      {
+        "numero": "10",
+        "titre": "The Dance Electric"
+      },
+      {
+        "numero": "11",
+        "titre": "Love and Sex"
+      },
+      {
+        "numero": "12",
+        "titre": "Computer Blue (＂Hallway Speech＂ Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "Electric Intercourse (Studio Version)"
+      },
+      {
+        "numero": "14",
+        "titre": "Our Destiny ⧸ Roadhouse Garden"
+      },
+      {
+        "numero": "15",
+        "titre": "Possessed"
+      },
+      {
+        "numero": "16",
+        "titre": "Wonderful Ass"
+      },
+      {
+        "numero": "17",
+        "titre": "Velvet Kitty Cat"
+      },
+      {
+        "numero": "18",
+        "titre": "Katrina's Paper Dolls"
+      },
+      {
+        "numero": "19",
+        "titre": "Father's Song"
+      },
+      {
+        "numero": "20",
+        "titre": "When Doves Cry (7＂ Single Edit) (2017 Remaster)"
+      },
+      {
+        "numero": "21",
+        "titre": "17 Days (7＂ B-Side Edit) (2017 Remaster)"
+      },
+      {
+        "numero": "22",
+        "titre": "Let's Go Crazy (7＂ Single Edit) (2017 Remaster)"
+      },
+      {
+        "numero": "23",
+        "titre": "Let's Go Crazy (Special Dance Mix) (2017 Remaster)"
+      },
+      {
+        "numero": "24",
+        "titre": "Erotic City (＂Let's Go Crazy＂ 7＂ B-Side Edit) (2017 Remaster)"
+      },
+      {
+        "numero": "25",
+        "titre": "Erotic City (Make Love Not War Erotic City Come Alive) (Extended Version) (2017 Remaster)"
+      },
+      {
+        "numero": "26",
+        "titre": "Purple Rain (7＂ Single Edit) (2017 Remaster)"
+      },
+      {
+        "numero": "27",
+        "titre": "God (＂Purple Rain＂ 7＂ B-Side) (2017 Remaster)"
+      },
+      {
+        "numero": "28",
+        "titre": "God (U.K. 12＂ B-Side) (2017 Remaster)"
+      },
+      {
+        "numero": "29",
+        "titre": "Another Lonely Christmas (＂I Would Die 4 U＂ 7＂ B-Side Edit) (2017 Remaster)"
+      },
+      {
+        "numero": "30",
+        "titre": "Another Lonely Christmas (Extended Version) (2017 Remaster)"
+      },
+      {
+        "numero": "31",
+        "titre": "I Would Die 4 U (7＂ Single Edit) (2017 Remaster)"
+      },
+      {
+        "numero": "32",
+        "titre": "I Would Die 4 U (Extended Version) (2017 Remaster)"
+      },
+      {
+        "numero": "33",
+        "titre": "Baby I'm a Star (＂Take Me with U＂ 7＂ B-Side Edit) (2017 Remaster)"
+      },
+      {
+        "numero": "34",
+        "titre": "Take Me with U (7＂ Single Edit) (2017 Remaster)"
+      }
+    ],
+    "duree_totale": 11291.231999999998,
+    "image": "Prince - 1984 - Purple Rain.jpg",
+    "nom": "Prince - 1984 - Purple Rain"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1985",
+    "album": "Around the World in a Day",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Around the World in a Day"
+      },
+      {
+        "numero": "02",
+        "titre": "Paisley Park"
+      },
+      {
+        "numero": "03",
+        "titre": "Condition of the Heart"
+      },
+      {
+        "numero": "04",
+        "titre": "Raspberry Beret"
+      },
+      {
+        "numero": "05",
+        "titre": "Tamborine"
+      },
+      {
+        "numero": "06",
+        "titre": "America"
+      },
+      {
+        "numero": "07",
+        "titre": "Pop Life"
+      },
+      {
+        "numero": "08",
+        "titre": "The Ladder"
+      },
+      {
+        "numero": "09",
+        "titre": "Temptation"
+      }
+    ],
+    "duree_totale": 2558.04,
+    "image": "Prince - 1985 - Around the World in a Day.jpg",
+    "nom": "Prince - 1985 - Around the World in a Day"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1986",
+    "album": "Parade",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Christopher Tracy's Parade"
+      },
+      {
+        "numero": "02",
+        "titre": "New Position"
+      },
+      {
+        "numero": "03",
+        "titre": "I Wonder U"
+      },
+      {
+        "numero": "04",
+        "titre": "Under the Cherry Moon"
+      },
+      {
+        "numero": "05",
+        "titre": "Girls & Boys"
+      },
+      {
+        "numero": "06",
+        "titre": "Life Can Be so Nice"
+      },
+      {
+        "numero": "07",
+        "titre": "Venus De Milo"
+      },
+      {
+        "numero": "08",
+        "titre": "Mountains"
+      },
+      {
+        "numero": "09",
+        "titre": "Do U Lie？"
+      },
+      {
+        "numero": "10",
+        "titre": "Kiss"
+      },
+      {
+        "numero": "11",
+        "titre": "Anotherloverholenyohead"
+      },
+      {
+        "numero": "12",
+        "titre": "Sometimes It Snows in April"
+      }
+    ],
+    "duree_totale": 2465.736,
+    "image": "Prince - 1986 - Parade.jpg",
+    "nom": "Prince - 1986 - Parade"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1987",
+    "album": "Sign o' the Times",
+    "nb_pistes": 92,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sign O' The Times (2020 Remaster)"
+      },
+      {
+        "numero": "02",
+        "titre": "Play In The Sunshine (2020 Remaster)"
+      },
+      {
+        "numero": "03",
+        "titre": "Housequake (2020 Remaster)"
+      },
+      {
+        "numero": "04",
+        "titre": "The Ballad Of Dorothy Parker (2020 Remaster)"
+      },
+      {
+        "numero": "05",
+        "titre": "It (2020 Remaster)"
+      },
+      {
+        "numero": "06",
+        "titre": "Starfish And Coffee (2020 Remaster)"
+      },
+      {
+        "numero": "07",
+        "titre": "Slow Love (2020 Remaster)"
+      },
+      {
+        "numero": "08",
+        "titre": "Hot Thing (2020 Remaster)"
+      },
+      {
+        "numero": "09",
+        "titre": "Forever In My Life (2020 Remaster)"
+      },
+      {
+        "numero": "10",
+        "titre": "U Got The Look (2020 Remaster)"
+      },
+      {
+        "numero": "11",
+        "titre": "If I Was Your Girlfriend (2020 Remaster)"
+      },
+      {
+        "numero": "12",
+        "titre": "Strange Relationship (2020 Remaster)"
+      },
+      {
+        "numero": "13",
+        "titre": "I Could Never Take The Place Of Your Man (2020 Remaster)"
+      },
+      {
+        "numero": "14",
+        "titre": "The Cross (2020 Remaster)"
+      },
+      {
+        "numero": "15",
+        "titre": "It's Gonna Be A Beautiful Night (2020 Remaster)"
+      },
+      {
+        "numero": "16",
+        "titre": "Adore (2020 Remaster)"
+      },
+      {
+        "numero": "17",
+        "titre": "Sign O' The Times (Edit) (2020 Remaster)"
+      },
+      {
+        "numero": "18",
+        "titre": "La, La, La, He, He, Hee (Edit) (2020 Remaster)"
+      },
+      {
+        "numero": "19",
+        "titre": "La, La, La, He, He, Hee (Highly Explosive) (2020 Remaster)"
+      },
+      {
+        "numero": "20",
+        "titre": "If I Was Your Girlfriend (Edit) (2020 Remaster)"
+      },
+      {
+        "numero": "21",
+        "titre": "Shockadelica (2020 Remaster)"
+      },
+      {
+        "numero": "22",
+        "titre": "Shockadelica (12＂ Long Version) (2020 Remaster)"
+      },
+      {
+        "numero": "23",
+        "titre": "U Got the Look (Long Look) (2020 Remaster)"
+      },
+      {
+        "numero": "24",
+        "titre": "Housequake (Edit) (2020 Remaster)"
+      },
+      {
+        "numero": "25",
+        "titre": "Housequake (7 Minutes MoQuake) (2020 Remaster)"
+      },
+      {
+        "numero": "26",
+        "titre": "I Could Never Take the Place of Your Man (Fade) (2020 Remaster)"
+      },
+      {
+        "numero": "27",
+        "titre": "Hot Thing (Edit) (2020 Remaster)"
+      },
+      {
+        "numero": "28",
+        "titre": "Hot Thing (Extended Remix) (2020 Remaster)"
+      },
+      {
+        "numero": "29",
+        "titre": "Hot Thing (Dub Version) (2020 Remaster)"
+      },
+      {
+        "numero": "30",
+        "titre": "I Could Never Take The Place Of Your Man (1979 Version) (2020 Remaster)"
+      },
+      {
+        "numero": "31",
+        "titre": "Teacher Teacher (1985 Version) (2020 Remaster)"
+      },
+      {
+        "numero": "32",
+        "titre": "All My Dreams (2020 Remaster)"
+      },
+      {
+        "numero": "33",
+        "titre": "Can I Play With U？ (feat. Miles Davis) (2020 Remaster)"
+      },
+      {
+        "numero": "34",
+        "titre": "Wonderful Day (2020 Remaster)"
+      },
+      {
+        "numero": "35",
+        "titre": "Strange Relationship (2020 Remaster)"
+      },
+      {
+        "numero": "36",
+        "titre": "Visions (2020 Remaster)"
+      },
+      {
+        "numero": "37",
+        "titre": "The Ballad Of Dorothy Parker (With Horns) (2020 Remaster)"
+      },
+      {
+        "numero": "38",
+        "titre": "Witness 4 The Prosecution (Version 1) (2020 Remaster)"
+      },
+      {
+        "numero": "39",
+        "titre": "Power Fantastic (Live in Studio) (2020 Remaster)"
+      },
+      {
+        "numero": "40",
+        "titre": "And That Says What？ (2020 Remaster)"
+      },
+      {
+        "numero": "41",
+        "titre": "Love And Sex (2020 Remaster)"
+      },
+      {
+        "numero": "42",
+        "titre": "A Place In Heaven (Prince Vocal) (2020 Remaster)"
+      },
+      {
+        "numero": "43",
+        "titre": "Colors (2020 Remaster)"
+      },
+      {
+        "numero": "44",
+        "titre": "Crystal Ball (7＂ Mix) (2020 Remaster)"
+      },
+      {
+        "numero": "45",
+        "titre": "Big Tall Wall (Version 1) (2020 Remaster)"
+      },
+      {
+        "numero": "46",
+        "titre": "Nevaeh Ni Ecalp A (2020 Remaster)"
+      },
+      {
+        "numero": "47",
+        "titre": "In A Large Room With No Light (2020 Remaster)"
+      },
+      {
+        "numero": "48",
+        "titre": "Train (2020 Remaster)"
+      },
+      {
+        "numero": "49",
+        "titre": "It Ain't Over 'Til The Fat Lady Sings (2020 Remaster)"
+      },
+      {
+        "numero": "50",
+        "titre": "Eggplant (Original Prince Vocal) (2020 Remaster)"
+      },
+      {
+        "numero": "51",
+        "titre": "Everybody Want What They Don't Got (2020 Remaster)"
+      },
+      {
+        "numero": "52",
+        "titre": "Blanche (2020 Remaster)"
+      },
+      {
+        "numero": "53",
+        "titre": "Soul Psychodelicide (1986 Master) (2020 Remaster)"
+      },
+      {
+        "numero": "54",
+        "titre": "The Ball (2020 Remaster)"
+      },
+      {
+        "numero": "55",
+        "titre": "Adonis And Bathsheba (2020 Remaster)"
+      },
+      {
+        "numero": "56",
+        "titre": "Forever In My Life (Early Vocal Run-Through) (2020 Remaster)"
+      },
+      {
+        "numero": "57",
+        "titre": "Crucial (Alternate Lyrics) (2020 Remaster)"
+      },
+      {
+        "numero": "58",
+        "titre": "The Cocoa Boys (2020 Remaster)"
+      },
+      {
+        "numero": "59",
+        "titre": "When The Dawn Of The Morning Comes (2020 Remaster)"
+      },
+      {
+        "numero": "60",
+        "titre": "Witness 4 The Prosecution (Version 2) (2020 Remaster)"
+      },
+      {
+        "numero": "61",
+        "titre": "It Be's Like That Sometimes (2020 Remaster)"
+      },
+      {
+        "numero": "62",
+        "titre": "Emotional Pump (2020 Remaster)"
+      },
+      {
+        "numero": "63",
+        "titre": "Rebirth Of The Flesh (Original Outro) (2020 Remaster)"
+      },
+      {
+        "numero": "64",
+        "titre": "Cosmic Day (2020 Remaster)"
+      },
+      {
+        "numero": "65",
+        "titre": "Walkin' In Glory (2020 Remaster)"
+      },
+      {
+        "numero": "66",
+        "titre": "Wally (2020 Remaster)"
+      },
+      {
+        "numero": "67",
+        "titre": "I Need A Man (2020 Remaster)"
+      },
+      {
+        "numero": "68",
+        "titre": "Promise To Be True (2020 Remaster)"
+      },
+      {
+        "numero": "69",
+        "titre": "Jealous Girl (Version 2) (2020 Remaster)"
+      },
+      {
+        "numero": "70",
+        "titre": "There's Something I Like About Being Your Fool (2020 Remaster)"
+      },
+      {
+        "numero": "71",
+        "titre": "Big Tall Wall (Version 2) (2020 Remaster)"
+      },
+      {
+        "numero": "72",
+        "titre": "A Place In Heaven (Lisa Vocal) (2020 Remaster)"
+      },
+      {
+        "numero": "73",
+        "titre": "Wonderful Day (12＂ Mix) (2020 Remaster)"
+      },
+      {
+        "numero": "74",
+        "titre": "Strange Relationship (1987 Shep Pettibone Club Mix) (2020 Remaster)"
+      },
+      {
+        "numero": "75",
+        "titre": "Intro⧸Sign O' The Times (Live in Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "76",
+        "titre": "Play In The Sunshine (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "77",
+        "titre": "Little Red Corvette (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "78",
+        "titre": "Housequake (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "79",
+        "titre": "Girls & Boys (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "80",
+        "titre": "Slow Love (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "81",
+        "titre": "Take The ＂A＂ Train ⧸ Pacemaker ⧸ I Could Never Take The Place Of Your Man (Live In Utrecht)..."
+      },
+      {
+        "numero": "82",
+        "titre": "Hot Thing (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "83",
+        "titre": "Four (Includes Sheila E. Drum Solo) (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "84",
+        "titre": "If I Was Your Girlfriend (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "85",
+        "titre": "Let's Go Crazy (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "86",
+        "titre": "When Doves Cry (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "87",
+        "titre": "Purple Rain (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "88",
+        "titre": "1999 (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "89",
+        "titre": "Forever In My Life (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "90",
+        "titre": "Kiss (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "91",
+        "titre": "The Cross (Live In Utrecht) (2020 Remaster)"
+      },
+      {
+        "numero": "92",
+        "titre": "It's Gonna Be A Beautiful Night (Live In Utrecht) (2020 Remaster)"
+      }
+    ],
+    "duree_totale": 28944.743999999995,
+    "image": "Prince - 1987 - Sign o' the Times.jpg",
+    "nom": "Prince - 1987 - Sign o' the Times"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1988",
+    "album": "Lovesexy",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Eye No"
+      },
+      {
+        "numero": "02",
+        "titre": "Alphabet St."
+      },
+      {
+        "numero": "03",
+        "titre": "Glam Slam"
+      },
+      {
+        "numero": "04",
+        "titre": "Anna Stesia"
+      },
+      {
+        "numero": "05",
+        "titre": "Dance On"
+      },
+      {
+        "numero": "06",
+        "titre": "Lovesexy"
+      },
+      {
+        "numero": "07",
+        "titre": "When 2 R in Love"
+      },
+      {
+        "numero": "08",
+        "titre": "I Wish U Heaven"
+      },
+      {
+        "numero": "09",
+        "titre": "Positivity"
+      }
+    ],
+    "duree_totale": 2703.8160000000003,
+    "image": "Prince - 1988 - Lovesexy.jpg",
+    "nom": "Prince - 1988 - Lovesexy"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1989",
+    "album": "Batman",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The Future"
+      },
+      {
+        "numero": "02",
+        "titre": "Electric Chair"
+      },
+      {
+        "numero": "03",
+        "titre": "The Arms of Orion"
+      },
+      {
+        "numero": "04",
+        "titre": "Partyman"
+      },
+      {
+        "numero": "05",
+        "titre": "Vicki Waiting"
+      },
+      {
+        "numero": "06",
+        "titre": "Trust"
+      },
+      {
+        "numero": "07",
+        "titre": "Lemon Crush"
+      },
+      {
+        "numero": "08",
+        "titre": "Scandalous"
+      },
+      {
+        "numero": "09",
+        "titre": "Batdance"
+      }
+    ],
+    "duree_totale": 2552.232,
+    "image": "Prince - 1989 - Batman.jpg",
+    "nom": "Prince - 1989 - Batman"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1990",
+    "album": "Graffiti Bridge",
+    "nb_pistes": 17,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Can't Stop This Feeling I Got"
+      },
+      {
+        "numero": "02",
+        "titre": "New Power Generation"
+      },
+      {
+        "numero": "03",
+        "titre": "Release It"
+      },
+      {
+        "numero": "04",
+        "titre": "The Question of U"
+      },
+      {
+        "numero": "05",
+        "titre": "Elephants & Flowers"
+      },
+      {
+        "numero": "06",
+        "titre": "Round and Round"
+      },
+      {
+        "numero": "07",
+        "titre": "We Can Funk"
+      },
+      {
+        "numero": "08",
+        "titre": "Joy in Repetition"
+      },
+      {
+        "numero": "09",
+        "titre": "Love Machine"
+      },
+      {
+        "numero": "10",
+        "titre": "Tick, Tick, Bang"
+      },
+      {
+        "numero": "11",
+        "titre": "Shake"
+      },
+      {
+        "numero": "12",
+        "titre": "Thieves in the Temple"
+      },
+      {
+        "numero": "13",
+        "titre": "The Latest Fashion"
+      },
+      {
+        "numero": "14",
+        "titre": "Melody Cool"
+      },
+      {
+        "numero": "15",
+        "titre": "Still Would Stand All Time"
+      },
+      {
+        "numero": "16",
+        "titre": "Graffiti Bridge"
+      },
+      {
+        "numero": "17",
+        "titre": "New Power Generation (Pt.II)"
+      }
+    ],
+    "duree_totale": 4113.6720000000005,
+    "image": "Prince - 1990 - Graffiti Bridge.jpg",
+    "nom": "Prince - 1990 - Graffiti Bridge"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1991",
+    "album": "Diamonds and Pearls",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Thunder"
+      },
+      {
+        "numero": "02",
+        "titre": "Daddy Pop"
+      },
+      {
+        "numero": "03",
+        "titre": "Diamonds and Pearls"
+      },
+      {
+        "numero": "04",
+        "titre": "Cream (Without Rap Monologue)"
+      },
+      {
+        "numero": "05",
+        "titre": "Strollin'"
+      },
+      {
+        "numero": "06",
+        "titre": "Willing and Able"
+      },
+      {
+        "numero": "07",
+        "titre": "Gett Off"
+      },
+      {
+        "numero": "08",
+        "titre": "Walk Don't Walk"
+      },
+      {
+        "numero": "09",
+        "titre": "Jughead"
+      },
+      {
+        "numero": "10",
+        "titre": "Money Don't Matter 2 Night"
+      },
+      {
+        "numero": "11",
+        "titre": "Push"
+      },
+      {
+        "numero": "12",
+        "titre": "Insatiable"
+      },
+      {
+        "numero": "13",
+        "titre": "Live 4 Love"
+      }
+    ],
+    "duree_totale": 3948.504,
+    "image": "Prince - 1991 - Diamonds and Pearls.jpg",
+    "nom": "Prince - 1991 - Diamonds and Pearls"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1994",
+    "album": "Come",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Come"
+      },
+      {
+        "numero": "02",
+        "titre": "Space"
+      },
+      {
+        "numero": "03",
+        "titre": "Pheromone"
+      },
+      {
+        "numero": "04",
+        "titre": "Loose!"
+      },
+      {
+        "numero": "05",
+        "titre": "Papa"
+      },
+      {
+        "numero": "06",
+        "titre": "Race"
+      },
+      {
+        "numero": "07",
+        "titre": "Dark"
+      },
+      {
+        "numero": "08",
+        "titre": "Solo"
+      },
+      {
+        "numero": "09",
+        "titre": "Letitgo"
+      },
+      {
+        "numero": "10",
+        "titre": "Orgasm"
+      }
+    ],
+    "duree_totale": 2924.16,
+    "image": "Prince - 1994 - Come.jpg",
+    "nom": "Prince - 1994 - Come"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1994",
+    "album": "The Black Album",
+    "nb_pistes": 14,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Interlude"
+      },
+      {
+        "numero": "02",
+        "titre": "December 4th"
+      },
+      {
+        "numero": "03",
+        "titre": "What More Can I Say"
+      },
+      {
+        "numero": "04",
+        "titre": "Encore"
+      },
+      {
+        "numero": "05",
+        "titre": "Change Clothes"
+      },
+      {
+        "numero": "06",
+        "titre": "Dirt Off Your Shoulder"
+      },
+      {
+        "numero": "07",
+        "titre": "Threat"
+      },
+      {
+        "numero": "08",
+        "titre": "Moment Of Clarity"
+      },
+      {
+        "numero": "09",
+        "titre": "99 Problems"
+      },
+      {
+        "numero": "10",
+        "titre": "Public Service Announcement (Interlude)"
+      },
+      {
+        "numero": "11",
+        "titre": "Justify My Thug"
+      },
+      {
+        "numero": "12",
+        "titre": "Lucifer"
+      },
+      {
+        "numero": "13",
+        "titre": "Allure"
+      },
+      {
+        "numero": "14",
+        "titre": "My 1st Song"
+      }
+    ],
+    "duree_totale": 3335.328,
+    "image": "Prince - 1994 - The Black Album.jpg",
+    "nom": "Prince - 1994 - The Black Album"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1995",
+    "album": "The Gold Experience",
+    "nb_pistes": 18,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "P. Control"
+      },
+      {
+        "numero": "02",
+        "titre": "NPG Operator #1"
+      },
+      {
+        "numero": "03",
+        "titre": "Endorphinmachine"
+      },
+      {
+        "numero": "04",
+        "titre": "Shhh"
+      },
+      {
+        "numero": "05",
+        "titre": "We March"
+      },
+      {
+        "numero": "06",
+        "titre": "NPG Operator #2"
+      },
+      {
+        "numero": "07",
+        "titre": "The Most Beautiful Girl In the World"
+      },
+      {
+        "numero": "08",
+        "titre": "Dolphin"
+      },
+      {
+        "numero": "09",
+        "titre": "NPG Operator #3"
+      },
+      {
+        "numero": "10",
+        "titre": "Now"
+      },
+      {
+        "numero": "11",
+        "titre": "NPG Operator #4"
+      },
+      {
+        "numero": "12",
+        "titre": "319"
+      },
+      {
+        "numero": "13",
+        "titre": "NPG Operator #5"
+      },
+      {
+        "numero": "14",
+        "titre": "Shy"
+      },
+      {
+        "numero": "15",
+        "titre": "Billy Jack Bitch"
+      },
+      {
+        "numero": "16",
+        "titre": "Eye Hate U"
+      },
+      {
+        "numero": "17",
+        "titre": "NPG Operator #6"
+      },
+      {
+        "numero": "18",
+        "titre": "Gold"
+      }
+    ],
+    "duree_totale": 3920.3759999999997,
+    "image": "Prince - 1995 - The Gold Experience.jpg",
+    "nom": "Prince - 1995 - The Gold Experience"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1996",
+    "album": "Chaos and Disorder",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Chaos and Disorder"
+      },
+      {
+        "numero": "02",
+        "titre": "I Like It There"
+      },
+      {
+        "numero": "03",
+        "titre": "Dinner with Delores"
+      },
+      {
+        "numero": "04",
+        "titre": "The Same December"
+      },
+      {
+        "numero": "05",
+        "titre": "Right the Wrong"
+      },
+      {
+        "numero": "06",
+        "titre": "Zannalee"
+      },
+      {
+        "numero": "07",
+        "titre": "I Rock, Therefore I Am"
+      },
+      {
+        "numero": "08",
+        "titre": "Into the Light"
+      },
+      {
+        "numero": "09",
+        "titre": "I Will"
+      },
+      {
+        "numero": "10",
+        "titre": "Dig U Better Dead"
+      },
+      {
+        "numero": "11",
+        "titre": "Had U"
+      }
+    ],
+    "duree_totale": 2354.04,
+    "image": "Prince - 1996 - Chaos and Disorder.jpg",
+    "nom": "Prince - 1996 - Chaos and Disorder"
+  },
+  {
+    "artiste": "Prince",
     "annee": "1996",
     "album": "Emancipation",
     "nb_pistes": 36,
@@ -40560,6 +42033,1175 @@
     "duree_totale": 10802.139275000003,
     "image": "Prince - 1996 - Emancipation.jpg",
     "nom": "Prince - 1996 - Emancipation"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1998",
+    "album": "Crystal Ball",
+    "nb_pistes": 30,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Crystal Ball"
+      },
+      {
+        "numero": "02",
+        "titre": "Dream Factory"
+      },
+      {
+        "numero": "03",
+        "titre": "Acknowledge Me"
+      },
+      {
+        "numero": "04",
+        "titre": "Ripopgodazippa"
+      },
+      {
+        "numero": "05",
+        "titre": "Love Sign (Shock G's Silky Remix)"
+      },
+      {
+        "numero": "06",
+        "titre": "Hide the Bone"
+      },
+      {
+        "numero": "07",
+        "titre": "2morrow"
+      },
+      {
+        "numero": "08",
+        "titre": "So Dark"
+      },
+      {
+        "numero": "09",
+        "titre": "Movie Star"
+      },
+      {
+        "numero": "10",
+        "titre": "Tell Me How U Wanna B Done"
+      },
+      {
+        "numero": "11",
+        "titre": "Interactive"
+      },
+      {
+        "numero": "12",
+        "titre": "Da Bang"
+      },
+      {
+        "numero": "13",
+        "titre": "Calhoun Square"
+      },
+      {
+        "numero": "14",
+        "titre": "What's My Name"
+      },
+      {
+        "numero": "15",
+        "titre": "Crucial"
+      },
+      {
+        "numero": "16",
+        "titre": "An Honest Man"
+      },
+      {
+        "numero": "17",
+        "titre": "Sexual Suicide"
+      },
+      {
+        "numero": "18",
+        "titre": "Cloreen Bacon Skin"
+      },
+      {
+        "numero": "19",
+        "titre": "Good Love"
+      },
+      {
+        "numero": "20",
+        "titre": "Strays of the World"
+      },
+      {
+        "numero": "21",
+        "titre": "Days of Wild"
+      },
+      {
+        "numero": "22",
+        "titre": "Last Heart"
+      },
+      {
+        "numero": "23",
+        "titre": "Poom Poom"
+      },
+      {
+        "numero": "24",
+        "titre": "She Gave Her Angels"
+      },
+      {
+        "numero": "25",
+        "titre": "18 & Over"
+      },
+      {
+        "numero": "26",
+        "titre": "The Ride"
+      },
+      {
+        "numero": "27",
+        "titre": "Get Loose"
+      },
+      {
+        "numero": "28",
+        "titre": "P. Control (Remix)"
+      },
+      {
+        "numero": "29",
+        "titre": "Make Your Mama Happy"
+      },
+      {
+        "numero": "30",
+        "titre": "Goodbye"
+      }
+    ],
+    "duree_totale": 8965.272,
+    "image": "Prince - 1998 - Crystal Ball.jpg",
+    "nom": "Prince - 1998 - Crystal Ball"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1998",
+    "album": "The Truth",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The Truth"
+      },
+      {
+        "numero": "02",
+        "titre": "Don't Play Me"
+      },
+      {
+        "numero": "03",
+        "titre": "Circle of Amour"
+      },
+      {
+        "numero": "04",
+        "titre": "3rd Eye"
+      },
+      {
+        "numero": "05",
+        "titre": "Dionne"
+      },
+      {
+        "numero": "06",
+        "titre": "Man In a Uniform"
+      },
+      {
+        "numero": "07",
+        "titre": "Animal Kingdom"
+      },
+      {
+        "numero": "08",
+        "titre": "The Other Side of the Pillow"
+      },
+      {
+        "numero": "09",
+        "titre": "Fascination"
+      },
+      {
+        "numero": "10",
+        "titre": "One of Your Tears"
+      },
+      {
+        "numero": "11",
+        "titre": "Comeback"
+      },
+      {
+        "numero": "12",
+        "titre": "Welcome 2 the Dawn (Acoustic Version)"
+      }
+    ],
+    "duree_totale": 2604.36,
+    "image": "Prince - 1998 - The Truth.jpg",
+    "nom": "Prince - 1998 - The Truth"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "1999",
+    "album": "Rave Un2 the Joy Fantastic",
+    "nb_pistes": 17,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Rave Un2 the Joy Fantastic"
+      },
+      {
+        "numero": "02",
+        "titre": "Undisputed"
+      },
+      {
+        "numero": "03",
+        "titre": "The Greatest Romance Ever Sold"
+      },
+      {
+        "numero": "04",
+        "titre": "Hot Wit U"
+      },
+      {
+        "numero": "05",
+        "titre": "Tangerine"
+      },
+      {
+        "numero": "06",
+        "titre": "So Far, So Pleased"
+      },
+      {
+        "numero": "07",
+        "titre": "The Sun, The Moon and Stars"
+      },
+      {
+        "numero": "08",
+        "titre": "Everyday Is a Winding Road"
+      },
+      {
+        "numero": "09",
+        "titre": "Segue (One)"
+      },
+      {
+        "numero": "10",
+        "titre": "Man 'O' War"
+      },
+      {
+        "numero": "11",
+        "titre": "Baby Knows"
+      },
+      {
+        "numero": "12",
+        "titre": "Eye Love U, But Eye Don't Trust U Anymore"
+      },
+      {
+        "numero": "13",
+        "titre": "Silly Game"
+      },
+      {
+        "numero": "14",
+        "titre": "Strange But True"
+      },
+      {
+        "numero": "15",
+        "titre": "Wherever U Go, Whatever U Do"
+      },
+      {
+        "numero": "16",
+        "titre": "Segue (Two)"
+      },
+      {
+        "numero": "17",
+        "titre": "Prettyman"
+      }
+    ],
+    "duree_totale": 3866.3279999999995,
+    "image": "Prince - 1999 - Rave Un2 the Joy Fantastic.jpg",
+    "nom": "Prince - 1999 - Rave Un2 the Joy Fantastic"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2001",
+    "album": "Rave In2 the Joy Fantastic",
+    "nb_pistes": 14,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Rave In2 the Joy Fantastic"
+      },
+      {
+        "numero": "02",
+        "titre": "Undisputed (The Moneyapolis Mix)"
+      },
+      {
+        "numero": "03",
+        "titre": "The Greatest Romance Ever Sold"
+      },
+      {
+        "numero": "04",
+        "titre": "Hot Wit U (Nasty Girl Remix)"
+      },
+      {
+        "numero": "05",
+        "titre": "Tangerine"
+      },
+      {
+        "numero": "06",
+        "titre": "So Far, So Pleased"
+      },
+      {
+        "numero": "07",
+        "titre": "The Sun, The Moon and Stars"
+      },
+      {
+        "numero": "08",
+        "titre": "Man 'O' War (Remix)"
+      },
+      {
+        "numero": "09",
+        "titre": "Baby Knows"
+      },
+      {
+        "numero": "10",
+        "titre": "Eye Love U, But Eye Don't Trust U Anymore"
+      },
+      {
+        "numero": "11",
+        "titre": "Beautiful Strange"
+      },
+      {
+        "numero": "12",
+        "titre": "Silly Game"
+      },
+      {
+        "numero": "13",
+        "titre": "Wherever U Go, Whatever U Do"
+      },
+      {
+        "numero": "14",
+        "titre": "Prettyman"
+      }
+    ],
+    "duree_totale": 3866.4000000000005,
+    "image": "Prince - 2001 - Rave In2 the Joy Fantastic.jpg",
+    "nom": "Prince - 2001 - Rave In2 the Joy Fantastic"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2001",
+    "album": "The Rainbow Children",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Rainbow Children"
+      },
+      {
+        "numero": "02",
+        "titre": "Muse 2 the Pharaoh"
+      },
+      {
+        "numero": "03",
+        "titre": "Digital Garden"
+      },
+      {
+        "numero": "04",
+        "titre": "The Work Pt. 1"
+      },
+      {
+        "numero": "05",
+        "titre": "Everywhere"
+      },
+      {
+        "numero": "06",
+        "titre": "The Sensual Everafter"
+      },
+      {
+        "numero": "07",
+        "titre": "Mellow"
+      },
+      {
+        "numero": "08",
+        "titre": "1+1+1 is 3"
+      },
+      {
+        "numero": "09",
+        "titre": "Deconstruction"
+      },
+      {
+        "numero": "10",
+        "titre": "Wedding Feast"
+      },
+      {
+        "numero": "11",
+        "titre": "She Loves Me 4 Me"
+      },
+      {
+        "numero": "12",
+        "titre": "Family Name"
+      },
+      {
+        "numero": "13",
+        "titre": "The Everlasting Now"
+      },
+      {
+        "numero": "14",
+        "titre": "Last December"
+      },
+      {
+        "numero": "15",
+        "titre": "Last December (Reprise)"
+      }
+    ],
+    "duree_totale": 4169.831999999999,
+    "image": "Prince - 2001 - The Rainbow Children.jpg",
+    "nom": "Prince - 2001 - The Rainbow Children"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2002",
+    "album": "One Nite Alone..#",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "- One Nite Alone..."
+      },
+      {
+        "numero": "02",
+        "titre": "- U're Gonna C Me"
+      },
+      {
+        "numero": "03",
+        "titre": "- Here On Earth"
+      },
+      {
+        "numero": "04",
+        "titre": "- A Case of U"
+      },
+      {
+        "numero": "05",
+        "titre": "- Have a Heart"
+      },
+      {
+        "numero": "06",
+        "titre": "- Objects In the Mirror"
+      },
+      {
+        "numero": "07",
+        "titre": "- Avalanche"
+      },
+      {
+        "numero": "08",
+        "titre": "- Pearls B4 the Swine"
+      },
+      {
+        "numero": "09",
+        "titre": "- Young and Beautiful"
+      },
+      {
+        "numero": "10",
+        "titre": "- Arboretum"
+      }
+    ],
+    "duree_totale": 2038.8240000000003,
+    "image": null,
+    "nom": "Prince - 2002 - One Nite Alone..#"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2003",
+    "album": "Xpectation",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Xhalation"
+      },
+      {
+        "numero": "02",
+        "titre": "Xcogitate"
+      },
+      {
+        "numero": "03",
+        "titre": "Xemplify"
+      },
+      {
+        "numero": "04",
+        "titre": "Xpectation"
+      },
+      {
+        "numero": "05",
+        "titre": "Xotica"
+      },
+      {
+        "numero": "06",
+        "titre": "Xogenous"
+      },
+      {
+        "numero": "07",
+        "titre": "Xpand"
+      },
+      {
+        "numero": "08",
+        "titre": "Xosphere"
+      },
+      {
+        "numero": "09",
+        "titre": "Xpedition"
+      }
+    ],
+    "duree_totale": 2458.152,
+    "image": "Prince - 2003 - Xpectation.jpg",
+    "nom": "Prince - 2003 - Xpectation"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2004",
+    "album": "Musicology",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Musicology"
+      },
+      {
+        "numero": "02",
+        "titre": "Illusion, Coma, Pimp & Circumstance"
+      },
+      {
+        "numero": "03",
+        "titre": "A Million Days"
+      },
+      {
+        "numero": "04",
+        "titre": "Life 'O' the Party"
+      },
+      {
+        "numero": "05",
+        "titre": "Call My Name"
+      },
+      {
+        "numero": "06",
+        "titre": "Cinnamon Girl"
+      },
+      {
+        "numero": "07",
+        "titre": "What Do U Want Me 2 Do？"
+      },
+      {
+        "numero": "08",
+        "titre": "The Marrying Kind"
+      },
+      {
+        "numero": "09",
+        "titre": "If Eye Was the Man In Ur Life"
+      },
+      {
+        "numero": "10",
+        "titre": "On the Couch"
+      },
+      {
+        "numero": "11",
+        "titre": "Dear Mr. Man"
+      },
+      {
+        "numero": "12",
+        "titre": "Reflection"
+      }
+    ],
+    "duree_totale": 2870.0159999999996,
+    "image": "Prince - 2004 - Musicology.jpg",
+    "nom": "Prince - 2004 - Musicology"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2004",
+    "album": "The Chocolate Invasion",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "When Eye Lay My Hands On U"
+      },
+      {
+        "numero": "02",
+        "titre": "Judas Smile"
+      },
+      {
+        "numero": "03",
+        "titre": "Supercute"
+      },
+      {
+        "numero": "04",
+        "titre": "Underneath the Cream"
+      },
+      {
+        "numero": "05",
+        "titre": "My Medallion"
+      },
+      {
+        "numero": "06",
+        "titre": "Vavoom"
+      },
+      {
+        "numero": "07",
+        "titre": "High"
+      },
+      {
+        "numero": "08",
+        "titre": "Sexmesexmenot"
+      },
+      {
+        "numero": "09",
+        "titre": "Gamillah"
+      },
+      {
+        "numero": "10",
+        "titre": "U Make My Sun Shine"
+      }
+    ],
+    "duree_totale": 2950.3199999999997,
+    "image": "Prince - 2004 - The Chocolate Invasion.jpg",
+    "nom": "Prince - 2004 - The Chocolate Invasion"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2004",
+    "album": "The Slaughterhouse",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Silicon"
+      },
+      {
+        "numero": "02",
+        "titre": "S & M Groove"
+      },
+      {
+        "numero": "03",
+        "titre": "Y Should Eye Do That When Eye Can Do This？"
+      },
+      {
+        "numero": "04",
+        "titre": "Golden Parachute"
+      },
+      {
+        "numero": "05",
+        "titre": "Hypnoparadise"
+      },
+      {
+        "numero": "06",
+        "titre": "Props'N'Pounds"
+      },
+      {
+        "numero": "07",
+        "titre": "Northside"
+      },
+      {
+        "numero": "08",
+        "titre": "Peace"
+      },
+      {
+        "numero": "09",
+        "titre": "2045： Radical Man"
+      },
+      {
+        "numero": "10",
+        "titre": "The Daisy Chain"
+      }
+    ],
+    "duree_totale": 3300.864,
+    "image": "Prince - 2004 - The Slaughterhouse.jpg",
+    "nom": "Prince - 2004 - The Slaughterhouse"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2006",
+    "album": "3121",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "3121"
+      },
+      {
+        "numero": "02",
+        "titre": "Lolita"
+      },
+      {
+        "numero": "03",
+        "titre": "Te Amo Corazón"
+      },
+      {
+        "numero": "04",
+        "titre": "Black Sweat"
+      },
+      {
+        "numero": "05",
+        "titre": "Incense and Candles"
+      },
+      {
+        "numero": "06",
+        "titre": "Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Satisfied"
+      },
+      {
+        "numero": "08",
+        "titre": "Fury"
+      },
+      {
+        "numero": "09",
+        "titre": "The Word"
+      },
+      {
+        "numero": "10",
+        "titre": "Beautiful, Loved and Blessed"
+      },
+      {
+        "numero": "11",
+        "titre": "The Dance"
+      },
+      {
+        "numero": "12",
+        "titre": "Get On the Boat"
+      }
+    ],
+    "duree_totale": 3215.16,
+    "image": "Prince - 2006 - 3121.jpg",
+    "nom": "Prince - 2006 - 3121"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2007",
+    "album": "Planet Earth",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Planet Earth"
+      },
+      {
+        "numero": "02",
+        "titre": "Guitar"
+      },
+      {
+        "numero": "03",
+        "titre": "Somewhere Here On Earth"
+      },
+      {
+        "numero": "04",
+        "titre": "The One U Wanna C"
+      },
+      {
+        "numero": "05",
+        "titre": "Future Baby Mama"
+      },
+      {
+        "numero": "06",
+        "titre": "Mr. Goodnight"
+      },
+      {
+        "numero": "07",
+        "titre": "All the Midnights In the World"
+      },
+      {
+        "numero": "08",
+        "titre": "Chelsea Rodgers"
+      },
+      {
+        "numero": "09",
+        "titre": "Lion of Judah"
+      },
+      {
+        "numero": "10",
+        "titre": "Resolution"
+      }
+    ],
+    "duree_totale": 2696.9999999999995,
+    "image": "Prince - 2007 - Planet Earth.jpg",
+    "nom": "Prince - 2007 - Planet Earth"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2009",
+    "album": "Lotusflow3r",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "From the Lotus..."
+      },
+      {
+        "numero": "02",
+        "titre": "Boom"
+      },
+      {
+        "numero": "03",
+        "titre": "Crimson and Clover"
+      },
+      {
+        "numero": "04",
+        "titre": "4ever"
+      },
+      {
+        "numero": "05",
+        "titre": "Colonized Mind"
+      },
+      {
+        "numero": "06",
+        "titre": "Feel Better, Feel Good, Feel Wonderful"
+      },
+      {
+        "numero": "07",
+        "titre": "Love Like Jazz"
+      },
+      {
+        "numero": "08",
+        "titre": "77 Beverly Park"
+      },
+      {
+        "numero": "09",
+        "titre": "Wall of Berlin"
+      },
+      {
+        "numero": "10",
+        "titre": "$"
+      },
+      {
+        "numero": "11",
+        "titre": "Dreamer"
+      },
+      {
+        "numero": "12",
+        "titre": "... Back 2 the Lotus"
+      }
+    ],
+    "duree_totale": 2919.768,
+    "image": "Prince - 2009 - Lotusflow3r.jpg",
+    "nom": "Prince - 2009 - Lotusflow3r"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2009",
+    "album": "MPLSound",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "[There'll Never B] Another Like Me"
+      },
+      {
+        "numero": "02",
+        "titre": "Chocolate Box"
+      },
+      {
+        "numero": "03",
+        "titre": "Dance 4 Me"
+      },
+      {
+        "numero": "04",
+        "titre": "U're Gonna C Me"
+      },
+      {
+        "numero": "05",
+        "titre": "Here"
+      },
+      {
+        "numero": "06",
+        "titre": "Valentina"
+      },
+      {
+        "numero": "07",
+        "titre": "Better with Time"
+      },
+      {
+        "numero": "08",
+        "titre": "Ol' Skool Company"
+      },
+      {
+        "numero": "09",
+        "titre": "No More Candy 4 U"
+      }
+    ],
+    "duree_totale": 2862.168,
+    "image": "Prince - 2009 - MPLSound.jpg",
+    "nom": "Prince - 2009 - MPLSound"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2010",
+    "album": "20Ten",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Compassion"
+      },
+      {
+        "numero": "02",
+        "titre": "Beginning Endlessly"
+      },
+      {
+        "numero": "03",
+        "titre": "Future Soul Song"
+      },
+      {
+        "numero": "04",
+        "titre": "Sticky Like Glue"
+      },
+      {
+        "numero": "05",
+        "titre": "Act of God"
+      },
+      {
+        "numero": "06",
+        "titre": "Lavaux"
+      },
+      {
+        "numero": "07",
+        "titre": "Walk In Sand"
+      },
+      {
+        "numero": "08",
+        "titre": "Sea of Everything"
+      },
+      {
+        "numero": "09",
+        "titre": "Everybody Loves Me"
+      },
+      {
+        "numero": "10",
+        "titre": "Laydown"
+      }
+    ],
+    "duree_totale": 2408.6639999999998,
+    "image": "Prince - 2010 - 20Ten.jpg",
+    "nom": "Prince - 2010 - 20Ten"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2014",
+    "album": "Art Official Age",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Art Official Cage"
+      },
+      {
+        "numero": "02",
+        "titre": "Clouds"
+      },
+      {
+        "numero": "03",
+        "titre": "Breakdown"
+      },
+      {
+        "numero": "04",
+        "titre": "The Gold Standard"
+      },
+      {
+        "numero": "05",
+        "titre": "U Know"
+      },
+      {
+        "numero": "06",
+        "titre": "Breakfast Can Wait"
+      },
+      {
+        "numero": "07",
+        "titre": "This Could Be Us"
+      },
+      {
+        "numero": "08",
+        "titre": "What It Feels Like"
+      },
+      {
+        "numero": "09",
+        "titre": "Affirmation I & II"
+      },
+      {
+        "numero": "10",
+        "titre": "Way Back Home"
+      },
+      {
+        "numero": "11",
+        "titre": "Funknroll"
+      },
+      {
+        "numero": "12",
+        "titre": "Time"
+      },
+      {
+        "numero": "13",
+        "titre": "Affirmation III"
+      }
+    ],
+    "duree_totale": 3202.1279999999997,
+    "image": "Prince - 2014 - Art Official Age.jpg",
+    "nom": "Prince - 2014 - Art Official Age"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2014",
+    "album": "PlectrumElectrum",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Wow"
+      },
+      {
+        "numero": "02",
+        "titre": "Pretzelbodylogic"
+      },
+      {
+        "numero": "03",
+        "titre": "Aintturninround"
+      },
+      {
+        "numero": "04",
+        "titre": "Plectrumelectrum"
+      },
+      {
+        "numero": "05",
+        "titre": "Whitecaps"
+      },
+      {
+        "numero": "06",
+        "titre": "Fixurlifeup"
+      },
+      {
+        "numero": "07",
+        "titre": "Boytrouble"
+      },
+      {
+        "numero": "08",
+        "titre": "Stopthistrain"
+      },
+      {
+        "numero": "09",
+        "titre": "Anotherlove"
+      },
+      {
+        "numero": "10",
+        "titre": "Tictactoe"
+      },
+      {
+        "numero": "11",
+        "titre": "Marz"
+      },
+      {
+        "numero": "12",
+        "titre": "Funknroll"
+      }
+    ],
+    "duree_totale": 2648.3039999999996,
+    "image": "Prince - 2014 - PlectrumElectrum.jpg",
+    "nom": "Prince - 2014 - PlectrumElectrum"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2015",
+    "album": "Hitnrun Phase One",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "MILLION $ SHOW"
+      },
+      {
+        "numero": "02",
+        "titre": "SHUT THIS DOWN"
+      },
+      {
+        "numero": "03",
+        "titre": "AIN'T ABOUT 2 STOP"
+      },
+      {
+        "numero": "04",
+        "titre": "LIKE A MACK"
+      },
+      {
+        "numero": "05",
+        "titre": "THIS COULD B US"
+      },
+      {
+        "numero": "06",
+        "titre": "FALLINLOVE2NITE"
+      },
+      {
+        "numero": "07",
+        "titre": "X'S FACE"
+      },
+      {
+        "numero": "08",
+        "titre": "HARDROCKLOVER"
+      },
+      {
+        "numero": "09",
+        "titre": "MR. NELSON"
+      },
+      {
+        "numero": "10",
+        "titre": "1000 X'S & O'S"
+      },
+      {
+        "numero": "11",
+        "titre": "JUNE"
+      }
+    ],
+    "duree_totale": 2278.2719999999995,
+    "image": "Prince - 2015 - Hitnrun Phase One.jpg",
+    "nom": "Prince - 2015 - Hitnrun Phase One"
+  },
+  {
+    "artiste": "Prince",
+    "annee": "2015",
+    "album": "Hitnrun Phase Two",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Baltimore"
+      },
+      {
+        "numero": "02",
+        "titre": "Rocknroll Loveaffair"
+      },
+      {
+        "numero": "03",
+        "titre": "2 Y. 2 D."
+      },
+      {
+        "numero": "04",
+        "titre": "Look At Me, Look At U"
+      },
+      {
+        "numero": "05",
+        "titre": "Stare"
+      },
+      {
+        "numero": "06",
+        "titre": "Xtralovable"
+      },
+      {
+        "numero": "07",
+        "titre": "Groovy Potential"
+      },
+      {
+        "numero": "08",
+        "titre": "When She Comes"
+      },
+      {
+        "numero": "09",
+        "titre": "Screwdriver"
+      },
+      {
+        "numero": "10",
+        "titre": "Black Muse"
+      },
+      {
+        "numero": "11",
+        "titre": "Revelation"
+      },
+      {
+        "numero": "12",
+        "titre": "Big City"
+      }
+    ],
+    "duree_totale": 3485.928,
+    "image": "Prince - 2015 - Hitnrun Phase Two.jpg",
+    "nom": "Prince - 2015 - Hitnrun Phase Two"
   },
   {
     "artiste": "Purple Vault",
@@ -45158,6 +47800,336 @@
     "duree_totale": 2980.946075,
     "image": "Urban Knights - 2019 - VII.jpg",
     "nom": "Urban Knights - 2019 - VII"
+  },
+  {
+    "artiste": "Vesta Williams",
+    "annee": "1986",
+    "album": "Vesta",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Something About You"
+      },
+      {
+        "numero": "02",
+        "titre": "Sweet Thang"
+      },
+      {
+        "numero": "03",
+        "titre": "Don't Blow A Good Thing"
+      },
+      {
+        "numero": "04",
+        "titre": "Get Out Of My Life"
+      },
+      {
+        "numero": "05",
+        "titre": "I Can Make Your Dreams Come True"
+      },
+      {
+        "numero": "06",
+        "titre": "Suddenly It's Magic"
+      },
+      {
+        "numero": "07",
+        "titre": "You Make Me Want To (Love Again)"
+      },
+      {
+        "numero": "08",
+        "titre": "It's You"
+      },
+      {
+        "numero": "09",
+        "titre": "Don't Let Me Down"
+      },
+      {
+        "numero": "10",
+        "titre": "Once Bitten Twice Shy"
+      },
+      {
+        "numero": "11",
+        "titre": "I'm Coming Back"
+      },
+      {
+        "numero": "12",
+        "titre": "My Heart Is Yours"
+      }
+    ],
+    "duree_totale": 3434.3999999999996,
+    "image": "Vesta Williams - 1986 - Vesta.jpg",
+    "nom": "Vesta Williams - 1986 - Vesta"
+  },
+  {
+    "artiste": "Vesta Williams",
+    "annee": "1988",
+    "album": "Vesta 4 U",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Here⧸Say"
+      },
+      {
+        "numero": "02",
+        "titre": "All On You"
+      },
+      {
+        "numero": "03",
+        "titre": "4 U"
+      },
+      {
+        "numero": "04",
+        "titre": "Sweet Sweet Love"
+      },
+      {
+        "numero": "05",
+        "titre": "How You Feel"
+      },
+      {
+        "numero": "06",
+        "titre": "Best I Ever Had"
+      },
+      {
+        "numero": "07",
+        "titre": "Hunger"
+      },
+      {
+        "numero": "08",
+        "titre": "Congratulations"
+      },
+      {
+        "numero": "09",
+        "titre": "Running Into Memories"
+      },
+      {
+        "numero": "10",
+        "titre": "Make It With You"
+      }
+    ],
+    "duree_totale": 2823.0,
+    "image": "Vesta Williams - 1988 - Vesta 4 U.jpg",
+    "nom": "Vesta Williams - 1988 - Vesta 4 U"
+  },
+  {
+    "artiste": "Vesta Williams",
+    "annee": "1991",
+    "album": "Special",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Special"
+      },
+      {
+        "numero": "02",
+        "titre": "I Don't Wanna Cry Anymore"
+      },
+      {
+        "numero": "03",
+        "titre": "Person To Person"
+      },
+      {
+        "numero": "04",
+        "titre": "Can't Get Enough Of Your Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Where Does The Love Go？"
+      },
+      {
+        "numero": "06",
+        "titre": "Thank You For The Chance"
+      },
+      {
+        "numero": "07",
+        "titre": "The Rib Joint"
+      },
+      {
+        "numero": "08",
+        "titre": "TLC"
+      },
+      {
+        "numero": "09",
+        "titre": "Do Ya"
+      },
+      {
+        "numero": "10",
+        "titre": "Don't Trip"
+      },
+      {
+        "numero": "11",
+        "titre": "Compassion"
+      },
+      {
+        "numero": "12",
+        "titre": "I Promise Love"
+      }
+    ],
+    "duree_totale": 3576.816,
+    "image": "Vesta Williams - 1991 - Special.jpg",
+    "nom": "Vesta Williams - 1991 - Special"
+  },
+  {
+    "artiste": "Vesta Williams",
+    "annee": "1993",
+    "album": "Everything-N-More",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I'll Give You My Love"
+      },
+      {
+        "numero": "02",
+        "titre": "Over & Over"
+      },
+      {
+        "numero": "03",
+        "titre": "So Good"
+      },
+      {
+        "numero": "04",
+        "titre": "Now That I Have You"
+      },
+      {
+        "numero": "05",
+        "titre": "Always"
+      },
+      {
+        "numero": "06",
+        "titre": "Outstanding"
+      },
+      {
+        "numero": "07",
+        "titre": "Tell Me"
+      },
+      {
+        "numero": "08",
+        "titre": "Can't Let Go"
+      },
+      {
+        "numero": "09",
+        "titre": "Stop Frontin'"
+      },
+      {
+        "numero": "10",
+        "titre": "In Your Mind"
+      },
+      {
+        "numero": "11",
+        "titre": "4 The Love Of U"
+      }
+    ],
+    "duree_totale": 3327.48,
+    "image": "Vesta Williams - 1993 - Everything-N-More.jpg",
+    "nom": "Vesta Williams - 1993 - Everything-N-More"
+  },
+  {
+    "artiste": "Vesta Williams",
+    "annee": "2007",
+    "album": "Distant Lover",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Use Me"
+      },
+      {
+        "numero": "02",
+        "titre": "Whip Appeal"
+      },
+      {
+        "numero": "03",
+        "titre": "Distant Lover"
+      },
+      {
+        "numero": "04",
+        "titre": "If You Want Me To Stay"
+      },
+      {
+        "numero": "05",
+        "titre": "With You I'm Born Again"
+      },
+      {
+        "numero": "06",
+        "titre": "Knock Me Off My Feet"
+      },
+      {
+        "numero": "07",
+        "titre": "No Ordinary Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Free"
+      },
+      {
+        "numero": "09",
+        "titre": "Ooh Baby Baby"
+      },
+      {
+        "numero": "10",
+        "titre": "Could It Be I'm Falling In Love"
+      }
+    ],
+    "duree_totale": 2931.792,
+    "image": "Vesta Williams - 2007 - Distant Lover.jpg",
+    "nom": "Vesta Williams - 2007 - Distant Lover"
+  },
+  {
+    "artiste": "Vesta Williams",
+    "annee": "2013",
+    "album": "Seven",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Water On the World"
+      },
+      {
+        "numero": "02",
+        "titre": "Better Days"
+      },
+      {
+        "numero": "03",
+        "titre": "Silly"
+      },
+      {
+        "numero": "04",
+        "titre": "What Is This"
+      },
+      {
+        "numero": "05",
+        "titre": "Hold On"
+      },
+      {
+        "numero": "06",
+        "titre": "Five Ways"
+      },
+      {
+        "numero": "07",
+        "titre": "All You Girls"
+      },
+      {
+        "numero": "08",
+        "titre": "Dedicated"
+      },
+      {
+        "numero": "09",
+        "titre": "Can We Talk About It"
+      },
+      {
+        "numero": "10",
+        "titre": "Truth of the Matter"
+      },
+      {
+        "numero": "11",
+        "titre": "Rewind"
+      }
+    ],
+    "duree_totale": 2590.6799999999994,
+    "image": "Vesta Williams - 2013 - Seven.jpg",
+    "nom": "Vesta Williams - 2013 - Seven"
   },
   {
     "artiste": "Wanda Walden",

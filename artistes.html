@@ -5,6 +5,71 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Artistes - Collection Robin</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        .alphabet-nav {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.3rem;
+            justify-content: center;
+            margin: 1.5rem 0;
+            padding: 1rem;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            position: sticky;
+            top: 70px;
+            z-index: 50;
+        }
+        .alphabet-nav a {
+            display: inline-block;
+            padding: 0.3rem 0.7rem;
+            border-radius: 4px;
+            text-decoration: none;
+            color: #333;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+        .alphabet-nav a:hover {
+            background: #FF6B35;
+            color: white;
+        }
+        .alphabet-nav a.disabled {
+            opacity: 0.3;
+            pointer-events: none;
+        }
+        .search-box {
+            width: 100%;
+            max-width: 400px;
+            padding: 0.8rem 1.2rem;
+            border: 2px solid #ddd;
+            border-radius: 30px;
+            font-size: 1rem;
+            margin: 0 auto 1.5rem auto;
+            display: block;
+        }
+        .search-box:focus {
+            outline: none;
+            border-color: #FF6B35;
+        }
+        .artistes-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1.5rem;
+        }
+        .artiste-section {
+            margin-bottom: 2rem;
+        }
+        .artiste-section h2 {
+            background: #f5f5f5;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            margin: 1rem 0 0.5rem 0;
+            font-weight: 500;
+            color: #555;
+        }
+    </style>
 </head>
 <body>
     <nav class="main-nav">
@@ -12,18 +77,25 @@
         <a href="artistes.html" class="active">🎤 Artistes</a>
         <a href="classement.html">🏆 Classement</a>
         <a href="recommandation.html">⭐ Recommandation</a>
-        <button id="authBtn" class="auth-btn">🔑 Connexion</button>
+        <button id="authBtn" class="auth-btn" onclick="alert('Connexion à venir')">🔑 Connexion</button>
     </nav>
-    
     <main>
         <h1>Artistes</h1>
-        <div id="artistesGrid" class="artistes-grid"></div>
+        <input type="text" id="searchInput" class="search-box" placeholder="🔍 Rechercher un artiste..." 
+               onkeyup="filtrerArtistes(this.value)">
+        <div id="alphabetNav" class="alphabet-nav"></div>
+        <div id="artistesContainer"></div>
     </main>
-    
     <script src="app.js"></script>
     <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            chargerArtistes();
+        // Initialisation après chargement
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('📄 Page artistes chargée');
+            if (typeof chargerArtistes === 'function') {
+                chargerArtistes();
+            } else {
+                console.error('❌ chargerArtistes non défini');
+            }
         });
     </script>
 </body>

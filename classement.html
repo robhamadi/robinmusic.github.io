@@ -12,33 +12,22 @@
         <a href="artistes.html">🎤 Artistes</a>
         <a href="classement.html" class="active">🏆 Classement</a>
         <a href="recommandation.html">⭐ Recommandation</a>
-        <button id="authBtn" class="auth-btn">🔑 Connexion</button>
+        <button id="authBtn" class="auth-btn" onclick="alert('Connexion à venir')">🔑 Connexion</button>
     </nav>
-    
     <main>
         <h1>🏆 Classement des albums</h1>
-        
         <div class="filter-container">
-            <button class="filter-btn active" data-filter="all">Tous</button>
-            <button class="filter-btn" data-filter="top10">Top 10</button>
-            <button class="filter-btn" data-filter="top50">Top 50</button>
+            <button class="filter-btn active" onclick="chargerClassement('all')">Tous</button>
+            <button class="filter-btn" onclick="chargerClassement('top10')">Top 10</button>
+            <button class="filter-btn" onclick="chargerClassement('top50')">Top 50</button>
         </div>
-        
         <div id="classementList" class="classement-list"></div>
     </main>
-    
     <script src="app.js"></script>
     <script>
-        document.addEventListener('DOMContentLoaded', () => {
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('📄 Page classement chargée');
             chargerClassement('all');
-            
-            document.querySelectorAll('.filter-btn').forEach(btn => {
-                btn.addEventListener('click', () => {
-                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    chargerClassement(btn.dataset.filter);
-                });
-            });
         });
     </script>
 </body>

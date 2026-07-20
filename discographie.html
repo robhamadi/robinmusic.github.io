@@ -5,6 +5,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Discographie - Collection Robin</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        .sort-options { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+        .sort-btn {
+            padding: 0.5rem 1.5rem;
+            border: 2px solid #ddd;
+            border-radius: 30px;
+            background: white;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 500;
+        }
+        .sort-btn:hover { border-color: #FF6B35; }
+        .sort-btn.active { background: #FF6B35; color: white; border-color: #FF6B35; }
+        .discographie-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 1.5rem;
+        }
+        .discographie-item {
+            background: white;
+            border-radius: 12px;
+            padding: 1rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            cursor: pointer;
+            transition: all 0.3s;
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+        .discographie-item:hover { transform: translateY(-3px); box-shadow: 0 5px 20px rgba(0,0,0,0.15); }
+        .discographie-item .album-info { flex: 1; }
+        .discographie-item .album-title { font-weight: 600; }
+        .discographie-item .album-year { color: #666; font-size: 0.9rem; }
+    </style>
 </head>
 <body>
     <nav class="main-nav">
@@ -12,22 +46,26 @@
         <a href="artistes.html">🎤 Artistes</a>
         <a href="classement.html">🏆 Classement</a>
         <a href="recommandation.html">⭐ Recommandation</a>
-        <button id="authBtn" class="auth-btn">🔑 Connexion</button>
+        <button id="authBtn" class="auth-btn" onclick="alert('Connexion à venir')">🔑 Connexion</button>
     </nav>
-    
     <main>
         <button onclick="history.back()" class="back-btn">← Retour</button>
         <h1 id="artisteName">Artiste</h1>
+        <div class="sort-options">
+            <button class="sort-btn active" onclick="chargerDiscographie(document.getElementById('artisteName').textContent, 'chronologique')">📅 Chronologique</button>
+            <button class="sort-btn" onclick="chargerDiscographie(document.getElementById('artisteName').textContent, 'chronologique-inverse')">📅 Du plus récent</button>
+            <button class="sort-btn" onclick="chargerDiscographie(document.getElementById('artisteName').textContent, 'alpha')">🔤 Alphabétique</button>
+        </div>
         <div id="discographieList" class="discographie-list"></div>
     </main>
-    
     <script src="app.js"></script>
     <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const params = new URLSearchParams(window.location.search);
-            const artiste = params.get('artiste');
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('📄 Page discographie chargée');
+            var params = new URLSearchParams(window.location.search);
+            var artiste = params.get('artiste');
             if (artiste) {
-                chargerDiscographie(artiste);
+                chargerDiscographie(artiste, 'chronologique');
             }
         });
     </script>

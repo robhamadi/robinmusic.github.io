@@ -5,110 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Album - Collection Robin</title>
     <link rel="stylesheet" href="style.css">
-    <style>
-        .rating-stars {
-            display: flex;
-            gap: 0.5rem;
-            align-items: center;
-            margin: 0.5rem 0;
-        }
-        .star {
-            font-size: 1.5rem;
-            color: #ddd;
-            cursor: pointer;
-            transition: color 0.2s;
-        }
-        .star.active {
-            color: #FFD700;
-        }
-        .star:hover {
-            color: #FFC107;
-        }
-        .rating-value {
-            font-weight: bold;
-            min-width: 2rem;
-            text-align: center;
-        }
-        .comment-section {
-            margin-top: 2rem;
-        }
-        .comment-section textarea {
-            width: 100%;
-            padding: 0.8rem;
-            border-radius: 8px;
-            border: 1px solid #ddd;
-            font-family: inherit;
-            min-height: 100px;
-            resize: vertical;
-        }
-        .save-btn {
-            margin-top: 1rem;
-            padding: 0.8rem 2rem;
-            background: #4CAF50;
-            color: white;
-            border: none;
-            border-radius: 8px;
-            cursor: pointer;
-            font-size: 1rem;
-        }
-        .save-btn:hover {
-            background: #45a049;
-        }
-        .save-btn:disabled {
-            background: #ccc;
-            cursor: not-allowed;
-        }
-        .auth-message {
-            padding: 0.5rem 1rem;
-            border-radius: 8px;
-            margin: 1rem 0;
-        }
-        .auth-message.info {
-            background: #e3f2fd;
-            color: #1565c0;
-        }
-        .auth-message.success {
-            background: #e8f5e9;
-            color: #2e7d32;
-        }
-        .rating-axis {
-            background: #f5f5f5;
-            padding: 1rem;
-            border-radius: 8px;
-            margin: 0.5rem 0;
-        }
-        .album-header {
-            display: flex;
-            gap: 2rem;
-            margin-bottom: 2rem;
-            flex-wrap: wrap;
-        }
-        .album-cover {
-            max-width: 300px;
-            width: 100%;
-            border-radius: 8px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
-        }
-        .album-info {
-            flex: 1;
-            min-width: 250px;
-        }
-        .pondered-note {
-            font-size: 2rem;
-            font-weight: bold;
-            color: #FF6B35;
-            margin: 1rem 0;
-        }
-        @media (max-width: 768px) {
-            .album-header {
-                flex-direction: column;
-                align-items: center;
-            }
-            .album-cover {
-                max-width: 200px;
-            }
-        }
-    </style>
 </head>
 <body>
     <nav class="main-nav">
@@ -116,16 +12,18 @@
         <a href="artistes.html">🎤 Artistes</a>
         <a href="classement.html">🏆 Classement</a>
         <a href="recommandation.html">⭐ Recommandation</a>
-        <button id="authBtn" class="auth-btn">🔑 Connexion</button>
+        <button id="authBtn" class="auth-btn" onclick="alert('Connexion à venir')">🔑 Connexion</button>
     </nav>
-    
     <main>
         <button onclick="history.back()" class="back-btn">← Retour</button>
-        <div id="albumContainer">
-            <div class="loading">Chargement...</div>
-        </div>
+        <div id="albumContainer"><div class="loading">Chargement...</div></div>
     </main>
-    
     <script src="app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('📄 Page album chargée');
+            chargerAlbum();
+        });
+    </script>
 </body>
 </html>
