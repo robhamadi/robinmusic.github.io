@@ -61,6 +61,7 @@ h1 { margin-bottom: 2rem; font-weight: 300; font-size: 2.5rem; }
     transition: all 0.3s;
     text-decoration: none;
     color: inherit;
+    display: block;
 }
 .artiste-card:hover {
     transform: translateY(-5px);
@@ -97,6 +98,7 @@ h1 { margin-bottom: 2rem; font-weight: 300; font-size: 2.5rem; }
 .classement-item .info { flex: 1; }
 .classement-item .title { font-weight: 600; }
 .classement-item .artist { color: #666; font-size: 0.9rem; }
+.classement-item .details { font-size: 0.8rem; color: #aaa; margin-top: 0.2rem; }
 .classement-item .score { font-weight: bold; font-size: 1.2rem; color: #FF6B35; }
 .filter-container { display: flex; gap: 0.5rem; margin-bottom: 2rem; flex-wrap: wrap; }
 .filter-btn {

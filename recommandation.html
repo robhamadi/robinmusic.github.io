@@ -12,20 +12,20 @@
         <a href="artistes.html">🎤 Artistes</a>
         <a href="classement.html">🏆 Classement</a>
         <a href="recommandation.html" class="active">⭐ Recommandation</a>
-        <button id="authBtn" class="auth-btn" onclick="alert('Connexion à venir')">🔑 Connexion</button>
+        <button id="authBtn" class="auth-btn" onclick="alert('🔑 Connexion à venir avec Firebase')">🔑 Connexion</button>
     </nav>
     <main>
         <h1>⭐ Recommandation du jour</h1>
-        <div id="recommandationContainer"></div>
-        <div id="adminZone" style="margin-top:3rem;border-top:2px solid #eee;padding-top:2rem;"></div>
+        <div id="recommandationContainer" style="text-align:center;padding:3rem;background:white;border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.1);">
+            <p style="font-size:3rem;">🎵</p>
+            <h3 style="margin:1rem 0;">Recommandation du jour</h3>
+            <p style="color:#888;">Fonctionnalité à venir avec Firebase</p>
+            <p style="font-size:0.9rem;color:#aaa;margin-top:1rem;">Connectez-vous en tant qu'admin pour définir la recommandation</p>
+        </div>
+        <div id="adminZone" style="margin-top:3rem;border-top:2px solid #eee;padding-top:2rem;text-align:center;">
+            <h2>👑 Admin</h2>
+            <p style="color:#888;">Fonctionnalité à venir avec Firebase</p>
+        </div>
     </main>
-    <script src="app.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            console.log('📄 Page recommandation chargée');
-            chargerRecommandation();
-            chargerAlbumsPourAdmin();
-        });
-    </script>
 </body>
 </html>
