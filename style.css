@@ -37,8 +37,11 @@ body {
     color: white;
     cursor: pointer;
     font-size: 0.9rem;
+    transition: all 0.3s;
 }
 .auth-btn:hover { background: #0056b3; }
+.auth-btn.logged-in { background: #dc3545; }
+.auth-btn.logged-in:hover { background: #c82333; }
 main { max-width: 1200px; margin: 0 auto; padding: 2rem; }
 h1 { margin-bottom: 2rem; font-weight: 300; font-size: 2.5rem; }
 .back-btn {
