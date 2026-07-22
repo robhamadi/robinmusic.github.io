@@ -26921,16 +26921,6 @@
     "artiste": "Gary Taylor",
     "annee": "1983",
     "album": "G.T",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": null,
-    "nom": "Gary Taylor - 1983 - G.T"
-  },
-  {
-    "artiste": "Gary Taylor",
-    "annee": "1983",
-    "album": "G.T#",
     "nb_pistes": 10,
     "pistes": [
       {
@@ -26976,7 +26966,7 @@
     ],
     "duree_totale": 2934.912,
     "image": null,
-    "nom": "Gary Taylor - 1983 - G.T#"
+    "nom": "Gary Taylor - 1983 - G.T"
   },
   {
     "artiste": "Genobia Jeter",
@@ -27024,61 +27014,49 @@
   {
     "artiste": "Genobia Jeter",
     "annee": "1981",
-    "album": "Genobia",
-    "nb_pistes": 12,
+    "album": "Things Have Got To Get Better",
+    "nb_pistes": 9,
     "pistes": [
       {
         "numero": "01",
-        "titre": "Sunshine"
+        "titre": "Things ＂Have＂ Got To Get Better"
       },
       {
         "numero": "02",
-        "titre": "Peace of Mind"
+        "titre": "He Won't Say No"
       },
       {
         "numero": "03",
-        "titre": "Together"
+        "titre": "This Ain't the Way"
       },
       {
         "numero": "04",
-        "titre": "Blessing in Disguise"
+        "titre": "It's Up To You"
       },
       {
         "numero": "05",
-        "titre": "I Just Want What's Mine"
+        "titre": "Every Now and Then"
       },
       {
         "numero": "06",
-        "titre": "We Got Love"
+        "titre": "He's Calling You"
       },
       {
         "numero": "07",
-        "titre": "All of My Love"
+        "titre": "Nobody But You"
       },
       {
         "numero": "08",
-        "titre": "Take a Look"
+        "titre": "Not Just For Today"
       },
       {
         "numero": "09",
-        "titre": "Together"
-      },
-      {
-        "numero": "10",
-        "titre": "Together (Remix)"
-      },
-      {
-        "numero": "11",
-        "titre": "Together (Dub Version)"
-      },
-      {
-        "numero": "12",
-        "titre": "All of My Love (Instrumental)"
+        "titre": "He's All You Need"
       }
     ],
-    "duree_totale": 3690.7439999999997,
-    "image": "Genobia Jeter - 1981 - Genobia.jpg",
-    "nom": "Genobia Jeter - 1981 - Genobia"
+    "duree_totale": 2964.912,
+    "image": "Genobia Jeter - 1981 - Things Have Got To Get Better.jpg",
+    "nom": "Genobia Jeter - 1981 - Things Have Got To Get Better"
   },
   {
     "artiste": "Genobia Jeter",
