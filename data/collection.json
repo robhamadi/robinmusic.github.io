@@ -7792,6 +7792,290 @@
   },
   {
     "artiste": "Billy Ocean",
+    "annee": "1976",
+    "album": "Billy Ocean",
+    "nb_pistes": 16,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Tell Him to Move Over"
+      },
+      {
+        "numero": "02",
+        "titre": "Stop Me (If You've Heard It All Before)"
+      },
+      {
+        "numero": "03",
+        "titre": "(Let's Put Our) Emotions in Motion"
+      },
+      {
+        "numero": "04",
+        "titre": "Let's Do It All Again"
+      },
+      {
+        "numero": "05",
+        "titre": "Love Really Hurts Without You"
+      },
+      {
+        "numero": "06",
+        "titre": "Whose Little Girl Are You"
+      },
+      {
+        "numero": "07",
+        "titre": "Soul Rock"
+      },
+      {
+        "numero": "08",
+        "titre": "One Kiss Away"
+      },
+      {
+        "numero": "09",
+        "titre": "Hungry for Love"
+      },
+      {
+        "numero": "10",
+        "titre": "Eye of a Storm"
+      },
+      {
+        "numero": "11",
+        "titre": "L.O.D. (Love on Delivery)"
+      },
+      {
+        "numero": "12",
+        "titre": "Cream on the Top"
+      },
+      {
+        "numero": "13",
+        "titre": "You're Running Outa Fools"
+      },
+      {
+        "numero": "14",
+        "titre": "Mr Business Man"
+      },
+      {
+        "numero": "15",
+        "titre": "Red Light Spells Danger"
+      },
+      {
+        "numero": "16",
+        "titre": "Sweet Memories"
+      }
+    ],
+    "duree_totale": 3015.8400000000006,
+    "image": "Billy Ocean - 1976 - Billy Ocean.jpg",
+    "nom": "Billy Ocean - 1976 - Billy Ocean"
+  },
+  {
+    "artiste": "Billy Ocean",
+    "annee": "1980",
+    "album": "City Limit",
+    "nb_pistes": 16,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Stay the Night"
+      },
+      {
+        "numero": "02",
+        "titre": "What You Doing to Me"
+      },
+      {
+        "numero": "03",
+        "titre": "Who's Gonna Rock You"
+      },
+      {
+        "numero": "04",
+        "titre": "Maybe Tonight"
+      },
+      {
+        "numero": "05",
+        "titre": "City Limit"
+      },
+      {
+        "numero": "06",
+        "titre": "Are You Ready"
+      },
+      {
+        "numero": "07",
+        "titre": "Whatever Turns You On"
+      },
+      {
+        "numero": "08",
+        "titre": "Taking Chances"
+      },
+      {
+        "numero": "09",
+        "titre": "American Hearts"
+      },
+      {
+        "numero": "10",
+        "titre": "Are You Ready (12＂ Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "Are You Ready (7＂ Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "American Hearts (12＂ Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "My Love"
+      },
+      {
+        "numero": "14",
+        "titre": "Everything's Changed"
+      },
+      {
+        "numero": "15",
+        "titre": "Tell Him to Move Over"
+      },
+      {
+        "numero": "16",
+        "titre": "Stay the Night (12＂ Version)"
+      }
+    ],
+    "duree_totale": 4499.952,
+    "image": "Billy Ocean - 1980 - City Limit.jpg",
+    "nom": "Billy Ocean - 1980 - City Limit"
+  },
+  {
+    "artiste": "Billy Ocean",
+    "annee": "1981",
+    "album": "Nights (Feel Like Getting Down)",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Are You Ready"
+      },
+      {
+        "numero": "02",
+        "titre": "Don't Say Stop"
+      },
+      {
+        "numero": "03",
+        "titre": "Whatever Turns You On"
+      },
+      {
+        "numero": "04",
+        "titre": "Another Day Won't Matter"
+      },
+      {
+        "numero": "05",
+        "titre": "Nights (Feel Like Gettin' Down)"
+      },
+      {
+        "numero": "06",
+        "titre": "Who's Gonna Rock You"
+      },
+      {
+        "numero": "07",
+        "titre": "Stay the Night"
+      },
+      {
+        "numero": "08",
+        "titre": "Everlasting Love"
+      },
+      {
+        "numero": "09",
+        "titre": "Taking Chances"
+      },
+      {
+        "numero": "10",
+        "titre": "Are You Ready (12＂ Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "Stay the Night (12＂ Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "Nights (Feel Like Gettin' Down) (7＂ Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "Another Day Won't Matter (7＂ Version)"
+      }
+    ],
+    "duree_totale": 3554.0400000000004,
+    "image": "Billy Ocean - 1981 - Nights (Feel Like Getting Down).jpg",
+    "nom": "Billy Ocean - 1981 - Nights (Feel Like Getting Down)"
+  },
+  {
+    "artiste": "Billy Ocean",
+    "annee": "1982",
+    "album": "Inner Feelings",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Calypso Funkin'"
+      },
+      {
+        "numero": "02",
+        "titre": "Rock-A-Bye Baby"
+      },
+      {
+        "numero": "03",
+        "titre": "No Matter What"
+      },
+      {
+        "numero": "04",
+        "titre": "Dance With Me"
+      },
+      {
+        "numero": "05",
+        "titre": "I Can't Stop"
+      },
+      {
+        "numero": "06",
+        "titre": "Tryin' To Get Through To You"
+      },
+      {
+        "numero": "07",
+        "titre": "Mind Games"
+      },
+      {
+        "numero": "08",
+        "titre": "Was It You"
+      },
+      {
+        "numero": "09",
+        "titre": "Inner Feelings"
+      },
+      {
+        "numero": "10",
+        "titre": "Smile"
+      },
+      {
+        "numero": "11",
+        "titre": "Somebody"
+      },
+      {
+        "numero": "12",
+        "titre": "City Limit"
+      },
+      {
+        "numero": "13",
+        "titre": "Calypso Funkin'"
+      },
+      {
+        "numero": "14",
+        "titre": "Was It You (Edit)"
+      },
+      {
+        "numero": "15",
+        "titre": "Inner Feelings"
+      }
+    ],
+    "duree_totale": 4186.08,
+    "image": "Billy Ocean - 1982 - Inner Feelings.jpg",
+    "nom": "Billy Ocean - 1982 - Inner Feelings"
+  },
+  {
+    "artiste": "Billy Ocean",
     "annee": "1984",
     "album": "Suddenly",
     "nb_pistes": 13,
@@ -7852,6 +8136,309 @@
     "duree_totale": 4450.853171938776,
     "image": "Billy Ocean - 1984 - Suddenly.jpg",
     "nom": "Billy Ocean - 1984 - Suddenly"
+  },
+  {
+    "artiste": "Billy Ocean",
+    "annee": "1986",
+    "album": "Love Zone",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "When the Going Gets Tough, the Tough Get Going"
+      },
+      {
+        "numero": "02",
+        "titre": "Love Zone"
+      },
+      {
+        "numero": "03",
+        "titre": "Without You"
+      },
+      {
+        "numero": "04",
+        "titre": "There'll Be Sad Songs (To Make You Cry)"
+      },
+      {
+        "numero": "05",
+        "titre": "Bitter Sweet"
+      },
+      {
+        "numero": "06",
+        "titre": "It's Never Too Late to Try"
+      },
+      {
+        "numero": "07",
+        "titre": "Showdown"
+      },
+      {
+        "numero": "08",
+        "titre": "Promise Me"
+      },
+      {
+        "numero": "09",
+        "titre": "Love Is Forever"
+      },
+      {
+        "numero": "10",
+        "titre": "Love Zone (Extended Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "Bitter Sweet (Extended Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "When the Going Gets Tough (Extended Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "There'll Be Sad Songs (To Make You Cry)"
+      }
+    ],
+    "duree_totale": 4168.584000000001,
+    "image": "Billy Ocean - 1986 - Love Zone.jpg",
+    "nom": "Billy Ocean - 1986 - Love Zone"
+  },
+  {
+    "artiste": "Billy Ocean",
+    "annee": "1988",
+    "album": "Tear Down These Walls",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Tear Down These Walls"
+      },
+      {
+        "numero": "02",
+        "titre": "Gun for Hire"
+      },
+      {
+        "numero": "03",
+        "titre": "Stand and Deliver"
+      },
+      {
+        "numero": "04",
+        "titre": "The Colour of Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Calypso Crazy"
+      },
+      {
+        "numero": "06",
+        "titre": "Get Outta My Dreams, Get into My Car"
+      },
+      {
+        "numero": "07",
+        "titre": "Soon As You're Ready"
+      },
+      {
+        "numero": "08",
+        "titre": "Pleasure"
+      },
+      {
+        "numero": "09",
+        "titre": "Because of You"
+      },
+      {
+        "numero": "10",
+        "titre": "Here's to You"
+      }
+    ],
+    "duree_totale": 2795.928000000001,
+    "image": "Billy Ocean - 1988 - Tear Down These Walls.jpg",
+    "nom": "Billy Ocean - 1988 - Tear Down These Walls"
+  },
+  {
+    "artiste": "Billy Ocean",
+    "annee": "1993",
+    "album": "Time to Move On",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Pick Up The Pieces (Put It Back)"
+      },
+      {
+        "numero": "02",
+        "titre": "Pressure"
+      },
+      {
+        "numero": "03",
+        "titre": "Upside Down"
+      },
+      {
+        "numero": "04",
+        "titre": "Everyday Sunshine"
+      },
+      {
+        "numero": "05",
+        "titre": "Stand Up Stand Up"
+      },
+      {
+        "numero": "06",
+        "titre": "The World Wants To Dance"
+      },
+      {
+        "numero": "07",
+        "titre": "Time To Move On"
+      },
+      {
+        "numero": "08",
+        "titre": "Rose"
+      },
+      {
+        "numero": "09",
+        "titre": "Can We Go 'Round Again？"
+      },
+      {
+        "numero": "10",
+        "titre": "Everything's So Different Without You"
+      },
+      {
+        "numero": "11",
+        "titre": "I'll Be There For You"
+      },
+      {
+        "numero": "12",
+        "titre": "On Your Knees"
+      }
+    ],
+    "duree_totale": 3324.408,
+    "image": "Billy Ocean - 1993 - Time to Move On.jpg",
+    "nom": "Billy Ocean - 1993 - Time to Move On"
+  },
+  {
+    "artiste": "Billy Ocean",
+    "annee": "2013",
+    "album": "Here You Are",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Cry Me a River"
+      },
+      {
+        "numero": "02",
+        "titre": "No Woman No Cry"
+      },
+      {
+        "numero": "03",
+        "titre": "High Tide Low Tide"
+      },
+      {
+        "numero": "04",
+        "titre": "You Send Me"
+      },
+      {
+        "numero": "05",
+        "titre": "Here You Are"
+      },
+      {
+        "numero": "06",
+        "titre": "A Simple Game"
+      },
+      {
+        "numero": "07",
+        "titre": "It Was a Very Good Year"
+      },
+      {
+        "numero": "08",
+        "titre": "Having a Party"
+      },
+      {
+        "numero": "09",
+        "titre": "Judge Not"
+      },
+      {
+        "numero": "10",
+        "titre": "Get Outta My Dreams, Get Into My Car"
+      },
+      {
+        "numero": "11",
+        "titre": "There'll Be Sad Songs (To Make You Cry)"
+      },
+      {
+        "numero": "12",
+        "titre": "Loverboy"
+      },
+      {
+        "numero": "13",
+        "titre": "The Long and Winding Road"
+      },
+      {
+        "numero": "14",
+        "titre": "Mystery Lady"
+      },
+      {
+        "numero": "15",
+        "titre": "I Sleep Much Better (In Someone Else's Bed)"
+      }
+    ],
+    "duree_totale": 4219.536,
+    "image": "Billy Ocean - 2013 - Here You Are.jpg",
+    "nom": "Billy Ocean - 2013 - Here You Are"
+  },
+  {
+    "artiste": "Billy Ocean",
+    "annee": "2020",
+    "album": "One World",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "We Gotta Find Love"
+      },
+      {
+        "numero": "02",
+        "titre": "Love You More"
+      },
+      {
+        "numero": "03",
+        "titre": "Feel the Love"
+      },
+      {
+        "numero": "04",
+        "titre": "One World"
+      },
+      {
+        "numero": "05",
+        "titre": "When I Saw You"
+      },
+      {
+        "numero": "06",
+        "titre": "Mystery"
+      },
+      {
+        "numero": "07",
+        "titre": "Missing You Everyday"
+      },
+      {
+        "numero": "08",
+        "titre": "Can't Stand the Pain"
+      },
+      {
+        "numero": "09",
+        "titre": "Betcha Don't Know"
+      },
+      {
+        "numero": "10",
+        "titre": "All Over the World"
+      },
+      {
+        "numero": "11",
+        "titre": "Daylight"
+      },
+      {
+        "numero": "12",
+        "titre": "Nothing Will Stand in Our Way"
+      }
+    ],
+    "duree_totale": 3414.9120000000007,
+    "image": "Billy Ocean - 2020 - One World.jpg",
+    "nom": "Billy Ocean - 2020 - One World"
   },
   {
     "artiste": "Bob James",
@@ -26390,6 +26977,167 @@
     "duree_totale": 2934.912,
     "image": null,
     "nom": "Gary Taylor - 1983 - G.T#"
+  },
+  {
+    "artiste": "Genobia Jeter",
+    "annee": "1980",
+    "album": "Heaven",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Heaven (Where Only The Righteous Shall See God)"
+      },
+      {
+        "numero": "02",
+        "titre": "Try To Realize"
+      },
+      {
+        "numero": "03",
+        "titre": "Give Me Something That's Really Real"
+      },
+      {
+        "numero": "04",
+        "titre": "So Good"
+      },
+      {
+        "numero": "05",
+        "titre": "Call On Jesus"
+      },
+      {
+        "numero": "06",
+        "titre": "My God Is Truly Amazing"
+      },
+      {
+        "numero": "07",
+        "titre": "Shine On Me"
+      },
+      {
+        "numero": "08",
+        "titre": "Master I Know You Can"
+      }
+    ],
+    "duree_totale": 2793.0480000000002,
+    "image": "Genobia Jeter - 1980 - Heaven.jpg",
+    "nom": "Genobia Jeter - 1980 - Heaven"
+  },
+  {
+    "artiste": "Genobia Jeter",
+    "annee": "1981",
+    "album": "Genobia",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sunshine"
+      },
+      {
+        "numero": "02",
+        "titre": "Peace of Mind"
+      },
+      {
+        "numero": "03",
+        "titre": "Together"
+      },
+      {
+        "numero": "04",
+        "titre": "Blessing in Disguise"
+      },
+      {
+        "numero": "05",
+        "titre": "I Just Want What's Mine"
+      },
+      {
+        "numero": "06",
+        "titre": "We Got Love"
+      },
+      {
+        "numero": "07",
+        "titre": "All of My Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Take a Look"
+      },
+      {
+        "numero": "09",
+        "titre": "Together"
+      },
+      {
+        "numero": "10",
+        "titre": "Together (Remix)"
+      },
+      {
+        "numero": "11",
+        "titre": "Together (Dub Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "All of My Love (Instrumental)"
+      }
+    ],
+    "duree_totale": 3690.7439999999997,
+    "image": "Genobia Jeter - 1981 - Genobia.jpg",
+    "nom": "Genobia Jeter - 1981 - Genobia"
+  },
+  {
+    "artiste": "Genobia Jeter",
+    "annee": "1986",
+    "album": "Genobia",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sunshine"
+      },
+      {
+        "numero": "02",
+        "titre": "Peace of Mind"
+      },
+      {
+        "numero": "03",
+        "titre": "Together"
+      },
+      {
+        "numero": "04",
+        "titre": "Blessing in Disguise"
+      },
+      {
+        "numero": "05",
+        "titre": "I Just Want What's Mine"
+      },
+      {
+        "numero": "06",
+        "titre": "We Got Love"
+      },
+      {
+        "numero": "07",
+        "titre": "All of My Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Take a Look"
+      },
+      {
+        "numero": "09",
+        "titre": "Together"
+      },
+      {
+        "numero": "10",
+        "titre": "Together (Remix)"
+      },
+      {
+        "numero": "11",
+        "titre": "Together (Dub Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "All of My Love (Instrumental)"
+      }
+    ],
+    "duree_totale": 3690.7439999999997,
+    "image": "Genobia Jeter - 1986 - Genobia.jpg",
+    "nom": "Genobia Jeter - 1986 - Genobia"
   },
   {
     "artiste": "George Benson",

@@ -3,145 +3,110 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Collection Musicale - Robin</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Collection Musicale de Robin</title>
     <style>
-        .home-container {
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             min-height: 100vh;
             display: flex;
-            flex-direction: column;
             align-items: center;
             justify-content: center;
+            background: #000;
             position: relative;
             overflow: hidden;
         }
-        .home-container::before {
+        
+        body::before {
             content: '';
             position: fixed;
             top: 0;
             left: 0;
             right: 0;
             bottom: 0;
-            background: url('images/powerlight.jpg') center/cover no-repeat;
+            background: url('Ace Spectrum - 1974 - Inner Spectrum.jpg') center/cover no-repeat;
             z-index: 0;
-            filter: brightness(0.6);
+            filter: brightness(0.5);
         }
-        .home-content {
+        
+        .container {
             position: relative;
             z-index: 1;
             text-align: center;
-            color: white;
             padding: 2rem;
         }
-        .home-title {
-            font-size: 3rem;
-            margin-bottom: 0.5rem;
-            text-shadow: 2px 2px 8px rgba(0,0,0,0.8);
+        
+        h1 {
+            color: white;
+            font-size: 3.5rem;
             font-weight: 300;
-            letter-spacing: 4px;
+            text-shadow: 2px 2px 20px rgba(0,0,0,0.8);
+            margin-bottom: 0.5rem;
+            letter-spacing: 2px;
         }
-        .home-subtitle {
+        
+        .subtitle {
+            color: rgba(255,255,255,0.7);
             font-size: 1.2rem;
-            opacity: 0.9;
-            text-shadow: 2px 2px 8px rgba(0,0,0,0.8);
-            margin-bottom: 2rem;
+            text-shadow: 2px 2px 10px rgba(0,0,0,0.8);
+            margin-bottom: 3rem;
         }
-        .home-stats {
-            display: flex;
-            gap: 3rem;
-            justify-content: center;
-            margin: 2rem 0;
-        }
-        .stat-item {
-            background: rgba(0,0,0,0.6);
-            backdrop-filter: blur(10px);
-            padding: 1rem 2rem;
-            border-radius: 12px;
-            border: 1px solid rgba(255,255,255,0.1);
-        }
-        .stat-number {
-            font-size: 2rem;
-            font-weight: bold;
-            display: block;
-        }
-        .stat-label {
-            font-size: 0.9rem;
-            opacity: 0.7;
-        }
-        .home-buttons {
-            display: flex;
-            gap: 1rem;
-            margin-top: 2rem;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
-        .home-btn {
-            padding: 0.8rem 2rem;
+        
+        .btn {
+            display: inline-block;
+            padding: 1.5rem 4rem;
             background: rgba(255,255,255,0.15);
             backdrop-filter: blur(10px);
-            border: 1px solid rgba(255,255,255,0.3);
-            border-radius: 30px;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-radius: 20px;
             color: white;
             text-decoration: none;
+            font-size: 2rem;
+            font-weight: 600;
             transition: all 0.3s ease;
-            font-size: 1rem;
+            cursor: pointer;
+            min-width: 300px;
         }
-        .home-btn:hover {
+        
+        .btn:hover {
             background: rgba(255,255,255,0.3);
             transform: scale(1.05);
+            border-color: rgba(255,255,255,0.6);
         }
-        .home-btn-primary {
-            background: rgba(255,107,53,0.8);
-            border-color: rgba(255,107,53,0.8);
+        
+        .btn .count {
+            display: block;
+            font-size: 1rem;
+            font-weight: 300;
+            margin-top: 0.3rem;
+            opacity: 0.8;
         }
-        .home-btn-primary:hover {
-            background: rgb(255,107,53);
-        }
+        
         @media (max-width: 768px) {
-            .home-title { font-size: 2rem; }
-            .home-stats { flex-direction: column; gap: 1rem; align-items: center; }
-            .stat-item { width: 80%; }
+            h1 {
+                font-size: 2.2rem;
+            }
+            .btn {
+                font-size: 1.5rem;
+                padding: 1.2rem 2rem;
+                min-width: 200px;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="home-container">
-        <div class="home-content">
-            <h1 class="home-title">🎵 Collection Musicale</h1>
-            <p class="home-subtitle">La discothèque de Robin</p>
-            <div class="home-stats">
-                <div class="stat-item">
-                    <span class="stat-number" id="albumCount">...</span>
-                    <span class="stat-label">Albums</span>
-                </div>
-                <div class="stat-item">
-                    <span class="stat-number" id="artistCount">...</span>
-                    <span class="stat-label">Artistes</span>
-                </div>
-            </div>
-            <div class="home-buttons">
-                <a href="artistes.html" class="home-btn home-btn-primary">🎤 Voir les artistes</a>
-                <a href="classement.html" class="home-btn">🏆 Classement</a>
-                <a href="recommandation.html" class="home-btn">⭐ Recommandation</a>
-            </div>
-        </div>
+    <div class="container">
+        <h1>🎵 Collection Musicale</h1>
+        <p class="subtitle">La discothèque de Robin</p>
+        <a href="artistes.html" class="btn">
+            🎤 180 Artistes
+            <span class="count">Cliquez pour découvrir</span>
+        </a>
     </div>
-    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
-    <script src="app.js"></script>
-    <script>
-        fetch('data/collection.json')
-            .then(function(r) { return r.json(); })
-            .then(function(data) {
-                var artistes = new Set(data.map(function(a) { return a.artiste; }));
-                document.getElementById('albumCount').textContent = data.length;
-                document.getElementById('artistCount').textContent = artistes.size;
-            })
-            .catch(function() {
-                document.getElementById('albumCount').textContent = '0';
-                document.getElementById('artistCount').textContent = '0';
-            });
-    </script>
 </body>
 </html>
