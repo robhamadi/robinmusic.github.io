@@ -46525,6 +46525,823 @@
     "nom": "The O'Jays - 1991 - Emotionally Yours"
   },
   {
+    "artiste": "The Pointer Sisters",
+    "annee": "1973",
+    "album": "The Pointer Sisters",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Yes We Can Can"
+      },
+      {
+        "numero": "02",
+        "titre": "Cloudburst"
+      },
+      {
+        "numero": "03",
+        "titre": "Jada"
+      },
+      {
+        "numero": "04",
+        "titre": "River Boulevard"
+      },
+      {
+        "numero": "05",
+        "titre": "Old Songs"
+      },
+      {
+        "numero": "06",
+        "titre": "That's How I Feel"
+      },
+      {
+        "numero": "07",
+        "titre": "Sugar"
+      },
+      {
+        "numero": "08",
+        "titre": "Pains And Tears"
+      },
+      {
+        "numero": "09",
+        "titre": "Naked Foot"
+      },
+      {
+        "numero": "10",
+        "titre": "Wang Dang Doodle"
+      }
+    ],
+    "duree_totale": 2821.1759999999995,
+    "image": "The Pointer Sisters - 1973 - The Pointer Sisters.jpg",
+    "nom": "The Pointer Sisters - 1973 - The Pointer Sisters"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1974",
+    "album": "That's a Plenty",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Bangin' On The Pipes ⧸ Steam Heat (Album Version)"
+      },
+      {
+        "numero": "02",
+        "titre": "Salt Peanuts"
+      },
+      {
+        "numero": "03",
+        "titre": "Grinning In Your Face"
+      },
+      {
+        "numero": "04",
+        "titre": "Shaky Flat Blues"
+      },
+      {
+        "numero": "05",
+        "titre": "That's A Plenty ⧸ Surfeit, U.S.A."
+      },
+      {
+        "numero": "06",
+        "titre": "Little Pony"
+      },
+      {
+        "numero": "07",
+        "titre": "Fairytale"
+      },
+      {
+        "numero": "08",
+        "titre": "Black Coffee"
+      },
+      {
+        "numero": "09",
+        "titre": "Love In Them There Hills"
+      }
+    ],
+    "duree_totale": 2902.6800000000003,
+    "image": "The Pointer Sisters - 1974 - That's a Plenty.jpg",
+    "nom": "The Pointer Sisters - 1974 - That's a Plenty"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1975",
+    "album": "Steppin'",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "How Long (Betcha' Got A Chick On The Side)"
+      },
+      {
+        "numero": "02",
+        "titre": "Sleeping Alone"
+      },
+      {
+        "numero": "03",
+        "titre": "Easy Days"
+      },
+      {
+        "numero": "04",
+        "titre": "Chainey Do"
+      },
+      {
+        "numero": "05",
+        "titre": "I Ain't Got Nothin' But The Blues"
+      },
+      {
+        "numero": "06",
+        "titre": "Save The Bones For Henry Jones"
+      },
+      {
+        "numero": "07",
+        "titre": "Wanting Things"
+      },
+      {
+        "numero": "08",
+        "titre": "Going Down Slowly (Album Version)"
+      }
+    ],
+    "duree_totale": 2493.6240000000003,
+    "image": "The Pointer Sisters - 1975 - Steppin'.jpg",
+    "nom": "The Pointer Sisters - 1975 - Steppin'"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1977",
+    "album": "Having a Party",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Having A Party"
+      },
+      {
+        "numero": "02",
+        "titre": "Don't It Drive You Crazy"
+      },
+      {
+        "numero": "03",
+        "titre": "I Need A Man"
+      },
+      {
+        "numero": "04",
+        "titre": "Waiting On You"
+      },
+      {
+        "numero": "05",
+        "titre": "I'll Get By Without You"
+      },
+      {
+        "numero": "06",
+        "titre": "Bring Your Sweet Stuff Home To Me"
+      },
+      {
+        "numero": "07",
+        "titre": "Lonely Gal"
+      }
+    ],
+    "duree_totale": 2149.896,
+    "image": "The Pointer Sisters - 1977 - Having a Party.jpg",
+    "nom": "The Pointer Sisters - 1977 - Having a Party"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1978",
+    "album": "Energy",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Lay It On the Line"
+      },
+      {
+        "numero": "02",
+        "titre": "Dirty Work"
+      },
+      {
+        "numero": "03",
+        "titre": "Hypnotized"
+      },
+      {
+        "numero": "04",
+        "titre": "As I Come Of Age"
+      },
+      {
+        "numero": "05",
+        "titre": "Come and Get Your Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Happiness"
+      },
+      {
+        "numero": "07",
+        "titre": "Fire"
+      },
+      {
+        "numero": "08",
+        "titre": "Angry Eyes"
+      },
+      {
+        "numero": "09",
+        "titre": "Echoes Of Love"
+      },
+      {
+        "numero": "10",
+        "titre": "Everybody Is a Star"
+      },
+      {
+        "numero": "11",
+        "titre": "Love Is Like A Rolling Stone"
+      },
+      {
+        "numero": "12",
+        "titre": "If You Wanna Get Back Your Lady"
+      },
+      {
+        "numero": "13",
+        "titre": "Happiness (12＂ Version)"
+      }
+    ],
+    "duree_totale": 3015.984,
+    "image": "The Pointer Sisters - 1978 - Energy.jpg",
+    "nom": "The Pointer Sisters - 1978 - Energy"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1979",
+    "album": "Priority",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Who Do You Love"
+      },
+      {
+        "numero": "02",
+        "titre": "All Your Love (Original Edit)"
+      },
+      {
+        "numero": "03",
+        "titre": "Dreaming as One"
+      },
+      {
+        "numero": "04",
+        "titre": "Turned Up Too Late (Album Version)"
+      },
+      {
+        "numero": "05",
+        "titre": "Happy"
+      },
+      {
+        "numero": "06",
+        "titre": "Blind Faith"
+      },
+      {
+        "numero": "07",
+        "titre": "Don't Let A Thief Steal Into Your Heart (Original Edit)"
+      },
+      {
+        "numero": "08",
+        "titre": "(She's Got) The Fever"
+      },
+      {
+        "numero": "09",
+        "titre": "The Shape I'm In"
+      },
+      {
+        "numero": "10",
+        "titre": "Nothin' But a Heartache"
+      }
+    ],
+    "duree_totale": 2389.3199999999997,
+    "image": "The Pointer Sisters - 1979 - Priority.jpg",
+    "nom": "The Pointer Sisters - 1979 - Priority"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1980",
+    "album": "Special Things",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Could I Be Dreamin'"
+      },
+      {
+        "numero": "02",
+        "titre": "He's so Shy"
+      },
+      {
+        "numero": "03",
+        "titre": "The Love Too Good to Last"
+      },
+      {
+        "numero": "04",
+        "titre": "Evil"
+      },
+      {
+        "numero": "05",
+        "titre": "Save This Night For Love (Album Version)"
+      },
+      {
+        "numero": "06",
+        "titre": "We've Got the Power"
+      },
+      {
+        "numero": "07",
+        "titre": "Where Did the Time Go"
+      },
+      {
+        "numero": "08",
+        "titre": "Special Things"
+      },
+      {
+        "numero": "09",
+        "titre": "Here Is Where Your Love Belongs"
+      },
+      {
+        "numero": "10",
+        "titre": "Movin' On"
+      }
+    ],
+    "duree_totale": 2186.208,
+    "image": "The Pointer Sisters - 1980 - Special Things.jpg",
+    "nom": "The Pointer Sisters - 1980 - Special Things"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1981",
+    "album": "Black & White",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sweet Lover Man"
+      },
+      {
+        "numero": "02",
+        "titre": "Someday We'll Be Together"
+      },
+      {
+        "numero": "03",
+        "titre": "Take My Heart, Take My Soul"
+      },
+      {
+        "numero": "04",
+        "titre": "Slow Hand"
+      },
+      {
+        "numero": "05",
+        "titre": "We're Gonna Make It"
+      },
+      {
+        "numero": "06",
+        "titre": "What a Surprise"
+      },
+      {
+        "numero": "07",
+        "titre": "Got To Find Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Fall In Love Again"
+      },
+      {
+        "numero": "09",
+        "titre": "Should I Do It"
+      },
+      {
+        "numero": "10",
+        "titre": "Holdin' Out For Love (Single Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "What A Surprise (Original Edit)"
+      }
+    ],
+    "duree_totale": 2668.2239999999997,
+    "image": "The Pointer Sisters - 1981 - Black & White.jpg",
+    "nom": "The Pointer Sisters - 1981 - Black & White"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1982",
+    "album": "So Excited!",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I'm So Excited"
+      },
+      {
+        "numero": "02",
+        "titre": "See How the Love Goes"
+      },
+      {
+        "numero": "03",
+        "titre": "All of You"
+      },
+      {
+        "numero": "04",
+        "titre": "Heart Beat"
+      },
+      {
+        "numero": "05",
+        "titre": "If You Wanna Get Back Your Lady"
+      },
+      {
+        "numero": "06",
+        "titre": "I Feel for You"
+      },
+      {
+        "numero": "07",
+        "titre": "Heart to Heart"
+      },
+      {
+        "numero": "08",
+        "titre": "American Music"
+      },
+      {
+        "numero": "09",
+        "titre": "I'm So Excited (Extended Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "If You Wanna Get Back Your Lady (Dance Mix)"
+      }
+    ],
+    "duree_totale": 2710.3199999999997,
+    "image": "The Pointer Sisters - 1982 - So Excited!.jpg",
+    "nom": "The Pointer Sisters - 1982 - So Excited!"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1983",
+    "album": "Break Out",
+    "nb_pistes": 16,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Jump (Original Mix)"
+      },
+      {
+        "numero": "02",
+        "titre": "Automatic"
+      },
+      {
+        "numero": "03",
+        "titre": "Baby Come and Get It (Single Version)"
+      },
+      {
+        "numero": "04",
+        "titre": "I Need You"
+      },
+      {
+        "numero": "05",
+        "titre": "Dance Electric"
+      },
+      {
+        "numero": "06",
+        "titre": "Neutron Dance"
+      },
+      {
+        "numero": "07",
+        "titre": "Easy Persuasion"
+      },
+      {
+        "numero": "08",
+        "titre": "Nightline"
+      },
+      {
+        "numero": "09",
+        "titre": "Telegraph Your Love"
+      },
+      {
+        "numero": "10",
+        "titre": "Operator"
+      },
+      {
+        "numero": "11",
+        "titre": "Automatic (12＂ Special Remix)"
+      },
+      {
+        "numero": "12",
+        "titre": "Jump (For My Love) (12＂ Long Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "I Need You (UK 12＂ Special Remix)"
+      },
+      {
+        "numero": "14",
+        "titre": "I'm So Excited (12＂ Remix)"
+      },
+      {
+        "numero": "15",
+        "titre": "Neutron Dance (12＂ Remix)"
+      },
+      {
+        "numero": "16",
+        "titre": "Baby Come and Get It (12＂ Extended Version)"
+      }
+    ],
+    "duree_totale": 4795.176,
+    "image": "The Pointer Sisters - 1983 - Break Out.jpg",
+    "nom": "The Pointer Sisters - 1983 - Break Out"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1985",
+    "album": "Contact",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Twist My Arm"
+      },
+      {
+        "numero": "02",
+        "titre": "Hey You"
+      },
+      {
+        "numero": "03",
+        "titre": "Pound, Pound, Pound"
+      },
+      {
+        "numero": "04",
+        "titre": "Back In My Arms"
+      },
+      {
+        "numero": "05",
+        "titre": "Burn Down the Night"
+      },
+      {
+        "numero": "06",
+        "titre": "Bodies and Soul"
+      },
+      {
+        "numero": "07",
+        "titre": "Contact"
+      },
+      {
+        "numero": "08",
+        "titre": "Dare Me"
+      },
+      {
+        "numero": "09",
+        "titre": "Freedom"
+      }
+    ],
+    "duree_totale": 2333.904,
+    "image": "The Pointer Sisters - 1985 - Contact.jpg",
+    "nom": "The Pointer Sisters - 1985 - Contact"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1986",
+    "album": "Hot Together",
+    "nb_pistes": 16,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "My Life"
+      },
+      {
+        "numero": "02",
+        "titre": "Mercury Rising"
+      },
+      {
+        "numero": "03",
+        "titre": "Goldmine"
+      },
+      {
+        "numero": "04",
+        "titre": "All I Know Is the Way I Feel"
+      },
+      {
+        "numero": "05",
+        "titre": "Say the Word"
+      },
+      {
+        "numero": "06",
+        "titre": "Hot Together"
+      },
+      {
+        "numero": "07",
+        "titre": "Sexual Power"
+      },
+      {
+        "numero": "08",
+        "titre": "Set Me Free"
+      },
+      {
+        "numero": "09",
+        "titre": "Taste"
+      },
+      {
+        "numero": "10",
+        "titre": "Eyes Don't Lie"
+      },
+      {
+        "numero": "11",
+        "titre": "Goldmine (12＂ Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "All I Know Is the Way I Feel (Single Mix)"
+      },
+      {
+        "numero": "13",
+        "titre": "Mercury Rising (Single Mix)"
+      },
+      {
+        "numero": "14",
+        "titre": "My Life (Remix)"
+      },
+      {
+        "numero": "15",
+        "titre": "Translation"
+      },
+      {
+        "numero": "16",
+        "titre": "Mercury Rising (12＂ Extended Version)"
+      }
+    ],
+    "duree_totale": 4376.856,
+    "image": "The Pointer Sisters - 1986 - Hot Together.jpg",
+    "nom": "The Pointer Sisters - 1986 - Hot Together"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1988",
+    "album": "Serious Slammin'",
+    "nb_pistes": 14,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Serious Slammin'"
+      },
+      {
+        "numero": "02",
+        "titre": "Shut Up and Dance"
+      },
+      {
+        "numero": "03",
+        "titre": "Moonlight Dancing"
+      },
+      {
+        "numero": "04",
+        "titre": "He Turned Me Out"
+      },
+      {
+        "numero": "05",
+        "titre": "Flirtatious"
+      },
+      {
+        "numero": "06",
+        "titre": "My Life (Remix)"
+      },
+      {
+        "numero": "07",
+        "titre": "I'm In Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Pride"
+      },
+      {
+        "numero": "09",
+        "titre": "Uh Uh"
+      },
+      {
+        "numero": "10",
+        "titre": "I Will Be There"
+      },
+      {
+        "numero": "11",
+        "titre": "He Turned Me Out (Extended Dance Mix)"
+      },
+      {
+        "numero": "12",
+        "titre": "I'm In Love (Single Edit)"
+      },
+      {
+        "numero": "13",
+        "titre": "Translation"
+      },
+      {
+        "numero": "14",
+        "titre": "He Turned Me Out (Extended Radio Version)"
+      }
+    ],
+    "duree_totale": 3848.664,
+    "image": "The Pointer Sisters - 1988 - Serious Slammin'.jpg",
+    "nom": "The Pointer Sisters - 1988 - Serious Slammin'"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1990",
+    "album": "Right Rhythm",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Friends' Advice (Don't Take It)"
+      },
+      {
+        "numero": "02",
+        "titre": "Man With The Right Rhythm"
+      },
+      {
+        "numero": "03",
+        "titre": "Real Life"
+      },
+      {
+        "numero": "04",
+        "titre": "After You"
+      },
+      {
+        "numero": "05",
+        "titre": "You Knocked The Love (Right Outta My Heart)"
+      },
+      {
+        "numero": "06",
+        "titre": "Billy Said Yes"
+      },
+      {
+        "numero": "07",
+        "titre": "Insanity"
+      },
+      {
+        "numero": "08",
+        "titre": "What A Woman Wants"
+      },
+      {
+        "numero": "09",
+        "titre": "Where Have You Been？"
+      },
+      {
+        "numero": "10",
+        "titre": "We Just Wanna (Thank You)"
+      }
+    ],
+    "duree_totale": 2566.3920000000003,
+    "image": "The Pointer Sisters - 1990 - Right Rhythm.jpg",
+    "nom": "The Pointer Sisters - 1990 - Right Rhythm"
+  },
+  {
+    "artiste": "The Pointer Sisters",
+    "annee": "1993",
+    "album": "Only Sisters Can Do That",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "It Ain't A Man's World"
+      },
+      {
+        "numero": "02",
+        "titre": "I Want Fireworks"
+      },
+      {
+        "numero": "03",
+        "titre": "Don't Walk Away"
+      },
+      {
+        "numero": "04",
+        "titre": "Eyes Like A Child"
+      },
+      {
+        "numero": "05",
+        "titre": "Only Sisters Can Do That"
+      },
+      {
+        "numero": "06",
+        "titre": "Feel For The Physical"
+      },
+      {
+        "numero": "07",
+        "titre": "Tell It To My Heart"
+      },
+      {
+        "numero": "08",
+        "titre": "Vibetime"
+      },
+      {
+        "numero": "09",
+        "titre": "Lose Myself To Find Myself"
+      },
+      {
+        "numero": "10",
+        "titre": "Sex, Love Or Money"
+      }
+    ],
+    "duree_totale": 2713.9680000000003,
+    "image": "The Pointer Sisters - 1993 - Only Sisters Can Do That.jpg",
+    "nom": "The Pointer Sisters - 1993 - Only Sisters Can Do That"
+  },
+  {
     "artiste": "The Reddings",
     "annee": "1982",
     "album": "Steamin' Hot",
