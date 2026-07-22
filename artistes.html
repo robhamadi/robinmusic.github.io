@@ -5,19 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Artistes - Collection Robin</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             background: #1a1a1a;
             color: white;
             min-height: 100vh;
         }
-        
         .header {
             background: #2a2a2a;
             padding: 1rem 2rem;
@@ -29,7 +23,6 @@
             z-index: 100;
             border-bottom: 1px solid #333;
         }
-        
         .header a {
             color: white;
             text-decoration: none;
@@ -38,40 +31,16 @@
             border-radius: 8px;
             transition: background 0.3s;
         }
-        
-        .header a:hover {
-            background: #3a3a3a;
-        }
-        
-        .header a.active {
-            background: #FF6B35;
-        }
-        
-        .header span {
-            color: #888;
-            font-size: 0.9rem;
-            margin-left: auto;
-        }
-        
-        main {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 2rem;
-        }
-        
-        h1 {
-            font-size: 2.5rem;
-            font-weight: 300;
-            margin-bottom: 2rem;
-            color: #fff;
-        }
-        
+        .header a:hover { background: #3a3a3a; }
+        .header a.active { background: #FF6B35; }
+        .header span { color: #888; font-size: 0.9rem; margin-left: auto; }
+        main { max-width: 1200px; margin: 0 auto; padding: 2rem; }
+        h1 { font-size: 2.5rem; font-weight: 300; margin-bottom: 2rem; color: #fff; }
         .artistes-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
             gap: 2rem;
         }
-        
         .artiste-card {
             background: #2a2a2a;
             border-radius: 16px;
@@ -82,13 +51,11 @@
             transition: all 0.3s ease;
             border: 1px solid #333;
         }
-        
         .artiste-card:hover {
             transform: translateY(-8px);
             background: #333;
             border-color: #FF6B35;
         }
-        
         .artiste-cover {
             width: 120px;
             height: 120px;
@@ -99,30 +66,12 @@
             background: #1a1a1a;
             border: 2px solid #444;
         }
-        
-        .artiste-name {
-            font-size: 1.1rem;
-            font-weight: 600;
-            margin-bottom: 0.3rem;
-        }
-        
-        .album-count {
-            font-size: 0.85rem;
-            color: #888;
-        }
-        
+        .artiste-name { font-size: 1.1rem; font-weight: 600; margin-bottom: 0.3rem; }
+        .album-count { font-size: 0.85rem; color: #888; }
         @media (max-width: 768px) {
-            .artistes-grid {
-                grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-                gap: 1rem;
-            }
-            .artiste-cover {
-                width: 80px;
-                height: 80px;
-            }
-            h1 {
-                font-size: 1.8rem;
-            }
+            .artistes-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 1rem; }
+            .artiste-cover { width: 80px; height: 80px; }
+            h1 { font-size: 1.8rem; }
         }
     </style>
 </head>
@@ -132,7 +81,6 @@
         <a href="artistes.html" class="active">🎤 Artistes</a>
         <span>180 artistes</span>
     </nav>
-    
     <main>
         <h1>🎤 Artistes</h1>
         <div class="artistes-grid">
@@ -145,7 +93,7 @@
             </a>
         
             <a href="discographie.html?artiste=AI Temporaire" class="artiste-card">
-                <img src="images/Calloway - 1989 - All the Way.jpg" alt="AI Temporaire" class="artiste-cover" 
+                <img src="images/George Benson - 1971 - Beyond The Blue Horizon.jpg" alt="AI Temporaire" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">AI Temporaire</div>
                 <div class="album-count">1 album</div>
@@ -159,7 +107,7 @@
             </a>
         
             <a href="discographie.html?artiste=Agentic Orange" class="artiste-card">
-                <img src="images/Angela Bofill - 1993 - I Wanna Love Somebody.jpg" alt="Agentic Orange" class="artiste-cover" 
+                <img src="images/Carl Anderson - 1986 - Carl Anderson.jpg" alt="Agentic Orange" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">Agentic Orange</div>
                 <div class="album-count">1 album</div>
@@ -278,7 +226,7 @@
             </a>
         
             <a href="discographie.html?artiste=Beat Vagabund" class="artiste-card">
-                <img src="images/Kashif - 1985 - Condition of the Heart (Expanded Edition).jpg" alt="Beat Vagabund" class="artiste-cover" 
+                <img src="images/George Benson - 1986 - While the City Sleeps.jpg" alt="Beat Vagabund" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">Beat Vagabund</div>
                 <div class="album-count">1 album</div>
@@ -411,7 +359,7 @@
             </a>
         
             <a href="discographie.html?artiste=Carl Carlton" class="artiste-card">
-                <img src="images/The Gap Band - 1980 - The Gap Band III.jpg" alt="Carl Carlton" class="artiste-cover" 
+                <img src="images/Tower of Power - 2018 - Soul Side of Town.jpg" alt="Carl Carlton" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">Carl Carlton</div>
                 <div class="album-count">1 album</div>
@@ -425,7 +373,7 @@
             </a>
         
             <a href="discographie.html?artiste=Casiopea-P4" class="artiste-card">
-                <img src="images/Kool & the Gang - 1972 - Music Is the Message.jpg" alt="Casiopea-P4" class="artiste-cover" 
+                <img src="images/Midnight Star - 1988 - Midnight Star (Expanded Version).jpg" alt="Casiopea-P4" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">Casiopea-P4</div>
                 <div class="album-count">2 albums</div>
@@ -530,7 +478,7 @@
             </a>
         
             <a href="discographie.html?artiste=David Roberts" class="artiste-card">
-                <img src="images/Imagination - 1982 - In the Heat of the Night.jpg" alt="David Roberts" class="artiste-cover" 
+                <img src="images/Bobby Caldwell - 1978 - What You Won't Do For Love.jpg" alt="David Roberts" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">David Roberts</div>
                 <div class="album-count">2 albums</div>
@@ -635,7 +583,7 @@
             </a>
         
             <a href="discographie.html?artiste=Eugene Thomas" class="artiste-card">
-                <img src="images/Daryl Hall & John Oates - 1974 - War Babies.jpg" alt="Eugene Thomas" class="artiste-cover" 
+                <img src="images/The Isley Brothers - 1991 - Tracks Of Life.jpg" alt="Eugene Thomas" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">Eugene Thomas</div>
                 <div class="album-count">2 albums</div>
@@ -649,7 +597,7 @@
             </a>
         
             <a href="discographie.html?artiste=Fancy" class="artiste-card">
-                <img src="images/Barry White - 1991 - Put Me in Your Mix.jpg" alt="Fancy" class="artiste-cover" 
+                <img src="images/Crusaders - 1976 - Those Southern Knights.jpg" alt="Fancy" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">Fancy</div>
                 <div class="album-count">1 album</div>
@@ -733,14 +681,14 @@
             </a>
         
             <a href="discographie.html?artiste=Gladys Knight" class="artiste-card">
-                <img src="images/Deodato - 1980 - Night Cruiser.jpg" alt="Gladys Knight" class="artiste-cover" 
+                <img src="images/Tower of Power - 2018 - Soul Side of Town.jpg" alt="Gladys Knight" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">Gladys Knight</div>
                 <div class="album-count">11 albums</div>
             </a>
         
             <a href="discographie.html?artiste=Gladys Knight & the Pips" class="artiste-card">
-                <img src="images/Patti Labelle - 1977 - Patti Labelle.jpg" alt="Gladys Knight & the Pips" class="artiste-cover" 
+                <img src="images/Cameo - 1983 - Style.jpg" alt="Gladys Knight & the Pips" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">Gladys Knight & the Pips</div>
                 <div class="album-count">21 albums</div>
@@ -754,7 +702,7 @@
             </a>
         
             <a href="discographie.html?artiste=Glenn Jones" class="artiste-card">
-                <img src="images/The Gap Band - 1984 - Gap Band VI.jpg" alt="Glenn Jones" class="artiste-cover" 
+                <img src="images/Norman Connors - 1972 - Dance of Magic.jpg" alt="Glenn Jones" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">Glenn Jones</div>
                 <div class="album-count">6 albums</div>
@@ -810,7 +758,7 @@
             </a>
         
             <a href="discographie.html?artiste=Inconnu" class="artiste-card">
-                <img src="images/Cut Davis - 2025 - My Life Is Music.jpg" alt="Inconnu" class="artiste-cover" 
+                <img src="images/Tyrone Davis - 2008 - It's All in the Game.jpg" alt="Inconnu" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">Inconnu</div>
                 <div class="album-count">1 album</div>
@@ -824,7 +772,7 @@
             </a>
         
             <a href="discographie.html?artiste=Jaki Graham" class="artiste-card">
-                <img src="images/Candi Staton - 2014 - Cover Me.jpg" alt="Jaki Graham" class="artiste-cover" 
+                <img src="images/Beau Williams - 2006 - The Greatest Love.jpg" alt="Jaki Graham" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">Jaki Graham</div>
                 <div class="album-count">9 albums</div>
@@ -1125,7 +1073,7 @@
             </a>
         
             <a href="discographie.html?artiste=Purple Vault" class="artiste-card">
-                <img src="images/Ashford & Simpson - 1976 - Come As You Are (Expanded Edition).jpg" alt="Purple Vault" class="artiste-cover" 
+                <img src="images/Bob James - 1986 - Obsession.jpg" alt="Purple Vault" class="artiste-cover" 
                      onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22%3E%3Crect width=%22150%22 height=%22150%22 fill=%22%232a2a2a%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23555%22 font-size=%2260%22%3E🎵%3C/text%3E%3C/svg%3E'">
                 <div class="artiste-name">Purple Vault</div>
                 <div class="album-count">1 album</div>
