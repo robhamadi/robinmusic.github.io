@@ -59,4 +59,4 @@ header h1{font-size:20px;font-weight:700;background:linear-gradient(135deg,#e945
 footer{position:fixed;bottom:0;width:100%;text-align:center;padding:12px;background:#0f0f1a;border-top:1px solid #2a2a4a;font-size:12px;color:#444}
 
 @media(max-width:600px){.hero-text{left:20px;right:20px;bottom:20px;padding:15px 20px}.hero-text h2{font-size:18px}.hero-text p{font-size:14px}.artistes-grid{grid-template-columns:repeat(auto-fill,minmax(120px,1fr))}.album-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr))}.album-detail-container{flex-direction:column}.album-cover-large{flex:1}}
-@media(min-width:768px){.album-grid{grid-template-columns:repeat(auto-fill,minmax(180px,1fr))}.artistes-grid{grid-template-columns:repeat(auto-fill,minmax(180px,1fr))}}
+@media(min-width:768px){.album-grid{grid-template-columns:repeat(auto-fill,minmax(180px,1fr))}.artistes-grid{grid-template-columns:repeat(auto-fill,minmax(180px,1fr))}
