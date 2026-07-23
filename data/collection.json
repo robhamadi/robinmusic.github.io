@@ -3265,6 +3265,45 @@
     "nom": "Angela Bofill - 1996 - Love in Slow Motion"
   },
   {
+    "artiste": "Archie Bell & The Drell",
+    "annee": "1975",
+    "album": "Dance Your Troubles Away",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Let's Groove"
+      },
+      {
+        "numero": "02",
+        "titre": "I Could Dance All Night"
+      },
+      {
+        "numero": "03",
+        "titre": "I Won't Leave You Honey, Never"
+      },
+      {
+        "numero": "04",
+        "titre": "Dance Your Troubles Away"
+      },
+      {
+        "numero": "05",
+        "titre": "The Soul City Walk"
+      },
+      {
+        "numero": "06",
+        "titre": "Let's Go Disco"
+      },
+      {
+        "numero": "07",
+        "titre": "I Love You (But You Don't Even Know It)"
+      }
+    ],
+    "duree_totale": 2176.75375,
+    "image": null,
+    "nom": "Archie Bell & The Drell - 1975 - Dance Your Troubles Away"
+  },
+  {
     "artiste": "Archie Bell & The Drells",
     "annee": "1975",
     "album": "Dance Your Troubles Away",
@@ -10123,6 +10162,57 @@
   {
     "artiste": "Bobby Womack",
     "annee": "1975",
+    "album": "I Don't Know What The World Is Comin' To",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Bobby Womack - Medley： Interlude #1 ⧸ I Don't Know"
+      },
+      {
+        "numero": "02",
+        "titre": "Bobby Womack - Superstar"
+      },
+      {
+        "numero": "03",
+        "titre": "Bobby Womack - (If You Want My Love) Put Something Down On It"
+      },
+      {
+        "numero": "04",
+        "titre": "Bobby Womack - Git It"
+      },
+      {
+        "numero": "05",
+        "titre": "Bobby Womack - What's Your World"
+      },
+      {
+        "numero": "06",
+        "titre": "Bobby Womack - Check It Out"
+      },
+      {
+        "numero": "07",
+        "titre": "Bobby Womack - Interlude #2"
+      },
+      {
+        "numero": "08",
+        "titre": "Bobby Womack - Jealous Love"
+      },
+      {
+        "numero": "09",
+        "titre": "Bobby Womack - It's All Over Now"
+      },
+      {
+        "numero": "10",
+        "titre": "Bobby Womack - Yes, Jesus Loves Me"
+      }
+    ],
+    "duree_totale": 2463.6719999999996,
+    "image": "Bobby Womack - 1975 - I Don't Know What The World Is Comin' To.jpg",
+    "nom": "Bobby Womack - 1975 - I Don't Know What The World Is Comin' To"
+  },
+  {
+    "artiste": "Bobby Womack",
+    "annee": "1975",
     "album": "Safety Zone",
     "nb_pistes": 8,
     "pistes": [
@@ -10213,6 +10303,81 @@
     "duree_totale": 1668.3839999999998,
     "image": "Bobby Womack - 1976 - B.W. Goes C.W.jpg",
     "nom": "Bobby Womack - 1976 - B.W. Goes C.W"
+  },
+  {
+    "artiste": "Bobby Womack",
+    "annee": "1976",
+    "album": "B.W. Goes C.W#",
+    "nb_pistes": 16,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "- So Many Sides Of You"
+      },
+      {
+        "numero": "02",
+        "titre": "- Lay Your Lovin' On Me"
+      },
+      {
+        "numero": "03",
+        "titre": "- Secrets"
+      },
+      {
+        "numero": "04",
+        "titre": "- Just My Imagination"
+      },
+      {
+        "numero": "05",
+        "titre": "- Stand Up"
+      },
+      {
+        "numero": "06",
+        "titre": "- Games"
+      },
+      {
+        "numero": "07",
+        "titre": "- If You Think You're Lonely Now"
+      },
+      {
+        "numero": "08",
+        "titre": "- Where Do We Go From Here"
+      },
+      {
+        "numero": "09",
+        "titre": "- Bobby Womack - So Many Sides Of You (Official Lyric Video)"
+      },
+      {
+        "numero": "10",
+        "titre": "- Bobby Womack - Lay Your Lovin’ On Me (Official Lyric Video)"
+      },
+      {
+        "numero": "11",
+        "titre": "- Bobby Womack - Secrets (Official Lyric Video)"
+      },
+      {
+        "numero": "12",
+        "titre": "- Bobby Womack - Just My Imagination (Official Lyric Video)"
+      },
+      {
+        "numero": "13",
+        "titre": "- Bobby Womack - Stand Up (Official Lyric Video)"
+      },
+      {
+        "numero": "14",
+        "titre": "- Bobby Womack - Games (Official Lyric Video)"
+      },
+      {
+        "numero": "15",
+        "titre": "- Bobby Womack - If You Think You're Lonely Now (Official Lyric Video)"
+      },
+      {
+        "numero": "16",
+        "titre": "- Bobby Womack - Where Do We Go From Here (Official Lyric Video)"
+      }
+    ],
+    "duree_totale": 4776.575999999999,
+    "image": null,
+    "nom": "Bobby Womack - 1976 - B.W. Goes C.W#"
   },
   {
     "artiste": "Bobby Womack",
@@ -10712,6 +10877,120 @@
     "duree_totale": 2907.3600000000006,
     "image": "Bobby Womack - 2010 - Save the Children.jpg",
     "nom": "Bobby Womack - 2010 - Save the Children"
+  },
+  {
+    "artiste": "Bobby Womack",
+    "annee": "2012",
+    "album": "Someday We'll All Be Free",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I’m So Proud"
+      },
+      {
+        "numero": "02",
+        "titre": "Bobby Womack - Someday We'll All Be Free (Official Lyric Video)"
+      },
+      {
+        "numero": "03",
+        "titre": "Bobby Womack - Gifted One (Official Lyric Video)"
+      },
+      {
+        "numero": "04",
+        "titre": "Bobby Womack - Falling In Love Again (Official Lyric Video)"
+      },
+      {
+        "numero": "05",
+        "titre": "Searching For My Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Bobby Womack - In Over My Heart (Official Lyric Video)"
+      },
+      {
+        "numero": "07",
+        "titre": "Bobby Womack - I Wish I Had Someone To Go Home To (Official Lyric Video)"
+      }
+    ],
+    "duree_totale": 1965.456,
+    "image": "Bobby Womack - 2012 - Someday We'll All Be Free.jpg",
+    "nom": "Bobby Womack - 2012 - Someday We'll All Be Free"
+  },
+  {
+    "artiste": "Bobby Womack",
+    "annee": "2021",
+    "album": "The Poet (Featuring Patti LaBelle)",
+    "nb_pistes": 16,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "So Many Sides Of You"
+      },
+      {
+        "numero": "02",
+        "titre": "Lay Your Lovin' On Me"
+      },
+      {
+        "numero": "03",
+        "titre": "Secrets"
+      },
+      {
+        "numero": "04",
+        "titre": "Just My Imagination"
+      },
+      {
+        "numero": "05",
+        "titre": "Stand Up"
+      },
+      {
+        "numero": "06",
+        "titre": "Games"
+      },
+      {
+        "numero": "07",
+        "titre": "If You Think You're Lonely Now"
+      },
+      {
+        "numero": "08",
+        "titre": "Where Do We Go From Here"
+      },
+      {
+        "numero": "09",
+        "titre": "Bobby Womack - So Many Sides Of You (Official Lyric Video)"
+      },
+      {
+        "numero": "10",
+        "titre": "Bobby Womack - Lay Your Lovin’ On Me (Official Lyric Video)"
+      },
+      {
+        "numero": "11",
+        "titre": "Bobby Womack - Secrets (Official Lyric Video)"
+      },
+      {
+        "numero": "12",
+        "titre": "Bobby Womack - Just My Imagination (Official Lyric Video)"
+      },
+      {
+        "numero": "13",
+        "titre": "Bobby Womack - Stand Up (Official Lyric Video)"
+      },
+      {
+        "numero": "14",
+        "titre": "Bobby Womack - Games (Official Lyric Video)"
+      },
+      {
+        "numero": "15",
+        "titre": "Bobby Womack - If You Think You're Lonely Now (Official Lyric Video)"
+      },
+      {
+        "numero": "16",
+        "titre": "Bobby Womack - Where Do We Go From Here (Official Lyric Video)"
+      }
+    ],
+    "duree_totale": 4776.575999999999,
+    "image": "Bobby Womack - 2021 - The Poet (Featuring Patti LaBelle).jpg",
+    "nom": "Bobby Womack - 2021 - The Poet (Featuring Patti LaBelle)"
   },
   {
     "artiste": "Bobby Womack",
@@ -11610,6 +11889,45 @@
   },
   {
     "artiste": "Cameo",
+    "annee": "1977",
+    "album": "We All Know Who We Are",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "",
+        "titre": "01-Inflation"
+      },
+      {
+        "numero": "",
+        "titre": "02-C On The Funk"
+      },
+      {
+        "numero": "",
+        "titre": "03-Why Have I Lost You"
+      },
+      {
+        "numero": "",
+        "titre": "04-Stand Up"
+      },
+      {
+        "numero": "",
+        "titre": "05-We All Know Who We Are"
+      },
+      {
+        "numero": "",
+        "titre": "06-It's Serious"
+      },
+      {
+        "numero": "",
+        "titre": "07-It's Over"
+      }
+    ],
+    "duree_totale": 2152.6133333333332,
+    "image": null,
+    "nom": "Cameo - 1977 - We All Know Who We Are"
+  },
+  {
+    "artiste": "Cameo",
     "annee": "1978",
     "album": "Ugly Ego",
     "nb_pistes": 8,
@@ -11946,6 +12264,16 @@
   },
   {
     "artiste": "Cameo",
+    "annee": "1984",
+    "album": "She's Strange",
+    "nb_pistes": 0,
+    "pistes": [],
+    "duree_totale": 0,
+    "image": null,
+    "nom": "Cameo - 1984 - She's Strange"
+  },
+  {
+    "artiste": "Cameo",
     "annee": "1985",
     "album": "Single Life",
     "nb_pistes": 7,
@@ -12166,6 +12494,57 @@
     "duree_totale": 2853.096,
     "image": "Cameo - 1991 - Emotional Violence.jpg",
     "nom": "Cameo - 1991 - Emotional Violence"
+  },
+  {
+    "artiste": "Cameo",
+    "annee": "1992",
+    "album": "Emotional Violence",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "- Emotional Violence"
+      },
+      {
+        "numero": "02",
+        "titre": "- Money"
+      },
+      {
+        "numero": "03",
+        "titre": "- Raw But Tasty"
+      },
+      {
+        "numero": "04",
+        "titre": "- Front Street"
+      },
+      {
+        "numero": "05",
+        "titre": "- Kid Don't Believe It"
+      },
+      {
+        "numero": "06",
+        "titre": "- Another Love"
+      },
+      {
+        "numero": "07",
+        "titre": "- Don't Crash"
+      },
+      {
+        "numero": "08",
+        "titre": "- Love Yourself"
+      },
+      {
+        "numero": "09",
+        "titre": "- Nothing Less Than Love"
+      },
+      {
+        "numero": "10",
+        "titre": "- That Kind Of Guy"
+      }
+    ],
+    "duree_totale": 2853.225625,
+    "image": null,
+    "nom": "Cameo - 1992 - Emotional Violence"
   },
   {
     "artiste": "Cameo",
@@ -20246,6 +20625,312 @@
     "nom": "Dave Valentine - 1992 - Musical Portraits"
   },
   {
+    "artiste": "David Benoit & Russ Freeman",
+    "annee": "1994",
+    "album": "The Benoit  Freeman Project",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Reunion"
+      },
+      {
+        "numero": "02",
+        "titre": "When She Believed In Me"
+      },
+      {
+        "numero": "03",
+        "titre": "Mediterranean Nights"
+      },
+      {
+        "numero": "04",
+        "titre": "Swept Away"
+      },
+      {
+        "numero": "05",
+        "titre": "The End Of Our Season"
+      },
+      {
+        "numero": "06",
+        "titre": "After The Love Has Gone"
+      },
+      {
+        "numero": "07",
+        "titre": "Smartypants"
+      },
+      {
+        "numero": "08",
+        "titre": "It's The Thought That Counts"
+      },
+      {
+        "numero": "09",
+        "titre": "Mirage"
+      },
+      {
+        "numero": "10",
+        "titre": "That's All I Could Say"
+      }
+    ],
+    "duree_totale": 3119.8320000000003,
+    "image": "David Benoit & Russ Freeman - 1994 - The Benoit  Freeman Project.jpg",
+    "nom": "David Benoit & Russ Freeman - 1994 - The Benoit  Freeman Project"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "1983",
+    "album": "Christmastime",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Carol Of The Bells"
+      },
+      {
+        "numero": "02",
+        "titre": "O Holy Night ⧸ Little Drummer Boy"
+      },
+      {
+        "numero": "03",
+        "titre": "We Three Kings"
+      },
+      {
+        "numero": "04",
+        "titre": "Oh Tannenbaum"
+      },
+      {
+        "numero": "05",
+        "titre": "All I Want For Christmas"
+      },
+      {
+        "numero": "06",
+        "titre": "What Child Is This (Greensleeves)"
+      },
+      {
+        "numero": "07",
+        "titre": "The Christmas Song (Album Version)"
+      }
+    ],
+    "duree_totale": 1614.0000000000002,
+    "image": "David Benoit - 1983 - Christmastime.jpg",
+    "nom": "David Benoit - 1983 - Christmastime"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "1987",
+    "album": "Freedom at Midnight",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Freedom At Midnight"
+      },
+      {
+        "numero": "02",
+        "titre": "Along The Milky Way"
+      },
+      {
+        "numero": "03",
+        "titre": "Kei's Song"
+      },
+      {
+        "numero": "04",
+        "titre": "The Man With The Panama Hat"
+      },
+      {
+        "numero": "05",
+        "titre": "Pieces Of Time"
+      },
+      {
+        "numero": "06",
+        "titre": "Morning Sojourn"
+      },
+      {
+        "numero": "07",
+        "titre": "Tropical Breeze"
+      },
+      {
+        "numero": "08",
+        "titre": "Passion Walk"
+      },
+      {
+        "numero": "09",
+        "titre": "Del Sasser"
+      },
+      {
+        "numero": "10",
+        "titre": "The Last Goodbye"
+      }
+    ],
+    "duree_totale": 2813.8080000000004,
+    "image": "David Benoit - 1987 - Freedom at Midnight.jpg",
+    "nom": "David Benoit - 1987 - Freedom at Midnight"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "1988",
+    "album": "Every Step of the Way",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Every Step Of The Way"
+      },
+      {
+        "numero": "02",
+        "titre": "Shibuya Station"
+      },
+      {
+        "numero": "03",
+        "titre": "The Key To You"
+      },
+      {
+        "numero": "04",
+        "titre": "Remembering What You Said"
+      },
+      {
+        "numero": "05",
+        "titre": "Once Running Free"
+      },
+      {
+        "numero": "06",
+        "titre": "ReBach"
+      },
+      {
+        "numero": "07",
+        "titre": "Sao Paulo"
+      },
+      {
+        "numero": "08",
+        "titre": "No Worries"
+      },
+      {
+        "numero": "09",
+        "titre": "I Just Can't Stop Loving You"
+      },
+      {
+        "numero": "10",
+        "titre": "Painted Desert"
+      },
+      {
+        "numero": "11",
+        "titre": "Saturdays"
+      }
+    ],
+    "duree_totale": 2927.4,
+    "image": "David Benoit - 1988 - Every Step of the Way.jpg",
+    "nom": "David Benoit - 1988 - Every Step of the Way"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "1989",
+    "album": "Urban Daydreams",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sailing Through The City (Album Version)"
+      },
+      {
+        "numero": "02",
+        "titre": "Cloud Break (Album Version)"
+      },
+      {
+        "numero": "03",
+        "titre": "Urban Daydreams (Album Version)"
+      },
+      {
+        "numero": "04",
+        "titre": "When The Winter's Gone (Song For A Stranger) (Album Version)"
+      },
+      {
+        "numero": "05",
+        "titre": "Snow Dancing (Album Version)"
+      },
+      {
+        "numero": "06",
+        "titre": "Safari (Album Version)"
+      },
+      {
+        "numero": "07",
+        "titre": "Wild Kids (Album Version)"
+      },
+      {
+        "numero": "08",
+        "titre": "Looking Back (Album Version)"
+      },
+      {
+        "numero": "09",
+        "titre": "Seattle Morning (Album Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "As If I Could Reach Rainbows (Album Version)"
+      }
+    ],
+    "duree_totale": 2585.952,
+    "image": "David Benoit - 1989 - Urban Daydreams.jpg",
+    "nom": "David Benoit - 1989 - Urban Daydreams"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "1989",
+    "album": "Waiting for Spring",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Waiting For Spring"
+      },
+      {
+        "numero": "02",
+        "titre": "After The Snow Falls"
+      },
+      {
+        "numero": "03",
+        "titre": "Cast Your Fate To The Wind"
+      },
+      {
+        "numero": "04",
+        "titre": "Turn Out The Stars"
+      },
+      {
+        "numero": "05",
+        "titre": "Cabin Fever"
+      },
+      {
+        "numero": "06",
+        "titre": "Cat On A Windowsill"
+      },
+      {
+        "numero": "07",
+        "titre": "Some Other Sunset"
+      },
+      {
+        "numero": "08",
+        "titre": "My Romance"
+      },
+      {
+        "numero": "09",
+        "titre": "Funkallero"
+      },
+      {
+        "numero": "10",
+        "titre": "I Remember Bill Evans"
+      },
+      {
+        "numero": "11",
+        "titre": "Fireside"
+      },
+      {
+        "numero": "12",
+        "titre": "Secret Love"
+      }
+    ],
+    "duree_totale": 3119.8079999999995,
+    "image": "David Benoit - 1989 - Waiting for Spring.jpg",
+    "nom": "David Benoit - 1989 - Waiting for Spring"
+  },
+  {
     "artiste": "David Benoit",
     "annee": "1990",
     "album": "Inner Motion",
@@ -20295,6 +20980,552 @@
     "duree_totale": 2660.04,
     "image": "David Benoit - 1990 - Inner Motion.jpg",
     "nom": "David Benoit - 1990 - Inner Motion"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "1991",
+    "album": "Shadows",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Overture"
+      },
+      {
+        "numero": "02",
+        "titre": "Over The Edge"
+      },
+      {
+        "numero": "03",
+        "titre": "Have You Forgotten (Interlude)"
+      },
+      {
+        "numero": "04",
+        "titre": "Shadows"
+      },
+      {
+        "numero": "05",
+        "titre": "Saudade"
+      },
+      {
+        "numero": "06",
+        "titre": "Moments"
+      },
+      {
+        "numero": "07",
+        "titre": "Already There"
+      },
+      {
+        "numero": "08",
+        "titre": "Still Standing"
+      },
+      {
+        "numero": "09",
+        "titre": "Castles"
+      },
+      {
+        "numero": "10",
+        "titre": "Have You Forgotten"
+      },
+      {
+        "numero": "11",
+        "titre": "Reprise"
+      }
+    ],
+    "duree_totale": 2605.0559999999996,
+    "image": "David Benoit - 1991 - Shadows.jpg",
+    "nom": "David Benoit - 1991 - Shadows"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "1992",
+    "album": "Letter to Evan",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Letter To Evan"
+      },
+      {
+        "numero": "02",
+        "titre": "Waiting For Love (Album Version)"
+      },
+      {
+        "numero": "03",
+        "titre": "On Golden Pond (Album Version)"
+      },
+      {
+        "numero": "04",
+        "titre": "The Island (Album Version)"
+      },
+      {
+        "numero": "05",
+        "titre": "Looking Over Eastlake (Album Version)"
+      },
+      {
+        "numero": "06",
+        "titre": "Knit For Mary F."
+      },
+      {
+        "numero": "07",
+        "titre": "Kathy's Waltz (Album Version)"
+      },
+      {
+        "numero": "08",
+        "titre": "Things Are Getting Better"
+      },
+      {
+        "numero": "09",
+        "titre": "Spring Can Really Hang You Up The Most"
+      },
+      {
+        "numero": "10",
+        "titre": "Take 6 (Album Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "Blues At Sunset (Album Version)"
+      }
+    ],
+    "duree_totale": 2899.56,
+    "image": "David Benoit - 1992 - Letter to Evan.jpg",
+    "nom": "David Benoit - 1992 - Letter to Evan"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "1996",
+    "album": "Remembering Christmas",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Skating"
+      },
+      {
+        "numero": "02",
+        "titre": "Santa Claus Is Coming To Town (Album Version)"
+      },
+      {
+        "numero": "03",
+        "titre": "Angels We Have Heard On High (Album Version)"
+      },
+      {
+        "numero": "04",
+        "titre": "Christmas Time Is Here (Album Version)"
+      },
+      {
+        "numero": "05",
+        "titre": "Jesu, Joy Of Man's Desiring (Album Version)"
+      },
+      {
+        "numero": "06",
+        "titre": "Hark, The Herald Angels Sing (Album Version)"
+      },
+      {
+        "numero": "07",
+        "titre": "Do You Hear What I Hear？ (Album Version)"
+      },
+      {
+        "numero": "08",
+        "titre": "Christmas Is Coming (Album Version)"
+      },
+      {
+        "numero": "09",
+        "titre": "Silent Night (Album Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "Remembering Christmas (Album Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "The First Noel (Album Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "The Christmas Song (Album Version)"
+      }
+    ],
+    "duree_totale": 3020.8079999999995,
+    "image": "David Benoit - 1996 - Remembering Christmas.jpg",
+    "nom": "David Benoit - 1996 - Remembering Christmas"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "1997",
+    "album": "American Landscape",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "American Landscape"
+      },
+      {
+        "numero": "02",
+        "titre": "Max's Boogie"
+      },
+      {
+        "numero": "03",
+        "titre": "Lost In Tokyo"
+      },
+      {
+        "numero": "04",
+        "titre": "If I Can Believe"
+      },
+      {
+        "numero": "05",
+        "titre": "A Personal Story"
+      },
+      {
+        "numero": "06",
+        "titre": "Rue De La Soleil"
+      },
+      {
+        "numero": "07",
+        "titre": "Saying Goodbye"
+      },
+      {
+        "numero": "08",
+        "titre": "Mr. Rodriguez's Opus"
+      },
+      {
+        "numero": "09",
+        "titre": "Speed Racer"
+      }
+    ],
+    "duree_totale": 2625.6960000000004,
+    "image": "David Benoit - 1997 - American Landscape.jpg",
+    "nom": "David Benoit - 1997 - American Landscape"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "1999",
+    "album": "Professional Dreamer",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Why Not!"
+      },
+      {
+        "numero": "02",
+        "titre": "Miles After Dark"
+      },
+      {
+        "numero": "03",
+        "titre": "Something You Said"
+      },
+      {
+        "numero": "04",
+        "titre": "Rejoyce"
+      },
+      {
+        "numero": "05",
+        "titre": "Golden Gate"
+      },
+      {
+        "numero": "06",
+        "titre": "Gothic Jazz Dance"
+      },
+      {
+        "numero": "07",
+        "titre": "Jump Start"
+      },
+      {
+        "numero": "08",
+        "titre": "Thinking 'Bout The Cove"
+      },
+      {
+        "numero": "09",
+        "titre": "Twilight March"
+      },
+      {
+        "numero": "10",
+        "titre": "Dad's Room"
+      }
+    ],
+    "duree_totale": 2799.1200000000003,
+    "image": "David Benoit - 1999 - Professional Dreamer.jpg",
+    "nom": "David Benoit - 1999 - Professional Dreamer"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "2002",
+    "album": "Fuzzy Logic",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Snap!"
+      },
+      {
+        "numero": "02",
+        "titre": "Fuzzy Logic"
+      },
+      {
+        "numero": "03",
+        "titre": "Someday Soon"
+      },
+      {
+        "numero": "04",
+        "titre": "Then The Morning Comes"
+      },
+      {
+        "numero": "05",
+        "titre": "Reflections"
+      },
+      {
+        "numero": "06",
+        "titre": "Coming Up For Air"
+      },
+      {
+        "numero": "07",
+        "titre": "You Read My Mind"
+      },
+      {
+        "numero": "08",
+        "titre": "War of the S.U.V.'s"
+      },
+      {
+        "numero": "09",
+        "titre": "Tango in Barbados"
+      },
+      {
+        "numero": "10",
+        "titre": "One Dream at a Time (June's Song)"
+      }
+    ],
+    "duree_totale": 2628.384,
+    "image": "David Benoit - 2002 - Fuzzy Logic.jpg",
+    "nom": "David Benoit - 2002 - Fuzzy Logic"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "2003",
+    "album": "Right Here, Right Now",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Watermelon Man"
+      },
+      {
+        "numero": "02",
+        "titre": "Right Here, Right Now"
+      },
+      {
+        "numero": "03",
+        "titre": "Le Grand"
+      },
+      {
+        "numero": "04",
+        "titre": "Don't Know Why"
+      },
+      {
+        "numero": "05",
+        "titre": "Jellybeans And Chocolate"
+      },
+      {
+        "numero": "06",
+        "titre": "Third Encounter"
+      },
+      {
+        "numero": "07",
+        "titre": "Swingin' Waikiki"
+      },
+      {
+        "numero": "08",
+        "titre": "Don't Let Me Be Lonely Tonight"
+      },
+      {
+        "numero": "09",
+        "titre": "Wistful Thinking"
+      },
+      {
+        "numero": "10",
+        "titre": "Quiet Room"
+      }
+    ],
+    "duree_totale": 2948.88,
+    "image": "David Benoit - 2003 - Right Here, Right Now.jpg",
+    "nom": "David Benoit - 2003 - Right Here, Right Now"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "2005",
+    "album": "Orchestral Stories",
+    "nb_pistes": 16,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "9-11"
+      },
+      {
+        "numero": "02",
+        "titre": "Something's Gotta Give"
+      },
+      {
+        "numero": "03",
+        "titre": "LA Xperience"
+      },
+      {
+        "numero": "04",
+        "titre": "The Centaur And The Sphinx - Prelude"
+      },
+      {
+        "numero": "05",
+        "titre": "The Centaur And The Sphinx - Charon The Centaur"
+      },
+      {
+        "numero": "06",
+        "titre": "The Centaur And The Sphinx - Carrie The Sphinx"
+      },
+      {
+        "numero": "07",
+        "titre": "The Centaur And The Sphinx - The Party"
+      },
+      {
+        "numero": "08",
+        "titre": "The Centaur And The Sphinx - Falling In Love"
+      },
+      {
+        "numero": "09",
+        "titre": "The Centaur And The Sphinx - Discovery"
+      },
+      {
+        "numero": "10",
+        "titre": "The Centaur And The Sphinx - Finale"
+      },
+      {
+        "numero": "11",
+        "titre": "Kobe - Prelude"
+      },
+      {
+        "numero": "12",
+        "titre": "Kobe - Kobe 1965"
+      },
+      {
+        "numero": "13",
+        "titre": "Kobe - Keiko's Dream"
+      },
+      {
+        "numero": "14",
+        "titre": "Kobe - Kimura Dansu Gakuin (Keiko's Dance Studio)"
+      },
+      {
+        "numero": "15",
+        "titre": "Kobe - Earthquake"
+      },
+      {
+        "numero": "16",
+        "titre": "Kobe - Finale"
+      }
+    ],
+    "duree_totale": 3795.408,
+    "image": "David Benoit - 2005 - Orchestral Stories.jpg",
+    "nom": "David Benoit - 2005 - Orchestral Stories"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "2006",
+    "album": "Full Circle",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Cafe Rio"
+      },
+      {
+        "numero": "02",
+        "titre": "First Day Of School"
+      },
+      {
+        "numero": "03",
+        "titre": "Water To Drink"
+      },
+      {
+        "numero": "04",
+        "titre": "Beat Street"
+      },
+      {
+        "numero": "05",
+        "titre": "Six P.M."
+      },
+      {
+        "numero": "06",
+        "titre": "Chasing The Tides"
+      },
+      {
+        "numero": "07",
+        "titre": "Neat With A Twist"
+      },
+      {
+        "numero": "08",
+        "titre": "Katrina's Little Bear"
+      },
+      {
+        "numero": "09",
+        "titre": "Yusuke The Ghost"
+      },
+      {
+        "numero": "10",
+        "titre": "Monster In The Attic"
+      }
+    ],
+    "duree_totale": 2607.0480000000002,
+    "image": "David Benoit - 2006 - Full Circle.jpg",
+    "nom": "David Benoit - 2006 - Full Circle"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "2006",
+    "album": "Standards",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Brothers Go to Mothers"
+      },
+      {
+        "numero": "02",
+        "titre": "Cute"
+      },
+      {
+        "numero": "03",
+        "titre": "Django"
+      },
+      {
+        "numero": "04",
+        "titre": "Blue Rondo À La Turk"
+      },
+      {
+        "numero": "05",
+        "titre": "Some Other Time"
+      },
+      {
+        "numero": "06",
+        "titre": "Cakewalk"
+      },
+      {
+        "numero": "07",
+        "titre": "Stardust"
+      },
+      {
+        "numero": "08",
+        "titre": "Straight No Chaser"
+      },
+      {
+        "numero": "09",
+        "titre": "I Loves You Porgy"
+      },
+      {
+        "numero": "10",
+        "titre": "Waltz for Debby"
+      }
+    ],
+    "duree_totale": 3131.112,
+    "image": "David Benoit - 2006 - Standards.jpg",
+    "nom": "David Benoit - 2006 - Standards"
   },
   {
     "artiste": "David Benoit",
@@ -20354,6 +21585,482 @@
     "duree_totale": 2771.952,
     "image": "David Benoit - 2008 - Heroes.jpg",
     "nom": "David Benoit - 2008 - Heroes"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "2010",
+    "album": "Earthglow",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Botswana Bossa Nova"
+      },
+      {
+        "numero": "02",
+        "titre": "Will’s Chill"
+      },
+      {
+        "numero": "03",
+        "titre": "Unbelievable"
+      },
+      {
+        "numero": "04",
+        "titre": "Easy Day"
+      },
+      {
+        "numero": "05",
+        "titre": "Straightaway"
+      },
+      {
+        "numero": "06",
+        "titre": "New Creation"
+      },
+      {
+        "numero": "07",
+        "titre": "Earthglow"
+      },
+      {
+        "numero": "08",
+        "titre": "Sneaky As A Cat"
+      },
+      {
+        "numero": "09",
+        "titre": "Downtime"
+      },
+      {
+        "numero": "10",
+        "titre": "Brownie’s Gone"
+      },
+      {
+        "numero": "11",
+        "titre": "Freedom At Midnight (The Schroeder Variations)"
+      }
+    ],
+    "duree_totale": 2900.856,
+    "image": "David Benoit - 2010 - Earthglow.jpg",
+    "nom": "David Benoit - 2010 - Earthglow"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "2012",
+    "album": "Conversation",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Napa Crossroads Overture"
+      },
+      {
+        "numero": "02",
+        "titre": "Feelin' It"
+      },
+      {
+        "numero": "03",
+        "titre": "Diary of a Wimpy Kid"
+      },
+      {
+        "numero": "04",
+        "titre": "Kei's Song Redux"
+      },
+      {
+        "numero": "05",
+        "titre": "Sunrise On Mansion Row"
+      },
+      {
+        "numero": "06",
+        "titre": "You're Amazing"
+      },
+      {
+        "numero": "07",
+        "titre": "Q's Motif"
+      },
+      {
+        "numero": "08",
+        "titre": "Let's Get Ready"
+      },
+      {
+        "numero": "09",
+        "titre": "Conversation"
+      }
+    ],
+    "duree_totale": 2168.88,
+    "image": "David Benoit - 2012 - Conversation.jpg",
+    "nom": "David Benoit - 2012 - Conversation"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "2015",
+    "album": "Believe",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Santa Claus Is Coming To Town (Live)"
+      },
+      {
+        "numero": "02",
+        "titre": "Believe (Live)"
+      },
+      {
+        "numero": "03",
+        "titre": "Christmas Waltz (Live)"
+      },
+      {
+        "numero": "04",
+        "titre": "Christmas Time Is Here (Live)"
+      },
+      {
+        "numero": "05",
+        "titre": "Guaraldi Medley (Live)"
+      },
+      {
+        "numero": "06",
+        "titre": "My Favorite Things (Live)"
+      },
+      {
+        "numero": "07",
+        "titre": "Just Like Me (Live)"
+      },
+      {
+        "numero": "08",
+        "titre": "My Little Drum (Live)"
+      },
+      {
+        "numero": "09",
+        "titre": "The Christmas Song (Live)"
+      }
+    ],
+    "duree_totale": 2207.1600000000003,
+    "image": "David Benoit - 2015 - Believe.jpg",
+    "nom": "David Benoit - 2015 - Believe"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "2017",
+    "album": "So Nice (with Marc Antoine)",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "French Café"
+      },
+      {
+        "numero": "02",
+        "titre": "Penthouse In Copacabana"
+      },
+      {
+        "numero": "03",
+        "titre": "So Danco Samba"
+      },
+      {
+        "numero": "04",
+        "titre": "Caminando"
+      },
+      {
+        "numero": "05",
+        "titre": "A Cafe Au Lait Bentley"
+      },
+      {
+        "numero": "06",
+        "titre": "All Said And Done"
+      },
+      {
+        "numero": "07",
+        "titre": "Rio Deluxe"
+      },
+      {
+        "numero": "08",
+        "titre": "Puma Trail"
+      },
+      {
+        "numero": "09",
+        "titre": "So Nice"
+      },
+      {
+        "numero": "10",
+        "titre": "Algarve"
+      }
+    ],
+    "duree_totale": 2449.9679999999994,
+    "image": "David Benoit - 2017 - So Nice (with Marc Antoine).jpg",
+    "nom": "David Benoit - 2017 - So Nice (with Marc Antoine)"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "2017",
+    "album": "The Steinway Sessions",
+    "nb_pistes": 19,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Kei's Song"
+      },
+      {
+        "numero": "02",
+        "titre": "Every Step of the Way"
+      },
+      {
+        "numero": "03",
+        "titre": "Letter to Evan"
+      },
+      {
+        "numero": "04",
+        "titre": "I Remember Bill Evans"
+      },
+      {
+        "numero": "05",
+        "titre": "Strange Meadowlark"
+      },
+      {
+        "numero": "06",
+        "titre": "Dad's Room"
+      },
+      {
+        "numero": "07",
+        "titre": "Once Running Free"
+      },
+      {
+        "numero": "08",
+        "titre": "Rainbows"
+      },
+      {
+        "numero": "09",
+        "titre": "Your Song"
+      },
+      {
+        "numero": "10",
+        "titre": "Candide ⧸ Send in the Clowns"
+      },
+      {
+        "numero": "11",
+        "titre": "Etudes for the Contemporary Pianist： Journey in a Rental Car"
+      },
+      {
+        "numero": "12",
+        "titre": "Etudes for the Contemporary Pianist： I Miss You"
+      },
+      {
+        "numero": "13",
+        "titre": "Etudes for the Contemporary Pianist： A Solitary Moment by the Ocean"
+      },
+      {
+        "numero": "14",
+        "titre": "Etudes for the Contemporary Pianist： Lonely Boy"
+      },
+      {
+        "numero": "15",
+        "titre": "Etudes for the Contemporary Pianist： Scherzo (For Charles Brown)"
+      },
+      {
+        "numero": "16",
+        "titre": "Etudes for the Contemporary Pianist： Kenji"
+      },
+      {
+        "numero": "17",
+        "titre": "Etudes for the Contemporary Pianist： Betty's Dance"
+      },
+      {
+        "numero": "18",
+        "titre": "Etudes for the Contemporary Pianist： Peacock Fallen"
+      },
+      {
+        "numero": "19",
+        "titre": "Linus and Lucy"
+      }
+    ],
+    "duree_totale": 4157.592,
+    "image": "David Benoit - 2017 - The Steinway Sessions.jpg",
+    "nom": "David Benoit - 2017 - The Steinway Sessions"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "2019",
+    "album": "David Benoit and Friends",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Ballad Of Jane Hawk"
+      },
+      {
+        "numero": "02",
+        "titre": "Make It Real"
+      },
+      {
+        "numero": "03",
+        "titre": "Vernazza"
+      },
+      {
+        "numero": "04",
+        "titre": "Moon And Sand"
+      },
+      {
+        "numero": "05",
+        "titre": "Sly Fox"
+      },
+      {
+        "numero": "06",
+        "titre": "How Deep Is The Ocean"
+      },
+      {
+        "numero": "07",
+        "titre": "Dave G"
+      },
+      {
+        "numero": "08",
+        "titre": "Sienna Step"
+      },
+      {
+        "numero": "09",
+        "titre": "Feel It Still"
+      },
+      {
+        "numero": "10",
+        "titre": "96-132 Revisited"
+      },
+      {
+        "numero": "11",
+        "titre": "Viva La Vida"
+      }
+    ],
+    "duree_totale": 2917.3439999999996,
+    "image": "David Benoit - 2019 - David Benoit and Friends.jpg",
+    "nom": "David Benoit - 2019 - David Benoit and Friends"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "2020",
+    "album": "It's a David Benoit Christmas!",
+    "nb_pistes": 18,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Christmas Time Is Here (From ＂A Charlie Brown Christmas＂)"
+      },
+      {
+        "numero": "02",
+        "titre": "Skating (From ＂A Charlie Brown Christmas＂)"
+      },
+      {
+        "numero": "03",
+        "titre": "O Tannenbaum"
+      },
+      {
+        "numero": "04",
+        "titre": "Carol of the Bells"
+      },
+      {
+        "numero": "05",
+        "titre": "Christmas Is Coming (From ＂A Charlie Brown Christmas＂)"
+      },
+      {
+        "numero": "06",
+        "titre": "My Little Drum (From ＂A Charlie Brown Christmas＂)"
+      },
+      {
+        "numero": "07",
+        "titre": "My Favorite Things (From ＂The Sound of Music＂)"
+      },
+      {
+        "numero": "08",
+        "titre": "Peppermint Patty (From ＂Peanuts＂)"
+      },
+      {
+        "numero": "09",
+        "titre": "You're in Love, Charlie Brown (From ＂Peanuts＂)"
+      },
+      {
+        "numero": "10",
+        "titre": "The Christmas Song"
+      },
+      {
+        "numero": "11",
+        "titre": "Pebble Beach (From ＂Peanuts＂)"
+      },
+      {
+        "numero": "12",
+        "titre": "What Child Is This？"
+      },
+      {
+        "numero": "13",
+        "titre": "Red Baron (From ＂Peanuts＂)"
+      },
+      {
+        "numero": "14",
+        "titre": "Linus & Lucy (From ＂Peanuts＂)"
+      },
+      {
+        "numero": "15",
+        "titre": "Santa Claus Is Comin' to Town"
+      },
+      {
+        "numero": "16",
+        "titre": "Oh, Good Grief! (From ＂Peanuts＂)"
+      },
+      {
+        "numero": "17",
+        "titre": "Just Like Me (From ＂Peanuts＂)"
+      },
+      {
+        "numero": "18",
+        "titre": "Hark! The Herald Angels Sing"
+      }
+    ],
+    "duree_totale": 3163.44,
+    "image": "David Benoit - 2020 - It's a David Benoit Christmas!.jpg",
+    "nom": "David Benoit - 2020 - It's a David Benoit Christmas!"
+  },
+  {
+    "artiste": "David Benoit",
+    "annee": "2022",
+    "album": "A Midnight Rendezvous",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "A Midnight Rendezvous"
+      },
+      {
+        "numero": "02",
+        "titre": "Pioneer Town"
+      },
+      {
+        "numero": "03",
+        "titre": "The Bones"
+      },
+      {
+        "numero": "04",
+        "titre": "Floating"
+      },
+      {
+        "numero": "05",
+        "titre": "Long Journey Home"
+      },
+      {
+        "numero": "06",
+        "titre": "@Home"
+      },
+      {
+        "numero": "07",
+        "titre": "You Make Me Smile"
+      },
+      {
+        "numero": "08",
+        "titre": "Generations"
+      },
+      {
+        "numero": "09",
+        "titre": "Waiting For Spring"
+      },
+      {
+        "numero": "10",
+        "titre": "Cabin Fever"
+      }
+    ],
+    "duree_totale": 2710.584,
+    "image": "David Benoit - 2022 - A Midnight Rendezvous.jpg",
+    "nom": "David Benoit - 2022 - A Midnight Rendezvous"
   },
   {
     "artiste": "David Foster",
@@ -21388,6 +23095,16 @@
   {
     "artiste": "Deodato",
     "annee": "1978",
+    "album": "Knights Of Fantasy",
+    "nb_pistes": 0,
+    "pistes": [],
+    "duree_totale": 0,
+    "image": null,
+    "nom": "Deodato - 1978 - Knights Of Fantasy"
+  },
+  {
+    "artiste": "Deodato",
+    "annee": "1978",
     "album": "Love Island",
     "nb_pistes": 8,
     "pistes": [
@@ -21458,6 +23175,16 @@
     "duree_totale": 2013.4319999999998,
     "image": "Deodato - 1979 - Knights of Fantasy.jpg",
     "nom": "Deodato - 1979 - Knights of Fantasy"
+  },
+  {
+    "artiste": "Deodato",
+    "annee": "1979",
+    "album": "Love Island",
+    "nb_pistes": 0,
+    "pistes": [],
+    "duree_totale": 0,
+    "image": null,
+    "nom": "Deodato - 1979 - Love Island"
   },
   {
     "artiste": "Deodato",
@@ -24440,6 +26167,45 @@
   },
   {
     "artiste": "East Coast",
+    "annee": "1974",
+    "album": "East Coast",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Found You"
+      },
+      {
+        "numero": "02",
+        "titre": "Keep on Trying"
+      },
+      {
+        "numero": "03",
+        "titre": "Miss Gigi"
+      },
+      {
+        "numero": "04",
+        "titre": "Anything You Have in Mind"
+      },
+      {
+        "numero": "05",
+        "titre": "Something Deep Inside"
+      },
+      {
+        "numero": "06",
+        "titre": "I've Got to Reclaim You"
+      },
+      {
+        "numero": "07",
+        "titre": "You Can't Let It Get You Down"
+      }
+    ],
+    "duree_totale": 2041.5600000000002,
+    "image": "East Coast - 1974 - East Coast.jpg",
+    "nom": "East Coast - 1974 - East Coast"
+  },
+  {
+    "artiste": "East Coast",
     "annee": "2014",
     "album": "East Coast (Digitally Remastered)",
     "nb_pistes": 7,
@@ -25358,7 +27124,7 @@
       }
     ],
     "duree_totale": 2607.275827664399,
-    "image": null,
+    "image": "Eugene Thomas - 2025 - Love's Calling.jpg",
     "nom": "Eugene Thomas - 2025 - Love's Calling"
   },
   {
@@ -25522,6 +27288,45 @@
     "duree_totale": 2253.109675,
     "image": "Five Special - 1980 - Special Edition.jpg",
     "nom": "Five Special - 1980 - Special Edition"
+  },
+  {
+    "artiste": "Five Special",
+    "annee": "2008",
+    "album": "Five Special",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Why Leave Us Alone"
+      },
+      {
+        "numero": "02",
+        "titre": "It's a Wonderful Day"
+      },
+      {
+        "numero": "03",
+        "titre": "Do It Baby"
+      },
+      {
+        "numero": "04",
+        "titre": "It's Such a Groove (Pt. II - Whatcha Got for Music!)"
+      },
+      {
+        "numero": "05",
+        "titre": "Baby"
+      },
+      {
+        "numero": "06",
+        "titre": "Rock Dancin'"
+      },
+      {
+        "numero": "07",
+        "titre": "You're Something Special"
+      }
+    ],
+    "duree_totale": 2321.712,
+    "image": "Five Special - 2008 - Five Special.jpg",
+    "nom": "Five Special - 2008 - Five Special"
   },
   {
     "artiste": "Five Star",
@@ -26965,7 +28770,7 @@
       }
     ],
     "duree_totale": 2934.912,
-    "image": null,
+    "image": "Gary Taylor - 1983 - G.T.jpg",
     "nom": "Gary Taylor - 1983 - G.T"
   },
   {
@@ -32237,6 +34042,49 @@
     "nom": "Glenn Jones - 2006 - Forever Timeless R&B Classics"
   },
   {
+    "artiste": "Gregg Allman",
+    "annee": "1973",
+    "album": "Laid Back",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Midnight Rider"
+      },
+      {
+        "numero": "02",
+        "titre": "Queen Of Hearts"
+      },
+      {
+        "numero": "03",
+        "titre": "Please Call Home"
+      },
+      {
+        "numero": "04",
+        "titre": "Don't Mess Up A Good Thing"
+      },
+      {
+        "numero": "05",
+        "titre": "These Days"
+      },
+      {
+        "numero": "06",
+        "titre": "Multi-Colored Lady"
+      },
+      {
+        "numero": "07",
+        "titre": "All My Friends"
+      },
+      {
+        "numero": "08",
+        "titre": "Will The Circle Be Unbroken"
+      }
+    ],
+    "duree_totale": 2163.6240000000003,
+    "image": "Gregg Allman - 1973 - Laid Back.jpg",
+    "nom": "Gregg Allman - 1973 - Laid Back"
+  },
+  {
     "artiste": "Gregory Hines",
     "annee": "1988",
     "album": "Gregory Hines",
@@ -32887,6 +34735,108 @@
     "duree_totale": 2442.94155,
     "image": "Hubert Laws - 1979 - Land Of Passion.jpg",
     "nom": "Hubert Laws - 1979 - Land Of Passion"
+  },
+  {
+    "artiste": "Huey Lewis & The News",
+    "annee": "1980",
+    "album": "Huey Lewis & The News",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Some Of My Lies Are True (Sooner Or Later)"
+      },
+      {
+        "numero": "02",
+        "titre": "Don't Make Me Do It"
+      },
+      {
+        "numero": "03",
+        "titre": "Stop Trying"
+      },
+      {
+        "numero": "04",
+        "titre": "I Want You"
+      },
+      {
+        "numero": "05",
+        "titre": "Now Here's You"
+      },
+      {
+        "numero": "06",
+        "titre": "Don't Ever Tell Me That You Love Me"
+      },
+      {
+        "numero": "07",
+        "titre": "Hearts"
+      },
+      {
+        "numero": "08",
+        "titre": "Trouble In Paradise"
+      },
+      {
+        "numero": "09",
+        "titre": "Who Cares？"
+      },
+      {
+        "numero": "10",
+        "titre": "If You Really Love Me You'll Let Me"
+      }
+    ],
+    "duree_totale": 1885.6080000000002,
+    "image": "Huey Lewis & The News - 1980 - Huey Lewis & The News.jpg",
+    "nom": "Huey Lewis & The News - 1980 - Huey Lewis & The News"
+  },
+  {
+    "artiste": "Huey Lewis & The News",
+    "annee": "1982",
+    "album": "Picture This",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Change Of Heart"
+      },
+      {
+        "numero": "02",
+        "titre": "Tell Me A Little Lie"
+      },
+      {
+        "numero": "03",
+        "titre": "Tattoo (Giving It All Up For Love)"
+      },
+      {
+        "numero": "04",
+        "titre": "Huey Lewis & The News - Hope You Love Me Like You Say You Do"
+      },
+      {
+        "numero": "05",
+        "titre": "Huey Lewis And The News - Workin' For A Livin'"
+      },
+      {
+        "numero": "06",
+        "titre": "Huey Lewis & The News - Do You Believe In Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Is It Me"
+      },
+      {
+        "numero": "08",
+        "titre": "Whatever Happened To True Love"
+      },
+      {
+        "numero": "09",
+        "titre": "The Only One"
+      },
+      {
+        "numero": "10",
+        "titre": "Buzz Buzz Buzz"
+      }
+    ],
+    "duree_totale": 2120.064,
+    "image": "Huey Lewis & The News - 1982 - Picture This.jpg",
+    "nom": "Huey Lewis & The News - 1982 - Picture This"
   },
   {
     "artiste": "Huey Lewis And The News",
@@ -34656,7 +36606,7 @@
       }
     ],
     "duree_totale": 2541.002,
-    "image": null,
+    "image": "James Brown - 1976 - Get Up Offa That Thing.jpg",
     "nom": "James Brown - 1976 - Get Up Offa That Thing"
   },
   {
@@ -35819,6 +37769,523 @@
     "duree_totale": 2144.6524999999997,
     "image": null,
     "nom": "Jerry Butler - 1980 - The Best Of Love"
+  },
+  {
+    "artiste": "Jimmy Smith and Wes Montgomery",
+    "annee": "1966",
+    "album": "Further Adventures of Jimmy and Wes",
+    "nb_pistes": 0,
+    "pistes": [],
+    "duree_totale": 0,
+    "image": null,
+    "nom": "Jimmy Smith and Wes Montgomery - 1966 - Further Adventures of Jimmy and Wes"
+  },
+  {
+    "artiste": "Joe Sample",
+    "annee": "1999",
+    "album": "The Song Lives On",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Joe Sample Featuring Lalah Hathaway - The Song Lives On"
+      },
+      {
+        "numero": "02",
+        "titre": "Joe Sample Featuring Lalah Hathaway - Fever"
+      },
+      {
+        "numero": "03",
+        "titre": "Joe Sample Featuring Lalah Hathaway - Come Along With Me"
+      },
+      {
+        "numero": "04",
+        "titre": "Joe Sample Featuring Lalah Hathaway - Living In Blue"
+      },
+      {
+        "numero": "05",
+        "titre": "Joe Sample Featuring Lalah Hathaway - Street Life"
+      },
+      {
+        "numero": "06",
+        "titre": "Joe Sample Featuring Lalah Hathaway - When Your Life Was Low"
+      },
+      {
+        "numero": "07",
+        "titre": "Joe Sample Featuring Lalah Hathaway - One Day I'll Fly Away"
+      },
+      {
+        "numero": "08",
+        "titre": "Joe Sample Featuring Lalah Hathaway - When The World Turns Blue"
+      },
+      {
+        "numero": "09",
+        "titre": "Joe Sample Featuring Lalah Hathaway - For All We Know"
+      },
+      {
+        "numero": "10",
+        "titre": "Joe Sample Featuring Lalah Hathaway - Bitter Sweet"
+      },
+      {
+        "numero": "11",
+        "titre": "Joe Sample Featuring Lalah Hathaway - A Long Way From Home"
+      }
+    ],
+    "duree_totale": 3400.8239999999996,
+    "image": "Joe Sample - 1999 - The Song Lives On.jpg",
+    "nom": "Joe Sample - 1999 - The Song Lives On"
+  },
+  {
+    "artiste": "Joe Sample",
+    "annee": "2002",
+    "album": "The Pecan Tree",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The Pecan Tree"
+      },
+      {
+        "numero": "02",
+        "titre": "Hot and Humid"
+      },
+      {
+        "numero": "03",
+        "titre": "No One but Myself to Blame"
+      },
+      {
+        "numero": "04",
+        "titre": "X Marks the Spot (Marie Laveau)"
+      },
+      {
+        "numero": "05",
+        "titre": "Fool's Gold"
+      },
+      {
+        "numero": "06",
+        "titre": "Spanish Moss"
+      },
+      {
+        "numero": "07",
+        "titre": "In a Heartbeat"
+      },
+      {
+        "numero": "08",
+        "titre": "El Dorado"
+      },
+      {
+        "numero": "09",
+        "titre": "With These Hands"
+      },
+      {
+        "numero": "10",
+        "titre": "The Texas Two Step"
+      },
+      {
+        "numero": "11",
+        "titre": "Memories"
+      }
+    ],
+    "duree_totale": 3245.0159999999996,
+    "image": "Joe Sample - 2002 - The Pecan Tree.jpg",
+    "nom": "Joe Sample - 2002 - The Pecan Tree"
+  },
+  {
+    "artiste": "Joe Sample",
+    "annee": "2004",
+    "album": "Soul Shadows",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "How You Gonna Keep Them Down on the Farm？"
+      },
+      {
+        "numero": "02",
+        "titre": "Ain't Misbehavin"
+      },
+      {
+        "numero": "03",
+        "titre": "Avalon"
+      },
+      {
+        "numero": "04",
+        "titre": "Soul Shadows"
+      },
+      {
+        "numero": "05",
+        "titre": "I Got Rhythm"
+      },
+      {
+        "numero": "06",
+        "titre": "I Got It Bad and That Ain't Good"
+      },
+      {
+        "numero": "07",
+        "titre": "Spellbound"
+      },
+      {
+        "numero": "08",
+        "titre": "It's a Sin to Tell a Lie"
+      },
+      {
+        "numero": "09",
+        "titre": "Entertainer"
+      },
+      {
+        "numero": "10",
+        "titre": "Shreveport Stomp"
+      },
+      {
+        "numero": "11",
+        "titre": "Embraceable You"
+      },
+      {
+        "numero": "12",
+        "titre": "Jitterbug Waltz"
+      }
+    ],
+    "duree_totale": 2977.824,
+    "image": "Joe Sample - 2004 - Soul Shadows.jpg",
+    "nom": "Joe Sample - 2004 - Soul Shadows"
+  },
+  {
+    "artiste": "Joe Sample",
+    "annee": "2007",
+    "album": "Feeling Good",
+    "nb_pistes": 14,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Feeling Good"
+      },
+      {
+        "numero": "02",
+        "titre": "End of the Line"
+      },
+      {
+        "numero": "03",
+        "titre": "But Beautiful"
+      },
+      {
+        "numero": "04",
+        "titre": "Rio De Janeiro Blue"
+      },
+      {
+        "numero": "05",
+        "titre": "Lovetown"
+      },
+      {
+        "numero": "06",
+        "titre": "See Line Woman"
+      },
+      {
+        "numero": "07",
+        "titre": "Tell Me More and More and Then Some"
+      },
+      {
+        "numero": "08",
+        "titre": "Everybody's Talking"
+      },
+      {
+        "numero": "09",
+        "titre": "When I Need You"
+      },
+      {
+        "numero": "10",
+        "titre": "Save Your Love for Me"
+      },
+      {
+        "numero": "11",
+        "titre": "Last Night at Danceland-DESKTOP-MIQNRO9"
+      },
+      {
+        "numero": "11",
+        "titre": "Last Night at Danceland"
+      },
+      {
+        "numero": "12",
+        "titre": "All Night Long"
+      },
+      {
+        "numero": "13",
+        "titre": "Mr. Ugly"
+      }
+    ],
+    "duree_totale": 3456.359999999999,
+    "image": "Joe Sample - 2007 - Feeling Good.jpg",
+    "nom": "Joe Sample - 2007 - Feeling Good"
+  },
+  {
+    "artiste": "Joe Sample",
+    "annee": "2012",
+    "album": "Children of the Sun",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Wanna Go Home"
+      },
+      {
+        "numero": "02",
+        "titre": "Buttermilk Sky"
+      },
+      {
+        "numero": "03",
+        "titre": "Islands of the Mind"
+      },
+      {
+        "numero": "04",
+        "titre": "Rumfire"
+      },
+      {
+        "numero": "05",
+        "titre": "Gold in the Cane (Intro)"
+      },
+      {
+        "numero": "06",
+        "titre": "Gold in the Cane"
+      },
+      {
+        "numero": "07",
+        "titre": "I Believe In"
+      },
+      {
+        "numero": "08",
+        "titre": "Children of the Sun"
+      },
+      {
+        "numero": "09",
+        "titre": "Blue Abyss"
+      },
+      {
+        "numero": "10",
+        "titre": "Creole Eyes"
+      },
+      {
+        "numero": "11",
+        "titre": "Albatross Day"
+      }
+    ],
+    "duree_totale": 3750.456,
+    "image": "Joe Sample - 2012 - Children of the Sun.jpg",
+    "nom": "Joe Sample - 2012 - Children of the Sun"
+  },
+  {
+    "artiste": "Joe Sample",
+    "annee": "2015",
+    "album": "Christmas With Friends",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Let It Snow"
+      },
+      {
+        "numero": "02",
+        "titre": "Favorite Time Of Year"
+      },
+      {
+        "numero": "03",
+        "titre": "Silent Night"
+      },
+      {
+        "numero": "04",
+        "titre": "Have Yourself A Merry Little Christmas"
+      },
+      {
+        "numero": "05",
+        "titre": "Merry Christmas Baby"
+      },
+      {
+        "numero": "06",
+        "titre": "I’ve Got My Love To Keep Me Warm"
+      },
+      {
+        "numero": "07",
+        "titre": "Thugga Massina - Jaded ft. Guala (Official Audio)"
+      },
+      {
+        "numero": "08",
+        "titre": "The Christmas Song"
+      },
+      {
+        "numero": "09",
+        "titre": "God Rest Ye Merry Gentlemen"
+      },
+      {
+        "numero": "10",
+        "titre": "Mary, Did You Know？"
+      },
+      {
+        "numero": "11",
+        "titre": "Auld Lang Syne"
+      }
+    ],
+    "duree_totale": 2427.168,
+    "image": "Joe Sample - 2015 - Christmas With Friends.jpg",
+    "nom": "Joe Sample - 2015 - Christmas With Friends"
+  },
+  {
+    "artiste": "Joe Sample",
+    "annee": "2016",
+    "album": "No Regrets",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Every Day I Have the Blues"
+      },
+      {
+        "numero": "02",
+        "titre": "Today I Sing the Blues"
+      },
+      {
+        "numero": "03",
+        "titre": "Respect Yourself"
+      },
+      {
+        "numero": "04",
+        "titre": "Angel"
+      },
+      {
+        "numero": "05",
+        "titre": "Me, Myself and I"
+      },
+      {
+        "numero": "06",
+        "titre": "Just One Smile"
+      },
+      {
+        "numero": "07",
+        "titre": "Don't Put All Your Dreams in One Basket"
+      },
+      {
+        "numero": "08",
+        "titre": "This Bitter Earth"
+      },
+      {
+        "numero": "09",
+        "titre": "Starting All over Again"
+      },
+      {
+        "numero": "10",
+        "titre": "No Regrets"
+      },
+      {
+        "numero": "11",
+        "titre": "Lead Me On"
+      }
+    ],
+    "duree_totale": 2629.6800000000003,
+    "image": "Joe Sample - 2016 - No Regrets.jpg",
+    "nom": "Joe Sample - 2016 - No Regrets"
+  },
+  {
+    "artiste": "Joe Sample",
+    "annee": "2023",
+    "album": "Lives In A Dream",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Black Is the Color"
+      },
+      {
+        "numero": "02",
+        "titre": "A House Is Not a Home"
+      },
+      {
+        "numero": "03",
+        "titre": "Come Rain or Come Shine"
+      },
+      {
+        "numero": "04",
+        "titre": "Invitation"
+      },
+      {
+        "numero": "05",
+        "titre": "Summertime"
+      },
+      {
+        "numero": "06",
+        "titre": "Nica's Dream"
+      },
+      {
+        "numero": "07",
+        "titre": "Stormy Weather"
+      },
+      {
+        "numero": "08",
+        "titre": "Django"
+      },
+      {
+        "numero": "09",
+        "titre": "My One and Only Love"
+      },
+      {
+        "numero": "10",
+        "titre": "Mood Indigo"
+      }
+    ],
+    "duree_totale": 2993.1839999999997,
+    "image": "Joe Sample - 2023 - Lives In A Dream.jpg",
+    "nom": "Joe Sample - 2023 - Lives In A Dream"
+  },
+  {
+    "artiste": "Joe Sample",
+    "annee": "2025",
+    "album": "How Sweet It Can Be",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Joe Sample Featuring Lalah Hathaway - The Song Lives On"
+      },
+      {
+        "numero": "02",
+        "titre": "Joe Sample Featuring Lalah Hathaway - Fever"
+      },
+      {
+        "numero": "03",
+        "titre": "Joe Sample Featuring Lalah Hathaway - Come Along With Me"
+      },
+      {
+        "numero": "04",
+        "titre": "Joe Sample Featuring Lalah Hathaway - Living In Blue"
+      },
+      {
+        "numero": "05",
+        "titre": "Joe Sample Featuring Lalah Hathaway - Street Life"
+      },
+      {
+        "numero": "06",
+        "titre": "Joe Sample Featuring Lalah Hathaway - When Your Life Was Low"
+      },
+      {
+        "numero": "07",
+        "titre": "Joe Sample Featuring Lalah Hathaway - One Day I'll Fly Away"
+      },
+      {
+        "numero": "08",
+        "titre": "Joe Sample Featuring Lalah Hathaway - When The World Turns Blue"
+      },
+      {
+        "numero": "09",
+        "titre": "Joe Sample Featuring Lalah Hathaway - For All We Know"
+      },
+      {
+        "numero": "10",
+        "titre": "Joe Sample Featuring Lalah Hathaway - Bitter Sweet"
+      },
+      {
+        "numero": "11",
+        "titre": "Joe Sample Featuring Lalah Hathaway - A Long Way From Home"
+      }
+    ],
+    "duree_totale": 3400.8239999999996,
+    "image": "Joe Sample - 2025 - How Sweet It Can Be.jpg",
+    "nom": "Joe Sample - 2025 - How Sweet It Can Be"
   },
   {
     "artiste": "Jon Lucien",
@@ -38579,6 +41046,92 @@
     "nom": "Loggins & Messina - 1976 - Native Sons"
   },
   {
+    "artiste": "Loose Ends",
+    "annee": "1984",
+    "album": "A Little Spice",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Tell Me What You Want"
+      },
+      {
+        "numero": "02",
+        "titre": "Feel So Right Now"
+      },
+      {
+        "numero": "03",
+        "titre": "Let's Rock"
+      },
+      {
+        "numero": "04",
+        "titre": "So Much In Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Dial 999"
+      },
+      {
+        "numero": "06",
+        "titre": "Music Takes Me Higher"
+      },
+      {
+        "numero": "07",
+        "titre": "Choose Me"
+      },
+      {
+        "numero": "08",
+        "titre": "A Little Spice"
+      }
+    ],
+    "duree_totale": 2369.136,
+    "image": "Loose Ends - 1984 - A Little Spice.jpg",
+    "nom": "Loose Ends - 1984 - A Little Spice"
+  },
+  {
+    "artiste": "Loose Ends",
+    "annee": "1985",
+    "album": "So Where Are You",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "A New Horizon"
+      },
+      {
+        "numero": "02",
+        "titre": "If My Lovin' Makes You Hot"
+      },
+      {
+        "numero": "03",
+        "titre": "So Where Are You"
+      },
+      {
+        "numero": "04",
+        "titre": "Golden Years"
+      },
+      {
+        "numero": "05",
+        "titre": "Hangin' On A String (Contemplating)"
+      },
+      {
+        "numero": "06",
+        "titre": "Give It All You Got"
+      },
+      {
+        "numero": "07",
+        "titre": "You Can't Stop The Rain"
+      },
+      {
+        "numero": "08",
+        "titre": "Silent Talking"
+      }
+    ],
+    "duree_totale": 2269.824,
+    "image": "Loose Ends - 1985 - So Where Are You.jpg",
+    "nom": "Loose Ends - 1985 - So Where Are You"
+  },
+  {
     "artiste": "Lou Rawls",
     "annee": "1974",
     "album": "Lou Rawls  She's Gone",
@@ -40178,6 +42731,49 @@
     "duree_totale": 3456.6,
     "image": "Mother's Finest - 1989 - Looks Could Kill.jpg",
     "nom": "Mother's Finest - 1989 - Looks Could Kill"
+  },
+  {
+    "artiste": "Mystic Merlin",
+    "annee": "1982",
+    "album": "Full Moon",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Mr. Magician (2004 Digital Remaster)"
+      },
+      {
+        "numero": "02",
+        "titre": "Perfect (2004 Digital Remaster)"
+      },
+      {
+        "numero": "03",
+        "titre": "Rock The World (2004 Digital Remaster)"
+      },
+      {
+        "numero": "04",
+        "titre": "Your Love (2004 Digital Remaster)"
+      },
+      {
+        "numero": "05",
+        "titre": "Full Moon Rising (Prelude) ⧸Full Moon (Instrumental; 2004 Digital Remaster)"
+      },
+      {
+        "numero": "06",
+        "titre": "Love Is What You Need (2004 Digital Remaster)"
+      },
+      {
+        "numero": "07",
+        "titre": "Back To Zero (2004 Digital Remaster)"
+      },
+      {
+        "numero": "08",
+        "titre": "Mindreader (2004 Digital Remaster)"
+      }
+    ],
+    "duree_totale": 2193.576,
+    "image": null,
+    "nom": "Mystic Merlin - 1982 - Full Moon"
   },
   {
     "artiste": "Natalie Cole",
@@ -47342,6 +49938,143 @@
     "nom": "The Pointer Sisters - 1993 - Only Sisters Can Do That"
   },
   {
+    "artiste": "The Real Thing",
+    "annee": "1977",
+    "album": "4 From 8",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Love's Such a Wonderful Thing"
+      },
+      {
+        "numero": "02",
+        "titre": "Lovin' You Is Like a Dream"
+      },
+      {
+        "numero": "03",
+        "titre": "Kathy"
+      },
+      {
+        "numero": "04",
+        "titre": "Down to the Way You Feel"
+      },
+      {
+        "numero": "05",
+        "titre": "Plastic Man"
+      },
+      {
+        "numero": "06",
+        "titre": "Lightning Strikes Again"
+      },
+      {
+        "numero": "07",
+        "titre": "I Wish You Well"
+      },
+      {
+        "numero": "08",
+        "titre": "Liverpool Medley： Liverpool Eight ⧸ Children of the Ghetto ⧸ Stanhope Street"
+      }
+    ],
+    "duree_totale": 2304.048,
+    "image": "The Real Thing - 1977 - 4 From 8.jpg",
+    "nom": "The Real Thing - 1977 - 4 From 8"
+  },
+  {
+    "artiste": "The Real Thing",
+    "annee": "1978",
+    "album": "Step Into Our World",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Whatcha Say, Whatcha Do"
+      },
+      {
+        "numero": "02",
+        "titre": "Lady, I Love You All the Time"
+      },
+      {
+        "numero": "03",
+        "titre": "Rainin' Through My Sunshine"
+      },
+      {
+        "numero": "04",
+        "titre": "Can You Feel the Force"
+      },
+      {
+        "numero": "05",
+        "titre": "Give Me the Chance"
+      },
+      {
+        "numero": "06",
+        "titre": "(We Gotta Take It to the) Second Stage"
+      },
+      {
+        "numero": "07",
+        "titre": "Won't You Step Into My World"
+      },
+      {
+        "numero": "08",
+        "titre": "Whenever You Want My Love"
+      },
+      {
+        "numero": "09",
+        "titre": "You Gotta Keep Holding On"
+      },
+      {
+        "numero": "10",
+        "titre": "Love Me Right"
+      }
+    ],
+    "duree_totale": 2475.264,
+    "image": "The Real Thing - 1978 - Step Into Our World.jpg",
+    "nom": "The Real Thing - 1978 - Step Into Our World"
+  },
+  {
+    "artiste": "The Real Thing",
+    "annee": "1979",
+    "album": "Saints or Sinners",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Boogie Down (Get Funky Now)"
+      },
+      {
+        "numero": "02",
+        "titre": "Saint Or Sinner"
+      },
+      {
+        "numero": "03",
+        "titre": "The Story Of My Life"
+      },
+      {
+        "numero": "04",
+        "titre": "Thankyou For Loving Me"
+      },
+      {
+        "numero": "05",
+        "titre": "You Can't Force The Funk"
+      },
+      {
+        "numero": "06",
+        "titre": "Give Me Your Love"
+      },
+      {
+        "numero": "07",
+        "titre": "One Girl In My Life"
+      },
+      {
+        "numero": "08",
+        "titre": "Boogie Down (Instrumental)"
+      }
+    ],
+    "duree_totale": 2595.504,
+    "image": "The Real Thing - 1979 - Saints or Sinners.jpg",
+    "nom": "The Real Thing - 1979 - Saints or Sinners"
+  },
+  {
     "artiste": "The Reddings",
     "annee": "1982",
     "album": "Steamin' Hot",
@@ -48311,7 +51044,7 @@
       }
     ],
     "duree_totale": 3542.016,
-    "image": null,
+    "image": "Tower of Power - 1993 - T.O.P.jpg",
     "nom": "Tower of Power - 1993 - T.O.P"
   },
   {
@@ -49782,6 +52515,26 @@
   },
   {
     "artiste": "Wes Montgomery",
+    "annee": "1965",
+    "album": "California Dreaming",
+    "nb_pistes": 0,
+    "pistes": [],
+    "duree_totale": 0,
+    "image": null,
+    "nom": "Wes Montgomery - 1965 - California Dreaming"
+  },
+  {
+    "artiste": "Wes Montgomery",
+    "annee": "1966",
+    "album": "California Dreaming",
+    "nb_pistes": 0,
+    "pistes": [],
+    "duree_totale": 0,
+    "image": null,
+    "nom": "Wes Montgomery - 1966 - California Dreaming"
+  },
+  {
+    "artiste": "Wes Montgomery",
     "annee": "1966",
     "album": "Tequila (Expanded Edition)",
     "nb_pistes": 12,
@@ -49889,6 +52642,46 @@
     "duree_totale": 2091.342925,
     "image": "Wes Montgomery - 1967 - A Day In The Life.jpg",
     "nom": "Wes Montgomery - 1967 - A Day In The Life"
+  },
+  {
+    "artiste": "Wes Montgomery",
+    "annee": "1968",
+    "album": "A Day In The Life",
+    "nb_pistes": 0,
+    "pistes": [],
+    "duree_totale": 0,
+    "image": null,
+    "nom": "Wes Montgomery - 1968 - A Day In The Life"
+  },
+  {
+    "artiste": "Wes Montgomery",
+    "annee": "1968",
+    "album": "Down Here On The Ground",
+    "nb_pistes": 0,
+    "pistes": [],
+    "duree_totale": 0,
+    "image": null,
+    "nom": "Wes Montgomery - 1968 - Down Here On The Ground"
+  },
+  {
+    "artiste": "Wes Montgomery",
+    "annee": "1968",
+    "album": "Road Song",
+    "nb_pistes": 0,
+    "pistes": [],
+    "duree_totale": 0,
+    "image": null,
+    "nom": "Wes Montgomery - 1968 - Road Song"
+  },
+  {
+    "artiste": "Wes Montgomery",
+    "annee": "1971",
+    "album": "Just Walkin",
+    "nb_pistes": 0,
+    "pistes": [],
+    "duree_totale": 0,
+    "image": null,
+    "nom": "Wes Montgomery - 1971 - Just Walkin"
   },
   {
     "artiste": "Winta & Liora Twani",
@@ -50482,5 +53275,48 @@
     "duree_totale": 2560.6556249999994,
     "image": "Zapp - 1985 - IV.jpg",
     "nom": "Zapp - 1985 - IV"
+  },
+  {
+    "artiste": "Zoom",
+    "annee": "2022",
+    "album": "Saturday, Saturday Night",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Saturday, Saturday Night"
+      },
+      {
+        "numero": "02",
+        "titre": "Move And Groove"
+      },
+      {
+        "numero": "03",
+        "titre": "Walk That Thing"
+      },
+      {
+        "numero": "04",
+        "titre": "Raid"
+      },
+      {
+        "numero": "05",
+        "titre": "I Believe In You"
+      },
+      {
+        "numero": "06",
+        "titre": "Bye Bye Baby"
+      },
+      {
+        "numero": "07",
+        "titre": "Love Seasons"
+      },
+      {
+        "numero": "08",
+        "titre": "Distant Destiny"
+      }
+    ],
+    "duree_totale": 2125.272,
+    "image": "Zoom - 2022 - Saturday, Saturday Night.jpg",
+    "nom": "Zoom - 2022 - Saturday, Saturday Night"
   }
 ]
