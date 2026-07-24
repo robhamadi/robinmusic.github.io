@@ -3265,45 +3265,6 @@
     "nom": "Angela Bofill - 1996 - Love in Slow Motion"
   },
   {
-    "artiste": "Archie Bell & The Drell",
-    "annee": "1975",
-    "album": "Dance Your Troubles Away",
-    "nb_pistes": 7,
-    "pistes": [
-      {
-        "numero": "01",
-        "titre": "Let's Groove"
-      },
-      {
-        "numero": "02",
-        "titre": "I Could Dance All Night"
-      },
-      {
-        "numero": "03",
-        "titre": "I Won't Leave You Honey, Never"
-      },
-      {
-        "numero": "04",
-        "titre": "Dance Your Troubles Away"
-      },
-      {
-        "numero": "05",
-        "titre": "The Soul City Walk"
-      },
-      {
-        "numero": "06",
-        "titre": "Let's Go Disco"
-      },
-      {
-        "numero": "07",
-        "titre": "I Love You (But You Don't Even Know It)"
-      }
-    ],
-    "duree_totale": 2176.75375,
-    "image": null,
-    "nom": "Archie Bell & The Drell - 1975 - Dance Your Troubles Away"
-  },
-  {
     "artiste": "Archie Bell & The Drells",
     "annee": "1975",
     "album": "Dance Your Troubles Away",
@@ -11923,7 +11884,7 @@
       }
     ],
     "duree_totale": 2152.6133333333332,
-    "image": null,
+    "image": "Cameo - 1977 - We All Know Who We Are.jpg",
     "nom": "Cameo - 1977 - We All Know Who We Are"
   },
   {
@@ -12269,7 +12230,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": null,
+    "image": "Cameo - 1984 - She's Strange.jpg",
     "nom": "Cameo - 1984 - She's Strange"
   },
   {
@@ -12543,7 +12504,7 @@
       }
     ],
     "duree_totale": 2853.225625,
-    "image": null,
+    "image": "Cameo - 1992 - Emotional Violence.jpg",
     "nom": "Cameo - 1992 - Emotional Violence"
   },
   {
@@ -23099,7 +23060,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": null,
+    "image": "Deodato - 1978 - Knights Of Fantasy.jpg",
     "nom": "Deodato - 1978 - Knights Of Fantasy"
   },
   {
@@ -23183,7 +23144,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": null,
+    "image": "Deodato - 1979 - Love Island.jpg",
     "nom": "Deodato - 1979 - Love Island"
   },
   {
@@ -27335,7 +27296,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": null,
+    "image": "Five Star - 1991 - Shine.jpg",
     "nom": "Five Star - 1991 - Shine"
   },
   {
@@ -28576,6 +28537,61 @@
     "duree_totale": 3544.1429500000004,
     "image": "Fourplay - 2015 - Silver.jpg",
     "nom": "Fourplay - 2015 - Silver"
+  },
+  {
+    "artiste": "Foxy",
+    "annee": "1976",
+    "album": "Foxy",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "You Make Me Hot (2013 Remaster)"
+      },
+      {
+        "numero": "02",
+        "titre": "People Fall in Love (While Dancing) (2013 Remaster)"
+      },
+      {
+        "numero": "03",
+        "titre": "Get off Your Aahh and Dance (2013 Remaster)"
+      },
+      {
+        "numero": "04",
+        "titre": "Baby I'm Leaving (2013 Remaster)"
+      },
+      {
+        "numero": "05",
+        "titre": "What's It Take (2013 Remaster)"
+      },
+      {
+        "numero": "06",
+        "titre": "Let's Love (2013 Remaster)"
+      },
+      {
+        "numero": "07",
+        "titre": "The Way You Do the Things You Do (12＂ Vocal Version) (2013 Remaster)"
+      },
+      {
+        "numero": "08",
+        "titre": "Get off Your Aahh and Dance (Pt. 1) (2013 Remaster)"
+      },
+      {
+        "numero": "09",
+        "titre": "You Make Me Hot (7＂ Version) (2013 Remaster)"
+      },
+      {
+        "numero": "10",
+        "titre": "Let's Love (12＂ Version) (2013 Remaster)"
+      },
+      {
+        "numero": "11",
+        "titre": "The Way You Do the Things You Do (7＂ Vocal Version) (2013 Remaster)"
+      }
+    ],
+    "duree_totale": 3141.864,
+    "image": "Foxy - 1976 - Foxy.jpg",
+    "nom": "Foxy - 1976 - Foxy"
   },
   {
     "artiste": "Freddie Jackson",
@@ -37777,7 +37793,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": null,
+    "image": "Jimmy Smith and Wes Montgomery - 1966 - Further Adventures of Jimmy and Wes.jpg",
     "nom": "Jimmy Smith and Wes Montgomery - 1966 - Further Adventures of Jimmy and Wes"
   },
   {
@@ -42772,7 +42788,7 @@
       }
     ],
     "duree_totale": 2193.576,
-    "image": null,
+    "image": "Mystic Merlin - 1982 - Full Moon.jpg",
     "nom": "Mystic Merlin - 1982 - Full Moon"
   },
   {
@@ -52520,7 +52536,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": null,
+    "image": "Wes Montgomery - 1965 - California Dreaming.jpg",
     "nom": "Wes Montgomery - 1965 - California Dreaming"
   },
   {
@@ -52530,7 +52546,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": null,
+    "image": "Wes Montgomery - 1966 - California Dreaming.jpg",
     "nom": "Wes Montgomery - 1966 - California Dreaming"
   },
   {
@@ -52650,7 +52666,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": null,
+    "image": "Wes Montgomery - 1968 - A Day In The Life.jpg",
     "nom": "Wes Montgomery - 1968 - A Day In The Life"
   },
   {
@@ -52660,7 +52676,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": null,
+    "image": "Wes Montgomery - 1968 - Down Here On The Ground.jpg",
     "nom": "Wes Montgomery - 1968 - Down Here On The Ground"
   },
   {
@@ -52670,7 +52686,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": null,
+    "image": "Wes Montgomery - 1968 - Road Song.jpg",
     "nom": "Wes Montgomery - 1968 - Road Song"
   },
   {
@@ -52680,7 +52696,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": null,
+    "image": "Wes Montgomery - 1971 - Just Walkin.jpg",
     "nom": "Wes Montgomery - 1971 - Just Walkin"
   },
   {
