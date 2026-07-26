@@ -7446,6 +7446,108 @@
     "nom": "Benoit & Freeman - 2004 - Project 2"
   },
   {
+    "artiste": "Bert Robinson",
+    "annee": "1987",
+    "album": "No More Cold Nights",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Heart Of Gold"
+      },
+      {
+        "numero": "02",
+        "titre": "Won't You Be My Lady"
+      },
+      {
+        "numero": "03",
+        "titre": "Just A Little Love"
+      },
+      {
+        "numero": "04",
+        "titre": "Never Gonna Give You Up"
+      },
+      {
+        "numero": "05",
+        "titre": "Tough Enough"
+      },
+      {
+        "numero": "06",
+        "titre": "No More Cold Nights"
+      },
+      {
+        "numero": "07",
+        "titre": "You Turn Me Out"
+      },
+      {
+        "numero": "08",
+        "titre": "Just Begun To Know You"
+      },
+      {
+        "numero": "09",
+        "titre": "Burning Inside Your Love"
+      },
+      {
+        "numero": "10",
+        "titre": "Still Waiting"
+      }
+    ],
+    "duree_totale": 2832.576,
+    "image": "Bert Robinson - 1987 - No More Cold Nights.jpg",
+    "nom": "Bert Robinson - 1987 - No More Cold Nights"
+  },
+  {
+    "artiste": "Bert Robinson",
+    "annee": "1989",
+    "album": "I Promise You Love",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Occupy My Love"
+      },
+      {
+        "numero": "02",
+        "titre": "I Promise You Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Lover It's Coming Back"
+      },
+      {
+        "numero": "04",
+        "titre": "I Can't Let You Go"
+      },
+      {
+        "numero": "05",
+        "titre": "I'll Be So Good To You"
+      },
+      {
+        "numero": "06",
+        "titre": "Real Thing"
+      },
+      {
+        "numero": "07",
+        "titre": "Sleepin' Alone"
+      },
+      {
+        "numero": "08",
+        "titre": "Back To The Basics"
+      },
+      {
+        "numero": "09",
+        "titre": "Give Me That Old Time Love"
+      },
+      {
+        "numero": "10",
+        "titre": "I'll Be There"
+      }
+    ],
+    "duree_totale": 2761.7040000000006,
+    "image": "Bert Robinson - 1989 - I Promise You Love.jpg",
+    "nom": "Bert Robinson - 1989 - I Promise You Love"
+  },
+  {
     "artiste": "Bill Withers",
     "annee": "1971",
     "album": "Just As I Am",
@@ -11001,6 +11103,131 @@
     "nom": "Bobby Womack - 2021 - The Poet II"
   },
   {
+    "artiste": "Brainstorm",
+    "annee": "1977",
+    "album": "Stormin'",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Lovin' Is Really My Game"
+      },
+      {
+        "numero": "02",
+        "titre": "Waiting For Someone"
+      },
+      {
+        "numero": "03",
+        "titre": "This Must Be Heaven"
+      },
+      {
+        "numero": "04",
+        "titre": "Easy Thangs"
+      },
+      {
+        "numero": "05",
+        "titre": "Prelude (Instrumental)"
+      },
+      {
+        "numero": "06",
+        "titre": "Wake Up And Be Somebody"
+      },
+      {
+        "numero": "07",
+        "titre": "Stormin'"
+      },
+      {
+        "numero": "08",
+        "titre": "We Know A Place"
+      },
+      {
+        "numero": "09",
+        "titre": "Hangin' On"
+      }
+    ],
+    "duree_totale": 2552.904,
+    "image": "Brainstorm - 1977 - Stormin'.jpg",
+    "nom": "Brainstorm - 1977 - Stormin'"
+  },
+  {
+    "artiste": "Brainstorm",
+    "annee": "1978",
+    "album": "Journey to the Light",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "We're On Our Way Home (Part 1)"
+      },
+      {
+        "numero": "02",
+        "titre": "Loving Just You"
+      },
+      {
+        "numero": "03",
+        "titre": "Every Time I See You, I Go Wild!"
+      },
+      {
+        "numero": "04",
+        "titre": "Brand New Day"
+      },
+      {
+        "numero": "05",
+        "titre": "Journey To The Light"
+      },
+      {
+        "numero": "06",
+        "titre": "If You Ever Need To Cry"
+      },
+      {
+        "numero": "07",
+        "titre": "We're On Our Way Home (Part 2)"
+      },
+      {
+        "numero": "08",
+        "titre": "Positive Thinking"
+      }
+    ],
+    "duree_totale": 2333.16,
+    "image": "Brainstorm - 1978 - Journey to the Light.jpg",
+    "nom": "Brainstorm - 1978 - Journey to the Light"
+  },
+  {
+    "artiste": "Brainstorm",
+    "annee": "1979",
+    "album": "Funky Entertainment",
+    "nb_pistes": 6,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Hot For You"
+      },
+      {
+        "numero": "02",
+        "titre": "A Case Of The Boogie"
+      },
+      {
+        "numero": "03",
+        "titre": "Popcorn"
+      },
+      {
+        "numero": "04",
+        "titre": "Funky Entertainment"
+      },
+      {
+        "numero": "05",
+        "titre": "You Put A Charge In My Life"
+      },
+      {
+        "numero": "06",
+        "titre": "Don't Let Me Catch You With Your Groove Down"
+      }
+    ],
+    "duree_totale": 2296.152,
+    "image": "Brainstorm - 1979 - Funky Entertainment.jpg",
+    "nom": "Brainstorm - 1979 - Funky Entertainment"
+  },
+  {
     "artiste": "Brand X",
     "annee": "1978",
     "album": "Masques",
@@ -11085,6 +11312,49 @@
     "duree_totale": 2801.1600000000003,
     "image": "Brand X - 1979 - Product.jpg",
     "nom": "Brand X - 1979 - Product"
+  },
+  {
+    "artiste": "Breakwater",
+    "annee": "1978",
+    "album": "Breakwater",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Work It Out"
+      },
+      {
+        "numero": "02",
+        "titre": "You Know I Love You"
+      },
+      {
+        "numero": "03",
+        "titre": "Unnecessary Business"
+      },
+      {
+        "numero": "04",
+        "titre": "No Limit"
+      },
+      {
+        "numero": "05",
+        "titre": "That's Not What We Came Here For"
+      },
+      {
+        "numero": "06",
+        "titre": "Feel Your Way"
+      },
+      {
+        "numero": "07",
+        "titre": "Do It Till the Fluid Gets Hot"
+      },
+      {
+        "numero": "08",
+        "titre": "Free Yourself"
+      }
+    ],
+    "duree_totale": 2163.384,
+    "image": "Breakwater - 1978 - Breakwater.jpg",
+    "nom": "Breakwater - 1978 - Breakwater"
   },
   {
     "artiste": "Brenda Russell",
@@ -14263,6 +14533,49 @@
     "nom": "Carl Carlton - 1982 - The Bad CC"
   },
   {
+    "artiste": "Cashmere",
+    "annee": "1985",
+    "album": "Cashmere",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Can I"
+      },
+      {
+        "numero": "02",
+        "titre": "Someone Like You"
+      },
+      {
+        "numero": "03",
+        "titre": "Fascination"
+      },
+      {
+        "numero": "04",
+        "titre": "You're All I Need"
+      },
+      {
+        "numero": "05",
+        "titre": "We Need Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Keep Me Up"
+      },
+      {
+        "numero": "07",
+        "titre": "Cutie Pie"
+      },
+      {
+        "numero": "08",
+        "titre": "Don't Keep Me Waiting"
+      }
+    ],
+    "duree_totale": 2417.016,
+    "image": "Cashmere - 1985 - Cashmere.jpg",
+    "nom": "Cashmere - 1985 - Cashmere"
+  },
+  {
     "artiste": "Casiopea",
     "annee": "1979",
     "album": "Casiopea",
@@ -15758,6 +16071,292 @@
     "nom": "Casiopea-P4 - 2025 - True Blue"
   },
   {
+    "artiste": "Champaign",
+    "annee": "1981",
+    "album": "How 'Bout Us",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Can You Find the Time？"
+      },
+      {
+        "numero": "02",
+        "titre": "Party People"
+      },
+      {
+        "numero": "03",
+        "titre": "Whiplash"
+      },
+      {
+        "numero": "04",
+        "titre": "I'm on Fire"
+      },
+      {
+        "numero": "05",
+        "titre": "How 'Bout Us"
+      },
+      {
+        "numero": "06",
+        "titre": "Spinnin'"
+      },
+      {
+        "numero": "07",
+        "titre": "Dancin' Together Again"
+      },
+      {
+        "numero": "08",
+        "titre": "Lighten Up"
+      },
+      {
+        "numero": "09",
+        "titre": "If One More Morning"
+      },
+      {
+        "numero": "10",
+        "titre": "How 'Bout Us (7 Inch Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "I'm on Fire (7 Inch Version)"
+      }
+    ],
+    "duree_totale": 2544.744,
+    "image": "Champaign - 1981 - How 'Bout Us.jpg",
+    "nom": "Champaign - 1981 - How 'Bout Us"
+  },
+  {
+    "artiste": "Champaign",
+    "annee": "1983",
+    "album": "Modern Heart",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Let Your Body Rock"
+      },
+      {
+        "numero": "02",
+        "titre": "Try Again"
+      },
+      {
+        "numero": "03",
+        "titre": "Party Line"
+      },
+      {
+        "numero": "04",
+        "titre": "Cool Running"
+      },
+      {
+        "numero": "05",
+        "titre": "Walkin'"
+      },
+      {
+        "numero": "06",
+        "titre": "Keep It Up"
+      },
+      {
+        "numero": "07",
+        "titre": "Love Games"
+      },
+      {
+        "numero": "08",
+        "titre": "Get It Again"
+      },
+      {
+        "numero": "09",
+        "titre": "International Feel"
+      }
+    ],
+    "duree_totale": 2050.4880000000003,
+    "image": "Champaign - 1983 - Modern Heart.jpg",
+    "nom": "Champaign - 1983 - Modern Heart"
+  },
+  {
+    "artiste": "Champaign",
+    "annee": "1984",
+    "album": "Woman in Flames",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Off and On Love"
+      },
+      {
+        "numero": "02",
+        "titre": "This Time"
+      },
+      {
+        "numero": "03",
+        "titre": "Prisoner"
+      },
+      {
+        "numero": "04",
+        "titre": "Intimate Strangers"
+      },
+      {
+        "numero": "05",
+        "titre": "Woman in Flames"
+      },
+      {
+        "numero": "06",
+        "titre": "Mardi Gras"
+      },
+      {
+        "numero": "07",
+        "titre": "Be Mine Tonight"
+      },
+      {
+        "numero": "08",
+        "titre": "Capture the Moon"
+      }
+    ],
+    "duree_totale": 2119.296,
+    "image": "Champaign - 1984 - Woman in Flames.jpg",
+    "nom": "Champaign - 1984 - Woman in Flames"
+  },
+  {
+    "artiste": "Champaign",
+    "annee": "1991",
+    "album": "Champaign IV",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Trials Of The Heart"
+      },
+      {
+        "numero": "02",
+        "titre": "Belong"
+      },
+      {
+        "numero": "03",
+        "titre": "All My Love"
+      },
+      {
+        "numero": "04",
+        "titre": "Every Breakup"
+      },
+      {
+        "numero": "05",
+        "titre": "Every Little Thing You Do"
+      },
+      {
+        "numero": "06",
+        "titre": "Teardrops Fall"
+      },
+      {
+        "numero": "07",
+        "titre": "My Fool"
+      },
+      {
+        "numero": "08",
+        "titre": "Shine"
+      },
+      {
+        "numero": "09",
+        "titre": "Hiding From The Face Of Love"
+      },
+      {
+        "numero": "10",
+        "titre": "Let's Socialize"
+      }
+    ],
+    "duree_totale": 2642.6639999999998,
+    "image": "Champaign - 1991 - Champaign IV.jpg",
+    "nom": "Champaign - 1991 - Champaign IV"
+  },
+  {
+    "artiste": "Champaign",
+    "annee": "2013",
+    "album": "Love Kind",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "How 'bout Us"
+      },
+      {
+        "numero": "02",
+        "titre": "Try Again"
+      },
+      {
+        "numero": "03",
+        "titre": "Dial My Number"
+      },
+      {
+        "numero": "04",
+        "titre": "Off and On Love"
+      },
+      {
+        "numero": "05",
+        "titre": "This Time"
+      },
+      {
+        "numero": "06",
+        "titre": "Radio (Bring My Baby Back)"
+      },
+      {
+        "numero": "07",
+        "titre": "I Love, I Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Share"
+      },
+      {
+        "numero": "09",
+        "titre": "In the Heat of the Night"
+      },
+      {
+        "numero": "10",
+        "titre": "Intimate Strangers"
+      }
+    ],
+    "duree_totale": 2658.744,
+    "image": "Champaign - 2013 - Love Kind.jpg",
+    "nom": "Champaign - 2013 - Love Kind"
+  },
+  {
+    "artiste": "Champaign",
+    "annee": "2014",
+    "album": "Eyes of the Spirit",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Praise Be"
+      },
+      {
+        "numero": "02",
+        "titre": "Yahweh"
+      },
+      {
+        "numero": "03",
+        "titre": "Here's to the Father"
+      },
+      {
+        "numero": "04",
+        "titre": "Friends"
+      },
+      {
+        "numero": "05",
+        "titre": "Faith"
+      },
+      {
+        "numero": "06",
+        "titre": "Because of You"
+      },
+      {
+        "numero": "07",
+        "titre": "Tell Somebody"
+      }
+    ],
+    "duree_totale": 1597.4879999999998,
+    "image": "Champaign - 2014 - Eyes of the Spirit.jpg",
+    "nom": "Champaign - 2014 - Eyes of the Spirit"
+  },
+  {
     "artiste": "Charlie Wilson",
     "annee": "2013",
     "album": "Love, Charlie",
@@ -15945,6 +16544,261 @@
     "duree_totale": 4102.392,
     "image": "Chuckii Booker - 1992 - Chuckii.jpg",
     "nom": "Chuckii Booker - 1992 - Chuckii"
+  },
+  {
+    "artiste": "Club Nouveau",
+    "annee": "1986",
+    "album": "Life, Love & Pain",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Jealousy (Remastered)"
+      },
+      {
+        "numero": "02",
+        "titre": "Why You Treat Me So Bad (Remastered)"
+      },
+      {
+        "numero": "03",
+        "titre": "Lean on Me (Remastered)"
+      },
+      {
+        "numero": "04",
+        "titre": "Promises Promises (Remastered)"
+      },
+      {
+        "numero": "05",
+        "titre": "Situation #9 (Remastered)"
+      },
+      {
+        "numero": "06",
+        "titre": "Heavy on My Mind (Remastered)"
+      },
+      {
+        "numero": "07",
+        "titre": "Let Me Go (Remastered)"
+      },
+      {
+        "numero": "08",
+        "titre": "Pump It Up (Lean On Me Reprise)"
+      }
+    ],
+    "duree_totale": 2284.248,
+    "image": "Club Nouveau - 1986 - Life, Love & Pain.jpg",
+    "nom": "Club Nouveau - 1986 - Life, Love & Pain"
+  },
+  {
+    "artiste": "Club Nouveau",
+    "annee": "1988",
+    "album": "Listen to the Message",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "It's a Cold, Cold World"
+      },
+      {
+        "numero": "02",
+        "titre": "Listen to the Messenger"
+      },
+      {
+        "numero": "03",
+        "titre": "Dancin' to Be Free"
+      },
+      {
+        "numero": "04",
+        "titre": "Why Is It That？"
+      },
+      {
+        "numero": "05",
+        "titre": "For the Love of Francis"
+      },
+      {
+        "numero": "06",
+        "titre": "Envious"
+      },
+      {
+        "numero": "07",
+        "titre": "What's Going 'Round"
+      },
+      {
+        "numero": "08",
+        "titre": "Only the Strong Survive"
+      },
+      {
+        "numero": "09",
+        "titre": "Better Way"
+      }
+    ],
+    "duree_totale": 2479.5599999999995,
+    "image": "Club Nouveau - 1988 - Listen to the Message.jpg",
+    "nom": "Club Nouveau - 1988 - Listen to the Message"
+  },
+  {
+    "artiste": "Club Nouveau",
+    "annee": "1989",
+    "album": "Under a Nouveau Groove",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "No Friend of Mine"
+      },
+      {
+        "numero": "02",
+        "titre": "Under A Nouveau Groove"
+      },
+      {
+        "numero": "03",
+        "titre": "Momentary Lover"
+      },
+      {
+        "numero": "04",
+        "titre": "I'm Sorry"
+      },
+      {
+        "numero": "05",
+        "titre": "No Secrets"
+      },
+      {
+        "numero": "06",
+        "titre": "Share Your Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Time"
+      },
+      {
+        "numero": "08",
+        "titre": "Money Can't Buy You Love"
+      },
+      {
+        "numero": "09",
+        "titre": "Still In Love"
+      },
+      {
+        "numero": "10",
+        "titre": "Let Me Know"
+      },
+      {
+        "numero": "11",
+        "titre": "Under A Nouveau Groove... The Story"
+      }
+    ],
+    "duree_totale": 3321.888,
+    "image": "Club Nouveau - 1989 - Under a Nouveau Groove.jpg",
+    "nom": "Club Nouveau - 1989 - Under a Nouveau Groove"
+  },
+  {
+    "artiste": "Club Nouveau",
+    "annee": "1992",
+    "album": "A New Beginning",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Watch Your Step"
+      },
+      {
+        "numero": "02",
+        "titre": "Fool For Your Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Oh Happy Day"
+      },
+      {
+        "numero": "04",
+        "titre": "Mary"
+      },
+      {
+        "numero": "05",
+        "titre": "When Will You Come Back To Me"
+      },
+      {
+        "numero": "06",
+        "titre": "Through These Eyes"
+      },
+      {
+        "numero": "07",
+        "titre": "Glass World"
+      },
+      {
+        "numero": "08",
+        "titre": "I'll Be There"
+      },
+      {
+        "numero": "09",
+        "titre": "I Like Your Way"
+      },
+      {
+        "numero": "10",
+        "titre": "Why You Wanna Do This To Me"
+      },
+      {
+        "numero": "11",
+        "titre": "The Pain"
+      },
+      {
+        "numero": "12",
+        "titre": "Walk With Me"
+      }
+    ],
+    "duree_totale": 3520.128,
+    "image": "Club Nouveau - 1992 - A New Beginning.jpg",
+    "nom": "Club Nouveau - 1992 - A New Beginning"
+  },
+  {
+    "artiste": "Club Nouveau",
+    "annee": "1995",
+    "album": "Everything Is Black",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Everything Is Black"
+      },
+      {
+        "numero": "02",
+        "titre": "Let It Go"
+      },
+      {
+        "numero": "03",
+        "titre": "Take My Time"
+      },
+      {
+        "numero": "04",
+        "titre": "I'm So Sorry"
+      },
+      {
+        "numero": "05",
+        "titre": "Autumn Breeze"
+      },
+      {
+        "numero": "06",
+        "titre": "Ghetto Swang"
+      },
+      {
+        "numero": "07",
+        "titre": "The Shit Is Heavy"
+      },
+      {
+        "numero": "08",
+        "titre": "Everything Is Cool"
+      },
+      {
+        "numero": "09",
+        "titre": "Mornin' Time"
+      },
+      {
+        "numero": "10",
+        "titre": "It's Never Too Late"
+      }
+    ],
+    "duree_totale": 2753.64,
+    "image": "Club Nouveau - 1995 - Everything Is Black.jpg",
+    "nom": "Club Nouveau - 1995 - Everything Is Black"
   },
   {
     "artiste": "Commodores",
@@ -23060,7 +23914,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": "Deodato - 1978 - Knights Of Fantasy.jpg",
+    "image": null,
     "nom": "Deodato - 1978 - Knights Of Fantasy"
   },
   {
@@ -23144,7 +23998,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": "Deodato - 1979 - Love Island.jpg",
+    "image": null,
     "nom": "Deodato - 1979 - Love Island"
   },
   {
@@ -24583,6 +25437,136 @@
     "duree_totale": 2417.2079999999996,
     "image": "Diane Schuur - 2011 - The Gathering.jpg",
     "nom": "Diane Schuur - 2011 - The Gathering"
+  },
+  {
+    "artiste": "Don Blackman",
+    "annee": "1982",
+    "album": "Don Blackman",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Yabba Dabba Doo"
+      },
+      {
+        "numero": "02",
+        "titre": "Heart's Desire"
+      },
+      {
+        "numero": "03",
+        "titre": "Holding You, Loving You"
+      },
+      {
+        "numero": "04",
+        "titre": "Deaf Hook-Up Connection"
+      },
+      {
+        "numero": "05",
+        "titre": "You Ain't Hip"
+      },
+      {
+        "numero": "06",
+        "titre": "Let Your Conscience Be Your Guide"
+      },
+      {
+        "numero": "07",
+        "titre": "Since You Been Away So Long"
+      },
+      {
+        "numero": "08",
+        "titre": "Never Miss A Thing"
+      }
+    ],
+    "duree_totale": 2044.7759999999998,
+    "image": "Don Blackman - 1982 - Don Blackman.jpg",
+    "nom": "Don Blackman - 1982 - Don Blackman"
+  },
+  {
+    "artiste": "Don Blackman",
+    "annee": "2002",
+    "album": "Listen",
+    "nb_pistes": 19,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Shō’s Rehearsal"
+      },
+      {
+        "numero": "02",
+        "titre": "Cue 2"
+      },
+      {
+        "numero": "03",
+        "titre": "Yonshin Tape"
+      },
+      {
+        "numero": "04",
+        "titre": "Chinatown"
+      },
+      {
+        "numero": "05",
+        "titre": "Kind of Waiting"
+      },
+      {
+        "numero": "06",
+        "titre": "Travelers"
+      },
+      {
+        "numero": "07",
+        "titre": "Neon Fog"
+      },
+      {
+        "numero": "08",
+        "titre": "Dreamy Ritz"
+      },
+      {
+        "numero": "09",
+        "titre": "La Valse Féline"
+      },
+      {
+        "numero": "10",
+        "titre": "Melancholic Alley"
+      },
+      {
+        "numero": "11",
+        "titre": "Empty Dusk"
+      },
+      {
+        "numero": "12",
+        "titre": "Stripe Motion"
+      },
+      {
+        "numero": "13",
+        "titre": "Fuji at Park"
+      },
+      {
+        "numero": "14",
+        "titre": "Iridescent Octopus"
+      },
+      {
+        "numero": "15",
+        "titre": "Midnight Jam"
+      },
+      {
+        "numero": "16",
+        "titre": "Goldfish Choral"
+      },
+      {
+        "numero": "17",
+        "titre": "Walking Brass"
+      },
+      {
+        "numero": "18",
+        "titre": "Blowout Fiction"
+      },
+      {
+        "numero": "19",
+        "titre": "Final Take"
+      }
+    ],
+    "duree_totale": 3887.4479999999994,
+    "image": "Don Blackman - 2002 - Listen.jpg",
+    "nom": "Don Blackman - 2002 - Listen"
   },
   {
     "artiste": "Dynasty",
@@ -26983,6 +27967,132 @@
     "nom": "Eric Benét - 2025 - The Co-Star"
   },
   {
+    "artiste": "Erik Tagg",
+    "annee": "1975",
+    "album": "Smilin' Memories",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Tell-Tale Eyes (Remastered)"
+      },
+      {
+        "numero": "02",
+        "titre": "Love To Love You (Remastered)"
+      },
+      {
+        "numero": "03",
+        "titre": "Castle Of Loneliness (Remastered)"
+      },
+      {
+        "numero": "04",
+        "titre": "Steamboat (Remastered)"
+      },
+      {
+        "numero": "05",
+        "titre": "Sandman (Bring Me A Dream) (Remastered)"
+      },
+      {
+        "numero": "06",
+        "titre": "The Only Thing You Said (Remastered)"
+      },
+      {
+        "numero": "07",
+        "titre": "A Fantasy (Remastered)"
+      },
+      {
+        "numero": "08",
+        "titre": "After All (Remastered)"
+      },
+      {
+        "numero": "09",
+        "titre": "In December's Cold (Remastered)"
+      },
+      {
+        "numero": "10",
+        "titre": "Never Had The Feelin' (Remastered)"
+      },
+      {
+        "numero": "11",
+        "titre": "Hang On (Remastered)"
+      },
+      {
+        "numero": "12",
+        "titre": "Simple Man (Remastered ⧸ Bonus Track)"
+      },
+      {
+        "numero": "13",
+        "titre": "Smiling Memories (Remastered ⧸ Bonus Track)"
+      }
+    ],
+    "duree_totale": 2911.3199999999997,
+    "image": "Erik Tagg - 1975 - Smilin' Memories.jpg",
+    "nom": "Erik Tagg - 1975 - Smilin' Memories"
+  },
+  {
+    "artiste": "Erik Tagg",
+    "annee": "1977",
+    "album": "Rendez-Vous",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Got to Be Lovin' You"
+      },
+      {
+        "numero": "02",
+        "titre": "Rendez-vous"
+      },
+      {
+        "numero": "03",
+        "titre": "Lover with Stature"
+      },
+      {
+        "numero": "04",
+        "titre": "Fancy Meetin' You"
+      },
+      {
+        "numero": "05",
+        "titre": "Marja's Tune"
+      },
+      {
+        "numero": "06",
+        "titre": "Babies"
+      },
+      {
+        "numero": "07",
+        "titre": "Mutual Feeling"
+      },
+      {
+        "numero": "08",
+        "titre": "Soul Touch"
+      },
+      {
+        "numero": "09",
+        "titre": "Life Goes On"
+      },
+      {
+        "numero": "10",
+        "titre": "Living of the Love"
+      },
+      {
+        "numero": "11",
+        "titre": "The Love I Gave"
+      },
+      {
+        "numero": "12",
+        "titre": "Who Are You？"
+      },
+      {
+        "numero": "13",
+        "titre": "Will They Be Listening？"
+      }
+    ],
+    "duree_totale": 3560.592,
+    "image": "Erik Tagg - 1977 - Rendez-Vous.jpg",
+    "nom": "Erik Tagg - 1977 - Rendez-Vous"
+  },
+  {
     "artiste": "Eugene Thomas",
     "annee": "2025",
     "album": "Here We Go Again",
@@ -27087,6 +28197,253 @@
     "duree_totale": 2607.275827664399,
     "image": "Eugene Thomas - 2025 - Love's Calling.jpg",
     "nom": "Eugene Thomas - 2025 - Love's Calling"
+  },
+  {
+    "artiste": "Eugene Wilde",
+    "annee": "1984",
+    "album": "Eugene Wilde",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Lately"
+      },
+      {
+        "numero": "02",
+        "titre": "Gotta Get You Home Tonight"
+      },
+      {
+        "numero": "03",
+        "titre": "Let Her Feel It"
+      },
+      {
+        "numero": "04",
+        "titre": "Chey Chey Kule"
+      },
+      {
+        "numero": "05",
+        "titre": "Rainbow"
+      },
+      {
+        "numero": "06",
+        "titre": "Just Be Good To Me"
+      },
+      {
+        "numero": "07",
+        "titre": "Personality"
+      },
+      {
+        "numero": "08",
+        "titre": "Gold"
+      }
+    ],
+    "duree_totale": 2461.608,
+    "image": "Eugene Wilde - 1984 - Eugene Wilde.jpg",
+    "nom": "Eugene Wilde - 1984 - Eugene Wilde"
+  },
+  {
+    "artiste": "Eugene Wilde",
+    "annee": "1985",
+    "album": "Serenade",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Serenade (Prelude)"
+      },
+      {
+        "numero": "02",
+        "titre": "Good and Plenty"
+      },
+      {
+        "numero": "03",
+        "titre": "Thirty Minutes to Talk"
+      },
+      {
+        "numero": "04",
+        "titre": "There's No Way"
+      },
+      {
+        "numero": "05",
+        "titre": "Diana"
+      },
+      {
+        "numero": "06",
+        "titre": "Don't Say No (Tonight)"
+      },
+      {
+        "numero": "07",
+        "titre": "Are You Coming Over？"
+      },
+      {
+        "numero": "08",
+        "titre": "I Want You"
+      },
+      {
+        "numero": "09",
+        "titre": "Here I Go Again"
+      }
+    ],
+    "duree_totale": 2142.624,
+    "image": "Eugene Wilde - 1985 - Serenade.jpg",
+    "nom": "Eugene Wilde - 1985 - Serenade"
+  },
+  {
+    "artiste": "Eugene Wilde",
+    "annee": "1989",
+    "album": "I Choose You (Tonight)",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Can't Stop (This Feeling)"
+      },
+      {
+        "numero": "02",
+        "titre": "Show Me The Way (To Your Heart)"
+      },
+      {
+        "numero": "03",
+        "titre": "I Choose You (Tonight)"
+      },
+      {
+        "numero": "04",
+        "titre": "Who's That Girl"
+      },
+      {
+        "numero": "05",
+        "titre": "Ain't Nobody's Business"
+      },
+      {
+        "numero": "06",
+        "titre": "I'll Keep Calling"
+      },
+      {
+        "numero": "07",
+        "titre": "The Last Night"
+      },
+      {
+        "numero": "08",
+        "titre": "I Can't Take It"
+      }
+    ],
+    "duree_totale": 2685.336,
+    "image": "Eugene Wilde - 1989 - I Choose You (Tonight).jpg",
+    "nom": "Eugene Wilde - 1989 - I Choose You (Tonight)"
+  },
+  {
+    "artiste": "Eugene Wilde",
+    "annee": "1992",
+    "album": "How About Tonight",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "How About Tonight"
+      },
+      {
+        "numero": "02",
+        "titre": "If Only You Knew"
+      },
+      {
+        "numero": "03",
+        "titre": "Angel"
+      },
+      {
+        "numero": "04",
+        "titre": "Special Feelings"
+      },
+      {
+        "numero": "05",
+        "titre": "Whenever You're Ready"
+      },
+      {
+        "numero": "06",
+        "titre": "You Are So Beautiful"
+      },
+      {
+        "numero": "07",
+        "titre": "So In Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Paradise"
+      },
+      {
+        "numero": "09",
+        "titre": "Loyal To You"
+      },
+      {
+        "numero": "10",
+        "titre": "Lost And Lonely"
+      },
+      {
+        "numero": "11",
+        "titre": "How About Tonight (Quiet Storm Version)"
+      }
+    ],
+    "duree_totale": 3515.136,
+    "image": "Eugene Wilde - 1992 - How About Tonight.jpg",
+    "nom": "Eugene Wilde - 1992 - How About Tonight"
+  },
+  {
+    "artiste": "Eugene Wilde",
+    "annee": "2011",
+    "album": "Get Comfortable",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Comfortable"
+      },
+      {
+        "numero": "02",
+        "titre": "How Would I Know"
+      },
+      {
+        "numero": "03",
+        "titre": "Don't Stop"
+      },
+      {
+        "numero": "04",
+        "titre": "Catch Me (I'm Fallin)"
+      },
+      {
+        "numero": "05",
+        "titre": "Wonderful"
+      },
+      {
+        "numero": "06",
+        "titre": "I Swear"
+      },
+      {
+        "numero": "07",
+        "titre": "Gimme Sum Suga"
+      },
+      {
+        "numero": "08",
+        "titre": "Ridiculous"
+      },
+      {
+        "numero": "09",
+        "titre": "Hear Me Tonight"
+      },
+      {
+        "numero": "10",
+        "titre": "I'll Go With You"
+      },
+      {
+        "numero": "11",
+        "titre": "Beautiful"
+      },
+      {
+        "numero": "12",
+        "titre": "Tell Me"
+      }
+    ],
+    "duree_totale": 2878.6080000000006,
+    "image": "Eugene Wilde - 2011 - Get Comfortable.jpg",
+    "nom": "Eugene Wilde - 2011 - Get Comfortable"
   },
   {
     "artiste": "Eumir Deodato",
@@ -27296,7 +28653,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": "Five Star - 1991 - Shine.jpg",
+    "image": null,
     "nom": "Five Star - 1991 - Shine"
   },
   {
@@ -28594,6 +29951,151 @@
     "nom": "Foxy - 1976 - Foxy"
   },
   {
+    "artiste": "Foxy",
+    "annee": "1978",
+    "album": "Get Off",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Tena's Song"
+      },
+      {
+        "numero": "02",
+        "titre": "Ready for Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Madamoiselle"
+      },
+      {
+        "numero": "04",
+        "titre": "You"
+      },
+      {
+        "numero": "05",
+        "titre": "Get Off"
+      },
+      {
+        "numero": "06",
+        "titre": "Lucky Me"
+      },
+      {
+        "numero": "07",
+        "titre": "Goin' Back to You"
+      },
+      {
+        "numero": "08",
+        "titre": "It's Happening"
+      }
+    ],
+    "duree_totale": 2408.0640000000003,
+    "image": "Foxy - 1978 - Get Off.jpg",
+    "nom": "Foxy - 1978 - Get Off"
+  },
+  {
+    "artiste": "Foxy",
+    "annee": "1979",
+    "album": "Hot Numbers",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Headhunter"
+      },
+      {
+        "numero": "02",
+        "titre": "Devil Boogie"
+      },
+      {
+        "numero": "03",
+        "titre": "Give Me a Break"
+      },
+      {
+        "numero": "04",
+        "titre": "Nobody Will Ever Take Me Away from You"
+      },
+      {
+        "numero": "05",
+        "titre": "Chiapbon Chicapbon"
+      },
+      {
+        "numero": "06",
+        "titre": "Hot Number"
+      },
+      {
+        "numero": "07",
+        "titre": "Lady"
+      },
+      {
+        "numero": "08",
+        "titre": "Give Me That Groove"
+      },
+      {
+        "numero": "09",
+        "titre": "Lady of the Streets"
+      }
+    ],
+    "duree_totale": 2180.0639999999994,
+    "image": "Foxy - 1979 - Hot Numbers.jpg",
+    "nom": "Foxy - 1979 - Hot Numbers"
+  },
+  {
+    "artiste": "Foxy",
+    "annee": "1980",
+    "album": "Live",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Party Boys (Live)"
+      },
+      {
+        "numero": "02",
+        "titre": "Please (Live)"
+      },
+      {
+        "numero": "03",
+        "titre": "Girls (Live)"
+      },
+      {
+        "numero": "04",
+        "titre": "She's so Cool (Live)"
+      },
+      {
+        "numero": "05",
+        "titre": "Hot Numbers (Live)"
+      },
+      {
+        "numero": "06",
+        "titre": "Rrrrrrock (Live)"
+      },
+      {
+        "numero": "07",
+        "titre": "Sex Symbol (Live)"
+      },
+      {
+        "numero": "08",
+        "titre": "Ba Ba Cool (Live)"
+      },
+      {
+        "numero": "09",
+        "titre": "Banshee (Live)"
+      },
+      {
+        "numero": "10",
+        "titre": "Gimme What Ya' Got (Live)"
+      },
+      {
+        "numero": "11",
+        "titre": "Get Off (Live)"
+      }
+    ],
+    "duree_totale": 2510.784,
+    "image": "Foxy - 1980 - Live.jpg",
+    "nom": "Foxy - 1980 - Live"
+  },
+  {
     "artiste": "Freddie Jackson",
     "annee": "1988",
     "album": "Don't Let Love Slip Away",
@@ -28788,6 +30290,190 @@
     "duree_totale": 2934.912,
     "image": "Gary Taylor - 1983 - G.T.jpg",
     "nom": "Gary Taylor - 1983 - G.T"
+  },
+  {
+    "artiste": "General Caine",
+    "annee": "1978",
+    "album": "Let Me In",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I'm The Man"
+      },
+      {
+        "numero": "02",
+        "titre": "Let Me In"
+      },
+      {
+        "numero": "03",
+        "titre": "Jump Country"
+      },
+      {
+        "numero": "04",
+        "titre": "Can I Get A Little Bit More"
+      },
+      {
+        "numero": "05",
+        "titre": "Just In Time"
+      },
+      {
+        "numero": "06",
+        "titre": "Will You Be My Lover"
+      },
+      {
+        "numero": "07",
+        "titre": "Fly Song"
+      }
+    ],
+    "duree_totale": 2436.24,
+    "image": "General Caine - 1978 - Let Me In.jpg",
+    "nom": "General Caine - 1978 - Let Me In"
+  },
+  {
+    "artiste": "General Caine",
+    "annee": "1980",
+    "album": "Get Down Attack",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Heartbeat"
+      },
+      {
+        "numero": "02",
+        "titre": "Shake"
+      },
+      {
+        "numero": "03",
+        "titre": "Get Down Attack"
+      },
+      {
+        "numero": "04",
+        "titre": "LRJ Pop"
+      },
+      {
+        "numero": "05",
+        "titre": "We Are Soldiers"
+      },
+      {
+        "numero": "06",
+        "titre": "Spectacle"
+      },
+      {
+        "numero": "07",
+        "titre": "All About You"
+      },
+      {
+        "numero": "08",
+        "titre": "More Than A Do Wop"
+      },
+      {
+        "numero": "09",
+        "titre": "Snake And The Worm"
+      },
+      {
+        "numero": "10",
+        "titre": "Jungle Music"
+      },
+      {
+        "numero": "11",
+        "titre": "NBA Rap 81"
+      }
+    ],
+    "duree_totale": 3024.384,
+    "image": "General Caine - 1980 - Get Down Attack.jpg",
+    "nom": "General Caine - 1980 - Get Down Attack"
+  },
+  {
+    "artiste": "General Caine",
+    "annee": "1982",
+    "album": "Girls",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Girls"
+      },
+      {
+        "numero": "02",
+        "titre": "Can We Warm It Up"
+      },
+      {
+        "numero": "03",
+        "titre": "Knock Down The Walls"
+      },
+      {
+        "numero": "04",
+        "titre": "For Lovers Only"
+      },
+      {
+        "numero": "05",
+        "titre": "Don't Stop"
+      },
+      {
+        "numero": "06",
+        "titre": "Baseball"
+      },
+      {
+        "numero": "07",
+        "titre": "Momie Dear"
+      },
+      {
+        "numero": "08",
+        "titre": "It's Getting Deep"
+      },
+      {
+        "numero": "09",
+        "titre": "Wait At The Mountain"
+      }
+    ],
+    "duree_totale": 2523.1919999999996,
+    "image": "General Caine - 1982 - Girls.jpg",
+    "nom": "General Caine - 1982 - Girls"
+  },
+  {
+    "artiste": "General Caine",
+    "annee": "1983",
+    "album": "Dangerous",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Bomb Belly"
+      },
+      {
+        "numero": "02",
+        "titre": "By My Side"
+      },
+      {
+        "numero": "03",
+        "titre": "Yellow Pages"
+      },
+      {
+        "numero": "04",
+        "titre": "Upside Down"
+      },
+      {
+        "numero": "05",
+        "titre": "Ooh Aah"
+      },
+      {
+        "numero": "06",
+        "titre": "The Bus"
+      },
+      {
+        "numero": "07",
+        "titre": "Get Closer"
+      },
+      {
+        "numero": "08",
+        "titre": "True Love"
+      }
+    ],
+    "duree_totale": 2380.32,
+    "image": "General Caine - 1983 - Dangerous.jpg",
+    "nom": "General Caine - 1983 - Dangerous"
   },
   {
     "artiste": "Genobia Jeter",
@@ -33768,6 +35454,61 @@
   },
   {
     "artiste": "Glenn Jones",
+    "annee": "1984",
+    "album": "Finesse",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Finesse"
+      },
+      {
+        "numero": "02",
+        "titre": "You're the Only One I Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Show Me"
+      },
+      {
+        "numero": "04",
+        "titre": "It Hurts Too Much"
+      },
+      {
+        "numero": "05",
+        "titre": "Meet Me Halfway There"
+      },
+      {
+        "numero": "06",
+        "titre": "Bring Back Your Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Everlasting Love"
+      },
+      {
+        "numero": "08",
+        "titre": "On the Floor"
+      },
+      {
+        "numero": "09",
+        "titre": "Finesse (Remix)"
+      },
+      {
+        "numero": "10",
+        "titre": "I Am Somebody"
+      },
+      {
+        "numero": "11",
+        "titre": "I Am Somebody (Instrumental)"
+      }
+    ],
+    "duree_totale": 3609.192,
+    "image": "Glenn Jones - 1984 - Finesse.jpg",
+    "nom": "Glenn Jones - 1984 - Finesse"
+  },
+  {
+    "artiste": "Glenn Jones",
     "annee": "1986",
     "album": "Take It from Me",
     "nb_pistes": 15,
@@ -34712,6 +36453,206 @@
     "duree_totale": 4443.912,
     "image": "Grover Washington, Jr. - 1995 - All My Tomorrows.jpg",
     "nom": "Grover Washington, Jr. - 1995 - All My Tomorrows"
+  },
+  {
+    "artiste": "Howard Johnson",
+    "annee": "1982",
+    "album": "Keepin' Love New",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "So Fine"
+      },
+      {
+        "numero": "02",
+        "titre": "Take Me Through The Night"
+      },
+      {
+        "numero": "03",
+        "titre": "This Is Heaven"
+      },
+      {
+        "numero": "04",
+        "titre": "Jam Song"
+      },
+      {
+        "numero": "05",
+        "titre": "Keepin' Love New"
+      },
+      {
+        "numero": "06",
+        "titre": "So Glad You're My Lady"
+      },
+      {
+        "numero": "07",
+        "titre": "Say You Wanna"
+      },
+      {
+        "numero": "08",
+        "titre": "Forever Falling In Love"
+      }
+    ],
+    "duree_totale": 2083.944,
+    "image": "Howard Johnson - 1982 - Keepin' Love New.jpg",
+    "nom": "Howard Johnson - 1982 - Keepin' Love New"
+  },
+  {
+    "artiste": "Howard Johnson",
+    "annee": "1983",
+    "album": "Doin' It My Way",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "My Way (Remastered)"
+      },
+      {
+        "numero": "02",
+        "titre": "Jump Into Fire (Remastered)"
+      },
+      {
+        "numero": "03",
+        "titre": "Let's Take Time Out (Remastered)"
+      },
+      {
+        "numero": "04",
+        "titre": "Missing You (Remastered)"
+      },
+      {
+        "numero": "05",
+        "titre": "Much Too Much (Remastered)"
+      },
+      {
+        "numero": "06",
+        "titre": "You're The One I've Needed (Remastered)"
+      },
+      {
+        "numero": "07",
+        "titre": "Let This Dream Be Real (Remastered)"
+      },
+      {
+        "numero": "08",
+        "titre": "Everywhere I Go (Remastered)"
+      },
+      {
+        "numero": "09",
+        "titre": "Let This Dream Be Real (Remastered ⧸ Remix)"
+      },
+      {
+        "numero": "10",
+        "titre": "Let's Take Time Out (Remastered ⧸ Remix)"
+      }
+    ],
+    "duree_totale": 3070.056,
+    "image": "Howard Johnson - 1983 - Doin' It My Way.jpg",
+    "nom": "Howard Johnson - 1983 - Doin' It My Way"
+  },
+  {
+    "artiste": "Howard Johnson",
+    "annee": "1985",
+    "album": "The Vision",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Stand Up (Remastered)"
+      },
+      {
+        "numero": "02",
+        "titre": "Knees (Remastered)"
+      },
+      {
+        "numero": "03",
+        "titre": "So Tuff (Remastered)"
+      },
+      {
+        "numero": "04",
+        "titre": "Outta My Head (Remastered)"
+      },
+      {
+        "numero": "05",
+        "titre": "You've Got A Lot To Learn (Remastered)"
+      },
+      {
+        "numero": "06",
+        "titre": "Show Me How (Remastered)"
+      },
+      {
+        "numero": "07",
+        "titre": "All We Have Is Love (Remastered)"
+      },
+      {
+        "numero": "08",
+        "titre": "Older Girl (Remastered)"
+      },
+      {
+        "numero": "09",
+        "titre": "Stand Up (Remix ⧸ Remastered)"
+      }
+    ],
+    "duree_totale": 2669.544,
+    "image": "Howard Johnson - 1985 - The Vision.jpg",
+    "nom": "Howard Johnson - 1985 - The Vision"
+  },
+  {
+    "artiste": "Howard Johnson",
+    "annee": "2010",
+    "album": "Howard Johnson",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Hale Bopp"
+      },
+      {
+        "numero": "02",
+        "titre": "Quartier St. Roch"
+      },
+      {
+        "numero": "03",
+        "titre": "Martin Martin Martin"
+      },
+      {
+        "numero": "04",
+        "titre": "Rob Clutton"
+      },
+      {
+        "numero": "05",
+        "titre": "On the Merry-Go-Round"
+      },
+      {
+        "numero": "06",
+        "titre": "F as in Fun"
+      },
+      {
+        "numero": "07",
+        "titre": "How Post-Modern-of-Me"
+      },
+      {
+        "numero": "08",
+        "titre": "Goodbye, Au Revoir"
+      },
+      {
+        "numero": "09",
+        "titre": "Muddy"
+      },
+      {
+        "numero": "10",
+        "titre": "Pramulating"
+      },
+      {
+        "numero": "11",
+        "titre": "The Shape"
+      },
+      {
+        "numero": "12",
+        "titre": "50% Pure Wool"
+      }
+    ],
+    "duree_totale": 3396.096,
+    "image": "Howard Johnson - 2010 - Howard Johnson.jpg",
+    "nom": "Howard Johnson - 2010 - Howard Johnson"
   },
   {
     "artiste": "Hubert Laws",
@@ -37793,7 +39734,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": "Jimmy Smith and Wes Montgomery - 1966 - Further Adventures of Jimmy and Wes.jpg",
+    "image": null,
     "nom": "Jimmy Smith and Wes Montgomery - 1966 - Further Adventures of Jimmy and Wes"
   },
   {
@@ -38458,6 +40399,195 @@
   },
   {
     "artiste": "Kashif",
+    "annee": "1983",
+    "album": "Kashif",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Don't Stop My Love"
+      },
+      {
+        "numero": "02",
+        "titre": "Stone Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Just Gotta Have You Lover Turn Me On"
+      },
+      {
+        "numero": "04",
+        "titre": "Help Yourself to My Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Rumours"
+      },
+      {
+        "numero": "06",
+        "titre": "Say Somethin' Love"
+      },
+      {
+        "numero": "07",
+        "titre": "The Mood"
+      },
+      {
+        "numero": "08",
+        "titre": "All"
+      },
+      {
+        "numero": "09",
+        "titre": "Help Yourself to My Love (12 Inch Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "Just Gotta Have You Lover Turn Me On (Instrumental)"
+      },
+      {
+        "numero": "11",
+        "titre": "Just Gotta Have You Lover Turn Me On"
+      },
+      {
+        "numero": "12",
+        "titre": "Stone Love (Instrumental)"
+      },
+      {
+        "numero": "13",
+        "titre": "Say Somethin' Love"
+      }
+    ],
+    "duree_totale": 3811.656,
+    "image": "Kashif - 1983 - Kashif.jpg",
+    "nom": "Kashif - 1983 - Kashif"
+  },
+  {
+    "artiste": "Kashif",
+    "annee": "1984",
+    "album": "Send Me Your Love",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Baby Don't Break Your Baby's Heart"
+      },
+      {
+        "numero": "02",
+        "titre": "Ooh Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Are You the Woman"
+      },
+      {
+        "numero": "04",
+        "titre": "Love Has No End"
+      },
+      {
+        "numero": "05",
+        "titre": "Call Me Tonight (Instrumental)"
+      },
+      {
+        "numero": "06",
+        "titre": "Send Me Your Love"
+      },
+      {
+        "numero": "07",
+        "titre": "I've Been Missin' You"
+      },
+      {
+        "numero": "08",
+        "titre": "Edgartown Groove"
+      },
+      {
+        "numero": "09",
+        "titre": "That's How It Goes"
+      },
+      {
+        "numero": "10",
+        "titre": "Baby Don't Break Your Baby's Heart (Instrumental Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "Baby Don't Break Your Baby's Heart"
+      },
+      {
+        "numero": "12",
+        "titre": "Ooh Love"
+      },
+      {
+        "numero": "13",
+        "titre": "Ooh Love (12＂ Edit)"
+      },
+      {
+        "numero": "14",
+        "titre": "Ooh Love (Instrumental Version)"
+      },
+      {
+        "numero": "15",
+        "titre": "Are You the Woman"
+      }
+    ],
+    "duree_totale": 4352.304000000001,
+    "image": "Kashif - 1984 - Send Me Your Love.jpg",
+    "nom": "Kashif - 1984 - Send Me Your Love"
+  },
+  {
+    "artiste": "Kashif",
+    "annee": "1985",
+    "album": "Condition of the Heart",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Wanna Have Love With You"
+      },
+      {
+        "numero": "02",
+        "titre": "Dancing in the Dark (Heart to Heart)"
+      },
+      {
+        "numero": "03",
+        "titre": "Condition of the Heart"
+      },
+      {
+        "numero": "04",
+        "titre": "Say You Love Me"
+      },
+      {
+        "numero": "05",
+        "titre": "Movie Song (Instrumental Version)"
+      },
+      {
+        "numero": "06",
+        "titre": "Stay the Night"
+      },
+      {
+        "numero": "07",
+        "titre": "Weakness"
+      },
+      {
+        "numero": "08",
+        "titre": "Botha Botha (Apartheid Song)"
+      },
+      {
+        "numero": "09",
+        "titre": "Condition of the Heart (Extended Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "Love on the Rise (Extended Remix)"
+      },
+      {
+        "numero": "11",
+        "titre": "Love on the Rise (Instrumental)"
+      }
+    ],
+    "duree_totale": 3355.824,
+    "image": "Kashif - 1985 - Condition of the Heart.jpg",
+    "nom": "Kashif - 1985 - Condition of the Heart"
+  },
+  {
+    "artiste": "Kashif",
     "annee": "1985",
     "album": "Condition of the Heart (Expanded Edition)",
     "nb_pistes": 11,
@@ -38510,6 +40640,81 @@
     "duree_totale": 3355.824,
     "image": "Kashif - 1985 - Condition of the Heart (Expanded Edition).jpg",
     "nom": "Kashif - 1985 - Condition of the Heart (Expanded Edition)"
+  },
+  {
+    "artiste": "Kashif",
+    "annee": "1987",
+    "album": "Love Changes",
+    "nb_pistes": 16,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Love Changes"
+      },
+      {
+        "numero": "02",
+        "titre": "Loving You Only"
+      },
+      {
+        "numero": "03",
+        "titre": "It All Begins Again"
+      },
+      {
+        "numero": "04",
+        "titre": "Love Me All Over"
+      },
+      {
+        "numero": "05",
+        "titre": "Midnight Mood"
+      },
+      {
+        "numero": "06",
+        "titre": "Fifty Ways (To Fall in Love)"
+      },
+      {
+        "numero": "07",
+        "titre": "Somebody"
+      },
+      {
+        "numero": "08",
+        "titre": "Who's Getting Serious？"
+      },
+      {
+        "numero": "09",
+        "titre": "Reservations for Two"
+      },
+      {
+        "numero": "10",
+        "titre": "Vacant Heart"
+      },
+      {
+        "numero": "11",
+        "titre": "Love Changes (Full Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "Loving You Only (Extended Remix)"
+      },
+      {
+        "numero": "13",
+        "titre": "Love Me All Over (Extended Version)"
+      },
+      {
+        "numero": "14",
+        "titre": "Love Changes (Acappella Version)"
+      },
+      {
+        "numero": "15",
+        "titre": "Kathryn (Instrumental Version)"
+      },
+      {
+        "numero": "16",
+        "titre": "Love Changes (Instrumental Version)"
+      }
+    ],
+    "duree_totale": 4797.743999999999,
+    "image": "Kashif - 1987 - Love Changes.jpg",
+    "nom": "Kashif - 1987 - Love Changes"
   },
   {
     "artiste": "Kashif",
@@ -38585,6 +40790,400 @@
     "duree_totale": 4797.743999999999,
     "image": "Kashif - 1987 - Love Changes (Expanded Edition).jpg",
     "nom": "Kashif - 1987 - Love Changes (Expanded Edition)"
+  },
+  {
+    "artiste": "Kashif",
+    "annee": "1989",
+    "album": "Kashif",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Don't Stop My Love"
+      },
+      {
+        "numero": "02",
+        "titre": "Stone Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Just Gotta Have You Lover Turn Me On"
+      },
+      {
+        "numero": "04",
+        "titre": "Help Yourself to My Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Rumours"
+      },
+      {
+        "numero": "06",
+        "titre": "Say Somethin' Love"
+      },
+      {
+        "numero": "07",
+        "titre": "The Mood"
+      },
+      {
+        "numero": "08",
+        "titre": "All"
+      },
+      {
+        "numero": "09",
+        "titre": "Help Yourself to My Love (12 Inch Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "Just Gotta Have You Lover Turn Me On (Instrumental)"
+      },
+      {
+        "numero": "11",
+        "titre": "Just Gotta Have You Lover Turn Me On"
+      },
+      {
+        "numero": "12",
+        "titre": "Stone Love (Instrumental)"
+      },
+      {
+        "numero": "13",
+        "titre": "Say Somethin' Love"
+      }
+    ],
+    "duree_totale": 3811.656,
+    "image": "Kashif - 1989 - Kashif.jpg",
+    "nom": "Kashif - 1989 - Kashif"
+  },
+  {
+    "artiste": "Kashif",
+    "annee": "2012",
+    "album": "Kashif",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Don't Stop My Love"
+      },
+      {
+        "numero": "02",
+        "titre": "Stone Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Just Gotta Have You Lover Turn Me On"
+      },
+      {
+        "numero": "04",
+        "titre": "Help Yourself to My Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Rumours"
+      },
+      {
+        "numero": "06",
+        "titre": "Say Somethin' Love"
+      },
+      {
+        "numero": "07",
+        "titre": "The Mood"
+      },
+      {
+        "numero": "08",
+        "titre": "All"
+      },
+      {
+        "numero": "09",
+        "titre": "Help Yourself to My Love (12 Inch Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "Just Gotta Have You Lover Turn Me On (Instrumental)"
+      },
+      {
+        "numero": "11",
+        "titre": "Just Gotta Have You Lover Turn Me On"
+      },
+      {
+        "numero": "12",
+        "titre": "Stone Love (Instrumental)"
+      },
+      {
+        "numero": "13",
+        "titre": "Say Somethin' Love"
+      }
+    ],
+    "duree_totale": 3811.656,
+    "image": "Kashif - 2012 - Kashif.jpg",
+    "nom": "Kashif - 2012 - Kashif"
+  },
+  {
+    "artiste": "Kashif",
+    "annee": "2012",
+    "album": "Send Me Your Love",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Baby Don't Break Your Baby's Heart"
+      },
+      {
+        "numero": "02",
+        "titre": "Ooh Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Are You the Woman"
+      },
+      {
+        "numero": "04",
+        "titre": "Love Has No End"
+      },
+      {
+        "numero": "05",
+        "titre": "Call Me Tonight (Instrumental)"
+      },
+      {
+        "numero": "06",
+        "titre": "Send Me Your Love"
+      },
+      {
+        "numero": "07",
+        "titre": "I've Been Missin' You"
+      },
+      {
+        "numero": "08",
+        "titre": "Edgartown Groove"
+      },
+      {
+        "numero": "09",
+        "titre": "That's How It Goes"
+      },
+      {
+        "numero": "10",
+        "titre": "Baby Don't Break Your Baby's Heart (Instrumental Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "Baby Don't Break Your Baby's Heart"
+      },
+      {
+        "numero": "12",
+        "titre": "Ooh Love"
+      },
+      {
+        "numero": "13",
+        "titre": "Ooh Love (12＂ Edit)"
+      },
+      {
+        "numero": "14",
+        "titre": "Ooh Love (Instrumental Version)"
+      },
+      {
+        "numero": "15",
+        "titre": "Are You the Woman"
+      }
+    ],
+    "duree_totale": 4352.304000000001,
+    "image": "Kashif - 2012 - Send Me Your Love.jpg",
+    "nom": "Kashif - 2012 - Send Me Your Love"
+  },
+  {
+    "artiste": "Keith Barrow",
+    "annee": "1977",
+    "album": "Keith Barrow",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Mr. Magic Man"
+      },
+      {
+        "numero": "02",
+        "titre": "Teach Me"
+      },
+      {
+        "numero": "03",
+        "titre": "I Put the Twinkle In Your Eye"
+      },
+      {
+        "numero": "04",
+        "titre": "A World of Lonely People"
+      },
+      {
+        "numero": "05",
+        "titre": "You Don't Know How Hard It Is to Make It"
+      },
+      {
+        "numero": "06",
+        "titre": "Didn't Know You'd Have to Cry Sometime"
+      },
+      {
+        "numero": "07",
+        "titre": "Precious"
+      },
+      {
+        "numero": "08",
+        "titre": "Questions"
+      },
+      {
+        "numero": "09",
+        "titre": "We've Got a Right to Be Wrong"
+      },
+      {
+        "numero": "10",
+        "titre": "Precious (Full Length Version)"
+      }
+    ],
+    "duree_totale": 2574.768,
+    "image": "Keith Barrow - 1977 - Keith Barrow.jpg",
+    "nom": "Keith Barrow - 1977 - Keith Barrow"
+  },
+  {
+    "artiste": "Keith Barrow",
+    "annee": "1978",
+    "album": "Physical Attraction",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "If It's Love That You're Looking For"
+      },
+      {
+        "numero": "02",
+        "titre": "Turn Me Up"
+      },
+      {
+        "numero": "03",
+        "titre": "You Know You Want to Be Loved"
+      },
+      {
+        "numero": "04",
+        "titre": "Physical Attraction"
+      },
+      {
+        "numero": "05",
+        "titre": "Joyful Music"
+      },
+      {
+        "numero": "06",
+        "titre": "Overnight Success"
+      },
+      {
+        "numero": "07",
+        "titre": "Garden of Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Free to Be Me"
+      },
+      {
+        "numero": "09",
+        "titre": "Turn Me Up (Special Disco Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "Turn Me Up (Instrumental)"
+      },
+      {
+        "numero": "11",
+        "titre": "Physical Attraction (12＂)"
+      },
+      {
+        "numero": "12",
+        "titre": "You Know You Want to Be Loved (7＂)"
+      }
+    ],
+    "duree_totale": 4402.608,
+    "image": "Keith Barrow - 1978 - Physical Attraction.jpg",
+    "nom": "Keith Barrow - 1978 - Physical Attraction"
+  },
+  {
+    "artiste": "Keith Barrow",
+    "annee": "1980",
+    "album": "Just As I Am",
+    "nb_pistes": 19,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "If You Want A Bad Boy"
+      },
+      {
+        "numero": "02",
+        "titre": "17 Again"
+      },
+      {
+        "numero": "03",
+        "titre": "Bottoms Up"
+      },
+      {
+        "numero": "04",
+        "titre": "That Was Us"
+      },
+      {
+        "numero": "05",
+        "titre": "I'm Gone"
+      },
+      {
+        "numero": "06",
+        "titre": "My Baby's Guns N' Roses"
+      },
+      {
+        "numero": "07",
+        "titre": "Lights Of My Hometown"
+      },
+      {
+        "numero": "08",
+        "titre": "One Hell Of An Amen"
+      },
+      {
+        "numero": "09",
+        "titre": "Small Town Throwdown"
+      },
+      {
+        "numero": "10",
+        "titre": "Let It Ride"
+      },
+      {
+        "numero": "11",
+        "titre": "My Faith In You"
+      },
+      {
+        "numero": "12",
+        "titre": "G.R.I.T.S."
+      },
+      {
+        "numero": "13",
+        "titre": "Read Me My Rights"
+      },
+      {
+        "numero": "14",
+        "titre": "Grown Ass Man"
+      },
+      {
+        "numero": "15",
+        "titre": "Bottoms Up (Remix)"
+      },
+      {
+        "numero": "16",
+        "titre": "Do What The Night Wants"
+      },
+      {
+        "numero": "17",
+        "titre": "Stone Cold Sober"
+      },
+      {
+        "numero": "18",
+        "titre": "Same Old Song"
+      },
+      {
+        "numero": "19",
+        "titre": "Just As I Am"
+      }
+    ],
+    "duree_totale": 4583.759999999999,
+    "image": "Keith Barrow - 1980 - Just As I Am.jpg",
+    "nom": "Keith Barrow - 1980 - Just As I Am"
   },
   {
     "artiste": "Kevin Eubanks",
@@ -40693,6 +43292,898 @@
     "nom": "Lionel Richie - 2012 - Tuskegee"
   },
   {
+    "artiste": "Liora Twani",
+    "annee": "2025",
+    "album": "Bare Soul",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Bare Soul"
+      },
+      {
+        "numero": "02",
+        "titre": "Show Me Slow"
+      },
+      {
+        "numero": "03",
+        "titre": "I Long For You"
+      },
+      {
+        "numero": "04",
+        "titre": "Touch Me"
+      },
+      {
+        "numero": "05",
+        "titre": "No One Else But You"
+      },
+      {
+        "numero": "06",
+        "titre": "Love Ain't Easy"
+      },
+      {
+        "numero": "07",
+        "titre": "Deceiver, Lover"
+      },
+      {
+        "numero": "08",
+        "titre": "Through The Fire"
+      },
+      {
+        "numero": "09",
+        "titre": "True Love Is Enough"
+      },
+      {
+        "numero": "10",
+        "titre": "Healing Love"
+      },
+      {
+        "numero": "11",
+        "titre": "Still You Rise"
+      },
+      {
+        "numero": "12",
+        "titre": "Last Song"
+      },
+      {
+        "numero": "13",
+        "titre": "Had Enough (Live)"
+      }
+    ],
+    "duree_totale": 4259.976000000001,
+    "image": "Liora Twani - 2025 - Bare Soul.jpg",
+    "nom": "Liora Twani - 2025 - Bare Soul"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2025",
+    "album": "Come Back To Me",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "You Rock Me"
+      },
+      {
+        "numero": "02",
+        "titre": "Come Kiss Me"
+      },
+      {
+        "numero": "03",
+        "titre": "A Man Can Cry"
+      },
+      {
+        "numero": "04",
+        "titre": "Burnin' Slow"
+      },
+      {
+        "numero": "05",
+        "titre": "Don't Tell Me"
+      },
+      {
+        "numero": "06",
+        "titre": "More Love Than Enough"
+      },
+      {
+        "numero": "07",
+        "titre": "Come Back To Me"
+      },
+      {
+        "numero": "08",
+        "titre": "You Still Move Me"
+      },
+      {
+        "numero": "09",
+        "titre": "Show Me How To Stay"
+      },
+      {
+        "numero": "10",
+        "titre": "Summer Love"
+      }
+    ],
+    "duree_totale": 3242.4719999999998,
+    "image": "Liora Twani - 2025 - Come Back To Me.jpg",
+    "nom": "Liora Twani - 2025 - Come Back To Me"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2025",
+    "album": "Heart & Night",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Just Move With Me"
+      },
+      {
+        "numero": "02",
+        "titre": "If You Want My Love"
+      },
+      {
+        "numero": "03",
+        "titre": "You Got That Hold On Me"
+      },
+      {
+        "numero": "04",
+        "titre": "Stay Where The Night Is"
+      },
+      {
+        "numero": "05",
+        "titre": "Put Your Heart In My Hand"
+      },
+      {
+        "numero": "06",
+        "titre": "Don't Rush The Night"
+      },
+      {
+        "numero": "07",
+        "titre": "Your Love"
+      },
+      {
+        "numero": "08",
+        "titre": "You're Losing Me"
+      },
+      {
+        "numero": "09",
+        "titre": "You Hurt Me"
+      },
+      {
+        "numero": "10",
+        "titre": "What You Gonna Do？"
+      }
+    ],
+    "duree_totale": 3067.512,
+    "image": "Liora Twani - 2025 - Heart & Night.jpg",
+    "nom": "Liora Twani - 2025 - Heart & Night"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2025",
+    "album": "Open Your Heart",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Midnight Stroke"
+      },
+      {
+        "numero": "02",
+        "titre": "Dance !"
+      },
+      {
+        "numero": "03",
+        "titre": "Cravin' Your Touch"
+      },
+      {
+        "numero": "04",
+        "titre": "Spell On Your Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Open Your Heart"
+      },
+      {
+        "numero": "06",
+        "titre": "Baby, Don't Go"
+      },
+      {
+        "numero": "07",
+        "titre": "Miss You"
+      },
+      {
+        "numero": "08",
+        "titre": "City Light"
+      },
+      {
+        "numero": "09",
+        "titre": "Just For You"
+      },
+      {
+        "numero": "10",
+        "titre": "Can't Stop, Won't Stop"
+      },
+      {
+        "numero": "11",
+        "titre": "You're Always"
+      },
+      {
+        "numero": "12",
+        "titre": "I Wouldn't Change A Thing"
+      }
+    ],
+    "duree_totale": 3708.9839999999995,
+    "image": "Liora Twani - 2025 - Open Your Heart.jpg",
+    "nom": "Liora Twani - 2025 - Open Your Heart"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2025",
+    "album": "Stay In This Feelin'",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Stay In This Feelin'"
+      },
+      {
+        "numero": "02",
+        "titre": "Do You Love What You Do ？"
+      },
+      {
+        "numero": "03",
+        "titre": "My Baby Is Mine"
+      },
+      {
+        "numero": "04",
+        "titre": "Love On The Line"
+      },
+      {
+        "numero": "05",
+        "titre": "I've Got To Get Out"
+      },
+      {
+        "numero": "06",
+        "titre": "Midnight Temptation"
+      },
+      {
+        "numero": "07",
+        "titre": "Baby, Do It"
+      },
+      {
+        "numero": "08",
+        "titre": "I Think 'Bout You"
+      },
+      {
+        "numero": "09",
+        "titre": "Touch Me"
+      },
+      {
+        "numero": "10",
+        "titre": "Stay With Me"
+      }
+    ],
+    "duree_totale": 3496.56,
+    "image": "Liora Twani - 2025 - Stay In This Feelin'.jpg",
+    "nom": "Liora Twani - 2025 - Stay In This Feelin'"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2025",
+    "album": "Take Me Where The Real World Fades",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Take Me Where The Real World Fades"
+      },
+      {
+        "numero": "02",
+        "titre": "Only You"
+      },
+      {
+        "numero": "03",
+        "titre": "To Have It Both Way"
+      },
+      {
+        "numero": "04",
+        "titre": "Whatever You Do"
+      },
+      {
+        "numero": "05",
+        "titre": "My Mind Travel"
+      },
+      {
+        "numero": "06",
+        "titre": "Venus"
+      },
+      {
+        "numero": "07",
+        "titre": "Keep Doing What Are You Doing"
+      },
+      {
+        "numero": "08",
+        "titre": "He's Gone"
+      },
+      {
+        "numero": "09",
+        "titre": "Too Tired To Try"
+      },
+      {
+        "numero": "10",
+        "titre": "You’re Lost (Just Like You Are)"
+      },
+      {
+        "numero": "11",
+        "titre": "Friday Night"
+      },
+      {
+        "numero": "12",
+        "titre": "Fading Lights"
+      }
+    ],
+    "duree_totale": 3854.232,
+    "image": "Liora Twani - 2025 - Take Me Where The Real World Fades.jpg",
+    "nom": "Liora Twani - 2025 - Take Me Where The Real World Fades"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2026",
+    "album": "Between The Lines",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Between The Lines"
+      },
+      {
+        "numero": "02",
+        "titre": "Electric Touch"
+      },
+      {
+        "numero": "03",
+        "titre": "This Is Our Night"
+      },
+      {
+        "numero": "04",
+        "titre": "Give In To Your Sorrow"
+      },
+      {
+        "numero": "05",
+        "titre": "Don't Make Me Wait"
+      },
+      {
+        "numero": "06",
+        "titre": "Stay Till Sunrise"
+      },
+      {
+        "numero": "07",
+        "titre": "If You Don't Believe"
+      },
+      {
+        "numero": "08",
+        "titre": "Tell Me What I Wanna Know"
+      },
+      {
+        "numero": "09",
+        "titre": "Love Is A Dangerous Game"
+      },
+      {
+        "numero": "10",
+        "titre": "After The Dance"
+      },
+      {
+        "numero": "11",
+        "titre": "Tonight"
+      },
+      {
+        "numero": "12",
+        "titre": "My Everything"
+      },
+      {
+        "numero": "13",
+        "titre": "Give In To Your Sorrow (Ballad)"
+      }
+    ],
+    "duree_totale": 4316.304,
+    "image": "Liora Twani - 2026 - Between The Lines.jpg",
+    "nom": "Liora Twani - 2026 - Between The Lines"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2026",
+    "album": "Can't Shake This Feeling",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Can't Shake This Feeling"
+      },
+      {
+        "numero": "02",
+        "titre": "Dance, Disco Groove"
+      },
+      {
+        "numero": "03",
+        "titre": "You've Caught My Eyes"
+      },
+      {
+        "numero": "04",
+        "titre": "I Just Gotta Have You"
+      },
+      {
+        "numero": "05",
+        "titre": "One Hundred Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Love's Serenade"
+      },
+      {
+        "numero": "07",
+        "titre": "You"
+      },
+      {
+        "numero": "08",
+        "titre": "Who Can I Run To？"
+      },
+      {
+        "numero": "09",
+        "titre": "Over And Over"
+      },
+      {
+        "numero": "10",
+        "titre": "My Life"
+      },
+      {
+        "numero": "11",
+        "titre": "Hey You! Think"
+      },
+      {
+        "numero": "12",
+        "titre": "It's A Matter Of Time"
+      }
+    ],
+    "duree_totale": 3814.008,
+    "image": "Liora Twani - 2026 - Can't Shake This Feeling.jpg",
+    "nom": "Liora Twani - 2026 - Can't Shake This Feeling"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2026",
+    "album": "Heart & Night",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Just Move With Me"
+      },
+      {
+        "numero": "02",
+        "titre": "If You Want My Love"
+      },
+      {
+        "numero": "03",
+        "titre": "You Got That Hold On Me"
+      },
+      {
+        "numero": "04",
+        "titre": "Stay Where The Night Is"
+      },
+      {
+        "numero": "05",
+        "titre": "Put Your Heart In My Hand"
+      },
+      {
+        "numero": "06",
+        "titre": "Don't Rush The Night"
+      },
+      {
+        "numero": "07",
+        "titre": "Your Love"
+      },
+      {
+        "numero": "08",
+        "titre": "You're Losing Me"
+      },
+      {
+        "numero": "09",
+        "titre": "You Hurt Me"
+      },
+      {
+        "numero": "10",
+        "titre": "What You Gonna Do？"
+      }
+    ],
+    "duree_totale": 3067.512,
+    "image": "Liora Twani - 2026 - Heart & Night.jpg",
+    "nom": "Liora Twani - 2026 - Heart & Night"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2026",
+    "album": "In Your Eyes",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "It's A Beautiful Day"
+      },
+      {
+        "numero": "02",
+        "titre": "In Your Eyes"
+      },
+      {
+        "numero": "03",
+        "titre": "My Little Secret"
+      },
+      {
+        "numero": "04",
+        "titre": "Control Me"
+      },
+      {
+        "numero": "05",
+        "titre": "Slow Motion Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Don't You Understand？"
+      },
+      {
+        "numero": "07",
+        "titre": "What Can I Do For You？"
+      },
+      {
+        "numero": "08",
+        "titre": "Don't Stop Your Love"
+      },
+      {
+        "numero": "09",
+        "titre": "Once I Leave"
+      },
+      {
+        "numero": "10",
+        "titre": "Keep On Lovin' Me"
+      }
+    ],
+    "duree_totale": 3091.752,
+    "image": "Liora Twani - 2026 - In Your Eyes.jpg",
+    "nom": "Liora Twani - 2026 - In Your Eyes"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2026",
+    "album": "Love Takes The Lead",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Love Takes The Lead"
+      },
+      {
+        "numero": "02",
+        "titre": "Say It First"
+      },
+      {
+        "numero": "03",
+        "titre": "Do Your Thing"
+      },
+      {
+        "numero": "04",
+        "titre": "Love Zone"
+      },
+      {
+        "numero": "05",
+        "titre": "Sometimes"
+      },
+      {
+        "numero": "06",
+        "titre": "All The Things I Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Don't Keep Me Holdin' On"
+      },
+      {
+        "numero": "08",
+        "titre": "Back To Love"
+      },
+      {
+        "numero": "09",
+        "titre": "In The Heat Of The Moment"
+      },
+      {
+        "numero": "10",
+        "titre": "Love's Gonna Get You"
+      },
+      {
+        "numero": "11",
+        "titre": "Tell Me What's In Your Heart"
+      },
+      {
+        "numero": "12",
+        "titre": "In Another Time"
+      }
+    ],
+    "duree_totale": 3839.6400000000003,
+    "image": "Liora Twani - 2026 - Love Takes The Lead.jpg",
+    "nom": "Liora Twani - 2026 - Love Takes The Lead"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2026",
+    "album": "Midnight Fever",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Here We Go"
+      },
+      {
+        "numero": "02",
+        "titre": "Midnight Fever"
+      },
+      {
+        "numero": "03",
+        "titre": "Big Time"
+      },
+      {
+        "numero": "04",
+        "titre": "All I Need Is You"
+      },
+      {
+        "numero": "05",
+        "titre": "I Wanna Know"
+      },
+      {
+        "numero": "06",
+        "titre": "Send Me Your Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Voyage Over Your Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Let Me Go"
+      },
+      {
+        "numero": "09",
+        "titre": "Shadow On The Wall"
+      },
+      {
+        "numero": "10",
+        "titre": "I Die For Love"
+      },
+      {
+        "numero": "11",
+        "titre": "I Can Only Think Of You"
+      },
+      {
+        "numero": "12",
+        "titre": "Tu Silencio (Silent Distance) (Bonus)"
+      }
+    ],
+    "duree_totale": 4082.448000000001,
+    "image": "Liora Twani - 2026 - Midnight Fever.jpg",
+    "nom": "Liora Twani - 2026 - Midnight Fever"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2026",
+    "album": "My Late Night Songs",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "City Night (Oriental Jazz)"
+      },
+      {
+        "numero": "02",
+        "titre": "Silent Distance (Ballad)"
+      },
+      {
+        "numero": "03",
+        "titre": "No One Feels Like You (Slow Jam Jazz)"
+      },
+      {
+        "numero": "04",
+        "titre": "You Are The One (Bossa Jazz)"
+      },
+      {
+        "numero": "05",
+        "titre": "More Love Than Enough (Latin Jazz)"
+      },
+      {
+        "numero": "06",
+        "titre": "Steps Of Love (Acoustic Jazz)"
+      },
+      {
+        "numero": "07",
+        "titre": "Don't Push Me (Gypsy Jazz)"
+      },
+      {
+        "numero": "08",
+        "titre": "Baby, Do It (Soul Jazz)"
+      },
+      {
+        "numero": "09",
+        "titre": "True Love Is Enough (Blues Jazz)"
+      },
+      {
+        "numero": "10",
+        "titre": "I'll Find My Way (Blues Jazz)"
+      }
+    ],
+    "duree_totale": 3453.2400000000002,
+    "image": "Liora Twani - 2026 - My Late Night Songs.jpg",
+    "nom": "Liora Twani - 2026 - My Late Night Songs"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2026",
+    "album": "Never Let You Be Without Love",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Rhythm Makes Us Whole"
+      },
+      {
+        "numero": "02",
+        "titre": "Reachin' Out To You"
+      },
+      {
+        "numero": "03",
+        "titre": "Hurry Love"
+      },
+      {
+        "numero": "04",
+        "titre": "Show Me That Love"
+      },
+      {
+        "numero": "05",
+        "titre": "If This Love Is A Dream"
+      },
+      {
+        "numero": "06",
+        "titre": "Never Let You Be Without Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Let It Show"
+      },
+      {
+        "numero": "08",
+        "titre": "Stuck On You"
+      },
+      {
+        "numero": "09",
+        "titre": "Slow Fire In The Dark"
+      },
+      {
+        "numero": "10",
+        "titre": "Nothing Feels Right"
+      },
+      {
+        "numero": "11",
+        "titre": "Leva Onde O Real Se Desfaz (Brazilian Version Bonus)"
+      }
+    ],
+    "duree_totale": 3288.432,
+    "image": "Liora Twani - 2026 - Never Let You Be Without Love.jpg",
+    "nom": "Liora Twani - 2026 - Never Let You Be Without Love"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2026",
+    "album": "This Is Liora",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Move Maker"
+      },
+      {
+        "numero": "02",
+        "titre": "Closer To Your Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Sweet Stuff"
+      },
+      {
+        "numero": "04",
+        "titre": "A Warm Summer Night"
+      },
+      {
+        "numero": "05",
+        "titre": "All Night"
+      },
+      {
+        "numero": "06",
+        "titre": "You Changed My Life Forever"
+      },
+      {
+        "numero": "07",
+        "titre": "Hurtin' For Your Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Two Different Things"
+      },
+      {
+        "numero": "09",
+        "titre": "Time"
+      },
+      {
+        "numero": "10",
+        "titre": "I Have Faith In God"
+      },
+      {
+        "numero": "11",
+        "titre": "Don't Push Me"
+      },
+      {
+        "numero": "12",
+        "titre": "You Are My Life"
+      }
+    ],
+    "duree_totale": 4269.360000000001,
+    "image": "Liora Twani - 2026 - This Is Liora.jpg",
+    "nom": "Liora Twani - 2026 - This Is Liora"
+  },
+  {
+    "artiste": "Liora Twani",
+    "annee": "2026",
+    "album": "This Love's For Real",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I'm In Love Again"
+      },
+      {
+        "numero": "02",
+        "titre": "Give Me More Love"
+      },
+      {
+        "numero": "03",
+        "titre": "This Love's For Real"
+      },
+      {
+        "numero": "04",
+        "titre": "Need You"
+      },
+      {
+        "numero": "05",
+        "titre": "Tell Me Why"
+      },
+      {
+        "numero": "06",
+        "titre": "When We Were Together"
+      },
+      {
+        "numero": "07",
+        "titre": "Your Words"
+      },
+      {
+        "numero": "08",
+        "titre": "Love Don't Live Here Anymore"
+      },
+      {
+        "numero": "09",
+        "titre": "I'd Rather Have You"
+      },
+      {
+        "numero": "10",
+        "titre": "Prelude To Love"
+      }
+    ],
+    "duree_totale": 3505.6559999999995,
+    "image": "Liora Twani - 2026 - This Love's For Real.jpg",
+    "nom": "Liora Twani - 2026 - This Love's For Real"
+  },
+  {
     "artiste": "Little Anthony",
     "annee": "1980",
     "album": "Daylight",
@@ -41297,6 +44788,124 @@
     "nom": "Lou Rawls - 1979 - Sit Down and Talk to Me"
   },
   {
+    "artiste": "Mac Band",
+    "annee": "1990",
+    "album": "Love U 2 the Limit",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Someone To Love"
+      },
+      {
+        "numero": "02",
+        "titre": "I Could Never Say Goodbye"
+      },
+      {
+        "numero": "03",
+        "titre": "The Best Of Love"
+      },
+      {
+        "numero": "04",
+        "titre": "Love U 2 The Limit"
+      },
+      {
+        "numero": "05",
+        "titre": "You Are My Heart"
+      },
+      {
+        "numero": "06",
+        "titre": "All Or Nothing At All"
+      },
+      {
+        "numero": "07",
+        "titre": "Think About Me"
+      },
+      {
+        "numero": "08",
+        "titre": "I'm No Stranger"
+      },
+      {
+        "numero": "09",
+        "titre": "Things Don't Get Much Better Than This"
+      },
+      {
+        "numero": "10",
+        "titre": "Someone To Love (Remix Club Vocal)"
+      }
+    ],
+    "duree_totale": 3519.696,
+    "image": "Mac Band - 1990 - Love U 2 the Limit.jpg",
+    "nom": "Mac Band - 1990 - Love U 2 the Limit"
+  },
+  {
+    "artiste": "Mac Band",
+    "annee": "1991",
+    "album": "The Real Deal",
+    "nb_pistes": 14,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Everythang (Extended Mix)"
+      },
+      {
+        "numero": "02",
+        "titre": "Whenever You're Ready"
+      },
+      {
+        "numero": "03",
+        "titre": "The Good Groove"
+      },
+      {
+        "numero": "04",
+        "titre": "Miss Used"
+      },
+      {
+        "numero": "05",
+        "titre": "Take My Heart Away"
+      },
+      {
+        "numero": "06",
+        "titre": "I Belong to You"
+      },
+      {
+        "numero": "07",
+        "titre": "You Don't Know"
+      },
+      {
+        "numero": "08",
+        "titre": "Don't Keep Me Waiting"
+      },
+      {
+        "numero": "09",
+        "titre": "Think About You"
+      },
+      {
+        "numero": "10",
+        "titre": "One Step to Ya"
+      },
+      {
+        "numero": "11",
+        "titre": "Take the Time"
+      },
+      {
+        "numero": "12",
+        "titre": "Everythang (Club Remix)"
+      },
+      {
+        "numero": "13",
+        "titre": "Everythang (Club Mix)"
+      },
+      {
+        "numero": "14",
+        "titre": "Everythang"
+      }
+    ],
+    "duree_totale": 4019.4479999999994,
+    "image": "Mac Band - 1991 - The Real Deal.jpg",
+    "nom": "Mac Band - 1991 - The Real Deal"
+  },
+  {
     "artiste": "Major Harris",
     "annee": "1984",
     "album": "I Believe In Love",
@@ -41346,6 +44955,1367 @@
     "duree_totale": 2535.9731249999995,
     "image": "Major Harris - 1984 - I Believe In Love.jpg",
     "nom": "Major Harris - 1984 - I Believe In Love"
+  },
+  {
+    "artiste": "Marvin Gaye & Kim Weston",
+    "annee": "1966",
+    "album": "Take Two",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "It Takes Two"
+      },
+      {
+        "numero": "02",
+        "titre": "I Love You, Yes I Do"
+      },
+      {
+        "numero": "03",
+        "titre": "Baby I Need Your Loving"
+      },
+      {
+        "numero": "04",
+        "titre": "It's Got To Be A Miracle (This Thing Called Love)"
+      },
+      {
+        "numero": "05",
+        "titre": "Baby Say Yes"
+      },
+      {
+        "numero": "06",
+        "titre": "What Good Am I Without You"
+      },
+      {
+        "numero": "07",
+        "titre": "Til There Was You"
+      },
+      {
+        "numero": "08",
+        "titre": "Love Fell On Me"
+      },
+      {
+        "numero": "09",
+        "titre": "Secret Love"
+      },
+      {
+        "numero": "10",
+        "titre": "I Want You 'Round"
+      },
+      {
+        "numero": "11",
+        "titre": "Heaven Sent You I Know"
+      },
+      {
+        "numero": "12",
+        "titre": "When We're Together"
+      }
+    ],
+    "duree_totale": 2003.7839999999997,
+    "image": "Marvin Gaye & Kim Weston - 1966 - Take Two.jpg",
+    "nom": "Marvin Gaye & Kim Weston - 1966 - Take Two"
+  },
+  {
+    "artiste": "Marvin Gaye & Tammi Terrell",
+    "annee": "1968",
+    "album": "You're All I Need",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Ain't Nothing Like The Real Thing"
+      },
+      {
+        "numero": "02",
+        "titre": "Keep On Lovin' Me Honey"
+      },
+      {
+        "numero": "03",
+        "titre": "You're All I Need To Get By"
+      },
+      {
+        "numero": "04",
+        "titre": "Baby Don't Cha Worry"
+      },
+      {
+        "numero": "05",
+        "titre": "You Ain't Livin' Till You're Lovin'"
+      },
+      {
+        "numero": "06",
+        "titre": "Give In, You Just Can't Win"
+      },
+      {
+        "numero": "07",
+        "titre": "When Love Comes Knocking At My Heart"
+      },
+      {
+        "numero": "08",
+        "titre": "Come On And See Me"
+      },
+      {
+        "numero": "09",
+        "titre": "I Can't Help But Love You"
+      },
+      {
+        "numero": "10",
+        "titre": "That's How It Is (Since You've Been Gone)"
+      },
+      {
+        "numero": "11",
+        "titre": "I'll Never Stop Loving You Baby"
+      },
+      {
+        "numero": "12",
+        "titre": "Memory Chest"
+      }
+    ],
+    "duree_totale": 2011.6559999999997,
+    "image": "Marvin Gaye & Tammi Terrell - 1968 - You're All I Need.jpg",
+    "nom": "Marvin Gaye & Tammi Terrell - 1968 - You're All I Need"
+  },
+  {
+    "artiste": "Marvin Gaye & Tammi Terrell",
+    "annee": "1969",
+    "album": "Easy",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Good Lovin' Ain't Easy To Come By"
+      },
+      {
+        "numero": "02",
+        "titre": "California Soul"
+      },
+      {
+        "numero": "03",
+        "titre": "Love Woke Me Up This Morning"
+      },
+      {
+        "numero": "04",
+        "titre": "This Poor Heart Of Mine"
+      },
+      {
+        "numero": "05",
+        "titre": "I'm Your Puppet"
+      },
+      {
+        "numero": "06",
+        "titre": "The Onion Song"
+      },
+      {
+        "numero": "07",
+        "titre": "What You Gave Me"
+      },
+      {
+        "numero": "08",
+        "titre": "Baby I Need Your Loving"
+      },
+      {
+        "numero": "09",
+        "titre": "I Can't Believe You Love Me"
+      },
+      {
+        "numero": "10",
+        "titre": "How You Gonna Keep It (After You Get It)"
+      },
+      {
+        "numero": "11",
+        "titre": "More, More, More"
+      },
+      {
+        "numero": "12",
+        "titre": "Satisfied Feelin'"
+      }
+    ],
+    "duree_totale": 2041.6319999999998,
+    "image": "Marvin Gaye & Tammi Terrell - 1969 - Easy.jpg",
+    "nom": "Marvin Gaye & Tammi Terrell - 1969 - Easy"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1961",
+    "album": "The Soulful Moods of Marvin Gaye",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "(I'm Afraid) the Masquerade Is Over"
+      },
+      {
+        "numero": "02",
+        "titre": "My Funny Valentine"
+      },
+      {
+        "numero": "03",
+        "titre": "Witchcraft"
+      },
+      {
+        "numero": "04",
+        "titre": "Easy Living"
+      },
+      {
+        "numero": "05",
+        "titre": "How Deep Is The Ocean (How High Is The Sky)"
+      },
+      {
+        "numero": "06",
+        "titre": "Love for Sale"
+      },
+      {
+        "numero": "07",
+        "titre": "Always"
+      },
+      {
+        "numero": "08",
+        "titre": "How High the Moon"
+      },
+      {
+        "numero": "09",
+        "titre": "Let Your Conscience Be Your Guide"
+      },
+      {
+        "numero": "10",
+        "titre": "Never Let You Go"
+      },
+      {
+        "numero": "11",
+        "titre": "You Don't Know What Love Is"
+      }
+    ],
+    "duree_totale": 2153.688,
+    "image": "Marvin Gaye - 1961 - The Soulful Moods of Marvin Gaye.jpg",
+    "nom": "Marvin Gaye - 1961 - The Soulful Moods of Marvin Gaye"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1963",
+    "album": "That Stubborn Kinda Fellow",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Stubborn Kind of Fellow"
+      },
+      {
+        "numero": "02",
+        "titre": "Pride and Joy"
+      },
+      {
+        "numero": "03",
+        "titre": "Hitch Hike"
+      },
+      {
+        "numero": "04",
+        "titre": "Got to Get My Hands On Some Loving"
+      },
+      {
+        "numero": "05",
+        "titre": "Wherever I Lay My Hat (That's My Home)"
+      },
+      {
+        "numero": "06",
+        "titre": "Soldier's Plea"
+      },
+      {
+        "numero": "07",
+        "titre": "It Hurts Me Too"
+      },
+      {
+        "numero": "08",
+        "titre": "Taking My Time"
+      },
+      {
+        "numero": "09",
+        "titre": "Hello There Angel"
+      },
+      {
+        "numero": "10",
+        "titre": "I'm Yours You're Mine"
+      }
+    ],
+    "duree_totale": 1503.984,
+    "image": "Marvin Gaye - 1963 - That Stubborn Kinda Fellow.jpg",
+    "nom": "Marvin Gaye - 1963 - That Stubborn Kinda Fellow"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1964",
+    "album": "Hello Broadway",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Hello Broadway"
+      },
+      {
+        "numero": "02",
+        "titre": "People"
+      },
+      {
+        "numero": "03",
+        "titre": "The Party's Over"
+      },
+      {
+        "numero": "04",
+        "titre": "On The Street Where You LIve"
+      },
+      {
+        "numero": "05",
+        "titre": "What Kind Of Fool Am I"
+      },
+      {
+        "numero": "06",
+        "titre": "My Kind Of Town"
+      },
+      {
+        "numero": "07",
+        "titre": "Days Of Wine And Roses"
+      },
+      {
+        "numero": "08",
+        "titre": "This Is The Life"
+      },
+      {
+        "numero": "09",
+        "titre": "My Way"
+      },
+      {
+        "numero": "10",
+        "titre": "Hello Dolly"
+      },
+      {
+        "numero": "11",
+        "titre": "Walk On The Wild Side"
+      }
+    ],
+    "duree_totale": 1944.24,
+    "image": "Marvin Gaye - 1964 - Hello Broadway.jpg",
+    "nom": "Marvin Gaye - 1964 - Hello Broadway"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1964",
+    "album": "When I'm Alone I Cry",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "You've Changed"
+      },
+      {
+        "numero": "02",
+        "titre": "I Was Telling Her About You"
+      },
+      {
+        "numero": "03",
+        "titre": "I Wonder"
+      },
+      {
+        "numero": "04",
+        "titre": "I'll Be Around"
+      },
+      {
+        "numero": "05",
+        "titre": "Because Of You"
+      },
+      {
+        "numero": "06",
+        "titre": "I Don't Know Why"
+      },
+      {
+        "numero": "07",
+        "titre": "I've Grown Accustomed To Her Face"
+      },
+      {
+        "numero": "08",
+        "titre": "When Your Lover Has Gone"
+      },
+      {
+        "numero": "09",
+        "titre": "When I'm Along I Cry"
+      },
+      {
+        "numero": "10",
+        "titre": "If my Heart Could Sing"
+      }
+    ],
+    "duree_totale": 2298.144,
+    "image": "Marvin Gaye - 1964 - When I'm Alone I Cry.jpg",
+    "nom": "Marvin Gaye - 1964 - When I'm Alone I Cry"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1965",
+    "album": "A Tribute to the Great Nat King Cole",
+    "nb_pistes": 26,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Nature Boy (Original Mono LP Mix)"
+      },
+      {
+        "numero": "02",
+        "titre": "Ramblin Rose (Original Mono LP Mix)"
+      },
+      {
+        "numero": "03",
+        "titre": "Too Young (Original Mono LP Mix)"
+      },
+      {
+        "numero": "04",
+        "titre": "Pretend (Original Mono LP Mix)"
+      },
+      {
+        "numero": "05",
+        "titre": "Straighten Up And Fly Right (Original Mono LP Mix)"
+      },
+      {
+        "numero": "06",
+        "titre": "Mona Lisa (Original Mono LP Mix)"
+      },
+      {
+        "numero": "07",
+        "titre": "Unforgettable (Original Mono LP Mix)"
+      },
+      {
+        "numero": "08",
+        "titre": "To The Ends Of The Earth (Original Mono LP Mix)"
+      },
+      {
+        "numero": "09",
+        "titre": "Sweet Lorraine (Original Mono LP Mix)"
+      },
+      {
+        "numero": "10",
+        "titre": "It's Only A Paper Moon (Original Mono LP Mix)"
+      },
+      {
+        "numero": "11",
+        "titre": "Send For Me (Original Mono LP Mix)"
+      },
+      {
+        "numero": "12",
+        "titre": "Calypso Blues (Original Mono LP Mix)"
+      },
+      {
+        "numero": "13",
+        "titre": "Unforgettable (Original California Version, Take 2)"
+      },
+      {
+        "numero": "14",
+        "titre": "Send For Me (Original Cali Version, Take 1)"
+      },
+      {
+        "numero": "15",
+        "titre": "Send For Me (Original Cali Version, Take 3)"
+      },
+      {
+        "numero": "16",
+        "titre": "Ramblin' Rose (Alternate Vocal)"
+      },
+      {
+        "numero": "17",
+        "titre": "Too Young (Alternate Vocal, Take 1)"
+      },
+      {
+        "numero": "18",
+        "titre": "Send For Me (Alternate Vocal, Take 1)"
+      },
+      {
+        "numero": "19",
+        "titre": "The More I See You (Bonus Track)"
+      },
+      {
+        "numero": "20",
+        "titre": "I Wish You Love (Bonus Track)"
+      },
+      {
+        "numero": "21",
+        "titre": "The End Of A Love Affair (Bonus Track)"
+      },
+      {
+        "numero": "22",
+        "titre": "Violets For Your Furs (Bonus Track)"
+      },
+      {
+        "numero": "23",
+        "titre": "So In Love (Bonus Track)"
+      },
+      {
+        "numero": "24",
+        "titre": "If I Had To Go (Bonus Track)"
+      },
+      {
+        "numero": "25",
+        "titre": "You're All That Matter To Me (Bonus Track)"
+      },
+      {
+        "numero": "26",
+        "titre": "Goodbye (Bonus Track)"
+      }
+    ],
+    "duree_totale": 4857.624,
+    "image": "Marvin Gaye - 1965 - A Tribute to the Great Nat King Cole.jpg",
+    "nom": "Marvin Gaye - 1965 - A Tribute to the Great Nat King Cole"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1965",
+    "album": "How Sweet It Is to Be Loved by You",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "You're A Wonderful One"
+      },
+      {
+        "numero": "02",
+        "titre": "How Sweet It Is (To Be Loved By You)"
+      },
+      {
+        "numero": "03",
+        "titre": "Try It Baby"
+      },
+      {
+        "numero": "04",
+        "titre": "Baby Don't You Do It"
+      },
+      {
+        "numero": "05",
+        "titre": "Need Your Lovin' (Want You Back)"
+      },
+      {
+        "numero": "06",
+        "titre": "One Of These Days"
+      },
+      {
+        "numero": "07",
+        "titre": "No Good Without You"
+      },
+      {
+        "numero": "08",
+        "titre": "Stepping Closer To Your Heart"
+      },
+      {
+        "numero": "09",
+        "titre": "Need Somebody"
+      },
+      {
+        "numero": "10",
+        "titre": "Me And My Lonely Room"
+      },
+      {
+        "numero": "11",
+        "titre": "Now That You've Won Me"
+      },
+      {
+        "numero": "12",
+        "titre": "Forever"
+      }
+    ],
+    "duree_totale": 1955.9279999999999,
+    "image": "Marvin Gaye - 1965 - How Sweet It Is to Be Loved by You.jpg",
+    "nom": "Marvin Gaye - 1965 - How Sweet It Is to Be Loved by You"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1966",
+    "album": "Moods of Marvin Gaye",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I'll Be Doggone"
+      },
+      {
+        "numero": "02",
+        "titre": "Little Darling (I Need You)"
+      },
+      {
+        "numero": "03",
+        "titre": "Take This Heart Of Mine"
+      },
+      {
+        "numero": "04",
+        "titre": "Hey Diddle Diddle"
+      },
+      {
+        "numero": "05",
+        "titre": "One More Heartache"
+      },
+      {
+        "numero": "06",
+        "titre": "Ain't That Peculiar"
+      },
+      {
+        "numero": "07",
+        "titre": "Night Life"
+      },
+      {
+        "numero": "08",
+        "titre": "You've Been A Long Time Coming"
+      },
+      {
+        "numero": "09",
+        "titre": "Your Unchanging Love"
+      },
+      {
+        "numero": "10",
+        "titre": "You're The One For Me"
+      },
+      {
+        "numero": "11",
+        "titre": "I Worry 'Bout You"
+      },
+      {
+        "numero": "12",
+        "titre": "One For My Baby (And One For The Road)"
+      }
+    ],
+    "duree_totale": 2162.16,
+    "image": "Marvin Gaye - 1966 - Moods of Marvin Gaye.jpg",
+    "nom": "Marvin Gaye - 1966 - Moods of Marvin Gaye"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1968",
+    "album": "In the Groove",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "You"
+      },
+      {
+        "numero": "02",
+        "titre": "Tear It On Down"
+      },
+      {
+        "numero": "03",
+        "titre": "Chained"
+      },
+      {
+        "numero": "04",
+        "titre": "I Heard It Through The Grapevine"
+      },
+      {
+        "numero": "05",
+        "titre": "At Last (I Found A Love)"
+      },
+      {
+        "numero": "06",
+        "titre": "Some Kind Of Wonderful"
+      },
+      {
+        "numero": "07",
+        "titre": "Loving You Is Sweeter Than Ever"
+      },
+      {
+        "numero": "08",
+        "titre": "Change What You Can"
+      },
+      {
+        "numero": "09",
+        "titre": "It's Love I Need"
+      },
+      {
+        "numero": "10",
+        "titre": "Every Now And Then"
+      },
+      {
+        "numero": "11",
+        "titre": "You're What's Happening (In The World Today)"
+      },
+      {
+        "numero": "12",
+        "titre": "There Goes My Baby"
+      }
+    ],
+    "duree_totale": 1915.944,
+    "image": "Marvin Gaye - 1968 - In the Groove.jpg",
+    "nom": "Marvin Gaye - 1968 - In the Groove"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1969",
+    "album": "M.P.G#",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "- Too Busy Thinking About My Baby"
+      },
+      {
+        "numero": "02",
+        "titre": "- This Magic Moment"
+      },
+      {
+        "numero": "03",
+        "titre": "- That's The Way Love Is"
+      },
+      {
+        "numero": "04",
+        "titre": "- The End Of Our Road"
+      },
+      {
+        "numero": "05",
+        "titre": "- Seek And You Shall Find"
+      },
+      {
+        "numero": "06",
+        "titre": "- Memories"
+      },
+      {
+        "numero": "07",
+        "titre": "- Only A Lonely Man Would Know"
+      },
+      {
+        "numero": "08",
+        "titre": "- It's A Bitter Pill To Swallow"
+      },
+      {
+        "numero": "09",
+        "titre": "- More Than A Heart Can Stand"
+      },
+      {
+        "numero": "10",
+        "titre": "- Try My True Love"
+      },
+      {
+        "numero": "11",
+        "titre": "- I Got To Get To California"
+      },
+      {
+        "numero": "12",
+        "titre": "- It Don't Take Much To Keep Me"
+      }
+    ],
+    "duree_totale": 2170.7279999999996,
+    "image": null,
+    "nom": "Marvin Gaye - 1969 - M.P.G#"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1971",
+    "album": "What's Going On",
+    "nb_pistes": 21,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "What's Going On"
+      },
+      {
+        "numero": "02",
+        "titre": "What's Happening Brother"
+      },
+      {
+        "numero": "03",
+        "titre": "Flyin' High (In The Friendly Sky)"
+      },
+      {
+        "numero": "04",
+        "titre": "Save The Children"
+      },
+      {
+        "numero": "05",
+        "titre": "God Is Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Mercy Mercy Me (The Ecology)"
+      },
+      {
+        "numero": "07",
+        "titre": "Right On"
+      },
+      {
+        "numero": "08",
+        "titre": "Wholy Holy"
+      },
+      {
+        "numero": "09",
+        "titre": "Inner City Blues (Make Me Wanna Holler)"
+      },
+      {
+        "numero": "10",
+        "titre": "What's Going On (Mono Single Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "God Is Love (Mono Single Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "Mercy Mercy Me (The Ecology) (Mono Single Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "Sad Tomorrows (Mono Single Version)"
+      },
+      {
+        "numero": "14",
+        "titre": "Inner City Blues (Make Me Wanna Holler) (Mono Single Version)"
+      },
+      {
+        "numero": "15",
+        "titre": "Wholy Holy (Mono Single Version)"
+      },
+      {
+        "numero": "16",
+        "titre": "What's Going On (Original Single Mix)"
+      },
+      {
+        "numero": "17",
+        "titre": "What's Going On (Rhythm 'N' Strings Mix)"
+      },
+      {
+        "numero": "18",
+        "titre": "What's Going On (Coffeehouse Mix)"
+      },
+      {
+        "numero": "19",
+        "titre": "What's Going On (2016 Duet Version)"
+      },
+      {
+        "numero": "20",
+        "titre": "Symphony (Demo)"
+      },
+      {
+        "numero": "21",
+        "titre": "I Love The Ground You Walk On (Instrumental)"
+      }
+    ],
+    "duree_totale": 4525.9439999999995,
+    "image": "Marvin Gaye - 1971 - What's Going On.jpg",
+    "nom": "Marvin Gaye - 1971 - What's Going On"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1972",
+    "album": "Trouble Man",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Main Theme From Trouble Man (2)"
+      },
+      {
+        "numero": "02",
+        "titre": "＂T＂ Plays It Cool"
+      },
+      {
+        "numero": "03",
+        "titre": "Poor Abbey Walsh"
+      },
+      {
+        "numero": "04",
+        "titre": "The Break In (Police Shoot Big)"
+      },
+      {
+        "numero": "05",
+        "titre": "Cleo's Apartment"
+      },
+      {
+        "numero": "06",
+        "titre": "Trouble Man"
+      },
+      {
+        "numero": "07",
+        "titre": "Theme From Trouble Man"
+      },
+      {
+        "numero": "08",
+        "titre": "＂T＂ Stands For Trouble"
+      },
+      {
+        "numero": "09",
+        "titre": "Main Theme From Trouble Man (1)"
+      },
+      {
+        "numero": "10",
+        "titre": "Life Is A Gamble"
+      },
+      {
+        "numero": "11",
+        "titre": "Deep In It"
+      },
+      {
+        "numero": "12",
+        "titre": "Don't Mess With Mister ＂T＂"
+      },
+      {
+        "numero": "13",
+        "titre": "There Goes Mister ＂T＂"
+      }
+    ],
+    "duree_totale": 2308.3199999999997,
+    "image": "Marvin Gaye - 1972 - Trouble Man.jpg",
+    "nom": "Marvin Gaye - 1972 - Trouble Man"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1973",
+    "album": "Let's Get It On",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Let's Get It On"
+      },
+      {
+        "numero": "02",
+        "titre": "Please Don’t Stay (Once You Go Away)"
+      },
+      {
+        "numero": "03",
+        "titre": "If I Should Die Tonight"
+      },
+      {
+        "numero": "04",
+        "titre": "Keep Gettin' It On"
+      },
+      {
+        "numero": "05",
+        "titre": "Come Get To This"
+      },
+      {
+        "numero": "06",
+        "titre": "Distant Lover"
+      },
+      {
+        "numero": "07",
+        "titre": "You Sure Love To Ball"
+      },
+      {
+        "numero": "08",
+        "titre": "Just To Keep You Satisfied"
+      }
+    ],
+    "duree_totale": 1903.848,
+    "image": "Marvin Gaye - 1973 - Let's Get It On.jpg",
+    "nom": "Marvin Gaye - 1973 - Let's Get It On"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1976",
+    "album": "I Want You",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Want You"
+      },
+      {
+        "numero": "02",
+        "titre": "Come Live With Me Angel"
+      },
+      {
+        "numero": "03",
+        "titre": "After The Dance (Instrumental)"
+      },
+      {
+        "numero": "04",
+        "titre": "Feel All My Love Inside"
+      },
+      {
+        "numero": "05",
+        "titre": "I Wanna Be Where You Are"
+      },
+      {
+        "numero": "06",
+        "titre": "I Want You (Intro Jam 1)"
+      },
+      {
+        "numero": "07",
+        "titre": "All The Way Around"
+      },
+      {
+        "numero": "08",
+        "titre": "Since I Had You"
+      },
+      {
+        "numero": "09",
+        "titre": "Soon I'll Be Loving You Again"
+      },
+      {
+        "numero": "10",
+        "titre": "I Want You (Intro Jam 2)"
+      },
+      {
+        "numero": "11",
+        "titre": "After The Dance"
+      }
+    ],
+    "duree_totale": 2278.6800000000003,
+    "image": "Marvin Gaye - 1976 - I Want You.jpg",
+    "nom": "Marvin Gaye - 1976 - I Want You"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1978",
+    "album": "Here, My Dear",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Marvin Intro"
+      },
+      {
+        "numero": "02",
+        "titre": "Here It Is"
+      },
+      {
+        "numero": "03",
+        "titre": "Little Girl"
+      },
+      {
+        "numero": "04",
+        "titre": "Lies"
+      },
+      {
+        "numero": "05",
+        "titre": "Goodbye"
+      },
+      {
+        "numero": "06",
+        "titre": "Interlude"
+      },
+      {
+        "numero": "07",
+        "titre": "It's Getting Old"
+      },
+      {
+        "numero": "08",
+        "titre": "It's Gonna Cost You"
+      },
+      {
+        "numero": "09",
+        "titre": "Interlude (Go Away)"
+      },
+      {
+        "numero": "10",
+        "titre": "Anger"
+      },
+      {
+        "numero": "11",
+        "titre": "Time"
+      }
+    ],
+    "duree_totale": 1512.936,
+    "image": "Marvin Gaye - 1978 - Here, My Dear.jpg",
+    "nom": "Marvin Gaye - 1978 - Here, My Dear"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1981",
+    "album": "In Our Lifetime",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Ego Tripping Out"
+      },
+      {
+        "numero": "02",
+        "titre": "Praise"
+      },
+      {
+        "numero": "03",
+        "titre": "Life Is For Learning"
+      },
+      {
+        "numero": "04",
+        "titre": "Love Party"
+      },
+      {
+        "numero": "05",
+        "titre": "Funk Me"
+      },
+      {
+        "numero": "06",
+        "titre": "Far Cry"
+      },
+      {
+        "numero": "07",
+        "titre": "Love Me Now Or Love Me Later"
+      },
+      {
+        "numero": "08",
+        "titre": "Heavy Love Affair"
+      },
+      {
+        "numero": "09",
+        "titre": "In Our Lifetime"
+      }
+    ],
+    "duree_totale": 2794.3439999999996,
+    "image": "Marvin Gaye - 1981 - In Our Lifetime.jpg",
+    "nom": "Marvin Gaye - 1981 - In Our Lifetime"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1982",
+    "album": "Midnight Love",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Midnight Lady"
+      },
+      {
+        "numero": "02",
+        "titre": "Sexual Healing"
+      },
+      {
+        "numero": "03",
+        "titre": "Rockin' After Midnight"
+      },
+      {
+        "numero": "04",
+        "titre": "'Til Tomorrow"
+      },
+      {
+        "numero": "05",
+        "titre": "Turn on Some Music"
+      },
+      {
+        "numero": "06",
+        "titre": "Third World Girl"
+      },
+      {
+        "numero": "07",
+        "titre": "Joy"
+      },
+      {
+        "numero": "08",
+        "titre": "My Love Is Waiting"
+      },
+      {
+        "numero": "09",
+        "titre": "Rockin' After Midnight (Instrumental)"
+      }
+    ],
+    "duree_totale": 2789.352,
+    "image": "Marvin Gaye - 1982 - Midnight Love.jpg",
+    "nom": "Marvin Gaye - 1982 - Midnight Love"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1985",
+    "album": "Dream of a Lifetime",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sanctified Lady"
+      },
+      {
+        "numero": "02",
+        "titre": "Savage In the Sack"
+      },
+      {
+        "numero": "03",
+        "titre": "Masochistic Beauty"
+      },
+      {
+        "numero": "04",
+        "titre": "It's Madness"
+      },
+      {
+        "numero": "05",
+        "titre": "Ain't It Funny (How Things Turn Around)"
+      },
+      {
+        "numero": "06",
+        "titre": "Symphony"
+      },
+      {
+        "numero": "07",
+        "titre": "Life's Opera"
+      },
+      {
+        "numero": "08",
+        "titre": "Dream of a Lifetime"
+      }
+    ],
+    "duree_totale": 2161.2960000000003,
+    "image": "Marvin Gaye - 1985 - Dream of a Lifetime.jpg",
+    "nom": "Marvin Gaye - 1985 - Dream of a Lifetime"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1985",
+    "album": "Romantically Yours",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Why Did I Choose You？"
+      },
+      {
+        "numero": "02",
+        "titre": "The Shadow of Your Smile"
+      },
+      {
+        "numero": "03",
+        "titre": "I Won't Cry Anymore"
+      },
+      {
+        "numero": "04",
+        "titre": "Just Like"
+      },
+      {
+        "numero": "05",
+        "titre": "Walkin' In the Rain"
+      },
+      {
+        "numero": "06",
+        "titre": "I Live for You"
+      },
+      {
+        "numero": "07",
+        "titre": "Stranger In My Life"
+      },
+      {
+        "numero": "08",
+        "titre": "Happy Go Lucky"
+      }
+    ],
+    "duree_totale": 1457.928,
+    "image": "Marvin Gaye - 1985 - Romantically Yours.jpg",
+    "nom": "Marvin Gaye - 1985 - Romantically Yours"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "1997",
+    "album": "Vulnerable",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Why Did I Choose You"
+      },
+      {
+        "numero": "02",
+        "titre": "She Needs Me"
+      },
+      {
+        "numero": "03",
+        "titre": "Funny, Not Much"
+      },
+      {
+        "numero": "04",
+        "titre": "This Will Make You Laugh"
+      },
+      {
+        "numero": "05",
+        "titre": "The Shadow Of Your Smile"
+      },
+      {
+        "numero": "06",
+        "titre": "I Wish I Didn't Love You So"
+      },
+      {
+        "numero": "07",
+        "titre": "I Won't Cry Anymore"
+      },
+      {
+        "numero": "08",
+        "titre": "Why Did I Choose You (Alternate Vocal Version)"
+      },
+      {
+        "numero": "09",
+        "titre": "I Wish I Didn't Love You So (Alternate Vocal Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "I Won't Cry Anymore (Alternate Vocal Version)"
+      }
+    ],
+    "duree_totale": 1704.84,
+    "image": "Marvin Gaye - 1997 - Vulnerable.jpg",
+    "nom": "Marvin Gaye - 1997 - Vulnerable"
+  },
+  {
+    "artiste": "Marvin Gaye",
+    "annee": "2019",
+    "album": "You're the Man",
+    "nb_pistes": 17,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "You're The Man (Parts 1 & 2)"
+      },
+      {
+        "numero": "02",
+        "titre": "The World Is Rated X"
+      },
+      {
+        "numero": "03",
+        "titre": "Piece Of Clay"
+      },
+      {
+        "numero": "04",
+        "titre": "Where Are We Going？"
+      },
+      {
+        "numero": "05",
+        "titre": "I'm Gonna Give You Respect"
+      },
+      {
+        "numero": "06",
+        "titre": "Try It, You'll Like It"
+      },
+      {
+        "numero": "07",
+        "titre": "You Are That Special One"
+      },
+      {
+        "numero": "08",
+        "titre": "We Can Make It Baby"
+      },
+      {
+        "numero": "09",
+        "titre": "My Last Chance (SalaAM ReMi LP Mix)"
+      },
+      {
+        "numero": "10",
+        "titre": "Symphony (SalaAM ReMi LP Mix)"
+      },
+      {
+        "numero": "11",
+        "titre": "I'd Give My Life For You (SalaAM ReMi LP Mix)"
+      },
+      {
+        "numero": "12",
+        "titre": "Woman Of The World"
+      },
+      {
+        "numero": "13",
+        "titre": "Christmas In The City (Long Version)"
+      },
+      {
+        "numero": "14",
+        "titre": "You're The Man (Version 2)"
+      },
+      {
+        "numero": "15",
+        "titre": "I Want To Come Home For Christmas (Long Version)"
+      },
+      {
+        "numero": "16",
+        "titre": "I'm Going Home"
+      },
+      {
+        "numero": "17",
+        "titre": "Checking Out (Double Clutch)"
+      }
+    ],
+    "duree_totale": 4146.360000000001,
+    "image": "Marvin Gaye - 2019 - You're the Man.jpg",
+    "nom": "Marvin Gaye - 2019 - You're the Man"
   },
   {
     "artiste": "Mezzoforte",
@@ -41818,6 +46788,274 @@
     "nom": "Michael Cooper - 1989 - Just What I Like"
   },
   {
+    "artiste": "Michael Cooper",
+    "annee": "2001",
+    "album": "This Heart Of Mine",
+    "nb_pistes": 16,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Lift Every Voice"
+      },
+      {
+        "numero": "02",
+        "titre": "Jermaine & Michaela Buggin'"
+      },
+      {
+        "numero": "03",
+        "titre": "It's Gonna Be Alright"
+      },
+      {
+        "numero": "04",
+        "titre": "Your Face"
+      },
+      {
+        "numero": "05",
+        "titre": "This Heart Of Mine"
+      },
+      {
+        "numero": "06",
+        "titre": "Love Isn't Over"
+      },
+      {
+        "numero": "07",
+        "titre": "All I Wanna Do"
+      },
+      {
+        "numero": "08",
+        "titre": "Lookin' For Another Pure Love"
+      },
+      {
+        "numero": "09",
+        "titre": "There's No Me"
+      },
+      {
+        "numero": "10",
+        "titre": "Just Give Me Love"
+      },
+      {
+        "numero": "11",
+        "titre": "Montego Dream"
+      },
+      {
+        "numero": "12",
+        "titre": "Humpin' For Your Lovin'"
+      },
+      {
+        "numero": "13",
+        "titre": "1-900 Next 2 Me"
+      },
+      {
+        "numero": "14",
+        "titre": "Falling Like The Rain"
+      },
+      {
+        "numero": "15",
+        "titre": "Too Tight (Latin Lover)"
+      },
+      {
+        "numero": "16",
+        "titre": "Break Me Off"
+      }
+    ],
+    "duree_totale": 3669.912,
+    "image": "Michael Cooper - 2001 - This Heart Of Mine.jpg",
+    "nom": "Michael Cooper - 2001 - This Heart Of Mine"
+  },
+  {
+    "artiste": "Michael Cooper",
+    "annee": "2004",
+    "album": "Are We Cool",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Butter Luv"
+      },
+      {
+        "numero": "02",
+        "titre": "At The Club"
+      },
+      {
+        "numero": "03",
+        "titre": "Since I Had You"
+      },
+      {
+        "numero": "04",
+        "titre": "Steppin To A Love Song"
+      },
+      {
+        "numero": "05",
+        "titre": "Are We Cool"
+      },
+      {
+        "numero": "06",
+        "titre": "Remember L.O.V.E."
+      },
+      {
+        "numero": "07",
+        "titre": "Marry Me Again"
+      },
+      {
+        "numero": "08",
+        "titre": "I Got A Love Jones"
+      },
+      {
+        "numero": "09",
+        "titre": "Waiting All Along"
+      },
+      {
+        "numero": "10",
+        "titre": "40 Days 40 Nights"
+      },
+      {
+        "numero": "11",
+        "titre": "Club Feenz"
+      },
+      {
+        "numero": "12",
+        "titre": "Unchained My Heart"
+      },
+      {
+        "numero": "13",
+        "titre": "Summer In The Sun"
+      },
+      {
+        "numero": "14",
+        "titre": "The Grand Boos"
+      },
+      {
+        "numero": "15",
+        "titre": "The Miracle of You"
+      }
+    ],
+    "duree_totale": 3248.2799999999997,
+    "image": "Michael Cooper - 2004 - Are We Cool.jpg",
+    "nom": "Michael Cooper - 2004 - Are We Cool"
+  },
+  {
+    "artiste": "Michael Cooper",
+    "annee": "2012",
+    "album": "Get Closer",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Just Love You"
+      },
+      {
+        "numero": "02",
+        "titre": "I Want You Bad"
+      },
+      {
+        "numero": "03",
+        "titre": "Do You"
+      },
+      {
+        "numero": "04",
+        "titre": "Shoop Shoop (Never Stop Givin' You Love)"
+      },
+      {
+        "numero": "05",
+        "titre": "Come to Me"
+      },
+      {
+        "numero": "06",
+        "titre": "So Good"
+      },
+      {
+        "numero": "07",
+        "titre": "Let's Get Closer"
+      },
+      {
+        "numero": "08",
+        "titre": "Skin Tight"
+      },
+      {
+        "numero": "09",
+        "titre": "Love's Passion (Duet with Vann Johnson)"
+      },
+      {
+        "numero": "10",
+        "titre": "Gotta Get You Undressed"
+      },
+      {
+        "numero": "11",
+        "titre": "Owww!"
+      },
+      {
+        "numero": "12",
+        "titre": "Fun, Fun, Fun"
+      },
+      {
+        "numero": "13",
+        "titre": "To the Pieces"
+      },
+      {
+        "numero": "14",
+        "titre": "Love Games"
+      },
+      {
+        "numero": "15",
+        "titre": "Do You (Buddy's Beat Mix)"
+      }
+    ],
+    "duree_totale": 3785.88,
+    "image": "Michael Cooper - 2012 - Get Closer.jpg",
+    "nom": "Michael Cooper - 2012 - Get Closer"
+  },
+  {
+    "artiste": "Michael Henderson",
+    "annee": "1976",
+    "album": "Solid",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Make Me Feel Better"
+      },
+      {
+        "numero": "02",
+        "titre": "Time"
+      },
+      {
+        "numero": "03",
+        "titre": "Let Love Enter"
+      },
+      {
+        "numero": "04",
+        "titre": "Treat Me Like a Man"
+      },
+      {
+        "numero": "05",
+        "titre": "Solid"
+      },
+      {
+        "numero": "06",
+        "titre": "Be My Girl"
+      },
+      {
+        "numero": "07",
+        "titre": "You Haven't Made It to the Top"
+      },
+      {
+        "numero": "08",
+        "titre": "Valentine Love"
+      },
+      {
+        "numero": "09",
+        "titre": "Stay with Me This Summer"
+      },
+      {
+        "numero": "10",
+        "titre": "You Haven't Made It to the Top (7＂ Version)"
+      }
+    ],
+    "duree_totale": 2413.5600000000004,
+    "image": "Michael Henderson - 1976 - Solid.jpg",
+    "nom": "Michael Henderson - 1976 - Solid"
+  },
+  {
     "artiste": "Michael Henderson",
     "annee": "1979",
     "album": "Do It All",
@@ -41863,6 +47101,214 @@
     "duree_totale": 2518.4417750000002,
     "image": "Michael Henderson - 1979 - Do It All.jpg",
     "nom": "Michael Henderson - 1979 - Do It All"
+  },
+  {
+    "artiste": "Michael Henderson",
+    "annee": "1980",
+    "album": "Wide Receiver",
+    "nb_pistes": 14,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "You're My Choice"
+      },
+      {
+        "numero": "02",
+        "titre": "Make Me Feel Like"
+      },
+      {
+        "numero": "03",
+        "titre": "Reach Out for Me"
+      },
+      {
+        "numero": "04",
+        "titre": "Wide Receiver"
+      },
+      {
+        "numero": "05",
+        "titre": "I Don't Need Anybody Else"
+      },
+      {
+        "numero": "06",
+        "titre": "What I'm Feeling (For You)"
+      },
+      {
+        "numero": "07",
+        "titre": "Ask the Lonely"
+      },
+      {
+        "numero": "08",
+        "titre": "There's No One Like You"
+      },
+      {
+        "numero": "09",
+        "titre": "Prove It"
+      },
+      {
+        "numero": "10",
+        "titre": "Wide Receiver, Pt. I"
+      },
+      {
+        "numero": "11",
+        "titre": "Wide Receiver, Pt. II"
+      },
+      {
+        "numero": "12",
+        "titre": "We Are Here (to Geek) You Up (7＂ Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "We Are Here (to Geek) You Up (12＂ Version)"
+      },
+      {
+        "numero": "14",
+        "titre": "Can We Fall in Love Again (7＂ Version)"
+      }
+    ],
+    "duree_totale": 3685.3200000000006,
+    "image": "Michael Henderson - 1980 - Wide Receiver.jpg",
+    "nom": "Michael Henderson - 1980 - Wide Receiver"
+  },
+  {
+    "artiste": "Michael Henderson",
+    "annee": "1981",
+    "album": "Slingshot",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Slingshot"
+      },
+      {
+        "numero": "02",
+        "titre": "Never Gonna Give You Up"
+      },
+      {
+        "numero": "03",
+        "titre": "Can't We Fall in Love Again"
+      },
+      {
+        "numero": "04",
+        "titre": "Take Care"
+      },
+      {
+        "numero": "05",
+        "titre": "Make It Easy on Yourself"
+      },
+      {
+        "numero": "06",
+        "titre": "(We Are Here to) Geek You Up"
+      },
+      {
+        "numero": "07",
+        "titre": "In It for the Goodies"
+      },
+      {
+        "numero": "08",
+        "titre": "Come to Me"
+      }
+    ],
+    "duree_totale": 2193.5280000000002,
+    "image": "Michael Henderson - 1981 - Slingshot.jpg",
+    "nom": "Michael Henderson - 1981 - Slingshot"
+  },
+  {
+    "artiste": "Michael Henderson",
+    "annee": "1983",
+    "album": "Fickle",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Fickle"
+      },
+      {
+        "numero": "02",
+        "titre": "Feeling Like Myself Once Again"
+      },
+      {
+        "numero": "03",
+        "titre": "One Step at a Time"
+      },
+      {
+        "numero": "04",
+        "titre": "Thin Walls"
+      },
+      {
+        "numero": "05",
+        "titre": "You Wouldn't Have to Work at All"
+      },
+      {
+        "numero": "06",
+        "titre": "Assault with a Friendly Weapon"
+      },
+      {
+        "numero": "07",
+        "titre": "Love Will Find a Way"
+      },
+      {
+        "numero": "08",
+        "titre": "Whip It"
+      },
+      {
+        "numero": "09",
+        "titre": "Fickle (7＂ Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "Fickle (7＂ Instrumental Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "Fickle (12＂ Long Instrumental Version)"
+      }
+    ],
+    "duree_totale": 3114.5760000000005,
+    "image": "Michael Henderson - 1983 - Fickle.jpg",
+    "nom": "Michael Henderson - 1983 - Fickle"
+  },
+  {
+    "artiste": "Michael Henderson",
+    "annee": "1986",
+    "album": "Bedtime Stories",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "She's A Tearjerker"
+      },
+      {
+        "numero": "02",
+        "titre": "Tonight I Give In"
+      },
+      {
+        "numero": "03",
+        "titre": "Do It To Me Good (Tonight)"
+      },
+      {
+        "numero": "04",
+        "titre": "Bedtime Story"
+      },
+      {
+        "numero": "05",
+        "titre": "Show Some Emotion"
+      },
+      {
+        "numero": "06",
+        "titre": "Back In Love Again"
+      },
+      {
+        "numero": "07",
+        "titre": "Listen"
+      },
+      {
+        "numero": "08",
+        "titre": "Tin Soldier"
+      }
+    ],
+    "duree_totale": 1972.8,
+    "image": "Michael Henderson - 1986 - Bedtime Stories.jpg",
+    "nom": "Michael Henderson - 1986 - Bedtime Stories"
   },
   {
     "artiste": "Michael Jackson",
@@ -42749,6 +48195,147 @@
     "nom": "Mother's Finest - 1989 - Looks Could Kill"
   },
   {
+    "artiste": "Mtume",
+    "annee": "1980",
+    "album": "In Search of the Rainbow Seekers",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Give It on Up (If You Want to)"
+      },
+      {
+        "numero": "02",
+        "titre": "You Can't Wait for Love"
+      },
+      {
+        "numero": "03",
+        "titre": "She's a Rainbow Dancer"
+      },
+      {
+        "numero": "04",
+        "titre": "We're Gonna Make It This Time"
+      },
+      {
+        "numero": "05",
+        "titre": "Dance Around My Navel (Doesn't Have to Make Sense, Just Cents)"
+      },
+      {
+        "numero": "06",
+        "titre": "So You Wanna Be a Star"
+      },
+      {
+        "numero": "07",
+        "titre": "Spirit of the Dance"
+      },
+      {
+        "numero": "08",
+        "titre": "Anticipatin'"
+      },
+      {
+        "numero": "09",
+        "titre": "Everything Good to Me"
+      },
+      {
+        "numero": "10",
+        "titre": "Mrs. Sippi"
+      }
+    ],
+    "duree_totale": 2681.8320000000003,
+    "image": "Mtume - 1980 - In Search of the Rainbow Seekers.jpg",
+    "nom": "Mtume - 1980 - In Search of the Rainbow Seekers"
+  },
+  {
+    "artiste": "Mtume",
+    "annee": "1983",
+    "album": "Juicy Fruit",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Green Light"
+      },
+      {
+        "numero": "02",
+        "titre": "Juicy Fruit"
+      },
+      {
+        "numero": "03",
+        "titre": "Hips"
+      },
+      {
+        "numero": "04",
+        "titre": "Would You Like to (Fool Around)"
+      },
+      {
+        "numero": "05",
+        "titre": "Your Love's Too Good (To Spread Around)"
+      },
+      {
+        "numero": "06",
+        "titre": "Hip Dip Skippedabeat"
+      },
+      {
+        "numero": "07",
+        "titre": "Ready for Your Love"
+      },
+      {
+        "numero": "08",
+        "titre": "The After 6 Mix (Juicy Fruit, Pt. II)"
+      }
+    ],
+    "duree_totale": 2252.832,
+    "image": "Mtume - 1983 - Juicy Fruit.jpg",
+    "nom": "Mtume - 1983 - Juicy Fruit"
+  },
+  {
+    "artiste": "Mtume",
+    "annee": "1984",
+    "album": "You, Me and He",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "C.O.D. (I'll Deliver)"
+      },
+      {
+        "numero": "02",
+        "titre": "You Are My Sunshine"
+      },
+      {
+        "numero": "03",
+        "titre": "You, Me And He"
+      },
+      {
+        "numero": "04",
+        "titre": "I Simply Like"
+      },
+      {
+        "numero": "05",
+        "titre": "Prime Time"
+      },
+      {
+        "numero": "06",
+        "titre": "Tie Me Up"
+      },
+      {
+        "numero": "07",
+        "titre": "Sweet For You And Me (Monogamy Mix)"
+      },
+      {
+        "numero": "08",
+        "titre": "To Be Or Not Bop That Is The Question (Whether We Funk Or Not)"
+      },
+      {
+        "numero": "09",
+        "titre": "X"
+      }
+    ],
+    "duree_totale": 2414.2319999999995,
+    "image": "Mtume - 1984 - You, Me and He.jpg",
+    "nom": "Mtume - 1984 - You, Me and He"
+  },
+  {
     "artiste": "Mystic Merlin",
     "annee": "1982",
     "album": "Full Moon",
@@ -43433,6 +49020,190 @@
     "duree_totale": 3644.448,
     "image": "Norman Connors - 2009 - Star Power.jpg",
     "nom": "Norman Connors - 2009 - Star Power"
+  },
+  {
+    "artiste": "O'Bryan",
+    "annee": "1982",
+    "album": "Doin' Alright",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Right From The Start"
+      },
+      {
+        "numero": "02",
+        "titre": "Love Has Found It's Way"
+      },
+      {
+        "numero": "03",
+        "titre": "The Gigolo"
+      },
+      {
+        "numero": "04",
+        "titre": "It's Over"
+      },
+      {
+        "numero": "05",
+        "titre": "Doin' Alright"
+      },
+      {
+        "numero": "06",
+        "titre": "Can't Live Without Your Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Mother Nature's Callin'"
+      },
+      {
+        "numero": "08",
+        "titre": "Still Water (Love)"
+      }
+    ],
+    "duree_totale": 2281.728,
+    "image": "O'Bryan - 1982 - Doin' Alright.jpg",
+    "nom": "O'Bryan - 1982 - Doin' Alright"
+  },
+  {
+    "artiste": "O'Bryan",
+    "annee": "1983",
+    "album": "You and I",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I'm Freaky"
+      },
+      {
+        "numero": "02",
+        "titre": "Dazzlin' Lady"
+      },
+      {
+        "numero": "03",
+        "titre": "I'm In Love Again"
+      },
+      {
+        "numero": "04",
+        "titre": "Together Always"
+      },
+      {
+        "numero": "05",
+        "titre": "You And I"
+      },
+      {
+        "numero": "06",
+        "titre": "Shake"
+      },
+      {
+        "numero": "07",
+        "titre": "Soft Touch"
+      },
+      {
+        "numero": "08",
+        "titre": "Soul Train's A'Comin'"
+      }
+    ],
+    "duree_totale": 2493.312,
+    "image": "O'Bryan - 1983 - You and I.jpg",
+    "nom": "O'Bryan - 1983 - You and I"
+  },
+  {
+    "artiste": "O'Bryan",
+    "annee": "1986",
+    "album": "Surrender",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Tenderoni"
+      },
+      {
+        "numero": "02",
+        "titre": "You Have Got To Come To Me"
+      },
+      {
+        "numero": "03",
+        "titre": "Driving Force"
+      },
+      {
+        "numero": "04",
+        "titre": "Maria"
+      },
+      {
+        "numero": "05",
+        "titre": "What Goes Around"
+      },
+      {
+        "numero": "06",
+        "titre": "Is This For Real"
+      },
+      {
+        "numero": "07",
+        "titre": "Dreamin' About You"
+      },
+      {
+        "numero": "08",
+        "titre": "Surrender"
+      }
+    ],
+    "duree_totale": 2468.376,
+    "image": "O'Bryan - 1986 - Surrender.jpg",
+    "nom": "O'Bryan - 1986 - Surrender"
+  },
+  {
+    "artiste": "O'Bryan",
+    "annee": "2007",
+    "album": "F1RST",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Yearning (Intro)"
+      },
+      {
+        "numero": "02",
+        "titre": "Just Like Doin' It"
+      },
+      {
+        "numero": "03",
+        "titre": "Can I Kiss Your Lips"
+      },
+      {
+        "numero": "04",
+        "titre": "Man Overboard"
+      },
+      {
+        "numero": "05",
+        "titre": "Gotta Let You Go"
+      },
+      {
+        "numero": "06",
+        "titre": "Reflection (Interlude)"
+      },
+      {
+        "numero": "07",
+        "titre": "Caught In The Middle"
+      },
+      {
+        "numero": "08",
+        "titre": "Let Me Be The One"
+      },
+      {
+        "numero": "09",
+        "titre": "Virtual Reality"
+      },
+      {
+        "numero": "10",
+        "titre": "Gratitude"
+      },
+      {
+        "numero": "11",
+        "titre": "Hot Summer Night (End)"
+      }
+    ],
+    "duree_totale": 3023.664,
+    "image": "O'Bryan - 2007 - F1RST.jpg",
+    "nom": "O'Bryan - 2007 - F1RST"
   },
   {
     "artiste": "Odyssey",
@@ -46739,6 +52510,175 @@
     "nom": "Ramsey Lewis - 1998 - Dance Of The Soul"
   },
   {
+    "artiste": "Ready for the World",
+    "annee": "1985",
+    "album": "Ready for the World",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Tonight"
+      },
+      {
+        "numero": "02",
+        "titre": "Digital Display"
+      },
+      {
+        "numero": "03",
+        "titre": "Ceramic Girl"
+      },
+      {
+        "numero": "04",
+        "titre": "Deep Inside Your Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Oh Sheila"
+      },
+      {
+        "numero": "06",
+        "titre": "Human Toy"
+      },
+      {
+        "numero": "07",
+        "titre": "Slide Over"
+      },
+      {
+        "numero": "08",
+        "titre": "Out Of Town Lover"
+      },
+      {
+        "numero": "09",
+        "titre": "I'm The One Who Loves You"
+      }
+    ],
+    "duree_totale": 2564.592,
+    "image": "Ready for the World - 1985 - Ready for the World.jpg",
+    "nom": "Ready for the World - 1985 - Ready for the World"
+  },
+  {
+    "artiste": "Ready for the World",
+    "annee": "1986",
+    "album": "Long Time Coming",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Love You Down (Extended Remix)"
+      },
+      {
+        "numero": "02",
+        "titre": "Baby (Let Me Love You)"
+      },
+      {
+        "numero": "03",
+        "titre": "Long Time Coming"
+      },
+      {
+        "numero": "04",
+        "titre": "So In Love"
+      },
+      {
+        "numero": "05",
+        "titre": "In My Room"
+      },
+      {
+        "numero": "06",
+        "titre": "Mary Goes 'Round"
+      },
+      {
+        "numero": "07",
+        "titre": "Some People Don't Care"
+      },
+      {
+        "numero": "08",
+        "titre": "Here I Am"
+      },
+      {
+        "numero": "09",
+        "titre": "It's All A Game"
+      },
+      {
+        "numero": "10",
+        "titre": "Do You Get Enough"
+      }
+    ],
+    "duree_totale": 2866.224,
+    "image": "Ready for the World - 1986 - Long Time Coming.jpg",
+    "nom": "Ready for the World - 1986 - Long Time Coming"
+  },
+  {
+    "artiste": "Ready for the World",
+    "annee": "1996",
+    "album": "Freak the World",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Booty Intro"
+      },
+      {
+        "numero": "02",
+        "titre": "Booty Call"
+      },
+      {
+        "numero": "03",
+        "titre": "The Atomic Dog Lover"
+      },
+      {
+        "numero": "04",
+        "titre": "Page Me"
+      },
+      {
+        "numero": "05",
+        "titre": "A Shout Out (To My Lady)"
+      },
+      {
+        "numero": "06",
+        "titre": "Up & Down"
+      },
+      {
+        "numero": "07",
+        "titre": "Lets Get Busy"
+      },
+      {
+        "numero": "08",
+        "titre": "The Record Deal"
+      },
+      {
+        "numero": "09",
+        "titre": "B.Y.O.B."
+      },
+      {
+        "numero": "10",
+        "titre": "Creep Thang"
+      },
+      {
+        "numero": "11",
+        "titre": "Doggie Style"
+      },
+      {
+        "numero": "12",
+        "titre": "Wicked Freestyle"
+      },
+      {
+        "numero": "13",
+        "titre": "On Fire"
+      },
+      {
+        "numero": "14",
+        "titre": "Welcome to the Hood"
+      },
+      {
+        "numero": "15",
+        "titre": "R.F.T.W"
+      }
+    ],
+    "duree_totale": 3779.6879999999996,
+    "image": "Ready for the World - 1996 - Freak the World.jpg",
+    "nom": "Ready for the World - 1996 - Freak the World"
+  },
+  {
     "artiste": "Return To Forever",
     "annee": "1973",
     "album": "Hymn Of The Seventh Galaxy",
@@ -46924,6 +52864,202 @@
     "duree_totale": 2524.675475,
     "image": "Return To Forever - 1977 - Musicmagic.jpg",
     "nom": "Return To Forever - 1977 - Musicmagic"
+  },
+  {
+    "artiste": "Roger",
+    "annee": "1981",
+    "album": "The Many Facets of Roger",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Heard It Through the Grapevine"
+      },
+      {
+        "numero": "02",
+        "titre": "So Ruff, so Tuff"
+      },
+      {
+        "numero": "03",
+        "titre": "A Chunk of Sugar"
+      },
+      {
+        "numero": "04",
+        "titre": "Do It Roger"
+      },
+      {
+        "numero": "05",
+        "titre": "Maxx Axe"
+      },
+      {
+        "numero": "06",
+        "titre": "Blue (A Tribute to the Blues)"
+      },
+      {
+        "numero": "07",
+        "titre": "I Heard It Through the Grapevine , Pt. 1 (Single Version)"
+      },
+      {
+        "numero": "08",
+        "titre": "Do It Roger (Single Version)"
+      },
+      {
+        "numero": "09",
+        "titre": "Superman"
+      }
+    ],
+    "duree_totale": 3209.3759999999997,
+    "image": "Roger - 1981 - The Many Facets of Roger.jpg",
+    "nom": "Roger - 1981 - The Many Facets of Roger"
+  },
+  {
+    "artiste": "Roger",
+    "annee": "1984",
+    "album": "The Saga Continues",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "In the Mix"
+      },
+      {
+        "numero": "02",
+        "titre": "Play Your Guitar, Brother Roger"
+      },
+      {
+        "numero": "03",
+        "titre": "The Break Song"
+      },
+      {
+        "numero": "04",
+        "titre": "I Keep Trying"
+      },
+      {
+        "numero": "05",
+        "titre": "Midnight Hour"
+      },
+      {
+        "numero": "06",
+        "titre": "Bucket of Blood"
+      },
+      {
+        "numero": "07",
+        "titre": "T C Song"
+      },
+      {
+        "numero": "08",
+        "titre": "Girl, Cut It Out"
+      }
+    ],
+    "duree_totale": 2440.2239999999997,
+    "image": "Roger - 1984 - The Saga Continues.jpg",
+    "nom": "Roger - 1984 - The Saga Continues"
+  },
+  {
+    "artiste": "Roger",
+    "annee": "1987",
+    "album": "Unlimited!",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Want to Be Your Man (Remastered Version)"
+      },
+      {
+        "numero": "02",
+        "titre": "Night and Day"
+      },
+      {
+        "numero": "03",
+        "titre": "Been This Way Before (Rap)"
+      },
+      {
+        "numero": "04",
+        "titre": "Composition to Commemorate (May 30, 1918)"
+      },
+      {
+        "numero": "05",
+        "titre": "Papa's Got a Brand New Bag"
+      },
+      {
+        "numero": "06",
+        "titre": "Thrill Seekers"
+      },
+      {
+        "numero": "07",
+        "titre": "Tender Moments"
+      },
+      {
+        "numero": "08",
+        "titre": "If You're Serious"
+      },
+      {
+        "numero": "09",
+        "titre": "Private Lover"
+      },
+      {
+        "numero": "10",
+        "titre": "I Really Want to Be Your Man"
+      },
+      {
+        "numero": "11",
+        "titre": "Bedistgutarist-A-Rown"
+      }
+    ],
+    "duree_totale": 2804.544,
+    "image": "Roger - 1987 - Unlimited!.jpg",
+    "nom": "Roger - 1987 - Unlimited!"
+  },
+  {
+    "artiste": "Roger",
+    "annee": "1991",
+    "album": "Bridging the Gap",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "[Everybody] Get Up"
+      },
+      {
+        "numero": "02",
+        "titre": "Take Me Back"
+      },
+      {
+        "numero": "03",
+        "titre": "Curiosity"
+      },
+      {
+        "numero": "04",
+        "titre": "You Should Be Mine"
+      },
+      {
+        "numero": "05",
+        "titre": "Emotions"
+      },
+      {
+        "numero": "06",
+        "titre": "Break Through"
+      },
+      {
+        "numero": "07",
+        "titre": "Love Incorporated"
+      },
+      {
+        "numero": "08",
+        "titre": "Victim of Love"
+      },
+      {
+        "numero": "09",
+        "titre": "Who-La-Boola"
+      },
+      {
+        "numero": "10",
+        "titre": "Hurry Up"
+      }
+    ],
+    "duree_totale": 3214.32,
+    "image": "Roger - 1991 - Bridging the Gap.jpg",
+    "nom": "Roger - 1991 - Bridging the Gap"
   },
   {
     "artiste": "Ronnie Laws",
@@ -47349,6 +53485,501 @@
     "nom": "Shalamar - 1980 - Three for Love"
   },
   {
+    "artiste": "Sheila E.",
+    "annee": "1984",
+    "album": "The Glamorous Life",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The Belle of St. Mark"
+      },
+      {
+        "numero": "02",
+        "titre": "Shortberry Strawcake (LPVersion)"
+      },
+      {
+        "numero": "03",
+        "titre": "Noon Rendezvous"
+      },
+      {
+        "numero": "04",
+        "titre": "Oliver's House"
+      },
+      {
+        "numero": "05",
+        "titre": "Next Time Wipe the Lipstick off Your Collar"
+      },
+      {
+        "numero": "06",
+        "titre": "The Glamorous Life"
+      },
+      {
+        "numero": "07",
+        "titre": "The Glamorous Life (Club Edit)"
+      }
+    ],
+    "duree_totale": 2380.8479999999995,
+    "image": "Sheila E. - 1984 - The Glamorous Life.jpg",
+    "nom": "Sheila E. - 1984 - The Glamorous Life"
+  },
+  {
+    "artiste": "Sheila E.",
+    "annee": "1985",
+    "album": "Romance 1600",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sister Fate"
+      },
+      {
+        "numero": "02",
+        "titre": "Dear Michaelangelo"
+      },
+      {
+        "numero": "03",
+        "titre": "A Love Bizarre"
+      },
+      {
+        "numero": "04",
+        "titre": "Toy Box"
+      },
+      {
+        "numero": "05",
+        "titre": "Yellow"
+      },
+      {
+        "numero": "06",
+        "titre": "Romance 1600"
+      },
+      {
+        "numero": "07",
+        "titre": "Merci for the Speed of a Mad Clown in Summer"
+      },
+      {
+        "numero": "08",
+        "titre": "Bedtime Story"
+      }
+    ],
+    "duree_totale": 2343.432,
+    "image": "Sheila E. - 1985 - Romance 1600.jpg",
+    "nom": "Sheila E. - 1985 - Romance 1600"
+  },
+  {
+    "artiste": "Sheila E.",
+    "annee": "1987",
+    "album": "Sheila E#",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "- One Day (I'm Gonna Make You Mine)"
+      },
+      {
+        "numero": "02",
+        "titre": "- Wednesday Like a River"
+      },
+      {
+        "numero": "03",
+        "titre": "- Hold Me"
+      },
+      {
+        "numero": "04",
+        "titre": "- Faded Photographs"
+      },
+      {
+        "numero": "05",
+        "titre": "- Koo Koo"
+      },
+      {
+        "numero": "06",
+        "titre": "- Pride and the Passion"
+      },
+      {
+        "numero": "07",
+        "titre": "- Boy's Club"
+      },
+      {
+        "numero": "08",
+        "titre": "- Soul Salsa"
+      },
+      {
+        "numero": "09",
+        "titre": "- Hon E Man"
+      },
+      {
+        "numero": "10",
+        "titre": "- Love on a Blue Train"
+      }
+    ],
+    "duree_totale": 2454.2160000000003,
+    "image": null,
+    "nom": "Sheila E. - 1987 - Sheila E#"
+  },
+  {
+    "artiste": "Sheila E.",
+    "annee": "1991",
+    "album": "Sex Cymbal",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sex Cymbal"
+      },
+      {
+        "numero": "02",
+        "titre": "Funky Attitude"
+      },
+      {
+        "numero": "03",
+        "titre": "Cry Baby"
+      },
+      {
+        "numero": "04",
+        "titre": "Lady Marmalade"
+      },
+      {
+        "numero": "05",
+        "titre": "Sos Kate (Drum Solo)"
+      },
+      {
+        "numero": "06",
+        "titre": "Loverboy"
+      },
+      {
+        "numero": "07",
+        "titre": "Mother Mary"
+      },
+      {
+        "numero": "08",
+        "titre": "Droppin' Like Flies"
+      },
+      {
+        "numero": "09",
+        "titre": "What'cha Gonna Do"
+      },
+      {
+        "numero": "10",
+        "titre": "Private Party (Tu Pata Mi)"
+      },
+      {
+        "numero": "11",
+        "titre": "Family Affair (Percussion Jam)"
+      },
+      {
+        "numero": "12",
+        "titre": "Promise Me Love"
+      },
+      {
+        "numero": "13",
+        "titre": "Heaven"
+      }
+    ],
+    "duree_totale": 3416.016,
+    "image": "Sheila E. - 1991 - Sex Cymbal.jpg",
+    "nom": "Sheila E. - 1991 - Sex Cymbal"
+  },
+  {
+    "artiste": "Sheila E.",
+    "annee": "2000",
+    "album": "Writes of Passage",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Trainacomin'"
+      },
+      {
+        "numero": "02",
+        "titre": "Paragon"
+      },
+      {
+        "numero": "03",
+        "titre": "Rituals"
+      },
+      {
+        "numero": "04",
+        "titre": "Passing Through"
+      },
+      {
+        "numero": "05",
+        "titre": "N Perfect Time"
+      },
+      {
+        "numero": "06",
+        "titre": "Protocol"
+      },
+      {
+        "numero": "07",
+        "titre": "Writes Of Passage"
+      },
+      {
+        "numero": "08",
+        "titre": "Truth"
+      },
+      {
+        "numero": "09",
+        "titre": "Rite To Paradise"
+      },
+      {
+        "numero": "10",
+        "titre": "Virtuosity"
+      },
+      {
+        "numero": "11",
+        "titre": "Trainagoin'"
+      }
+    ],
+    "duree_totale": 2669.328,
+    "image": "Sheila E. - 2000 - Writes of Passage.jpg",
+    "nom": "Sheila E. - 2000 - Writes of Passage"
+  },
+  {
+    "artiste": "Sheila E.",
+    "annee": "2001",
+    "album": "Heaven",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Anticipation"
+      },
+      {
+        "numero": "02",
+        "titre": "Joy"
+      },
+      {
+        "numero": "03",
+        "titre": "Heaven"
+      },
+      {
+        "numero": "04",
+        "titre": "Waiting For You"
+      },
+      {
+        "numero": "05",
+        "titre": "Slight Accent"
+      },
+      {
+        "numero": "06",
+        "titre": "I Can Go On"
+      },
+      {
+        "numero": "07",
+        "titre": "Bahia"
+      },
+      {
+        "numero": "08",
+        "titre": "Who's Taking Care Of You"
+      },
+      {
+        "numero": "09",
+        "titre": "Trust Me"
+      },
+      {
+        "numero": "10",
+        "titre": "Closer"
+      },
+      {
+        "numero": "11",
+        "titre": "River God"
+      },
+      {
+        "numero": "12",
+        "titre": "Revelation"
+      }
+    ],
+    "duree_totale": 3230.1360000000004,
+    "image": "Sheila E. - 2001 - Heaven.jpg",
+    "nom": "Sheila E. - 2001 - Heaven"
+  },
+  {
+    "artiste": "Sheila E.",
+    "annee": "2013",
+    "album": "Icon",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Butterfly (Interlude)"
+      },
+      {
+        "numero": "02",
+        "titre": "Mona Lisa"
+      },
+      {
+        "numero": "03",
+        "titre": "Lovely Day"
+      },
+      {
+        "numero": "04",
+        "titre": "I'll Give You That"
+      },
+      {
+        "numero": "05",
+        "titre": "Rockstar"
+      },
+      {
+        "numero": "06",
+        "titre": "Samba (Interlude)"
+      },
+      {
+        "numero": "07",
+        "titre": "Nasty Thang"
+      },
+      {
+        "numero": "08",
+        "titre": "Leader Of The Band"
+      },
+      {
+        "numero": "09",
+        "titre": "Turn It Around (Interlude)"
+      },
+      {
+        "numero": "10",
+        "titre": "Girl Like Me"
+      },
+      {
+        "numero": "11",
+        "titre": "Who I Am Now"
+      },
+      {
+        "numero": "12",
+        "titre": "Old Skool"
+      },
+      {
+        "numero": "13",
+        "titre": "Now Is The Hour (Interlude)"
+      }
+    ],
+    "duree_totale": 2518.0799999999995,
+    "image": "Sheila E. - 2013 - Icon.jpg",
+    "nom": "Sheila E. - 2013 - Icon"
+  },
+  {
+    "artiste": "Sheila E.",
+    "annee": "2017",
+    "album": "Iconic Message 4 America",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Funky National Anthem： Message 2 America"
+      },
+      {
+        "numero": "02",
+        "titre": "Come Together - Revolution (feat. Ringo Starr)"
+      },
+      {
+        "numero": "03",
+        "titre": "Everyday People"
+      },
+      {
+        "numero": "04",
+        "titre": "Inner City Blues - Trouble Man"
+      },
+      {
+        "numero": "05",
+        "titre": "It Starts with Us"
+      },
+      {
+        "numero": "06",
+        "titre": "Jesus Children of America (feat. Israel Houghton)"
+      },
+      {
+        "numero": "07",
+        "titre": "James Brown Medley： Talkin' Loud and Sayin' Nothing ⧸ Mama Don't Take No Mess ⧸ Soul Power ⧸..."
+      },
+      {
+        "numero": "08",
+        "titre": "Blackbird"
+      },
+      {
+        "numero": "09",
+        "titre": "One Nation Under A Groove - Mother Connection (feat. George Clinton)"
+      },
+      {
+        "numero": "10",
+        "titre": "Pusherman"
+      },
+      {
+        "numero": "11",
+        "titre": "Respect Yourself"
+      },
+      {
+        "numero": "12",
+        "titre": "I Am Funky"
+      },
+      {
+        "numero": "13",
+        "titre": "Yes We Can Can"
+      },
+      {
+        "numero": "14",
+        "titre": "America - Free"
+      },
+      {
+        "numero": "15",
+        "titre": "What The World Needs Now Is Love"
+      }
+    ],
+    "duree_totale": 4706.736,
+    "image": "Sheila E. - 2017 - Iconic Message 4 America.jpg",
+    "nom": "Sheila E. - 2017 - Iconic Message 4 America"
+  },
+  {
+    "artiste": "Sheila E.",
+    "annee": "2024",
+    "album": "Bailar",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Anacaona"
+      },
+      {
+        "numero": "02",
+        "titre": "Bailar"
+      },
+      {
+        "numero": "03",
+        "titre": "Bemba Colorá"
+      },
+      {
+        "numero": "04",
+        "titre": "El Rey del Timbal"
+      },
+      {
+        "numero": "05",
+        "titre": "Gente Buena"
+      },
+      {
+        "numero": "06",
+        "titre": "The Way That You Do"
+      },
+      {
+        "numero": "07",
+        "titre": "Mi Amor"
+      },
+      {
+        "numero": "08",
+        "titre": "Possibilities"
+      },
+      {
+        "numero": "09",
+        "titre": "Playa Tequila"
+      },
+      {
+        "numero": "10",
+        "titre": "Descarga"
+      }
+    ],
+    "duree_totale": 2721.12,
+    "image": "Sheila E. - 2024 - Bailar.jpg",
+    "nom": "Sheila E. - 2024 - Bailar"
+  },
+  {
     "artiste": "Sherrick",
     "annee": "1987",
     "album": "Sherrick",
@@ -47488,6 +54119,112 @@
     "duree_totale": 2329.2960000000003,
     "image": "Smoke City - 1985 - I Really Want You.jpg",
     "nom": "Smoke City - 1985 - I Really Want You"
+  },
+  {
+    "artiste": "Stanley Clarke & George Duke",
+    "annee": "1983",
+    "album": "The ClarkeDuke Project II",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Put It On The Line"
+      },
+      {
+        "numero": "02",
+        "titre": "Heroes"
+      },
+      {
+        "numero": "03",
+        "titre": "Try Me Baby"
+      },
+      {
+        "numero": "04",
+        "titre": "Every Reason To Smile"
+      },
+      {
+        "numero": "05",
+        "titre": "Great Danes"
+      },
+      {
+        "numero": "06",
+        "titre": "The Good Times"
+      },
+      {
+        "numero": "07",
+        "titre": "You're Gonna Love It"
+      },
+      {
+        "numero": "08",
+        "titre": "Trip You In Love"
+      },
+      {
+        "numero": "09",
+        "titre": "Atlanta"
+      }
+    ],
+    "duree_totale": 2298.12,
+    "image": "Stanley Clarke & George Duke - 1983 - The ClarkeDuke Project II.jpg",
+    "nom": "Stanley Clarke & George Duke - 1983 - The ClarkeDuke Project II"
+  },
+  {
+    "artiste": "Stanley Clarke & George Duke",
+    "annee": "1990",
+    "album": "3",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Pit Bulls (An Endangered Species)"
+      },
+      {
+        "numero": "02",
+        "titre": "Oh Oh"
+      },
+      {
+        "numero": "03",
+        "titre": "No Place to Hide"
+      },
+      {
+        "numero": "04",
+        "titre": "Somebody Else"
+      },
+      {
+        "numero": "05",
+        "titre": "Mothership Connection"
+      },
+      {
+        "numero": "06",
+        "titre": "Right By My Side (Feat. Gerald Alston)"
+      },
+      {
+        "numero": "07",
+        "titre": "From The Deepest Corner Of My Heart"
+      },
+      {
+        "numero": "08",
+        "titre": "Lady"
+      },
+      {
+        "numero": "09",
+        "titre": "Find Out Who You Are"
+      },
+      {
+        "numero": "10",
+        "titre": "Quiet Time"
+      },
+      {
+        "numero": "11",
+        "titre": "Finger Prints"
+      },
+      {
+        "numero": "12",
+        "titre": "Always"
+      }
+    ],
+    "duree_totale": 2786.544,
+    "image": "Stanley Clarke & George Duke - 1990 - 3.jpg",
+    "nom": "Stanley Clarke & George Duke - 1990 - 3"
   },
   {
     "artiste": "Stanley Clarke",
@@ -47948,6 +54685,383 @@
     "nom": "System Volume Information"
   },
   {
+    "artiste": "T-Connection",
+    "annee": "1977",
+    "album": "Magic",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Do What You Wanna Do"
+      },
+      {
+        "numero": "02",
+        "titre": "Disco Magic"
+      },
+      {
+        "numero": "03",
+        "titre": "Go Back Home"
+      },
+      {
+        "numero": "04",
+        "titre": "Got to See My Lady"
+      },
+      {
+        "numero": "05",
+        "titre": "Crazy Mixed up World"
+      },
+      {
+        "numero": "06",
+        "titre": "Mother's Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Monday Morning"
+      },
+      {
+        "numero": "08",
+        "titre": "Peace Line"
+      },
+      {
+        "numero": "09",
+        "titre": "Do What You Wanna Do (Edit)"
+      }
+    ],
+    "duree_totale": 2523.504,
+    "image": "T-Connection - 1977 - Magic.jpg",
+    "nom": "T-Connection - 1977 - Magic"
+  },
+  {
+    "artiste": "T-Connection",
+    "annee": "1978",
+    "album": "On Fire",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "On Fire"
+      },
+      {
+        "numero": "02",
+        "titre": "Prisoner of My Mind"
+      },
+      {
+        "numero": "03",
+        "titre": "Lady of the Night"
+      },
+      {
+        "numero": "04",
+        "titre": "Watching You"
+      },
+      {
+        "numero": "05",
+        "titre": "Let Yourself Go"
+      },
+      {
+        "numero": "06",
+        "titre": "Groove to Get Down"
+      },
+      {
+        "numero": "07",
+        "titre": "Cush"
+      },
+      {
+        "numero": "08",
+        "titre": "Playin' Games"
+      }
+    ],
+    "duree_totale": 2264.856,
+    "image": "T-Connection - 1978 - On Fire.jpg",
+    "nom": "T-Connection - 1978 - On Fire"
+  },
+  {
+    "artiste": "T-Connection",
+    "annee": "1978",
+    "album": "T-Connection",
+    "nb_pistes": 20,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Do What You Wanna Do (Edit)"
+      },
+      {
+        "numero": "02",
+        "titre": "That's Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Saturday Night (7＂ Disco Version)"
+      },
+      {
+        "numero": "04",
+        "titre": "Totally Connected"
+      },
+      {
+        "numero": "05",
+        "titre": "Groove to Get Down"
+      },
+      {
+        "numero": "06",
+        "titre": "Disco Magic"
+      },
+      {
+        "numero": "07",
+        "titre": "Midnight Train"
+      },
+      {
+        "numero": "08",
+        "titre": "At Midnight"
+      },
+      {
+        "numero": "09",
+        "titre": "Peace Line"
+      },
+      {
+        "numero": "10",
+        "titre": "Cush"
+      },
+      {
+        "numero": "11",
+        "titre": "Lady of the Night"
+      },
+      {
+        "numero": "12",
+        "titre": "Crazy Mixed up World"
+      },
+      {
+        "numero": "13",
+        "titre": "Ecstasy"
+      },
+      {
+        "numero": "14",
+        "titre": "On Fire (1977 Recording)"
+      },
+      {
+        "numero": "15",
+        "titre": "Playin' Games"
+      },
+      {
+        "numero": "16",
+        "titre": "Everything Is Cool"
+      },
+      {
+        "numero": "17",
+        "titre": "Coming Back for More"
+      },
+      {
+        "numero": "18",
+        "titre": "Let Yourself Go"
+      },
+      {
+        "numero": "19",
+        "titre": "I Like Funkin' with You"
+      },
+      {
+        "numero": "20",
+        "titre": "Monday Morning"
+      }
+    ],
+    "duree_totale": 5555.472,
+    "image": "T-Connection - 1978 - T-Connection.jpg",
+    "nom": "T-Connection - 1978 - T-Connection"
+  },
+  {
+    "artiste": "T-Connection",
+    "annee": "1979",
+    "album": "Totally Connected",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Totally Connected"
+      },
+      {
+        "numero": "02",
+        "titre": "Ecstasy"
+      },
+      {
+        "numero": "03",
+        "titre": "Let's Do It Today"
+      },
+      {
+        "numero": "04",
+        "titre": "I Like Funkin' With You"
+      },
+      {
+        "numero": "05",
+        "titre": "Choosing"
+      },
+      {
+        "numero": "06",
+        "titre": "That's Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Danger Zone"
+      },
+      {
+        "numero": "08",
+        "titre": "Born to Boogie"
+      }
+    ],
+    "duree_totale": 2205.864,
+    "image": "T-Connection - 1979 - Totally Connected.jpg",
+    "nom": "T-Connection - 1979 - Totally Connected"
+  },
+  {
+    "artiste": "T-Connection",
+    "annee": "1981",
+    "album": "Everything Is Cool",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Feiern es"
+      },
+      {
+        "numero": "02",
+        "titre": "Helles Licht"
+      },
+      {
+        "numero": "03",
+        "titre": "Ich habe"
+      },
+      {
+        "numero": "04",
+        "titre": "Kann dafür nichts"
+      },
+      {
+        "numero": "05",
+        "titre": "Monsters"
+      },
+      {
+        "numero": "06",
+        "titre": "Summer Time"
+      },
+      {
+        "numero": "07",
+        "titre": "Täume"
+      },
+      {
+        "numero": "08",
+        "titre": "Verrückt"
+      },
+      {
+        "numero": "09",
+        "titre": "Why"
+      },
+      {
+        "numero": "10",
+        "titre": "Zusammen"
+      },
+      {
+        "numero": "11",
+        "titre": "Go Go"
+      }
+    ],
+    "duree_totale": 1792.296,
+    "image": "T-Connection - 1981 - Everything Is Cool.jpg",
+    "nom": "T-Connection - 1981 - Everything Is Cool"
+  },
+  {
+    "artiste": "T-Connection",
+    "annee": "1981",
+    "album": "Pure & Natural",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Girl Watching (2004 Digital Remaster)"
+      },
+      {
+        "numero": "02",
+        "titre": "Party Night (2004 Remaster)"
+      },
+      {
+        "numero": "03",
+        "titre": "A Little More Love (2004 Digital Remaster)"
+      },
+      {
+        "numero": "04",
+        "titre": "Slippin' Away (2004 Digital Remaster)"
+      },
+      {
+        "numero": "05",
+        "titre": "Might As Well Dance (2004 Digital Remaster)"
+      },
+      {
+        "numero": "06",
+        "titre": "Rushing Through The Crowd (2004 Digital Remaster)"
+      },
+      {
+        "numero": "07",
+        "titre": "The Best Of My Love (2004 Digital Remaster)"
+      },
+      {
+        "numero": "08",
+        "titre": "Goombay Time (2004 Digital Remaster)"
+      }
+    ],
+    "duree_totale": 2389.44,
+    "image": "T-Connection - 1981 - Pure & Natural.jpg",
+    "nom": "T-Connection - 1981 - Pure & Natural"
+  },
+  {
+    "artiste": "Tawatha Agee",
+    "annee": "1987",
+    "album": "Welcome to My Dream",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Thigh Ride"
+      },
+      {
+        "numero": "02",
+        "titre": "Did I Dream You"
+      },
+      {
+        "numero": "03",
+        "titre": "Love Shine"
+      },
+      {
+        "numero": "04",
+        "titre": "Love Goes Higher"
+      },
+      {
+        "numero": "05",
+        "titre": "Welcome to My Dream (Tears of Joy)"
+      },
+      {
+        "numero": "06",
+        "titre": "Are You Serious"
+      },
+      {
+        "numero": "07",
+        "titre": "More Than Before"
+      },
+      {
+        "numero": "08",
+        "titre": "The Waiting's Over"
+      },
+      {
+        "numero": "09",
+        "titre": "No More Tears"
+      },
+      {
+        "numero": "10",
+        "titre": "Are You Serious (12＂ Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "Thigh High Mix (Dub Mix)"
+      }
+    ],
+    "duree_totale": 2876.4000000000005,
+    "image": "Tawatha Agee - 1987 - Welcome to My Dream.jpg",
+    "nom": "Tawatha Agee - 1987 - Welcome to My Dream"
+  },
+  {
     "artiste": "The Blackbyrd",
     "annee": "1975",
     "album": "City Life",
@@ -48071,6 +55185,831 @@
     "duree_totale": 2574.888117913832,
     "image": "The Crusaders - 1977 - Free As The Wind.jpg",
     "nom": "The Crusaders - 1977 - Free As The Wind"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1972",
+    "album": "Let's Do It Again",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Street Dance"
+      },
+      {
+        "numero": "02",
+        "titre": "Free Form"
+      },
+      {
+        "numero": "03",
+        "titre": "Take A Ride (On The Soul Train)"
+      },
+      {
+        "numero": "04",
+        "titre": "Wichita Lineman"
+      },
+      {
+        "numero": "05",
+        "titre": "Baby, I'm A Want You"
+      },
+      {
+        "numero": "06",
+        "titre": "Let's Do It Again"
+      },
+      {
+        "numero": "07",
+        "titre": "Goin' to See My Baby"
+      },
+      {
+        "numero": "08",
+        "titre": "Give Me One More Chance"
+      },
+      {
+        "numero": "09",
+        "titre": "Green Grass Of Home"
+      }
+    ],
+    "duree_totale": 1860.984,
+    "image": "The Fatback Band - 1972 - Let's Do It Again.jpg",
+    "nom": "The Fatback Band - 1972 - Let's Do It Again"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1973",
+    "album": "People Music",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Njia Walk (Street Walk)"
+      },
+      {
+        "numero": "02",
+        "titre": "Gotta Have You (Day by Day)"
+      },
+      {
+        "numero": "03",
+        "titre": "Fatbackin'"
+      },
+      {
+        "numero": "04",
+        "titre": "Baby Doll"
+      },
+      {
+        "numero": "05",
+        "titre": "Clap Your Hands"
+      },
+      {
+        "numero": "06",
+        "titre": "Soul March"
+      },
+      {
+        "numero": "07",
+        "titre": "Soul Man"
+      },
+      {
+        "numero": "08",
+        "titre": "To Be with You"
+      },
+      {
+        "numero": "09",
+        "titre": "Kiba"
+      }
+    ],
+    "duree_totale": 2122.512,
+    "image": "The Fatback Band - 1973 - People Music.jpg",
+    "nom": "The Fatback Band - 1973 - People Music"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1974",
+    "album": "Feel My Soul",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Feelin' Mellow (Instrumental)"
+      },
+      {
+        "numero": "02",
+        "titre": "Meet Me over My House"
+      },
+      {
+        "numero": "03",
+        "titre": "Three Dimensional World"
+      },
+      {
+        "numero": "04",
+        "titre": "Sketches of Life"
+      },
+      {
+        "numero": "05",
+        "titre": "You've Got a Friend"
+      },
+      {
+        "numero": "06",
+        "titre": "Feelin' Mellow (Vocal)"
+      },
+      {
+        "numero": "07",
+        "titre": "Making Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Why is It so Hard to Do"
+      },
+      {
+        "numero": "09",
+        "titre": "Feel My Soul"
+      }
+    ],
+    "duree_totale": 2207.04,
+    "image": "The Fatback Band - 1974 - Feel My Soul.jpg",
+    "nom": "The Fatback Band - 1974 - Feel My Soul"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1974",
+    "album": "Keep on Steppin'",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Mister Bass Man"
+      },
+      {
+        "numero": "02",
+        "titre": "Stuff"
+      },
+      {
+        "numero": "03",
+        "titre": "New York Style"
+      },
+      {
+        "numero": "04",
+        "titre": "Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Can't Stop the Flame"
+      },
+      {
+        "numero": "06",
+        "titre": "Wicky Wacky"
+      },
+      {
+        "numero": "07",
+        "titre": "Feeling"
+      },
+      {
+        "numero": "08",
+        "titre": "Keep on Steppin'"
+      },
+      {
+        "numero": "09",
+        "titre": "Breaking up with Someone You Love Is Hard to Do"
+      }
+    ],
+    "duree_totale": 2088.336,
+    "image": "The Fatback Band - 1974 - Keep on Steppin'.jpg",
+    "nom": "The Fatback Band - 1974 - Keep on Steppin'"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1975",
+    "album": "Raising Hell",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "[Are You Ready] Do the Bus Stop"
+      },
+      {
+        "numero": "02",
+        "titre": "All Day"
+      },
+      {
+        "numero": "03",
+        "titre": "Put Your Love (In My Tender Care)"
+      },
+      {
+        "numero": "04",
+        "titre": "Groovy Kind of Day"
+      },
+      {
+        "numero": "05",
+        "titre": "Spanish Hustle"
+      },
+      {
+        "numero": "06",
+        "titre": "I Can't Help Myself (Sugar Pie, Honey Bunch)"
+      },
+      {
+        "numero": "07",
+        "titre": "Party Time"
+      }
+    ],
+    "duree_totale": 2119.224,
+    "image": "The Fatback Band - 1975 - Raising Hell.jpg",
+    "nom": "The Fatback Band - 1975 - Raising Hell"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1975",
+    "album": "Yum Yum",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Yum Yum (Gimme Some)"
+      },
+      {
+        "numero": "02",
+        "titre": "Trompin'"
+      },
+      {
+        "numero": "03",
+        "titre": "Let the Drums Speak"
+      },
+      {
+        "numero": "04",
+        "titre": "Put the Funk on You"
+      },
+      {
+        "numero": "05",
+        "titre": "Feed Me Your Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Boogie with Fatback"
+      },
+      {
+        "numero": "07",
+        "titre": "Gotta Learn How to Dance"
+      },
+      {
+        "numero": "08",
+        "titre": "If You Could Turn into Me"
+      },
+      {
+        "numero": "09",
+        "titre": "[Hey] I Feel Real Good"
+      }
+    ],
+    "duree_totale": 2216.232,
+    "image": "The Fatback Band - 1975 - Yum Yum.jpg",
+    "nom": "The Fatback Band - 1975 - Yum Yum"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1977",
+    "album": "Man with the Band",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The Man with the Band"
+      },
+      {
+        "numero": "02",
+        "titre": "Master Booty"
+      },
+      {
+        "numero": "03",
+        "titre": "Funk Backin'"
+      },
+      {
+        "numero": "04",
+        "titre": "Mile High"
+      },
+      {
+        "numero": "05",
+        "titre": "I Gotta Thing for You"
+      },
+      {
+        "numero": "06",
+        "titre": "Midnight Freak"
+      },
+      {
+        "numero": "07",
+        "titre": "Zodiac Man"
+      }
+    ],
+    "duree_totale": 2487.4320000000002,
+    "image": "The Fatback Band - 1977 - Man with the Band.jpg",
+    "nom": "The Fatback Band - 1977 - Man with the Band"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1977",
+    "album": "NYCNYUSA",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Double Dutch"
+      },
+      {
+        "numero": "02",
+        "titre": "Soul Finger"
+      },
+      {
+        "numero": "03",
+        "titre": "Spank the Baby"
+      },
+      {
+        "numero": "04",
+        "titre": "Duke Walk"
+      },
+      {
+        "numero": "05",
+        "titre": "Nycnyusa"
+      },
+      {
+        "numero": "06",
+        "titre": "Love Street"
+      },
+      {
+        "numero": "07",
+        "titre": "A Changed Man"
+      },
+      {
+        "numero": "08",
+        "titre": "Cosmic Woman"
+      }
+    ],
+    "duree_totale": 2315.856,
+    "image": "The Fatback Band - 1977 - NYCNYUSA.jpg",
+    "nom": "The Fatback Band - 1977 - NYCNYUSA"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1978",
+    "album": "Fired Up 'N' Kickin",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I'm Fired Up"
+      },
+      {
+        "numero": "02",
+        "titre": "Boogie Freak"
+      },
+      {
+        "numero": "03",
+        "titre": "Get out on the Dance Floor"
+      },
+      {
+        "numero": "04",
+        "titre": "At Last"
+      },
+      {
+        "numero": "05",
+        "titre": "I Like Girls"
+      },
+      {
+        "numero": "06",
+        "titre": "Snake"
+      },
+      {
+        "numero": "07",
+        "titre": "Can't You See"
+      }
+    ],
+    "duree_totale": 2632.8959999999997,
+    "image": "The Fatback Band - 1978 - Fired Up 'N' Kickin.jpg",
+    "nom": "The Fatback Band - 1978 - Fired Up 'N' Kickin"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1979",
+    "album": "Fatback XII",
+    "nb_pistes": 6,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "You're My Candy Sweet"
+      },
+      {
+        "numero": "02",
+        "titre": "Disco Bass"
+      },
+      {
+        "numero": "03",
+        "titre": "Gimme That Sweet, Sweet Lovin'"
+      },
+      {
+        "numero": "04",
+        "titre": "King Tim III (Personality Jock)"
+      },
+      {
+        "numero": "05",
+        "titre": "Disco Queen"
+      },
+      {
+        "numero": "06",
+        "titre": "Love in Perfect Harmony"
+      }
+    ],
+    "duree_totale": 2241.216,
+    "image": "The Fatback Band - 1979 - Fatback XII.jpg",
+    "nom": "The Fatback Band - 1979 - Fatback XII"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1980",
+    "album": "14 Karat",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Let's Do It Again"
+      },
+      {
+        "numero": "02",
+        "titre": "Angel"
+      },
+      {
+        "numero": "03",
+        "titre": "Concrete Jungle"
+      },
+      {
+        "numero": "04",
+        "titre": "Without Your Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Your Love Is Strange"
+      },
+      {
+        "numero": "06",
+        "titre": "Lady Groove"
+      },
+      {
+        "numero": "07",
+        "titre": "Chillin' Out"
+      }
+    ],
+    "duree_totale": 2367.768,
+    "image": "The Fatback Band - 1980 - 14 Karat.jpg",
+    "nom": "The Fatback Band - 1980 - 14 Karat"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1980",
+    "album": "Hot Box",
+    "nb_pistes": 6,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Hot Box"
+      },
+      {
+        "numero": "02",
+        "titre": "Come and Get the Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Love Spell"
+      },
+      {
+        "numero": "04",
+        "titre": "Gotta Get My Hands on Some (Money)"
+      },
+      {
+        "numero": "05",
+        "titre": "Backstrokin'"
+      },
+      {
+        "numero": "06",
+        "titre": "Street Band"
+      }
+    ],
+    "duree_totale": 2284.656,
+    "image": "The Fatback Band - 1980 - Hot Box.jpg",
+    "nom": "The Fatback Band - 1980 - Hot Box"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1981",
+    "album": "Gigolo",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Rockin' to the Beat"
+      },
+      {
+        "numero": "02",
+        "titre": "Rub Down"
+      },
+      {
+        "numero": "03",
+        "titre": "I'm so in Love"
+      },
+      {
+        "numero": "04",
+        "titre": "Higher"
+      },
+      {
+        "numero": "05",
+        "titre": "Do It (Till the Feelin' Runs Out)"
+      },
+      {
+        "numero": "06",
+        "titre": "Gigolo"
+      },
+      {
+        "numero": "07",
+        "titre": "Oh Girl"
+      },
+      {
+        "numero": "08",
+        "titre": "Na Na Hey Hey Kiss Her Goodbye"
+      }
+    ],
+    "duree_totale": 2446.8,
+    "image": "The Fatback Band - 1981 - Gigolo.jpg",
+    "nom": "The Fatback Band - 1981 - Gigolo"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1981",
+    "album": "Tasty Jam",
+    "nb_pistes": 6,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Take It Any Way You Want It"
+      },
+      {
+        "numero": "02",
+        "titre": "Want to Dance"
+      },
+      {
+        "numero": "03",
+        "titre": "Keep Your Fingers out the Jam"
+      },
+      {
+        "numero": "04",
+        "titre": "Kool Whip"
+      },
+      {
+        "numero": "05",
+        "titre": "High Steppin' Lady"
+      },
+      {
+        "numero": "06",
+        "titre": "Get Ready for the Night"
+      }
+    ],
+    "duree_totale": 2090.376,
+    "image": "The Fatback Band - 1981 - Tasty Jam.jpg",
+    "nom": "The Fatback Band - 1981 - Tasty Jam"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1983",
+    "album": "Is This the Future",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Is This the Future？"
+      },
+      {
+        "numero": "02",
+        "titre": "Double Love Affair"
+      },
+      {
+        "numero": "03",
+        "titre": "Spread Love"
+      },
+      {
+        "numero": "04",
+        "titre": "Funky Aerobics"
+      },
+      {
+        "numero": "05",
+        "titre": "Up Against the Wall"
+      },
+      {
+        "numero": "06",
+        "titre": "Finger Lickin' Good"
+      },
+      {
+        "numero": "07",
+        "titre": "Sunshine Lady"
+      },
+      {
+        "numero": "08",
+        "titre": "The Girl Is Fine (So Fine)"
+      }
+    ],
+    "duree_totale": 2581.0560000000005,
+    "image": "The Fatback Band - 1983 - Is This the Future.jpg",
+    "nom": "The Fatback Band - 1983 - Is This the Future"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1983",
+    "album": "With Love",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "He's a Freak Undercover"
+      },
+      {
+        "numero": "02",
+        "titre": "I Found Lovin'"
+      },
+      {
+        "numero": "03",
+        "titre": "Rasta Jam"
+      },
+      {
+        "numero": "04",
+        "titre": "I Wanna Be Your Lover"
+      },
+      {
+        "numero": "05",
+        "titre": "Wide Glide"
+      },
+      {
+        "numero": "06",
+        "titre": "I Love Your Body Language"
+      },
+      {
+        "numero": "07",
+        "titre": "Please Stay"
+      }
+    ],
+    "duree_totale": 2351.5679999999998,
+    "image": "The Fatback Band - 1983 - With Love.jpg",
+    "nom": "The Fatback Band - 1983 - With Love"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1984",
+    "album": "Phoenix",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "You've Got That Magic"
+      },
+      {
+        "numero": "02",
+        "titre": "Call out My Name"
+      },
+      {
+        "numero": "03",
+        "titre": "Lover Man"
+      },
+      {
+        "numero": "04",
+        "titre": "Just Be My Love"
+      },
+      {
+        "numero": "05",
+        "titre": "The Drum Song"
+      },
+      {
+        "numero": "06",
+        "titre": "I Love You So"
+      },
+      {
+        "numero": "07",
+        "titre": "Jump up Baby, Jump Up!"
+      },
+      {
+        "numero": "08",
+        "titre": "Big Brother"
+      }
+    ],
+    "duree_totale": 2336.016,
+    "image": "The Fatback Band - 1984 - Phoenix.jpg",
+    "nom": "The Fatback Band - 1984 - Phoenix"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "1985",
+    "album": "So Delicious",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Girls on My Mind"
+      },
+      {
+        "numero": "02",
+        "titre": "Go out with a Bang"
+      },
+      {
+        "numero": "03",
+        "titre": "Lover Undercover"
+      },
+      {
+        "numero": "04",
+        "titre": "Sequence 96"
+      },
+      {
+        "numero": "05",
+        "titre": "Let's Play Tonight"
+      },
+      {
+        "numero": "06",
+        "titre": "She's a Go Getter"
+      },
+      {
+        "numero": "07",
+        "titre": "So Delicious"
+      },
+      {
+        "numero": "08",
+        "titre": "Start It Up"
+      },
+      {
+        "numero": "09",
+        "titre": "Evil"
+      }
+    ],
+    "duree_totale": 2617.224,
+    "image": "The Fatback Band - 1985 - So Delicious.jpg",
+    "nom": "The Fatback Band - 1985 - So Delicious"
+  },
+  {
+    "artiste": "The Fatback Band",
+    "annee": "2004",
+    "album": "Second Generation",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Ole School Groove"
+      },
+      {
+        "numero": "02",
+        "titre": "Koochie Mama"
+      },
+      {
+        "numero": "03",
+        "titre": "Summertime Funk"
+      },
+      {
+        "numero": "04",
+        "titre": "Booty Bounce"
+      },
+      {
+        "numero": "05",
+        "titre": "Baby Let Me Work That Thang"
+      },
+      {
+        "numero": "06",
+        "titre": "Wanna Make You Mine"
+      },
+      {
+        "numero": "07",
+        "titre": "Fiesta Toda La Noche (All Night Party)"
+      },
+      {
+        "numero": "08",
+        "titre": "Shakin' and Jamin' from da Roots (A Jam)"
+      },
+      {
+        "numero": "09",
+        "titre": "Hey Mr Bill!"
+      },
+      {
+        "numero": "10",
+        "titre": "In the Morning"
+      },
+      {
+        "numero": "11",
+        "titre": "Good Times on My Mind"
+      },
+      {
+        "numero": "12",
+        "titre": "Fantasy"
+      },
+      {
+        "numero": "13",
+        "titre": "All Alone (with You)"
+      },
+      {
+        "numero": "14",
+        "titre": "Oasis"
+      },
+      {
+        "numero": "15",
+        "titre": "Don't Play with My Heart"
+      }
+    ],
+    "duree_totale": 4455.792,
+    "image": "The Fatback Band - 2004 - Second Generation.jpg",
+    "nom": "The Fatback Band - 2004 - Second Generation"
   },
   {
     "artiste": "The Gap Band",
@@ -50092,6 +58031,96 @@
   },
   {
     "artiste": "The Reddings",
+    "annee": "1980",
+    "album": "The Awakening",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Remote Control"
+      },
+      {
+        "numero": "02",
+        "titre": "Funkin' On the One"
+      },
+      {
+        "numero": "03",
+        "titre": "Come In Out the Rain"
+      },
+      {
+        "numero": "04",
+        "titre": "It's Friday Night"
+      },
+      {
+        "numero": "05",
+        "titre": "The Awakening Pt. 1"
+      },
+      {
+        "numero": "06",
+        "titre": "I Want It"
+      },
+      {
+        "numero": "07",
+        "titre": "Doin' It"
+      },
+      {
+        "numero": "08",
+        "titre": "Lady Be My Lovesong"
+      },
+      {
+        "numero": "09",
+        "titre": "The Awakening Pt. 2"
+      }
+    ],
+    "duree_totale": 2054.664,
+    "image": "The Reddings - 1980 - The Awakening.jpg",
+    "nom": "The Reddings - 1980 - The Awakening"
+  },
+  {
+    "artiste": "The Reddings",
+    "annee": "1981",
+    "album": "Class",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Class (Is What You Got)"
+      },
+      {
+        "numero": "02",
+        "titre": "If You Feel It"
+      },
+      {
+        "numero": "03",
+        "titre": "Seriously"
+      },
+      {
+        "numero": "04",
+        "titre": "Main Nerve"
+      },
+      {
+        "numero": "05",
+        "titre": "You're The Only One"
+      },
+      {
+        "numero": "06",
+        "titre": "Hurts So Bads"
+      },
+      {
+        "numero": "07",
+        "titre": "Love Is Over"
+      },
+      {
+        "numero": "08",
+        "titre": "Love Dance"
+      }
+    ],
+    "duree_totale": 2119.104,
+    "image": "The Reddings - 1981 - Class.jpg",
+    "nom": "The Reddings - 1981 - Class"
+  },
+  {
+    "artiste": "The Reddings",
     "annee": "1982",
     "album": "Steamin' Hot",
     "nb_pistes": 8,
@@ -50132,6 +58161,49 @@
     "duree_totale": 1911.792,
     "image": "The Reddings - 1982 - Steamin' Hot.jpg",
     "nom": "The Reddings - 1982 - Steamin' Hot"
+  },
+  {
+    "artiste": "The Reddings",
+    "annee": "1983",
+    "album": "Back To Basics",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Hand Dance"
+      },
+      {
+        "numero": "02",
+        "titre": "On The Outside Looking In"
+      },
+      {
+        "numero": "03",
+        "titre": "Who You Think You're Messing With"
+      },
+      {
+        "numero": "04",
+        "titre": "Back To The Basics (With Our Love)"
+      },
+      {
+        "numero": "05",
+        "titre": "Erotic Groove (Album Version)"
+      },
+      {
+        "numero": "06",
+        "titre": "Moon Rock"
+      },
+      {
+        "numero": "07",
+        "titre": "I'm Ready"
+      },
+      {
+        "numero": "08",
+        "titre": "Make Plans For Me Too"
+      }
+    ],
+    "duree_totale": 1933.6560000000002,
+    "image": "The Reddings - 1983 - Back To Basics.jpg",
+    "nom": "The Reddings - 1983 - Back To Basics"
   },
   {
     "artiste": "The Time",
@@ -52536,7 +60608,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": "Wes Montgomery - 1965 - California Dreaming.jpg",
+    "image": null,
     "nom": "Wes Montgomery - 1965 - California Dreaming"
   },
   {
@@ -52546,7 +60618,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": "Wes Montgomery - 1966 - California Dreaming.jpg",
+    "image": null,
     "nom": "Wes Montgomery - 1966 - California Dreaming"
   },
   {
@@ -52666,7 +60738,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": "Wes Montgomery - 1968 - A Day In The Life.jpg",
+    "image": null,
     "nom": "Wes Montgomery - 1968 - A Day In The Life"
   },
   {
@@ -52676,7 +60748,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": "Wes Montgomery - 1968 - Down Here On The Ground.jpg",
+    "image": null,
     "nom": "Wes Montgomery - 1968 - Down Here On The Ground"
   },
   {
@@ -52686,7 +60758,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": "Wes Montgomery - 1968 - Road Song.jpg",
+    "image": null,
     "nom": "Wes Montgomery - 1968 - Road Song"
   },
   {
@@ -52696,7 +60768,7 @@
     "nb_pistes": 0,
     "pistes": [],
     "duree_totale": 0,
-    "image": "Wes Montgomery - 1971 - Just Walkin.jpg",
+    "image": null,
     "nom": "Wes Montgomery - 1971 - Just Walkin"
   },
   {
@@ -52938,6 +61010,183 @@
   {
     "artiste": "Winta",
     "annee": "2026",
+    "album": "Back Where We Began",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Love Like Never Before"
+      },
+      {
+        "numero": "02",
+        "titre": "Fallin' In Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Whenever You Want"
+      },
+      {
+        "numero": "04",
+        "titre": "Midnight Desire"
+      },
+      {
+        "numero": "05",
+        "titre": "Let Work It Out"
+      },
+      {
+        "numero": "06",
+        "titre": "I Gave You All My Time"
+      },
+      {
+        "numero": "07",
+        "titre": "No Reason Why？"
+      },
+      {
+        "numero": "08",
+        "titre": "Missin' You"
+      },
+      {
+        "numero": "09",
+        "titre": "I'm Waiting For You"
+      },
+      {
+        "numero": "10",
+        "titre": "Bye Bye"
+      },
+      {
+        "numero": "11",
+        "titre": "Give Love One More Chance"
+      },
+      {
+        "numero": "12",
+        "titre": "Back Where We Began"
+      }
+    ],
+    "duree_totale": 4536.191999999999,
+    "image": "Winta - 2026 - Back Where We Began.jpg",
+    "nom": "Winta - 2026 - Back Where We Began"
+  },
+  {
+    "artiste": "Winta",
+    "annee": "2026",
+    "album": "Chinese Wall",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Funky Fresh"
+      },
+      {
+        "numero": "02",
+        "titre": "Getaway"
+      },
+      {
+        "numero": "03",
+        "titre": "I Just Want To Love You"
+      },
+      {
+        "numero": "04",
+        "titre": "If You Ask Me"
+      },
+      {
+        "numero": "05",
+        "titre": "What's Going On In Your Life？"
+      },
+      {
+        "numero": "06",
+        "titre": "Chinese Wall"
+      },
+      {
+        "numero": "07",
+        "titre": "Stop The War"
+      },
+      {
+        "numero": "08",
+        "titre": "How Much I Feel"
+      },
+      {
+        "numero": "09",
+        "titre": "Now, I Know"
+      },
+      {
+        "numero": "10",
+        "titre": "It's All Over Now"
+      },
+      {
+        "numero": "11",
+        "titre": "This World Today"
+      },
+      {
+        "numero": "12",
+        "titre": "Giving You The Best That I Got"
+      }
+    ],
+    "duree_totale": 4277.9039999999995,
+    "image": "Winta - 2026 - Chinese Wall.jpg",
+    "nom": "Winta - 2026 - Chinese Wall"
+  },
+  {
+    "artiste": "Winta",
+    "annee": "2026",
+    "album": "Here The People Sing",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Here The People Sing"
+      },
+      {
+        "numero": "02",
+        "titre": "I Want Your Love Girl"
+      },
+      {
+        "numero": "03",
+        "titre": "Take My Love"
+      },
+      {
+        "numero": "04",
+        "titre": "Can't Let Go"
+      },
+      {
+        "numero": "05",
+        "titre": "I Ain’t Bumpin’ No More"
+      },
+      {
+        "numero": "06",
+        "titre": "How Could You Let Me Down"
+      },
+      {
+        "numero": "07",
+        "titre": "Let's Sort It Out"
+      },
+      {
+        "numero": "08",
+        "titre": "My Love Is There (Instrumental)"
+      },
+      {
+        "numero": "09",
+        "titre": "Regrets"
+      },
+      {
+        "numero": "10",
+        "titre": "I Lost Yesterday"
+      },
+      {
+        "numero": "11",
+        "titre": "Before I Die"
+      },
+      {
+        "numero": "12",
+        "titre": "Heaven In Your Mind"
+      }
+    ],
+    "duree_totale": 4207.776,
+    "image": "Winta - 2026 - Here The People Sing.jpg",
+    "nom": "Winta - 2026 - Here The People Sing"
+  },
+  {
+    "artiste": "Winta",
+    "annee": "2026",
     "album": "Independent Fire",
     "nb_pistes": 12,
     "pistes": [
@@ -52993,6 +61242,183 @@
     "duree_totale": 3983.9999999999995,
     "image": "Winta - 2026 - Independent Fire.jpg",
     "nom": "Winta - 2026 - Independent Fire"
+  },
+  {
+    "artiste": "Winta",
+    "annee": "2026",
+    "album": "Late on The Feeling",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "All I Love"
+      },
+      {
+        "numero": "02",
+        "titre": "Late On The Feeling"
+      },
+      {
+        "numero": "03",
+        "titre": "The Way You Look At Me"
+      },
+      {
+        "numero": "04",
+        "titre": "Sweet To Me"
+      },
+      {
+        "numero": "05",
+        "titre": "Somethin' That You Got"
+      },
+      {
+        "numero": "06",
+        "titre": "Ain't Just A Body"
+      },
+      {
+        "numero": "07",
+        "titre": "Livin' For The Night"
+      },
+      {
+        "numero": "08",
+        "titre": "She Wants Everything"
+      },
+      {
+        "numero": "09",
+        "titre": "Take My Breath"
+      },
+      {
+        "numero": "10",
+        "titre": "Why You Break Me"
+      },
+      {
+        "numero": "11",
+        "titre": "Here I Am"
+      },
+      {
+        "numero": "12",
+        "titre": "Together, We Can Make It"
+      }
+    ],
+    "duree_totale": 3879.336,
+    "image": "Winta - 2026 - Late on The Feeling.jpg",
+    "nom": "Winta - 2026 - Late on The Feeling"
+  },
+  {
+    "artiste": "Winta",
+    "annee": "2026",
+    "album": "Light Of Philadelphia",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Light Of Philadelphia"
+      },
+      {
+        "numero": "02",
+        "titre": "Get Down, Get Funky"
+      },
+      {
+        "numero": "03",
+        "titre": "Disco Fever (It's Good)"
+      },
+      {
+        "numero": "04",
+        "titre": "Whatever Turns You On"
+      },
+      {
+        "numero": "05",
+        "titre": "Only Her (Part I & II)"
+      },
+      {
+        "numero": "06",
+        "titre": "This Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Don't Forget My Love"
+      },
+      {
+        "numero": "08",
+        "titre": "The Silent That You Hold"
+      },
+      {
+        "numero": "09",
+        "titre": "Midnight Move (Instrumental)"
+      },
+      {
+        "numero": "10",
+        "titre": "Seven Days And Nights"
+      },
+      {
+        "numero": "11",
+        "titre": "Deeper Than Your Pride"
+      },
+      {
+        "numero": "12",
+        "titre": "We'll Get Through"
+      }
+    ],
+    "duree_totale": 3822.0959999999995,
+    "image": "Winta - 2026 - Light Of Philadelphia.jpg",
+    "nom": "Winta - 2026 - Light Of Philadelphia"
+  },
+  {
+    "artiste": "Winta",
+    "annee": "2026",
+    "album": "Love Is The Answer",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Good Morning My Love"
+      },
+      {
+        "numero": "02",
+        "titre": "Take Some Time"
+      },
+      {
+        "numero": "03",
+        "titre": "I Wanna Keep You"
+      },
+      {
+        "numero": "04",
+        "titre": "Please Listen To My Affection"
+      },
+      {
+        "numero": "05",
+        "titre": "No Loving On Your Side"
+      },
+      {
+        "numero": "06",
+        "titre": "Soft Words, Cold Eyes"
+      },
+      {
+        "numero": "07",
+        "titre": "Love Goes Wrong"
+      },
+      {
+        "numero": "08",
+        "titre": "Time To Get Back"
+      },
+      {
+        "numero": "09",
+        "titre": "More Than What We See"
+      },
+      {
+        "numero": "10",
+        "titre": "The World Could Use A Little More Love"
+      },
+      {
+        "numero": "11",
+        "titre": "Love Is The Answer"
+      },
+      {
+        "numero": "12",
+        "titre": "Supernova Spinnin'"
+      }
+    ],
+    "duree_totale": 3910.6319999999996,
+    "image": "Winta - 2026 - Love Is The Answer.jpg",
+    "nom": "Winta - 2026 - Love Is The Answer"
   },
   {
     "artiste": "Winta",
@@ -53111,6 +61537,243 @@
     "duree_totale": 3581.6872500000004,
     "image": "Winta - 2026 - Say It Now.jpg",
     "nom": "Winta - 2026 - Say It Now"
+  },
+  {
+    "artiste": "Winta",
+    "annee": "2026",
+    "album": "Special Lady",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Lovely Girl"
+      },
+      {
+        "numero": "02",
+        "titre": "I Got That Message"
+      },
+      {
+        "numero": "03",
+        "titre": "All I Do"
+      },
+      {
+        "numero": "04",
+        "titre": "I Get To Know You More"
+      },
+      {
+        "numero": "05",
+        "titre": "Special Lady"
+      },
+      {
+        "numero": "06",
+        "titre": "Summer Days"
+      },
+      {
+        "numero": "07",
+        "titre": "To My Angel"
+      },
+      {
+        "numero": "08",
+        "titre": "Half A Love"
+      },
+      {
+        "numero": "09",
+        "titre": "Would You Mind"
+      },
+      {
+        "numero": "10",
+        "titre": "I Give You Everything"
+      },
+      {
+        "numero": "11",
+        "titre": "Mysterious Girl"
+      },
+      {
+        "numero": "12",
+        "titre": "Winners"
+      }
+    ],
+    "duree_totale": 4068.264,
+    "image": "Winta - 2026 - Special Lady.jpg",
+    "nom": "Winta - 2026 - Special Lady"
+  },
+  {
+    "artiste": "Winta",
+    "annee": "2026",
+    "album": "This Side Of Love",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Love Comin' At You"
+      },
+      {
+        "numero": "02",
+        "titre": "This Side Of Love"
+      },
+      {
+        "numero": "03",
+        "titre": "I Dig You Baby"
+      },
+      {
+        "numero": "04",
+        "titre": "The Real Thing"
+      },
+      {
+        "numero": "05",
+        "titre": "Close To You"
+      },
+      {
+        "numero": "06",
+        "titre": "Let Me Love You Right"
+      },
+      {
+        "numero": "07",
+        "titre": "Your Love Rules Me"
+      },
+      {
+        "numero": "08",
+        "titre": "My Freedom"
+      },
+      {
+        "numero": "09",
+        "titre": "One More Night"
+      },
+      {
+        "numero": "10",
+        "titre": "A Million Pieces of Gold"
+      },
+      {
+        "numero": "11",
+        "titre": "Nothing's Gonna Hold Me"
+      },
+      {
+        "numero": "12",
+        "titre": "Winta Theme"
+      }
+    ],
+    "duree_totale": 3772.8720000000003,
+    "image": "Winta - 2026 - This Side Of Love.jpg",
+    "nom": "Winta - 2026 - This Side Of Love"
+  },
+  {
+    "artiste": "Winta",
+    "annee": "2026",
+    "album": "Winta",
+    "nb_pistes": 27,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Archived Memories"
+      },
+      {
+        "numero": "02",
+        "titre": "Better Offline"
+      },
+      {
+        "numero": "03",
+        "titre": "Black Swan (Cygnet)"
+      },
+      {
+        "numero": "04",
+        "titre": "Bury Me"
+      },
+      {
+        "numero": "05",
+        "titre": "CEO Living"
+      },
+      {
+        "numero": "06",
+        "titre": "Chemistry I Couldn't Fix"
+      },
+      {
+        "numero": "07",
+        "titre": "Dangerous Gentleman"
+      },
+      {
+        "numero": "08",
+        "titre": "Don't Kill My Vibe"
+      },
+      {
+        "numero": "09",
+        "titre": "18 Years Loud"
+      },
+      {
+        "numero": "10",
+        "titre": "Fearless"
+      },
+      {
+        "numero": "11",
+        "titre": "Going Under Again"
+      },
+      {
+        "numero": "12",
+        "titre": "Halo In The Fire (Extended Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "I Know My Worth"
+      },
+      {
+        "numero": "14",
+        "titre": "Maxed Out"
+      },
+      {
+        "numero": "15",
+        "titre": "Missing Person"
+      },
+      {
+        "numero": "16",
+        "titre": "Only You"
+      },
+      {
+        "numero": "17",
+        "titre": "PLC"
+      },
+      {
+        "numero": "18",
+        "titre": "Release Me (Extended Version)"
+      },
+      {
+        "numero": "19",
+        "titre": "Serotonin Skies"
+      },
+      {
+        "numero": "20",
+        "titre": "Set You Free (Extended Version)"
+      },
+      {
+        "numero": "21",
+        "titre": "Silence In The Dark"
+      },
+      {
+        "numero": "22",
+        "titre": "Smiling Like It's Nothing"
+      },
+      {
+        "numero": "23",
+        "titre": "Status： Invisible"
+      },
+      {
+        "numero": "24",
+        "titre": "The Affair"
+      },
+      {
+        "numero": "25",
+        "titre": "Too Close To Breathe"
+      },
+      {
+        "numero": "26",
+        "titre": "When The Lights Go Out"
+      },
+      {
+        "numero": "27",
+        "titre": "Witness (Extended Version)"
+      }
+    ],
+    "duree_totale": 6670.992,
+    "image": "Winta - 2026 - Winta.jpg",
+    "nom": "Winta - 2026 - Winta"
   },
   {
     "artiste": "Yellowjackets",
