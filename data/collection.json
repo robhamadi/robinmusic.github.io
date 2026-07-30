@@ -1,5 +1,201 @@
 [
   {
+    "artiste": "A Taste of Honey",
+    "annee": "1978",
+    "album": "A Taste of Honey",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Boogie Oogie Oogie (Single Version 2 ⧸ Remastered 1999)"
+      },
+      {
+        "numero": "02",
+        "titre": "This Love Of Ours (Remastered)"
+      },
+      {
+        "numero": "03",
+        "titre": "Distant (Remastered)"
+      },
+      {
+        "numero": "04",
+        "titre": "Disco Dancin' (Remastered)"
+      },
+      {
+        "numero": "05",
+        "titre": "You (Remastered)"
+      },
+      {
+        "numero": "06",
+        "titre": "If We Loved (Remastered)"
+      },
+      {
+        "numero": "07",
+        "titre": "Sky High (1999 Digitall Remaster)"
+      },
+      {
+        "numero": "08",
+        "titre": "You're In Good Hands (Digitally Remastered 99)"
+      },
+      {
+        "numero": "09",
+        "titre": "World Spin (Remastered)"
+      }
+    ],
+    "duree_totale": 2273.2799999999997,
+    "image": "A Taste of Honey - 1978 - A Taste of Honey.jpg",
+    "nom": "A Taste of Honey - 1978 - A Taste of Honey"
+  },
+  {
+    "artiste": "A Taste of Honey",
+    "annee": "1979",
+    "album": "Another Taste",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Do It Good"
+      },
+      {
+        "numero": "02",
+        "titre": "The Rainbow's End"
+      },
+      {
+        "numero": "03",
+        "titre": "Dance"
+      },
+      {
+        "numero": "04",
+        "titre": "I Love You"
+      },
+      {
+        "numero": "05",
+        "titre": "Race"
+      },
+      {
+        "numero": "06",
+        "titre": "Let's Begin"
+      },
+      {
+        "numero": "07",
+        "titre": "Take The Boogae Or Leave It"
+      },
+      {
+        "numero": "08",
+        "titre": "Your Love"
+      },
+      {
+        "numero": "09",
+        "titre": "Do It Good (7＂ Single Edit)"
+      },
+      {
+        "numero": "10",
+        "titre": "I Love You (7＂ Single Edit)"
+      }
+    ],
+    "duree_totale": 2806.464,
+    "image": "A Taste of Honey - 1979 - Another Taste.jpg",
+    "nom": "A Taste of Honey - 1979 - Another Taste"
+  },
+  {
+    "artiste": "A Taste of Honey",
+    "annee": "1980",
+    "album": "Twice as Sweet",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Ain't Nothin' But A Party (Remastered)"
+      },
+      {
+        "numero": "02",
+        "titre": "Rescue Me (Remastered)"
+      },
+      {
+        "numero": "03",
+        "titre": "Superstar Superman (Remastered)"
+      },
+      {
+        "numero": "04",
+        "titre": "I'm Talkin' 'Bout You (Remastered)"
+      },
+      {
+        "numero": "05",
+        "titre": "She's A Dancer (Remastered)"
+      },
+      {
+        "numero": "06",
+        "titre": "Don't You Lead Me On (Remastered)"
+      },
+      {
+        "numero": "07",
+        "titre": "Good-Bye Baby (Remastered)"
+      },
+      {
+        "numero": "08",
+        "titre": "Say That You'll Stay (Remastered)"
+      },
+      {
+        "numero": "09",
+        "titre": "Sukiyaki (Remastered)"
+      }
+    ],
+    "duree_totale": 2116.536,
+    "image": "A Taste of Honey - 1980 - Twice as Sweet.jpg",
+    "nom": "A Taste of Honey - 1980 - Twice as Sweet"
+  },
+  {
+    "artiste": "A Taste of Honey",
+    "annee": "1982",
+    "album": "Ladies of the Eighties",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sayonara"
+      },
+      {
+        "numero": "02",
+        "titre": "We've Got The Groove"
+      },
+      {
+        "numero": "03",
+        "titre": "I'll Try Something New"
+      },
+      {
+        "numero": "04",
+        "titre": "We've Got The Groove (Reprise)"
+      },
+      {
+        "numero": "05",
+        "titre": "Lies"
+      },
+      {
+        "numero": "06",
+        "titre": "Diamond Real"
+      },
+      {
+        "numero": "07",
+        "titre": "Never Go Wrong"
+      },
+      {
+        "numero": "08",
+        "titre": "We've Got The Groove (Reprise 2)"
+      },
+      {
+        "numero": "09",
+        "titre": "Midnight Snack"
+      },
+      {
+        "numero": "10",
+        "titre": "Leavin' Tomorrow"
+      }
+    ],
+    "duree_totale": 2189.0879999999997,
+    "image": "A Taste of Honey - 1982 - Ladies of the Eighties.jpg",
+    "nom": "A Taste of Honey - 1982 - Ladies of the Eighties"
+  },
+  {
     "artiste": "Ace Spectrum",
     "annee": "1974",
     "album": "Inner Spectrum",
@@ -41,6 +237,49 @@
     "duree_totale": 2104.1519999999996,
     "image": "Ace Spectrum - 1974 - Inner Spectrum.jpg",
     "nom": "Ace Spectrum - 1974 - Inner Spectrum"
+  },
+  {
+    "artiste": "Ace Spectrum",
+    "annee": "1976",
+    "album": "Just Like in the Movies",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Live and Learn, Pt. 1"
+      },
+      {
+        "numero": "02",
+        "titre": "Magic Touch"
+      },
+      {
+        "numero": "03",
+        "titre": "Sooner of Later"
+      },
+      {
+        "numero": "04",
+        "titre": "Sweet Sugar Daddy"
+      },
+      {
+        "numero": "05",
+        "titre": "Sweet Music Soft Lights and You"
+      },
+      {
+        "numero": "06",
+        "titre": "Just Like in the Movies"
+      },
+      {
+        "numero": "07",
+        "titre": "I Can't Keep Holding On"
+      },
+      {
+        "numero": "08",
+        "titre": "Live and Learn Reprise, Pt. 2"
+      }
+    ],
+    "duree_totale": 2446.2480000000005,
+    "image": "Ace Spectrum - 1976 - Just Like in the Movies.jpg",
+    "nom": "Ace Spectrum - 1976 - Just Like in the Movies"
   },
   {
     "artiste": "ADC Band",
@@ -5203,6 +5442,253 @@
     "nom": "Atlantic Starr - 2017 - Metamorphosis"
   },
   {
+    "artiste": "Aurra",
+    "annee": "1980",
+    "album": "Aurra",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Matrixx"
+      },
+      {
+        "numero": "02",
+        "titre": "Girrl"
+      },
+      {
+        "numero": "03",
+        "titre": "Sliide"
+      },
+      {
+        "numero": "04",
+        "titre": "Eterrnal"
+      },
+      {
+        "numero": "05",
+        "titre": "Thiinkin"
+      },
+      {
+        "numero": "06",
+        "titre": "Timme"
+      },
+      {
+        "numero": "07",
+        "titre": "Waana"
+      },
+      {
+        "numero": "08",
+        "titre": "Youu"
+      },
+      {
+        "numero": "09",
+        "titre": "Call"
+      },
+      {
+        "numero": "10",
+        "titre": "LooveXWarr"
+      },
+      {
+        "numero": "11",
+        "titre": "Stuuck"
+      },
+      {
+        "numero": "12",
+        "titre": "Texxas"
+      },
+      {
+        "numero": "13",
+        "titre": "ZCaash"
+      },
+      {
+        "numero": "14",
+        "titre": "Risiing"
+      },
+      {
+        "numero": "15",
+        "titre": "Traaveler"
+      }
+    ],
+    "duree_totale": 2434.9919999999997,
+    "image": "Aurra - 1980 - Aurra.jpg",
+    "nom": "Aurra - 1980 - Aurra"
+  },
+  {
+    "artiste": "Aurra",
+    "annee": "1981",
+    "album": "Send Your Love",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Nasty Disposition"
+      },
+      {
+        "numero": "02",
+        "titre": "Send Your Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Kingston Lady"
+      },
+      {
+        "numero": "04",
+        "titre": "Forever"
+      },
+      {
+        "numero": "05",
+        "titre": "Are You Single？"
+      },
+      {
+        "numero": "06",
+        "titre": "Keep Doing It Right"
+      },
+      {
+        "numero": "07",
+        "titre": "Livin' Too Fast"
+      },
+      {
+        "numero": "08",
+        "titre": "Party Time"
+      }
+    ],
+    "duree_totale": 2361.6,
+    "image": "Aurra - 1981 - Send Your Love.jpg",
+    "nom": "Aurra - 1981 - Send Your Love"
+  },
+  {
+    "artiste": "Aurra",
+    "annee": "1982",
+    "album": "A Little Love",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Make up Your Mind"
+      },
+      {
+        "numero": "02",
+        "titre": "Patience"
+      },
+      {
+        "numero": "03",
+        "titre": "It's You"
+      },
+      {
+        "numero": "04",
+        "titre": "Checking You Out"
+      },
+      {
+        "numero": "05",
+        "titre": "A Little Love"
+      },
+      {
+        "numero": "06",
+        "titre": "In My Arms"
+      },
+      {
+        "numero": "07",
+        "titre": "Still Free"
+      },
+      {
+        "numero": "08",
+        "titre": "Thinking of You"
+      }
+    ],
+    "duree_totale": 2671.512,
+    "image": "Aurra - 1982 - A Little Love.jpg",
+    "nom": "Aurra - 1982 - A Little Love"
+  },
+  {
+    "artiste": "Aurra",
+    "annee": "1983",
+    "album": "Live and Let Live",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Such a Feeling"
+      },
+      {
+        "numero": "02",
+        "titre": "Coming to Get You"
+      },
+      {
+        "numero": "03",
+        "titre": "Live and Let Live"
+      },
+      {
+        "numero": "04",
+        "titre": "Undercover Lover"
+      },
+      {
+        "numero": "05",
+        "titre": "Baby Love"
+      },
+      {
+        "numero": "06",
+        "titre": "You Can't Keep on Walking"
+      },
+      {
+        "numero": "07",
+        "titre": "One More Time"
+      },
+      {
+        "numero": "08",
+        "titre": "Positive"
+      }
+    ],
+    "duree_totale": 2489.376,
+    "image": "Aurra - 1983 - Live and Let Live.jpg",
+    "nom": "Aurra - 1983 - Live and Let Live"
+  },
+  {
+    "artiste": "Aurra",
+    "annee": "1985",
+    "album": "Like I Like It",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Like I Like It"
+      },
+      {
+        "numero": "02",
+        "titre": "Hooked On You"
+      },
+      {
+        "numero": "03",
+        "titre": "Talking In Your Sleep"
+      },
+      {
+        "numero": "04",
+        "titre": "Bedtime Story"
+      },
+      {
+        "numero": "05",
+        "titre": "Keep On Dancing"
+      },
+      {
+        "numero": "06",
+        "titre": "Living Inside Myself"
+      },
+      {
+        "numero": "07",
+        "titre": "Happy Feeling"
+      },
+      {
+        "numero": "08",
+        "titre": "I'll Keep Waiting"
+      },
+      {
+        "numero": "09",
+        "titre": "I Love Myself"
+      }
+    ],
+    "duree_totale": 2676.768,
+    "image": "Aurra - 1985 - Like I Like It.jpg",
+    "nom": "Aurra - 1985 - Like I Like It"
+  },
+  {
     "artiste": "Babyface",
     "annee": "1986",
     "album": "Lovers",
@@ -6819,7 +7305,7 @@
       }
     ],
     "duree_totale": 3596.1324000000004,
-    "image": null,
+    "image": "Beat Vagabund - 2026 - Cruisin' Slow With Ocean Breeze.jpg",
     "nom": "Beat Vagabund - 2026 - Cruisin' Slow With Ocean Breeze"
   },
   {
@@ -7891,6 +8377,57 @@
     "duree_totale": 2713.08,
     "image": "Bill Withers - 1985 - Watching You Watching Me.jpg",
     "nom": "Bill Withers - 1985 - Watching You Watching Me"
+  },
+  {
+    "artiste": "Billy Always",
+    "annee": "1988",
+    "album": "Watch Out",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Back On Track"
+      },
+      {
+        "numero": "02",
+        "titre": "Where You Touch Me"
+      },
+      {
+        "numero": "03",
+        "titre": "A Little Misunderstanding"
+      },
+      {
+        "numero": "04",
+        "titre": "Send Ya to Me"
+      },
+      {
+        "numero": "05",
+        "titre": "Tell Me You Love Me"
+      },
+      {
+        "numero": "06",
+        "titre": "Emergency love"
+      },
+      {
+        "numero": "07",
+        "titre": "Watch Out"
+      },
+      {
+        "numero": "08",
+        "titre": "Juvenile Delinquent"
+      },
+      {
+        "numero": "09",
+        "titre": "Take 2"
+      },
+      {
+        "numero": "10",
+        "titre": "I'm Not Gonna Cry"
+      }
+    ],
+    "duree_totale": 2593.5840000000003,
+    "image": "Billy Always - 1988 - Watch Out.jpg",
+    "nom": "Billy Always - 1988 - Watch Out"
   },
   {
     "artiste": "Billy Ocean",
@@ -9328,16 +9865,6 @@
     "duree_totale": 2391.264,
     "image": "Billy Preston - 1975 - It's My Pleasure.jpg",
     "nom": "Billy Preston - 1975 - It's My Pleasure"
-  },
-  {
-    "artiste": "Billy Preston",
-    "annee": "1976",
-    "album": "Billy Preston",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "Billy Preston - 1976 - Billy Preston.jpg",
-    "nom": "Billy Preston - 1976 - Billy Preston"
   },
   {
     "artiste": "Billy Preston",
@@ -12621,6 +13148,65 @@
     "nom": "Breakwater - 1978 - Breakwater"
   },
   {
+    "artiste": "Breakwater",
+    "annee": "1980",
+    "album": "Splashdown",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Splashdown Time"
+      },
+      {
+        "numero": "02",
+        "titre": "Say You Love Me Girl"
+      },
+      {
+        "numero": "03",
+        "titre": "Love of My Life"
+      },
+      {
+        "numero": "04",
+        "titre": "Release the Beast"
+      },
+      {
+        "numero": "05",
+        "titre": "The One In My Dreams"
+      },
+      {
+        "numero": "06",
+        "titre": "You"
+      },
+      {
+        "numero": "07",
+        "titre": "Say You Love Me Girl"
+      },
+      {
+        "numero": "08",
+        "titre": "Let Love In"
+      },
+      {
+        "numero": "09",
+        "titre": "Time"
+      },
+      {
+        "numero": "10",
+        "titre": "Splashdown Time"
+      },
+      {
+        "numero": "11",
+        "titre": "Say You Love Me Girl"
+      },
+      {
+        "numero": "12",
+        "titre": "Release The Beast"
+      }
+    ],
+    "duree_totale": 3154.5600000000004,
+    "image": "Breakwater - 1980 - Splashdown.jpg",
+    "nom": "Breakwater - 1980 - Splashdown"
+  },
+  {
     "artiste": "Brenda Russell",
     "annee": "1983",
     "album": "Two Eyes",
@@ -13756,16 +14342,6 @@
     "duree_totale": 2148.7200000000003,
     "image": "Cameo - 1983 - Style.jpg",
     "nom": "Cameo - 1983 - Style"
-  },
-  {
-    "artiste": "Cameo",
-    "annee": "1984",
-    "album": "She's Strange",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": "Cameo - 1984 - She's Strange.jpg",
-    "nom": "Cameo - 1984 - She's Strange"
   },
   {
     "artiste": "Cameo",
@@ -15793,7 +16369,7 @@
       }
     ],
     "duree_totale": 2423.09165,
-    "image": null,
+    "image": "Carl Carlton - 1982 - The Bad CC.jpg",
     "nom": "Carl Carlton - 1982 - The Bad CC"
   },
   {
@@ -17619,6 +18195,49 @@
     "duree_totale": 1597.4879999999998,
     "image": "Champaign - 2014 - Eyes of the Spirit.jpg",
     "nom": "Champaign - 2014 - Eyes of the Spirit"
+  },
+  {
+    "artiste": "Chapter 8",
+    "annee": "1979",
+    "album": "Chapter 8",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Don't You Like It"
+      },
+      {
+        "numero": "02",
+        "titre": "Ready For Your Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Come On Dance With Me"
+      },
+      {
+        "numero": "04",
+        "titre": "We Need Love"
+      },
+      {
+        "numero": "05",
+        "titre": "I Go Disco"
+      },
+      {
+        "numero": "06",
+        "titre": "I Just Wanna Be Your Girl"
+      },
+      {
+        "numero": "07",
+        "titre": "Come And Boogie"
+      },
+      {
+        "numero": "08",
+        "titre": "Let's Get Together"
+      }
+    ],
+    "duree_totale": 2210.6879999999996,
+    "image": "Chapter 8 - 1979 - Chapter 8.jpg",
+    "nom": "Chapter 8 - 1979 - Chapter 8"
   },
   {
     "artiste": "Charlie Wilson",
@@ -20848,6 +21467,139 @@
     "duree_totale": 5411.182025000001,
     "image": "Cut Davis - 2025 - My Life Is Music.jpg",
     "nom": "Cut Davis - 2025 - My Life Is Music"
+  },
+  {
+    "artiste": "Dabeull",
+    "annee": "2017",
+    "album": "Indastudio",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Intro"
+      },
+      {
+        "numero": "02",
+        "titre": "Time for Love (Indastudio 6)"
+      },
+      {
+        "numero": "03",
+        "titre": "Only U (Indastudio 11)"
+      },
+      {
+        "numero": "04",
+        "titre": "Break Your Heart (feat. Holybrune) [Indastudio 12]"
+      },
+      {
+        "numero": "05",
+        "titre": "Special to Me (Indastudio 2)"
+      },
+      {
+        "numero": "06",
+        "titre": "Interlude (feat. FKJ) [Indastudio 7]"
+      },
+      {
+        "numero": "07",
+        "titre": "Chocolate Vibe (Indastudio 4)"
+      },
+      {
+        "numero": "08",
+        "titre": "Tonight (Indastudio 13)"
+      },
+      {
+        "numero": "09",
+        "titre": "Everybody (Indastudio 14)"
+      },
+      {
+        "numero": "10",
+        "titre": "DX7 (feat. Holybrune) [Indastudio 10]"
+      },
+      {
+        "numero": "11",
+        "titre": "By Myself (feat. Cerrone) [Indastudio 8]"
+      },
+      {
+        "numero": "12",
+        "titre": "Des bisous (Indastudio 15)"
+      }
+    ],
+    "duree_totale": 2040.768,
+    "image": "Dabeull - 2017 - Indastudio.jpg",
+    "nom": "Dabeull - 2017 - Indastudio"
+  },
+  {
+    "artiste": "Dabeull",
+    "annee": "2022",
+    "album": "Cosmic Fonk",
+    "nb_pistes": 4,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Cosmic Fonk (feat. Rude Jude, Ferdi) (Intro)"
+      },
+      {
+        "numero": "02",
+        "titre": "On Time (feat. Kunta)"
+      },
+      {
+        "numero": "03",
+        "titre": "Glitter Fonk (feat. Holybrune)"
+      },
+      {
+        "numero": "04",
+        "titre": "Touch (feat. Isadora)"
+      }
+    ],
+    "duree_totale": 685.5120000000001,
+    "image": "Dabeull - 2022 - Cosmic Fonk.jpg",
+    "nom": "Dabeull - 2022 - Cosmic Fonk"
+  },
+  {
+    "artiste": "Dabeull",
+    "annee": "2024",
+    "album": "Analog Love",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sweet Baby"
+      },
+      {
+        "numero": "02",
+        "titre": "Let's Play"
+      },
+      {
+        "numero": "03",
+        "titre": "In My Mind"
+      },
+      {
+        "numero": "04",
+        "titre": "Body Heat"
+      },
+      {
+        "numero": "05",
+        "titre": "I Can't Stop"
+      },
+      {
+        "numero": "06",
+        "titre": "Chronic Lovers"
+      },
+      {
+        "numero": "07",
+        "titre": "What'Cha Wanna Do (feat. Jordan Lee)"
+      },
+      {
+        "numero": "08",
+        "titre": "Look In The Mirror"
+      },
+      {
+        "numero": "09",
+        "titre": "Fabulous Kisses"
+      }
+    ],
+    "duree_totale": 2313.744,
+    "image": "Dabeull - 2024 - Analog Love.jpg",
+    "nom": "Dabeull - 2024 - Analog Love"
   },
   {
     "artiste": "Dan Siegel",
@@ -26833,6 +27585,45 @@
     "nom": "Don Blackman - 2002 - Listen"
   },
   {
+    "artiste": "Donald Byrd and 125th Street, N.Y.C.",
+    "annee": "1981",
+    "album": "Love Byrd",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Love Has Come Around"
+      },
+      {
+        "numero": "02",
+        "titre": "Butterfly"
+      },
+      {
+        "numero": "03",
+        "titre": "I Feel Like Loving You Today"
+      },
+      {
+        "numero": "04",
+        "titre": "I Love Your Love"
+      },
+      {
+        "numero": "05",
+        "titre": "I'll Always Love You"
+      },
+      {
+        "numero": "06",
+        "titre": "Love for Sale"
+      },
+      {
+        "numero": "07",
+        "titre": "Falling"
+      }
+    ],
+    "duree_totale": 2537.4240000000004,
+    "image": "Donald Byrd and 125th Street, N.Y.C. - 1981 - Love Byrd.jpg",
+    "nom": "Donald Byrd and 125th Street, N.Y.C. - 1981 - Love Byrd"
+  },
+  {
     "artiste": "Dynasty",
     "annee": "1979",
     "album": "Adventures in the Land of Music",
@@ -29412,7 +30203,7 @@
       }
     ],
     "duree_totale": 6301.060066666665,
-    "image": null,
+    "image": "Eugene Thomas - 2025 - Here We Go Again.jpg",
     "nom": "Eugene Thomas - 2025 - Here We Go Again"
   },
   {
@@ -29786,16 +30577,6 @@
     "duree_totale": 2219.4719999999998,
     "image": "Eumir Deodato - 1976 - Very Together.jpg",
     "nom": "Eumir Deodato - 1976 - Very Together"
-  },
-  {
-    "artiste": "Fancy",
-    "annee": "2026",
-    "album": "High Society",
-    "nb_pistes": 0,
-    "pistes": [],
-    "duree_totale": 0,
-    "image": null,
-    "nom": "Fancy - 2026 - High Society"
   },
   {
     "artiste": "Faze O",
@@ -37719,6 +38500,486 @@
     "nom": "Grover Washington, Jr. - 1995 - All My Tomorrows"
   },
   {
+    "artiste": "Howard Hewett",
+    "annee": "1986",
+    "album": "I Commit to Love",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Stay"
+      },
+      {
+        "numero": "02",
+        "titre": "I'm for Real"
+      },
+      {
+        "numero": "03",
+        "titre": "Last Forever"
+      },
+      {
+        "numero": "04",
+        "titre": "I Commit to Love"
+      },
+      {
+        "numero": "05",
+        "titre": "In a Crazy Way"
+      },
+      {
+        "numero": "06",
+        "titre": "Love Don't Wanna Wait"
+      },
+      {
+        "numero": "07",
+        "titre": "I Got 2 Go"
+      },
+      {
+        "numero": "08",
+        "titre": "Eye on You"
+      },
+      {
+        "numero": "09",
+        "titre": "Let's Try It All over Again"
+      },
+      {
+        "numero": "10",
+        "titre": "Say Amen"
+      },
+      {
+        "numero": "11",
+        "titre": "Stay (Before Midnight Mix)"
+      }
+    ],
+    "duree_totale": 2995.5600000000004,
+    "image": "Howard Hewett - 1986 - I Commit to Love.jpg",
+    "nom": "Howard Hewett - 1986 - I Commit to Love"
+  },
+  {
+    "artiste": "Howard Hewett",
+    "annee": "1988",
+    "album": "Forever and Ever",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Strange Relationship"
+      },
+      {
+        "numero": "02",
+        "titre": "Natural Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Once, Twice, Three Times"
+      },
+      {
+        "numero": "04",
+        "titre": "You'll Find Another Man"
+      },
+      {
+        "numero": "05",
+        "titre": "Forever and Ever"
+      },
+      {
+        "numero": "06",
+        "titre": "Shakin' My Emotion"
+      },
+      {
+        "numero": "07",
+        "titre": "Share a Love"
+      },
+      {
+        "numero": "08",
+        "titre": "This Time"
+      },
+      {
+        "numero": "09",
+        "titre": "Challenge"
+      },
+      {
+        "numero": "10",
+        "titre": "Good-Bye Good Friend"
+      },
+      {
+        "numero": "11",
+        "titre": "Ain't No Mountain High Enough (with Stacy Lattisaw)"
+      }
+    ],
+    "duree_totale": 3085.968,
+    "image": "Howard Hewett - 1988 - Forever and Ever.jpg",
+    "nom": "Howard Hewett - 1988 - Forever and Ever"
+  },
+  {
+    "artiste": "Howard Hewett",
+    "annee": "1990",
+    "album": "Howard Hewett",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "When Will It Be"
+      },
+      {
+        "numero": "02",
+        "titre": "Show Me"
+      },
+      {
+        "numero": "03",
+        "titre": "If I Could Only Have That Day Back"
+      },
+      {
+        "numero": "04",
+        "titre": "Let Me Show You How To Fall In Love"
+      },
+      {
+        "numero": "05",
+        "titre": "I Do"
+      },
+      {
+        "numero": "06",
+        "titre": "The More I Get (The More I Want)"
+      },
+      {
+        "numero": "07",
+        "titre": "Let's Get Deeper"
+      },
+      {
+        "numero": "08",
+        "titre": "Shadow"
+      },
+      {
+        "numero": "09",
+        "titre": "I Know You'll Be Comin' Back"
+      },
+      {
+        "numero": "10",
+        "titre": "Don't Give In"
+      },
+      {
+        "numero": "11",
+        "titre": "Jesus"
+      }
+    ],
+    "duree_totale": 3116.8559999999998,
+    "image": "Howard Hewett - 1990 - Howard Hewett.jpg",
+    "nom": "Howard Hewett - 1990 - Howard Hewett"
+  },
+  {
+    "artiste": "Howard Hewett",
+    "annee": "1992",
+    "album": "Allegiance",
+    "nb_pistes": 14,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "To Thee I Pray (Intro)"
+      },
+      {
+        "numero": "02",
+        "titre": "Save Your Sex For Me"
+      },
+      {
+        "numero": "03",
+        "titre": "Allegiance"
+      },
+      {
+        "numero": "04",
+        "titre": "Can We Try Again"
+      },
+      {
+        "numero": "05",
+        "titre": "How Fast Forever Goes"
+      },
+      {
+        "numero": "06",
+        "titre": "Can't Get Over Your Love"
+      },
+      {
+        "numero": "07",
+        "titre": "To Thee I Pray (Interlude)"
+      },
+      {
+        "numero": "08",
+        "titre": "Say You Will"
+      },
+      {
+        "numero": "09",
+        "titre": "Take It To The Highest"
+      },
+      {
+        "numero": "10",
+        "titre": "From This Day On"
+      },
+      {
+        "numero": "11",
+        "titre": "Ronnie-O"
+      },
+      {
+        "numero": "12",
+        "titre": "Masquerade"
+      },
+      {
+        "numero": "13",
+        "titre": "Just Like a Woman"
+      },
+      {
+        "numero": "14",
+        "titre": "To Thee I Pray"
+      }
+    ],
+    "duree_totale": 3846.7920000000004,
+    "image": "Howard Hewett - 1992 - Allegiance.jpg",
+    "nom": "Howard Hewett - 1992 - Allegiance"
+  },
+  {
+    "artiste": "Howard Hewett",
+    "annee": "1994",
+    "album": "It's Time",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Intro"
+      },
+      {
+        "numero": "02",
+        "titre": "Crystal Clear"
+      },
+      {
+        "numero": "03",
+        "titre": "This Love Is Forever"
+      },
+      {
+        "numero": "04",
+        "titre": "Your Body Needs Healin'"
+      },
+      {
+        "numero": "05",
+        "titre": "For The Lover In You"
+      },
+      {
+        "numero": "06",
+        "titre": "I Wanna Know You"
+      },
+      {
+        "numero": "07",
+        "titre": "Say Good-bye"
+      },
+      {
+        "numero": "08",
+        "titre": "How Do I Know I Love You"
+      },
+      {
+        "numero": "09",
+        "titre": "A Love Of Your Own"
+      },
+      {
+        "numero": "10",
+        "titre": "Just To Keep You Satisfied"
+      },
+      {
+        "numero": "11",
+        "titre": "On & On"
+      },
+      {
+        "numero": "12",
+        "titre": "Amazing Grace"
+      },
+      {
+        "numero": "13",
+        "titre": "Call His Name"
+      }
+    ],
+    "duree_totale": 3120.288,
+    "image": "Howard Hewett - 1994 - It's Time.jpg",
+    "nom": "Howard Hewett - 1994 - It's Time"
+  },
+  {
+    "artiste": "Howard Hewett",
+    "annee": "2001",
+    "album": "The Journey",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Mercy"
+      },
+      {
+        "numero": "02",
+        "titre": "Potter's House"
+      },
+      {
+        "numero": "03",
+        "titre": "Angel"
+      },
+      {
+        "numero": "04",
+        "titre": "Interlude"
+      },
+      {
+        "numero": "05",
+        "titre": "Joy"
+      },
+      {
+        "numero": "06",
+        "titre": "The Journey (Think About It)"
+      },
+      {
+        "numero": "07",
+        "titre": "Without You"
+      },
+      {
+        "numero": "08",
+        "titre": "Interlude"
+      },
+      {
+        "numero": "09",
+        "titre": "U R Loved"
+      },
+      {
+        "numero": "10",
+        "titre": "Circle Of Life"
+      },
+      {
+        "numero": "11",
+        "titre": "Interlude"
+      },
+      {
+        "numero": "12",
+        "titre": "Grace And Mercy"
+      },
+      {
+        "numero": "13",
+        "titre": "Pieces"
+      },
+      {
+        "numero": "14",
+        "titre": "Somebody's Watchin' Over Me"
+      },
+      {
+        "numero": "15",
+        "titre": "Say Amen"
+      }
+    ],
+    "duree_totale": 3592.0559999999996,
+    "image": "Howard Hewett - 2001 - The Journey.jpg",
+    "nom": "Howard Hewett - 2001 - The Journey"
+  },
+  {
+    "artiste": "Howard Hewett",
+    "annee": "2007",
+    "album": "If Only",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I'll Be Right Here"
+      },
+      {
+        "numero": "02",
+        "titre": "If Only"
+      },
+      {
+        "numero": "03",
+        "titre": "To Please U"
+      },
+      {
+        "numero": "04",
+        "titre": "Can U Feel Me"
+      },
+      {
+        "numero": "05",
+        "titre": "Make Me Say Ooohhh"
+      },
+      {
+        "numero": "06",
+        "titre": "Is This True Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Enough"
+      },
+      {
+        "numero": "08",
+        "titre": "I Wanna Know"
+      },
+      {
+        "numero": "09",
+        "titre": "How Do I Know"
+      },
+      {
+        "numero": "10",
+        "titre": "Don't U Wonder 2"
+      },
+      {
+        "numero": "11",
+        "titre": "Our Father (Bonus Track)"
+      },
+      {
+        "numero": "12",
+        "titre": "Imagine"
+      }
+    ],
+    "duree_totale": 3405.3599999999997,
+    "image": "Howard Hewett - 2007 - If Only.jpg",
+    "nom": "Howard Hewett - 2007 - If Only"
+  },
+  {
+    "artiste": "Howard Hewett",
+    "annee": "2008",
+    "album": "Howard Hewett Christmas",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "O Come All Ye Faithfull"
+      },
+      {
+        "numero": "02",
+        "titre": "The Christmas Song"
+      },
+      {
+        "numero": "03",
+        "titre": "Sleigh Ride"
+      },
+      {
+        "numero": "04",
+        "titre": "That's Christmas"
+      },
+      {
+        "numero": "05",
+        "titre": "Baby It's Cold Outside (feat. Jasselle)"
+      },
+      {
+        "numero": "06",
+        "titre": "Christmas Time"
+      },
+      {
+        "numero": "07",
+        "titre": "Christmas On Sunset"
+      },
+      {
+        "numero": "08",
+        "titre": "I Remember Christmas"
+      },
+      {
+        "numero": "09",
+        "titre": "What Child Is This？"
+      },
+      {
+        "numero": "10",
+        "titre": "This Christmas"
+      },
+      {
+        "numero": "11",
+        "titre": "Silent Night"
+      }
+    ],
+    "duree_totale": 2519.904,
+    "image": "Howard Hewett - 2008 - Howard Hewett Christmas.jpg",
+    "nom": "Howard Hewett - 2008 - Howard Hewett Christmas"
+  },
+  {
     "artiste": "Howard Johnson",
     "annee": "1982",
     "album": "Keepin' Love New",
@@ -40945,7 +42206,7 @@
       }
     ],
     "duree_totale": 1847.27445,
-    "image": null,
+    "image": "Jerry Butler - 1978 - Two To One.jpg",
     "nom": "Jerry Butler - 1978 - Two To One"
   },
   {
@@ -40988,7 +42249,7 @@
       }
     ],
     "duree_totale": 2144.6524999999997,
-    "image": null,
+    "image": "Jerry Butler - 1980 - The Best Of Love.jpg",
     "nom": "Jerry Butler - 1980 - The Best Of Love"
   },
   {
@@ -43396,6 +44657,305 @@
     "duree_totale": 3341.5440000000003,
     "image": "Kool & the Gang - 1996 - State of Affairs.jpg",
     "nom": "Kool & the Gang - 1996 - State of Affairs"
+  },
+  {
+    "artiste": "Kurtis Blow",
+    "annee": "1980",
+    "album": "Kurtis Blow",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Rappin Blow (Part 2)"
+      },
+      {
+        "numero": "02",
+        "titre": "The Breaks"
+      },
+      {
+        "numero": "03",
+        "titre": "Way Out West"
+      },
+      {
+        "numero": "04",
+        "titre": "Throughout Your Years"
+      },
+      {
+        "numero": "05",
+        "titre": "Hard Times"
+      },
+      {
+        "numero": "06",
+        "titre": "All I Want In This World (Is To Find That Girl)"
+      },
+      {
+        "numero": "07",
+        "titre": "Takin Care Of Business"
+      },
+      {
+        "numero": "08",
+        "titre": "Christmas Rappin'"
+      },
+      {
+        "numero": "09",
+        "titre": "The Breaks"
+      }
+    ],
+    "duree_totale": 3030.7200000000003,
+    "image": "Kurtis Blow - 1980 - Kurtis Blow.jpg",
+    "nom": "Kurtis Blow - 1980 - Kurtis Blow"
+  },
+  {
+    "artiste": "Kurtis Blow",
+    "annee": "1986",
+    "album": "Kingdom Blow",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Street Rock"
+      },
+      {
+        "numero": "02",
+        "titre": "The Bronx"
+      },
+      {
+        "numero": "03",
+        "titre": "Unity Party Jam"
+      },
+      {
+        "numero": "04",
+        "titre": "Sunshine"
+      },
+      {
+        "numero": "05",
+        "titre": "Magilla Gorilla"
+      },
+      {
+        "numero": "06",
+        "titre": "I'm Chillin'"
+      },
+      {
+        "numero": "07",
+        "titre": "Kingdom Blow"
+      },
+      {
+        "numero": "08",
+        "titre": "Reasons For Wanting You"
+      }
+    ],
+    "duree_totale": 2535.1440000000002,
+    "image": "Kurtis Blow - 1986 - Kingdom Blow.jpg",
+    "nom": "Kurtis Blow - 1986 - Kingdom Blow"
+  },
+  {
+    "artiste": "Kurtis Blow",
+    "annee": "1988",
+    "album": "Back by Popular Demand",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Back By Popular Demand"
+      },
+      {
+        "numero": "02",
+        "titre": "Only The Strong Survive"
+      },
+      {
+        "numero": "03",
+        "titre": "I'm True To This"
+      },
+      {
+        "numero": "04",
+        "titre": "Get On Up"
+      },
+      {
+        "numero": "05",
+        "titre": "Suckers In The Place"
+      },
+      {
+        "numero": "06",
+        "titre": "Love Don't Know Nobody"
+      },
+      {
+        "numero": "07",
+        "titre": "Still On The Scene"
+      },
+      {
+        "numero": "08",
+        "titre": "Express Yourself"
+      },
+      {
+        "numero": "09",
+        "titre": "Blue Iguana"
+      },
+      {
+        "numero": "10",
+        "titre": "I'm Feeling Good"
+      }
+    ],
+    "duree_totale": 2669.688,
+    "image": "Kurtis Blow - 1988 - Back by Popular Demand.jpg",
+    "nom": "Kurtis Blow - 1988 - Back by Popular Demand"
+  },
+  {
+    "artiste": "Kurtis Blow",
+    "annee": "1994",
+    "album": "The Best Of Kurtis Blow",
+    "nb_pistes": 14,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The Breaks"
+      },
+      {
+        "numero": "02",
+        "titre": "Christmas Rappin'"
+      },
+      {
+        "numero": "03",
+        "titre": "Hard Times"
+      },
+      {
+        "numero": "04",
+        "titre": "Starlife"
+      },
+      {
+        "numero": "05",
+        "titre": "Tough"
+      },
+      {
+        "numero": "06",
+        "titre": "Daydreamin'"
+      },
+      {
+        "numero": "07",
+        "titre": "Party Time"
+      },
+      {
+        "numero": "08",
+        "titre": "One-Two-Five (Main Street Harlem U.S.A.)"
+      },
+      {
+        "numero": "09",
+        "titre": "8 Million Stories"
+      },
+      {
+        "numero": "10",
+        "titre": "AJ Scratch"
+      },
+      {
+        "numero": "11",
+        "titre": "Basketball"
+      },
+      {
+        "numero": "12",
+        "titre": "America"
+      },
+      {
+        "numero": "13",
+        "titre": "If I Ruled The World"
+      },
+      {
+        "numero": "14",
+        "titre": "I'm Chillin"
+      }
+    ],
+    "duree_totale": 4646.544,
+    "image": "Kurtis Blow - 1994 - The Best Of Kurtis Blow.jpg",
+    "nom": "Kurtis Blow - 1994 - The Best Of Kurtis Blow"
+  },
+  {
+    "artiste": "Kurtis Blow",
+    "annee": "2015",
+    "album": "King Of Rap Vol1",
+    "nb_pistes": 20,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Christmas Rap (Vocal Version)"
+      },
+      {
+        "numero": "02",
+        "titre": "Christmas Rap (Instrumental)"
+      },
+      {
+        "numero": "03",
+        "titre": "The Breaks"
+      },
+      {
+        "numero": "04",
+        "titre": "Throughout Ya Years"
+      },
+      {
+        "numero": "05",
+        "titre": "Hard Times"
+      },
+      {
+        "numero": "06",
+        "titre": "The Deuce"
+      },
+      {
+        "numero": "07",
+        "titre": "Do The Do"
+      },
+      {
+        "numero": "08",
+        "titre": "Got To Dance"
+      },
+      {
+        "numero": "09",
+        "titre": "Getaway"
+      },
+      {
+        "numero": "10",
+        "titre": "Rockin"
+      },
+      {
+        "numero": "11",
+        "titre": "Takin Care Of Business"
+      },
+      {
+        "numero": "12",
+        "titre": "If I Ruled The World (Vocal Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "If I Ruled The World (TV Track)"
+      },
+      {
+        "numero": "14",
+        "titre": "God"
+      },
+      {
+        "numero": "15",
+        "titre": "Im Chillin"
+      },
+      {
+        "numero": "16",
+        "titre": "Starlife"
+      },
+      {
+        "numero": "17",
+        "titre": "America"
+      },
+      {
+        "numero": "18",
+        "titre": "Games People Play (TV Track)"
+      },
+      {
+        "numero": "19",
+        "titre": "Games People Play (Vocal Version)"
+      },
+      {
+        "numero": "20",
+        "titre": "Games Females Play"
+      }
+    ],
+    "duree_totale": 6974.112,
+    "image": "Kurtis Blow - 2015 - King Of Rap Vol1.jpg",
+    "nom": "Kurtis Blow - 2015 - King Of Rap Vol1"
   },
   {
     "artiste": "L.T.D.",
@@ -46957,7 +48517,7 @@
       }
     ],
     "duree_totale": 2170.7279999999996,
-    "image": null,
+    "image": "Marvin Gaye - 1969 - M.P.G#.jpg",
     "nom": "Marvin Gaye - 1969 - M.P.G#"
   },
   {
@@ -50533,6 +52093,49 @@
     "nom": "Odyssey - 1980 - Hang Together"
   },
   {
+    "artiste": "Opus Seven",
+    "annee": "1979",
+    "album": "Thoughts",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Bussle"
+      },
+      {
+        "numero": "02",
+        "titre": "Dancin' To A Love Song"
+      },
+      {
+        "numero": "03",
+        "titre": "Hit And Run"
+      },
+      {
+        "numero": "04",
+        "titre": "You're The One"
+      },
+      {
+        "numero": "05",
+        "titre": "I Love You"
+      },
+      {
+        "numero": "06",
+        "titre": "The Way You Move Me"
+      },
+      {
+        "numero": "07",
+        "titre": "No Need To Cry"
+      },
+      {
+        "numero": "08",
+        "titre": "Hey Big Brother"
+      }
+    ],
+    "duree_totale": 2616.3599999999997,
+    "image": "Opus Seven - 1979 - Thoughts.jpg",
+    "nom": "Opus Seven - 1979 - Thoughts"
+  },
+  {
     "artiste": "Oran Juice Jones",
     "annee": "1986",
     "album": "Juice",
@@ -50578,6 +52181,57 @@
     "duree_totale": 2458.8303499999997,
     "image": "Oran Juice Jones - 1986 - Juice.jpg",
     "nom": "Oran Juice Jones - 1986 - Juice"
+  },
+  {
+    "artiste": "Oran Juice Jones",
+    "annee": "1989",
+    "album": "To Be Immortal",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Oran ＂Juice＂ Jones Money, Honey"
+      },
+      {
+        "numero": "02",
+        "titre": "Oran ＂Juice＂ Jones Pipe Dreams"
+      },
+      {
+        "numero": "03",
+        "titre": "Oran ＂Juice＂ Jones Gangster Attitude"
+      },
+      {
+        "numero": "04",
+        "titre": "Oran ＂Juice＂ Jones Never Say Goodbye"
+      },
+      {
+        "numero": "05",
+        "titre": "Oran ＂Juice＂ Jones To Be Immortal"
+      },
+      {
+        "numero": "06",
+        "titre": "Oran ＂Juice＂ Jones Dollar And a Dream"
+      },
+      {
+        "numero": "07",
+        "titre": "Oran ＂Juice＂ Jones Sacrifices"
+      },
+      {
+        "numero": "08",
+        "titre": "Oran ＂Juice＂ Jones Shaniqua"
+      },
+      {
+        "numero": "09",
+        "titre": "Oran ＂Juice＂ Jones Street Style"
+      },
+      {
+        "numero": "10",
+        "titre": "Oran Juice Jones Time"
+      }
+    ],
+    "duree_totale": 3283.52293877551,
+    "image": "Oran Juice Jones - 1989 - To Be Immortal.jpg",
+    "nom": "Oran Juice Jones - 1989 - To Be Immortal"
   },
   {
     "artiste": "Patrice Rushen",
@@ -52862,7 +54516,7 @@
       }
     ],
     "duree_totale": 2038.8240000000003,
-    "image": null,
+    "image": "Prince - 2002 - One Nite Alone..#.jpg",
     "nom": "Prince - 2002 - One Nite Alone..#"
   },
   {
@@ -54878,7 +56532,7 @@
       }
     ],
     "duree_totale": 2454.2160000000003,
-    "image": null,
+    "image": "Sheila E. - 1987 - Sheila E#.jpg",
     "nom": "Sheila E. - 1987 - Sheila E#"
   },
   {
@@ -55386,6 +57040,53 @@
   },
   {
     "artiste": "Stanley Clarke & George Duke",
+    "annee": "1981",
+    "album": "The ClarkeDuke Project",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Wild Dog"
+      },
+      {
+        "numero": "02",
+        "titre": "Louie Louie"
+      },
+      {
+        "numero": "03",
+        "titre": "Sweet Baby"
+      },
+      {
+        "numero": "04",
+        "titre": "I Just Want to Love You"
+      },
+      {
+        "numero": "05",
+        "titre": "Never Judge a Cover By It's Book"
+      },
+      {
+        "numero": "06",
+        "titre": "Let's Get Started"
+      },
+      {
+        "numero": "07",
+        "titre": "Winners"
+      },
+      {
+        "numero": "08",
+        "titre": "Touch And Go"
+      },
+      {
+        "numero": "09",
+        "titre": "Finding My Way"
+      }
+    ],
+    "duree_totale": 2177.7360000000003,
+    "image": "Stanley Clarke & George Duke - 1981 - The ClarkeDuke Project.jpg",
+    "nom": "Stanley Clarke & George Duke - 1981 - The ClarkeDuke Project"
+  },
+  {
+    "artiste": "Stanley Clarke & George Duke",
     "annee": "1983",
     "album": "The ClarkeDuke Project II",
     "nb_pistes": 9,
@@ -55491,6 +57192,53 @@
     "nom": "Stanley Clarke & George Duke - 1990 - 3"
   },
   {
+    "artiste": "Stanley Clarke & George Duke",
+    "annee": "1990",
+    "album": "The ClarkeDuke Project III",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Wild Dog"
+      },
+      {
+        "numero": "02",
+        "titre": "Louie Louie"
+      },
+      {
+        "numero": "03",
+        "titre": "Sweet Baby"
+      },
+      {
+        "numero": "04",
+        "titre": "I Just Want to Love You"
+      },
+      {
+        "numero": "05",
+        "titre": "Never Judge a Cover By It's Book"
+      },
+      {
+        "numero": "06",
+        "titre": "Let's Get Started"
+      },
+      {
+        "numero": "07",
+        "titre": "Winners"
+      },
+      {
+        "numero": "08",
+        "titre": "Touch And Go"
+      },
+      {
+        "numero": "09",
+        "titre": "Finding My Way"
+      }
+    ],
+    "duree_totale": 2177.7360000000003,
+    "image": "Stanley Clarke & George Duke - 1990 - The ClarkeDuke Project III.jpg",
+    "nom": "Stanley Clarke & George Duke - 1990 - The ClarkeDuke Project III"
+  },
+  {
     "artiste": "Stanley Clarke",
     "annee": "1973",
     "album": "Children Of Forever",
@@ -55520,6 +57268,1086 @@
     "duree_totale": 2870.79475,
     "image": "Stanley Clarke - 1973 - Children Of Forever.jpg",
     "nom": "Stanley Clarke - 1973 - Children Of Forever"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "1974",
+    "album": "Stanley Clarke",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Vulcan Princess"
+      },
+      {
+        "numero": "02",
+        "titre": "Yesterday Princess"
+      },
+      {
+        "numero": "03",
+        "titre": "Lopsy Lu"
+      },
+      {
+        "numero": "04",
+        "titre": "Power"
+      },
+      {
+        "numero": "05",
+        "titre": "Spanish Phases for Strings and Bass"
+      },
+      {
+        "numero": "06",
+        "titre": "Life Suite - Pt. 1： 1_47"
+      },
+      {
+        "numero": "07",
+        "titre": "Life Suite - Pt. 2： 4_16"
+      },
+      {
+        "numero": "08",
+        "titre": "Life Suite - Pt. 3： 1_03"
+      },
+      {
+        "numero": "09",
+        "titre": "Life Suite - Pt. 4： 6_43"
+      }
+    ],
+    "duree_totale": 2428.92,
+    "image": "Stanley Clarke - 1974 - Stanley Clarke.jpg",
+    "nom": "Stanley Clarke - 1974 - Stanley Clarke"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "1975",
+    "album": "Journey to Love",
+    "nb_pistes": 6,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Silly Putty"
+      },
+      {
+        "numero": "02",
+        "titre": "Journey to Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Hello Jeff"
+      },
+      {
+        "numero": "04",
+        "titre": "Song to John, (Pt.1)"
+      },
+      {
+        "numero": "05",
+        "titre": "Song to John, (Pt. 2)"
+      },
+      {
+        "numero": "06",
+        "titre": "Concerto for Jazz ⧸ Rock Orchestra, Pt. 1-4"
+      }
+    ],
+    "duree_totale": 2371.824,
+    "image": "Stanley Clarke - 1975 - Journey to Love.jpg",
+    "nom": "Stanley Clarke - 1975 - Journey to Love"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "1976",
+    "album": "School Days",
+    "nb_pistes": 6,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "School Days"
+      },
+      {
+        "numero": "02",
+        "titre": "Quiet Afternoon"
+      },
+      {
+        "numero": "03",
+        "titre": "The Dancer"
+      },
+      {
+        "numero": "04",
+        "titre": "Desert Song"
+      },
+      {
+        "numero": "05",
+        "titre": "Hot Fun"
+      },
+      {
+        "numero": "06",
+        "titre": "Life Is Just a Game"
+      }
+    ],
+    "duree_totale": 2226.768,
+    "image": "Stanley Clarke - 1976 - School Days.jpg",
+    "nom": "Stanley Clarke - 1976 - School Days"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "1978",
+    "album": "Modern Man",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Opening (Statement)"
+      },
+      {
+        "numero": "02",
+        "titre": "He Lives On (Story About the Last Journey of a Warrior)"
+      },
+      {
+        "numero": "03",
+        "titre": "More Hot Fun"
+      },
+      {
+        "numero": "04",
+        "titre": "Slow Dance"
+      },
+      {
+        "numero": "05",
+        "titre": "Interlude： A Serious Occasion"
+      },
+      {
+        "numero": "06",
+        "titre": "Got to Find My Own Place"
+      },
+      {
+        "numero": "07",
+        "titre": "Dayride"
+      },
+      {
+        "numero": "08",
+        "titre": "Interlude： It's What She Didn't Say"
+      },
+      {
+        "numero": "09",
+        "titre": "Modern Man"
+      },
+      {
+        "numero": "10",
+        "titre": "Interlude： A Relaxed Occasion"
+      },
+      {
+        "numero": "11",
+        "titre": "Rock 'N' Roll Jelly"
+      },
+      {
+        "numero": "12",
+        "titre": "Closing (Statement)"
+      }
+    ],
+    "duree_totale": 2325.8160000000003,
+    "image": "Stanley Clarke - 1978 - Modern Man.jpg",
+    "nom": "Stanley Clarke - 1978 - Modern Man"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "1979",
+    "album": "I Wanna Play for You",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Wanna Play for You"
+      },
+      {
+        "numero": "02",
+        "titre": "Just a Feeling"
+      },
+      {
+        "numero": "03",
+        "titre": "The Streets of Philadelphia"
+      },
+      {
+        "numero": "04",
+        "titre": "Together Again"
+      },
+      {
+        "numero": "05",
+        "titre": "Blues for Mingus"
+      },
+      {
+        "numero": "06",
+        "titre": "Strange Weather"
+      },
+      {
+        "numero": "07",
+        "titre": "Quiet Afternoon (Live)"
+      },
+      {
+        "numero": "08",
+        "titre": "Rock 'N' Roll Jelly (Live)"
+      },
+      {
+        "numero": "09",
+        "titre": "Jamaican Boy"
+      },
+      {
+        "numero": "10",
+        "titre": "My Greatest Hits (Live)"
+      },
+      {
+        "numero": "11",
+        "titre": "School Days (Live)"
+      },
+      {
+        "numero": "12",
+        "titre": "Hot Fun-Closing (Live)"
+      }
+    ],
+    "duree_totale": 3880.6799999999994,
+    "image": "Stanley Clarke - 1979 - I Wanna Play for You.jpg",
+    "nom": "Stanley Clarke - 1979 - I Wanna Play for You"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "1980",
+    "album": "Rocks, Pebbles and Sand",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Danger Street"
+      },
+      {
+        "numero": "02",
+        "titre": "All Hell Broke Loose"
+      },
+      {
+        "numero": "03",
+        "titre": "Rocks, Pebbles And Sand"
+      },
+      {
+        "numero": "04",
+        "titre": "Underestimation"
+      },
+      {
+        "numero": "05",
+        "titre": "You⧸Me Together"
+      },
+      {
+        "numero": "06",
+        "titre": "We Supply"
+      },
+      {
+        "numero": "07",
+        "titre": "The Story Of A Man And A Woman Part 1： She Thought I Was Stanley Clarke"
+      }
+    ],
+    "duree_totale": 2244.576,
+    "image": "Stanley Clarke - 1980 - Rocks, Pebbles and Sand.jpg",
+    "nom": "Stanley Clarke - 1980 - Rocks, Pebbles and Sand"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "1984",
+    "album": "Time Exposure",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Play the Bass 10"
+      },
+      {
+        "numero": "02",
+        "titre": "Are You Ready (For the Future)"
+      },
+      {
+        "numero": "03",
+        "titre": "Speedball"
+      },
+      {
+        "numero": "04",
+        "titre": "Heaven Sent You"
+      },
+      {
+        "numero": "05",
+        "titre": "Time Exposure"
+      },
+      {
+        "numero": "06",
+        "titre": "Future Shock"
+      },
+      {
+        "numero": "07",
+        "titre": "Future"
+      },
+      {
+        "numero": "08",
+        "titre": "Spacerunner"
+      },
+      {
+        "numero": "09",
+        "titre": "I Know Just How You Feel"
+      }
+    ],
+    "duree_totale": 2150.376,
+    "image": "Stanley Clarke - 1984 - Time Exposure.jpg",
+    "nom": "Stanley Clarke - 1984 - Time Exposure"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "1985",
+    "album": "Find Out!",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Find Out"
+      },
+      {
+        "numero": "02",
+        "titre": "What If I Should Fall in Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Born In The U.S.A."
+      },
+      {
+        "numero": "04",
+        "titre": "The Sky's the Limit"
+      },
+      {
+        "numero": "05",
+        "titre": "Don't Turn The Lights Out"
+      },
+      {
+        "numero": "06",
+        "titre": "Campo Americano"
+      },
+      {
+        "numero": "07",
+        "titre": "Stereotypica"
+      },
+      {
+        "numero": "08",
+        "titre": "Psychedelic"
+      },
+      {
+        "numero": "09",
+        "titre": "My Life"
+      }
+    ],
+    "duree_totale": 2385.36,
+    "image": "Stanley Clarke - 1985 - Find Out!.jpg",
+    "nom": "Stanley Clarke - 1985 - Find Out!"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "1986",
+    "album": "Hideaway",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Hideaway"
+      },
+      {
+        "numero": "02",
+        "titre": "Overjoyed"
+      },
+      {
+        "numero": "03",
+        "titre": "My Love, Her Inspiration"
+      },
+      {
+        "numero": "04",
+        "titre": "Where Do We Go"
+      },
+      {
+        "numero": "05",
+        "titre": "The Boys Of Johnson Street"
+      },
+      {
+        "numero": "06",
+        "titre": "Old Friends"
+      },
+      {
+        "numero": "07",
+        "titre": "When It's Cold Outside"
+      },
+      {
+        "numero": "08",
+        "titre": "Listen To The Beat of Your Heart"
+      },
+      {
+        "numero": "09",
+        "titre": "Basketball"
+      },
+      {
+        "numero": "10",
+        "titre": "I'm Here To Stay"
+      }
+    ],
+    "duree_totale": 2633.52,
+    "image": "Stanley Clarke - 1986 - Hideaway.jpg",
+    "nom": "Stanley Clarke - 1986 - Hideaway"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "1988",
+    "album": "If This Bass Could Only Talk",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "If This Bass Could Only Talk"
+      },
+      {
+        "numero": "02",
+        "titre": "Goodbye Pork Pie Hat"
+      },
+      {
+        "numero": "03",
+        "titre": "I Want to Play for Ya"
+      },
+      {
+        "numero": "04",
+        "titre": "Stories to Tell"
+      },
+      {
+        "numero": "05",
+        "titre": "Funny How Time Flies (When You're Having Fun)"
+      },
+      {
+        "numero": "06",
+        "titre": "Workin' Man"
+      },
+      {
+        "numero": "07",
+        "titre": "Tradition"
+      },
+      {
+        "numero": "08",
+        "titre": "Come Take My Hand"
+      },
+      {
+        "numero": "09",
+        "titre": "Bassically Taps"
+      }
+    ],
+    "duree_totale": 2592.312,
+    "image": "Stanley Clarke - 1988 - If This Bass Could Only Talk.jpg",
+    "nom": "Stanley Clarke - 1988 - If This Bass Could Only Talk"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "1992",
+    "album": "Passenger 57",
+    "nb_pistes": 18,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Lookin Good (Cutter's Theme) (Album Version)"
+      },
+      {
+        "numero": "02",
+        "titre": "Lisa (Album Version)"
+      },
+      {
+        "numero": "03",
+        "titre": "Cruisin' (Album Version)"
+      },
+      {
+        "numero": "04",
+        "titre": "Rane To Plane (Album Version)"
+      },
+      {
+        "numero": "05",
+        "titre": "Fight (Album Version)"
+      },
+      {
+        "numero": "06",
+        "titre": "Skyjack (Album Version)"
+      },
+      {
+        "numero": "07",
+        "titre": "What Is The Plan？ (Album Version)"
+      },
+      {
+        "numero": "08",
+        "titre": "Just Lookin' Good (Cutter's Theme) (Album Version)"
+      },
+      {
+        "numero": "09",
+        "titre": "Big Fall (Album Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "Motorcycles (Album Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "Have a Nice Flight (Album Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "Just Cruisin' (Album Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "Ferris Wheel (Album Version)"
+      },
+      {
+        "numero": "14",
+        "titre": "Let Me Tell Him (Album Version)"
+      },
+      {
+        "numero": "15",
+        "titre": "Tracking Rane (Album Version)"
+      },
+      {
+        "numero": "16",
+        "titre": "Chaos On The Tarmac (Album Version)"
+      },
+      {
+        "numero": "17",
+        "titre": "Anything Wet (Album Version)"
+      },
+      {
+        "numero": "18",
+        "titre": "Flight Fight (Album Version)"
+      }
+    ],
+    "duree_totale": 3135.2159999999994,
+    "image": "Stanley Clarke - 1992 - Passenger 57.jpg",
+    "nom": "Stanley Clarke - 1992 - Passenger 57"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "1993",
+    "album": "East River Drive",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Justice's Groove (From the Columbia Motion Picture ＂Poetic Justice＂)"
+      },
+      {
+        "numero": "02",
+        "titre": "Fantasy Love"
+      },
+      {
+        "numero": "03",
+        "titre": "Zabadoobeede？ (Yabadoobeeda!) (Album Version)"
+      },
+      {
+        "numero": "04",
+        "titre": "East River Drive (Album Version)"
+      },
+      {
+        "numero": "05",
+        "titre": "I'm Home Africa (Album Version)"
+      },
+      {
+        "numero": "06",
+        "titre": "Theme from Boyz N the Hood"
+      },
+      {
+        "numero": "07",
+        "titre": "Christmas In Rio"
+      },
+      {
+        "numero": "08",
+        "titre": "What If I Forget the Champagne"
+      },
+      {
+        "numero": "09",
+        "titre": "Never Lose Your Heart ⧸ There Lies The Passion (Dedicated To Cesar Chavez) (Album Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "Illegal (Album Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "＂Lords Of The Low Frequencies＂ (Album Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "Funk Is Its Own Reward (Album Version)"
+      }
+    ],
+    "duree_totale": 3963.6720000000005,
+    "image": "Stanley Clarke - 1993 - East River Drive.jpg",
+    "nom": "Stanley Clarke - 1993 - East River Drive"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "1995",
+    "album": "At the Movies",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Passenger 57 Main Title"
+      },
+      {
+        "numero": "02",
+        "titre": "Lisa (Album Version)"
+      },
+      {
+        "numero": "03",
+        "titre": "Justice's Groove (Album Version)"
+      },
+      {
+        "numero": "04",
+        "titre": "Lucky Again"
+      },
+      {
+        "numero": "05",
+        "titre": "Father And Sun"
+      },
+      {
+        "numero": "06",
+        "titre": "Theme from Boyz N the Hood"
+      },
+      {
+        "numero": "07",
+        "titre": "Grandpa's Theme"
+      },
+      {
+        "numero": "08",
+        "titre": "Higher Learning Main Title"
+      },
+      {
+        "numero": "09",
+        "titre": "The Learning Curve"
+      },
+      {
+        "numero": "10",
+        "titre": "Anna Mae"
+      },
+      {
+        "numero": "11",
+        "titre": "Capital⧸Naty's Theme"
+      },
+      {
+        "numero": "12",
+        "titre": "Meeting"
+      },
+      {
+        "numero": "13",
+        "titre": "Deja'S Theme"
+      },
+      {
+        "numero": "14",
+        "titre": "Black On Black Crime"
+      },
+      {
+        "numero": "15",
+        "titre": "Max's Theme"
+      }
+    ],
+    "duree_totale": 3229.0800000000004,
+    "image": "Stanley Clarke - 1995 - At the Movies.jpg",
+    "nom": "Stanley Clarke - 1995 - At the Movies"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "2003",
+    "album": "1, 2, to the Bass",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "1, 2, To the Bass"
+      },
+      {
+        "numero": "02",
+        "titre": "Simply Said (Album Version)"
+      },
+      {
+        "numero": "03",
+        "titre": "Where Is the Love (feat. Glenn Lewis & Amel Larrieux)"
+      },
+      {
+        "numero": "04",
+        "titre": "Anna (She Loves The Good Life) (Album Version)"
+      },
+      {
+        "numero": "05",
+        "titre": "Los Caballos (The Horses) (Album Version)"
+      },
+      {
+        "numero": "06",
+        "titre": "Just Cruizin' (Album Version)"
+      },
+      {
+        "numero": "07",
+        "titre": "'Bout the Bass (Album Version)"
+      },
+      {
+        "numero": "08",
+        "titre": "Hair (Album Version)"
+      },
+      {
+        "numero": "09",
+        "titre": "Touch"
+      },
+      {
+        "numero": "10",
+        "titre": "Todos Los Niños (All the Children) (Album Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "I Shall Not Be Moved (Album Version)"
+      },
+      {
+        "numero": "12",
+        "titre": "Shanti (Album Version)"
+      }
+    ],
+    "duree_totale": 3902.5919999999996,
+    "image": "Stanley Clarke - 2003 - 1, 2, to the Bass.jpg",
+    "nom": "Stanley Clarke - 2003 - 1, 2, to the Bass"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "2006",
+    "album": "Stanley Clarke Standards",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Lover Man"
+      },
+      {
+        "numero": "02",
+        "titre": "Mack the Knife"
+      },
+      {
+        "numero": "03",
+        "titre": "Salt Peanuts"
+      },
+      {
+        "numero": "04",
+        "titre": "I Mean You"
+      },
+      {
+        "numero": "05",
+        "titre": "Now's the Time"
+      },
+      {
+        "numero": "06",
+        "titre": "Take Five"
+      },
+      {
+        "numero": "07",
+        "titre": "Jeru"
+      },
+      {
+        "numero": "08",
+        "titre": "Manteca"
+      },
+      {
+        "numero": "09",
+        "titre": "Oleo"
+      },
+      {
+        "numero": "10",
+        "titre": "Perdido"
+      }
+    ],
+    "duree_totale": 3548.64,
+    "image": "Stanley Clarke - 2006 - Stanley Clarke Standards.jpg",
+    "nom": "Stanley Clarke - 2006 - Stanley Clarke Standards"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "2007",
+    "album": "The Toys of Men",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The Toys Of Men"
+      },
+      {
+        "numero": "02",
+        "titre": "Come On"
+      },
+      {
+        "numero": "03",
+        "titre": "Jerusalem"
+      },
+      {
+        "numero": "04",
+        "titre": "Back In The Woods"
+      },
+      {
+        "numero": "05",
+        "titre": "All Over Again"
+      },
+      {
+        "numero": "06",
+        "titre": "Hmm Hmm"
+      },
+      {
+        "numero": "07",
+        "titre": "Bad Asses"
+      },
+      {
+        "numero": "08",
+        "titre": "Game"
+      },
+      {
+        "numero": "09",
+        "titre": "La Cancion De Sofia"
+      },
+      {
+        "numero": "10",
+        "titre": "El Bajo Negro"
+      },
+      {
+        "numero": "11",
+        "titre": "Broski"
+      },
+      {
+        "numero": "12",
+        "titre": "Chateauvallon 1972"
+      },
+      {
+        "numero": "13",
+        "titre": "Bass Folk Song #6"
+      }
+    ],
+    "duree_totale": 3491.88,
+    "image": "Stanley Clarke - 2007 - The Toys of Men.jpg",
+    "nom": "Stanley Clarke - 2007 - The Toys of Men"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "2009",
+    "album": "Jazz in the Garden",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Paradigm Shift (Election Day 2008)"
+      },
+      {
+        "numero": "02",
+        "titre": "Sakura Sakura"
+      },
+      {
+        "numero": "03",
+        "titre": "Sicilian Blue"
+      },
+      {
+        "numero": "04",
+        "titre": "Take The Coltrane"
+      },
+      {
+        "numero": "05",
+        "titre": "3 Wrong Notes"
+      },
+      {
+        "numero": "06",
+        "titre": "Someday My Prince Will Come"
+      },
+      {
+        "numero": "07",
+        "titre": "Isotope"
+      },
+      {
+        "numero": "08",
+        "titre": "Bass Folk Song No. 5 & 6"
+      },
+      {
+        "numero": "09",
+        "titre": "Global Tweak"
+      },
+      {
+        "numero": "10",
+        "titre": "Solar"
+      },
+      {
+        "numero": "11",
+        "titre": "Brain Training"
+      },
+      {
+        "numero": "12",
+        "titre": "Under The Bridge"
+      }
+    ],
+    "duree_totale": 3673.8720000000003,
+    "image": "Stanley Clarke - 2009 - Jazz in the Garden.jpg",
+    "nom": "Stanley Clarke - 2009 - Jazz in the Garden"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "2010",
+    "album": "The Stanley Clarke Band",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Soldier"
+      },
+      {
+        "numero": "02",
+        "titre": "Fulani"
+      },
+      {
+        "numero": "03",
+        "titre": "Here’s Why Tears Dry"
+      },
+      {
+        "numero": "04",
+        "titre": "I Wanna Play for You Too"
+      },
+      {
+        "numero": "05",
+        "titre": "Bass Folk Song No. 10"
+      },
+      {
+        "numero": "06",
+        "titre": "No Mystery"
+      },
+      {
+        "numero": "07",
+        "titre": "How Is The Weather Up There？"
+      },
+      {
+        "numero": "08",
+        "titre": "Larry Has Traveled 11 Miles and Waited a Lifetime for the Return of Vishnu’s Report"
+      },
+      {
+        "numero": "09",
+        "titre": "Labyrinth"
+      },
+      {
+        "numero": "10",
+        "titre": "Sonny Rollins"
+      },
+      {
+        "numero": "11",
+        "titre": "Bass Folk Song No. 6 (Mo Anam Cara)"
+      }
+    ],
+    "duree_totale": 3805.608,
+    "image": "Stanley Clarke - 2010 - The Stanley Clarke Band.jpg",
+    "nom": "Stanley Clarke - 2010 - The Stanley Clarke Band"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "2014",
+    "album": "Up",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Pop Virgil"
+      },
+      {
+        "numero": "02",
+        "titre": "Last Train to Sanity"
+      },
+      {
+        "numero": "03",
+        "titre": "Up"
+      },
+      {
+        "numero": "04",
+        "titre": "Brazilian Love Affair (Dedicated to George Duke)"
+      },
+      {
+        "numero": "05",
+        "titre": "Bass Folk Song #13： Mingus"
+      },
+      {
+        "numero": "06",
+        "titre": "I Have Something to Tell You Tonight"
+      },
+      {
+        "numero": "07",
+        "titre": "Trust (Dedicated to Nana)"
+      },
+      {
+        "numero": "08",
+        "titre": "Bass Folk Song #7： Tradition"
+      },
+      {
+        "numero": "09",
+        "titre": "Gotham City"
+      },
+      {
+        "numero": "10",
+        "titre": "Bass Folk Song #14： Dance of the Giant Hummingbird ⧸ Bass Folk Song #15： Eleuthera Island"
+      },
+      {
+        "numero": "11",
+        "titre": "School Days"
+      },
+      {
+        "numero": "12",
+        "titre": "La Canción de Sofia"
+      }
+    ],
+    "duree_totale": 2700.12,
+    "image": "Stanley Clarke - 2014 - Up.jpg",
+    "nom": "Stanley Clarke - 2014 - Up"
+  },
+  {
+    "artiste": "Stanley Clarke",
+    "annee": "2018",
+    "album": "The Message",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "And Ya Know We're Missing You： Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom..."
+      },
+      {
+        "numero": "02",
+        "titre": "After the Cosmic Rain⧸Dance of the Planetary Prince"
+      },
+      {
+        "numero": "03",
+        "titre": "The Rugged Truth"
+      },
+      {
+        "numero": "04",
+        "titre": "Combat Continuum"
+      },
+      {
+        "numero": "05",
+        "titre": "The Message"
+      },
+      {
+        "numero": "06",
+        "titre": "Lost in a World"
+      },
+      {
+        "numero": "07",
+        "titre": "Alternative Facts"
+      },
+      {
+        "numero": "08",
+        "titre": "Bach Cello Suite 1 (Prelude)"
+      },
+      {
+        "numero": "09",
+        "titre": "The Legend of the Abbas and the Sacred Talisman"
+      },
+      {
+        "numero": "10",
+        "titre": "Enzo's Theme"
+      },
+      {
+        "numero": "11",
+        "titre": "To Be Alive"
+      }
+    ],
+    "duree_totale": 2688.0239999999994,
+    "image": "Stanley Clarke - 2018 - The Message.jpg",
+    "nom": "Stanley Clarke - 2018 - The Message"
   },
   {
     "artiste": "Starpoint",
@@ -56406,6 +59234,374 @@
     "duree_totale": 2188.6133499999996,
     "image": "The Blackbyrd - 1976 - Unfinished Business.jpg",
     "nom": "The Blackbyrd - 1976 - Unfinished Business"
+  },
+  {
+    "artiste": "The Controllers",
+    "annee": "1977",
+    "album": "In Control",
+    "nb_pistes": 7,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "People Want Music"
+      },
+      {
+        "numero": "02",
+        "titre": "Heaven Is Only One Step Away"
+      },
+      {
+        "numero": "03",
+        "titre": "This Train"
+      },
+      {
+        "numero": "04",
+        "titre": "You Ain't Fooling Me"
+      },
+      {
+        "numero": "05",
+        "titre": "Somebody's Gotta Win"
+      },
+      {
+        "numero": "06",
+        "titre": "The Reaper"
+      },
+      {
+        "numero": "07",
+        "titre": "Sho Nuff A Blessin"
+      }
+    ],
+    "duree_totale": 2191.104,
+    "image": "The Controllers - 1977 - In Control.jpg",
+    "nom": "The Controllers - 1977 - In Control"
+  },
+  {
+    "artiste": "The Controllers",
+    "annee": "1978",
+    "album": "Fill Your Life with Love",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Fill Your Life With Love"
+      },
+      {
+        "numero": "02",
+        "titre": "I'll Miss You Always"
+      },
+      {
+        "numero": "03",
+        "titre": "Hello!"
+      },
+      {
+        "numero": "04",
+        "titre": "If Somebody Cares"
+      },
+      {
+        "numero": "05",
+        "titre": "Listen To The Children"
+      },
+      {
+        "numero": "06",
+        "titre": "Love's In Need Of Love Today⧸Fill Your Life With Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Just For Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Getting Over You"
+      },
+      {
+        "numero": "09",
+        "titre": "Castles In The Sky"
+      },
+      {
+        "numero": "10",
+        "titre": "If Tomorrow Never Comes"
+      }
+    ],
+    "duree_totale": 2423.448,
+    "image": "The Controllers - 1978 - Fill Your Life with Love.jpg",
+    "nom": "The Controllers - 1978 - Fill Your Life with Love"
+  },
+  {
+    "artiste": "The Controllers",
+    "annee": "1979",
+    "album": "Next in Line",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Let Me Entertain You"
+      },
+      {
+        "numero": "02",
+        "titre": "We Don't"
+      },
+      {
+        "numero": "03",
+        "titre": "If Tears Were Pennies"
+      },
+      {
+        "numero": "04",
+        "titre": "I Can't Turn The Boogie Loose"
+      },
+      {
+        "numero": "05",
+        "titre": "Gunning For Your Love"
+      },
+      {
+        "numero": "06",
+        "titre": "Ankle Chain"
+      },
+      {
+        "numero": "07",
+        "titre": "I Just Don't Know"
+      },
+      {
+        "numero": "08",
+        "titre": "Hurt Again By Love"
+      }
+    ],
+    "duree_totale": 2252.904,
+    "image": "The Controllers - 1979 - Next in Line.jpg",
+    "nom": "The Controllers - 1979 - Next in Line"
+  },
+  {
+    "artiste": "The Controllers",
+    "annee": "1984",
+    "album": "The Controllers",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Crushed"
+      },
+      {
+        "numero": "02",
+        "titre": "One Girl"
+      },
+      {
+        "numero": "03",
+        "titre": "Just For You"
+      },
+      {
+        "numero": "04",
+        "titre": "Undercover Lover"
+      },
+      {
+        "numero": "05",
+        "titre": "Givin' Up On Love"
+      },
+      {
+        "numero": "06",
+        "titre": "I Wanna Be Yours"
+      },
+      {
+        "numero": "07",
+        "titre": "Leaving Me"
+      },
+      {
+        "numero": "08",
+        "titre": "Nothing Can Stop This Feeling"
+      },
+      {
+        "numero": "09",
+        "titre": "My Secret Fantasy (Bonus Track)"
+      }
+    ],
+    "duree_totale": 2775.072,
+    "image": "The Controllers - 1984 - The Controllers.jpg",
+    "nom": "The Controllers - 1984 - The Controllers"
+  },
+  {
+    "artiste": "The Controllers",
+    "annee": "1986",
+    "album": "Stay",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Distant Lover"
+      },
+      {
+        "numero": "02",
+        "titre": "Stay"
+      },
+      {
+        "numero": "03",
+        "titre": "So Glad"
+      },
+      {
+        "numero": "04",
+        "titre": "Bad Bad Jama"
+      },
+      {
+        "numero": "05",
+        "titre": "My Secret Fantasy"
+      },
+      {
+        "numero": "06",
+        "titre": "Break Out The Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Deeper In Love"
+      },
+      {
+        "numero": "08",
+        "titre": "Got A Thang"
+      }
+    ],
+    "duree_totale": 2366.1360000000004,
+    "image": "The Controllers - 1986 - Stay.jpg",
+    "nom": "The Controllers - 1986 - Stay"
+  },
+  {
+    "artiste": "The Controllers",
+    "annee": "1987",
+    "album": "For the Love of My Woman",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sleeping Alone"
+      },
+      {
+        "numero": "02",
+        "titre": "Play Time"
+      },
+      {
+        "numero": "03",
+        "titre": "Knocking At Your Door"
+      },
+      {
+        "numero": "04",
+        "titre": "For The Love Of My Woman"
+      },
+      {
+        "numero": "05",
+        "titre": "Keep In Touch"
+      },
+      {
+        "numero": "06",
+        "titre": "No One's Ever Loved Me More"
+      },
+      {
+        "numero": "07",
+        "titre": "Love Is On Our Side"
+      },
+      {
+        "numero": "08",
+        "titre": "My Secret Fantasy"
+      }
+    ],
+    "duree_totale": 2114.976,
+    "image": "The Controllers - 1987 - For the Love of My Woman.jpg",
+    "nom": "The Controllers - 1987 - For the Love of My Woman"
+  },
+  {
+    "artiste": "The Controllers",
+    "annee": "1989",
+    "album": "Just in Time",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Temporary Lovers"
+      },
+      {
+        "numero": "02",
+        "titre": "Take It Or Leave It"
+      },
+      {
+        "numero": "03",
+        "titre": "Just In Time"
+      },
+      {
+        "numero": "04",
+        "titre": "Gimmie Watcha Got"
+      },
+      {
+        "numero": "05",
+        "titre": "I'm In Love"
+      },
+      {
+        "numero": "06",
+        "titre": "We're Back"
+      },
+      {
+        "numero": "07",
+        "titre": "Let's Stay Friends"
+      },
+      {
+        "numero": "08",
+        "titre": "I Wanna Be With U (Right Now)"
+      },
+      {
+        "numero": "09",
+        "titre": "I'm So Glad I Met You"
+      }
+    ],
+    "duree_totale": 2729.2799999999997,
+    "image": "The Controllers - 1989 - Just in Time.jpg",
+    "nom": "The Controllers - 1989 - Just in Time"
+  },
+  {
+    "artiste": "The Controllers",
+    "annee": "1997",
+    "album": "Clear View",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "When I'm Away"
+      },
+      {
+        "numero": "02",
+        "titre": "Clear View"
+      },
+      {
+        "numero": "03",
+        "titre": "Alone"
+      },
+      {
+        "numero": "04",
+        "titre": "Step Aside"
+      },
+      {
+        "numero": "05",
+        "titre": "No Greener Grass"
+      },
+      {
+        "numero": "06",
+        "titre": "Goodbye"
+      },
+      {
+        "numero": "07",
+        "titre": "Into Your Heart"
+      },
+      {
+        "numero": "08",
+        "titre": "No Need to Hurry"
+      },
+      {
+        "numero": "09",
+        "titre": "Superstition"
+      },
+      {
+        "numero": "10",
+        "titre": "Somebody's Gotta Win, Somebody's Gotta Lose"
+      },
+      {
+        "numero": "11",
+        "titre": "Since You've Been Gone"
+      }
+    ],
+    "duree_totale": 3025.9919999999993,
+    "image": "The Controllers - 1997 - Clear View.jpg",
+    "nom": "The Controllers - 1997 - Clear View"
   },
   {
     "artiste": "The Crusaders",
@@ -59470,6 +62666,41 @@
     "nom": "The Reddings - 1983 - Back To Basics"
   },
   {
+    "artiste": "The Ritchie Family",
+    "annee": "1976",
+    "album": "Arabian Nights",
+    "nb_pistes": 6,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The Best Disco In Town"
+      },
+      {
+        "numero": "02",
+        "titre": "Baby I'm On Fire"
+      },
+      {
+        "numero": "03",
+        "titre": "Romantic Love"
+      },
+      {
+        "numero": "04",
+        "titre": "Istanbul"
+      },
+      {
+        "numero": "05",
+        "titre": "Lawrence of Arabia"
+      },
+      {
+        "numero": "06",
+        "titre": "In a Persian Market"
+      }
+    ],
+    "duree_totale": 1926.8880000000004,
+    "image": "The Ritchie Family - 1976 - Arabian Nights.jpg",
+    "nom": "The Ritchie Family - 1976 - Arabian Nights"
+  },
+  {
     "artiste": "The Time",
     "annee": "1990",
     "album": "Pandemonium",
@@ -59684,6 +62915,186 @@
     "duree_totale": 3345.432,
     "image": "The Whispers - 1983 - Love for Love.jpg",
     "nom": "The Whispers - 1983 - Love for Love"
+  },
+  {
+    "artiste": "Thelma Houston",
+    "annee": "1976",
+    "album": "Any Way You Like It",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Any Way You Like It"
+      },
+      {
+        "numero": "02",
+        "titre": "Don't Leave Me This Way"
+      },
+      {
+        "numero": "03",
+        "titre": "Don't Know Why I Love You"
+      },
+      {
+        "numero": "04",
+        "titre": "Come To Me"
+      },
+      {
+        "numero": "05",
+        "titre": "Don't Make Me Pay (For Another Girl's Mistake)"
+      },
+      {
+        "numero": "06",
+        "titre": "Sharing Something Perfect Between Ourselves"
+      },
+      {
+        "numero": "07",
+        "titre": "If It's The Last Thing I Do"
+      },
+      {
+        "numero": "08",
+        "titre": "Differently"
+      }
+    ],
+    "duree_totale": 2170.416,
+    "image": "Thelma Houston - 1976 - Any Way You Like It.jpg",
+    "nom": "Thelma Houston - 1976 - Any Way You Like It"
+  },
+  {
+    "artiste": "Thelma Houston",
+    "annee": "1977",
+    "album": "The Devil In Me",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I'm Here Again"
+      },
+      {
+        "numero": "02",
+        "titre": "It's Just Me Feeling Good"
+      },
+      {
+        "numero": "03",
+        "titre": "I Can't Go On Living Without Your Love"
+      },
+      {
+        "numero": "04",
+        "titre": "Triflin'"
+      },
+      {
+        "numero": "05",
+        "titre": "Give Me Something To Believe In"
+      },
+      {
+        "numero": "06",
+        "titre": "Memories"
+      },
+      {
+        "numero": "07",
+        "titre": "I've Got The Devil In Me"
+      },
+      {
+        "numero": "08",
+        "titre": "Baby, I Love You Too Much"
+      },
+      {
+        "numero": "09",
+        "titre": "Your Eyes"
+      }
+    ],
+    "duree_totale": 2423.5679999999993,
+    "image": "Thelma Houston - 1977 - The Devil In Me.jpg",
+    "nom": "Thelma Houston - 1977 - The Devil In Me"
+  },
+  {
+    "artiste": "Thelma Houston",
+    "annee": "1978",
+    "album": "Ready To Roll",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "- Saturday Night, Sunday Morning"
+      },
+      {
+        "numero": "02",
+        "titre": "- Love Is Comin' On"
+      },
+      {
+        "numero": "03",
+        "titre": "- I Wanna Start My Life All Over Again"
+      },
+      {
+        "numero": "04",
+        "titre": "- Midnight Mona"
+      },
+      {
+        "numero": "05",
+        "titre": "- Pardon Me"
+      },
+      {
+        "numero": "06",
+        "titre": "- Everybody's Got A Story"
+      },
+      {
+        "numero": "07",
+        "titre": "- Strange"
+      },
+      {
+        "numero": "08",
+        "titre": "- Am I Expecting Too Much"
+      },
+      {
+        "numero": "09",
+        "titre": "- Can't We Try"
+      }
+    ],
+    "duree_totale": 2318.448,
+    "image": "Thelma Houston - 1978 - Ready To Roll.jpg",
+    "nom": "Thelma Houston - 1978 - Ready To Roll"
+  },
+  {
+    "artiste": "Thelma Houston",
+    "annee": "1979",
+    "album": "Ride To The Rainbow",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Saturday Night, Sunday Morning"
+      },
+      {
+        "numero": "02",
+        "titre": "I Wanna Be Back In Love Again"
+      },
+      {
+        "numero": "03",
+        "titre": "Love Machine"
+      },
+      {
+        "numero": "04",
+        "titre": "Imaginary Paradise"
+      },
+      {
+        "numero": "05",
+        "titre": "Just A Little Piece Of You"
+      },
+      {
+        "numero": "06",
+        "titre": "Ride To The Rainbow"
+      },
+      {
+        "numero": "07",
+        "titre": "Paying For It With My Heart"
+      },
+      {
+        "numero": "08",
+        "titre": "Give It To Me"
+      }
+    ],
+    "duree_totale": 2201.04,
+    "image": "Thelma Houston - 1979 - Ride To The Rainbow.jpg",
+    "nom": "Thelma Houston - 1979 - Ride To The Rainbow"
   },
   {
     "artiste": "Tom Scott",
@@ -62150,7 +65561,7 @@
       }
     ],
     "duree_totale": 3937.7623499999995,
-    "image": null,
+    "image": "Winta - 2025 - I Still Believe In Love.jpg",
     "nom": "Winta - 2025 - I Still Believe In Love"
   },
   {
@@ -62209,7 +65620,7 @@
       }
     ],
     "duree_totale": 3817.099581632653,
-    "image": null,
+    "image": "Winta - 2025 - Take Me Back.jpg",
     "nom": "Winta - 2025 - Take Me Back"
   },
   {
@@ -62268,7 +65679,7 @@
       }
     ],
     "duree_totale": 3820.704469387755,
-    "image": null,
+    "image": "Winta - 2025 - You Make It Right.jpg",
     "nom": "Winta - 2025 - You Make It Right"
   },
   {
