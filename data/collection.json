@@ -18531,6 +18531,380 @@
     "nom": "Change - 1980 - The Glow of Love"
   },
   {
+    "artiste": "Change",
+    "annee": "1981",
+    "album": "Miracles",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Paradise (Full Length Album Mix)"
+      },
+      {
+        "numero": "02",
+        "titre": "Hold Tight (Full Length Album Mix)"
+      },
+      {
+        "numero": "03",
+        "titre": "Your Move (Full Length Album Mix)"
+      },
+      {
+        "numero": "04",
+        "titre": "Stop for Love (Full Length Album Mix)"
+      },
+      {
+        "numero": "05",
+        "titre": "On Top (Full Length Album Mix)"
+      },
+      {
+        "numero": "06",
+        "titre": "Heaven of My Life (Full Length Album Mix)"
+      },
+      {
+        "numero": "07",
+        "titre": "Miracles (Full Length Album Mix)"
+      },
+      {
+        "numero": "08",
+        "titre": "The Change Megamix (Unofficial Release)"
+      },
+      {
+        "numero": "09",
+        "titre": "Paradise (UK Single Mix)"
+      },
+      {
+        "numero": "10",
+        "titre": "On Top (Extended Version)"
+      },
+      {
+        "numero": "11",
+        "titre": "Paradise (Extended DJ Mix)"
+      },
+      {
+        "numero": "12",
+        "titre": "Hold Tight (Single Edit)"
+      },
+      {
+        "numero": "13",
+        "titre": "Paradise (Single Edit)"
+      }
+    ],
+    "duree_totale": 4909.584000000001,
+    "image": "Change - 1981 - Miracles.jpg",
+    "nom": "Change - 1981 - Miracles"
+  },
+  {
+    "artiste": "Change",
+    "annee": "1982",
+    "album": "Sharing Your Love",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The Very Best in You [Full Length Album Mix]"
+      },
+      {
+        "numero": "02",
+        "titre": "Hard Times (It's Gonna Be Allright) (Full Length Album Mix)"
+      },
+      {
+        "numero": "03",
+        "titre": "Oh What a Night [Full Length Album Mix]"
+      },
+      {
+        "numero": "04",
+        "titre": "Promise Your Love [Full Length Album Mix]"
+      },
+      {
+        "numero": "05",
+        "titre": "Everything and More [Full Length Album Mix]"
+      },
+      {
+        "numero": "06",
+        "titre": "Sharing Your Love [Full Length Album Mix]"
+      },
+      {
+        "numero": "07",
+        "titre": "Take You to Heaven [Full Length Album Mix]"
+      },
+      {
+        "numero": "08",
+        "titre": "Keep on It [Full Length Album Mix]"
+      },
+      {
+        "numero": "09",
+        "titre": "You're My Number 1 [Full Length Album Mix]"
+      },
+      {
+        "numero": "10",
+        "titre": "You're My Girl [Full Length Album Mix]"
+      },
+      {
+        "numero": "11",
+        "titre": "The Very Best in You [Long Version]"
+      },
+      {
+        "numero": "12",
+        "titre": "Hard Times (It's Gonna Be Allright) (Extended Version)"
+      },
+      {
+        "numero": "13",
+        "titre": "Oh What a Night [Version Longue]"
+      },
+      {
+        "numero": "14",
+        "titre": "Keep On It [Alternative Mix]"
+      },
+      {
+        "numero": "15",
+        "titre": "The Very Best in You"
+      }
+    ],
+    "duree_totale": 4869.888,
+    "image": "Change - 1982 - Sharing Your Love.jpg",
+    "nom": "Change - 1982 - Sharing Your Love"
+  },
+  {
+    "artiste": "Change",
+    "annee": "1983",
+    "album": "This Is Your Time",
+    "nb_pistes": 16,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Got to Get Up [Full Length Album Mix]"
+      },
+      {
+        "numero": "02",
+        "titre": "This is Your Time [Full Length Album Mix]"
+      },
+      {
+        "numero": "03",
+        "titre": "Angel [Full Length Album Mix]"
+      },
+      {
+        "numero": "04",
+        "titre": "Magical Night [Full Length Album Mix]"
+      },
+      {
+        "numero": "05",
+        "titre": "Stay'n Fit [Full Length Album Mix]"
+      },
+      {
+        "numero": "06",
+        "titre": "Tell Me Why [Full Length Album Mix]"
+      },
+      {
+        "numero": "07",
+        "titre": "You'll Never Realize [Full Length Album Mix]"
+      },
+      {
+        "numero": "08",
+        "titre": "Don't Wait Another Night [Full Length Album Mix]"
+      },
+      {
+        "numero": "09",
+        "titre": "Magical Night [Night Mix]"
+      },
+      {
+        "numero": "10",
+        "titre": "Got to Get Up [Extended Version]"
+      },
+      {
+        "numero": "11",
+        "titre": "Magical Night [Alternative Mix]"
+      },
+      {
+        "numero": "12",
+        "titre": "This is Your Time [7 Inch]"
+      },
+      {
+        "numero": "13",
+        "titre": "You'll Never Realize [7 Inch]"
+      },
+      {
+        "numero": "14",
+        "titre": "Don't Wait Another Night [7 Inch]"
+      },
+      {
+        "numero": "15",
+        "titre": "Got to Get Up [7 Inch]"
+      },
+      {
+        "numero": "16",
+        "titre": "Magical Night [7 Inch]"
+      }
+    ],
+    "duree_totale": 4937.400000000001,
+    "image": "Change - 1983 - This Is Your Time.jpg",
+    "nom": "Change - 1983 - This Is Your Time"
+  },
+  {
+    "artiste": "Change",
+    "annee": "1984",
+    "album": "Change of Heart",
+    "nb_pistes": 14,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Say You Love Me Again [Full Length Album Mix]"
+      },
+      {
+        "numero": "02",
+        "titre": "Change of Heart [Full Length Album Mix]"
+      },
+      {
+        "numero": "03",
+        "titre": "Warm [Full Length Album Mix]"
+      },
+      {
+        "numero": "04",
+        "titre": "True Love [Full Length Album Mix]"
+      },
+      {
+        "numero": "05",
+        "titre": "You Are My Melody [Full Length Album Mix]"
+      },
+      {
+        "numero": "06",
+        "titre": "Lovely Lady [Full Length Album Mix]"
+      },
+      {
+        "numero": "07",
+        "titre": "Got My Eyes on You [Full Length Album Mix]"
+      },
+      {
+        "numero": "08",
+        "titre": "It Burns Me Up [Full Length Album Mix]"
+      },
+      {
+        "numero": "09",
+        "titre": "Change of Heart [U.S. 12＂ Long Version]"
+      },
+      {
+        "numero": "10",
+        "titre": "You Are My Melody [7 Inch]"
+      },
+      {
+        "numero": "11",
+        "titre": "It Burns Me Up [7 Inch]"
+      },
+      {
+        "numero": "12",
+        "titre": "Change of Heart [Alternate Dance Version]"
+      },
+      {
+        "numero": "13",
+        "titre": "Say You Love Me Again [7 Inch]"
+      },
+      {
+        "numero": "14",
+        "titre": "Change of Heart [7 Inch]"
+      }
+    ],
+    "duree_totale": 4239.48,
+    "image": "Change - 1984 - Change of Heart.jpg",
+    "nom": "Change - 1984 - Change of Heart"
+  },
+  {
+    "artiste": "Change",
+    "annee": "1985",
+    "album": "Turn on Your Radio",
+    "nb_pistes": 16,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Turn on Your Radio [Full Length Album Mix]"
+      },
+      {
+        "numero": "02",
+        "titre": "Let's Go Together [Full Length Album Mix]"
+      },
+      {
+        "numero": "03",
+        "titre": "Examination [Full Length Album Mix]"
+      },
+      {
+        "numero": "04",
+        "titre": "You'll Allways Be a Part of Me [Full Length Album Mix]"
+      },
+      {
+        "numero": "05",
+        "titre": "Oh What a Feeling [Full Length Album Mix]"
+      },
+      {
+        "numero": "06",
+        "titre": "Mutual Attraction [Full Length Album Mix]"
+      },
+      {
+        "numero": "07",
+        "titre": "Love the Way You Love Me [Full Length Album Mix]"
+      },
+      {
+        "numero": "08",
+        "titre": "If You Want My Love [Full Length Album Mix]"
+      },
+      {
+        "numero": "09",
+        "titre": "Let's Go Together [The Re - Mix by Paul Hardcastle]"
+      },
+      {
+        "numero": "10",
+        "titre": "Oh What a Feeling [The Re - Mix - Remastered by Paul Hardcastle]"
+      },
+      {
+        "numero": "11",
+        "titre": "Examination [Short Version]"
+      },
+      {
+        "numero": "12",
+        "titre": "Mutual Attraction [Version Remix by Nick Martinelli]"
+      },
+      {
+        "numero": "13",
+        "titre": "Oh What a Feeling [Single Edit B Side]"
+      },
+      {
+        "numero": "14",
+        "titre": "Turn on Your Radio [Single Edit]"
+      },
+      {
+        "numero": "15",
+        "titre": "Let's Go Together [Single Edit]"
+      },
+      {
+        "numero": "16",
+        "titre": "Mutual Attraction [Instrumental Version Remix by Nick Martinelli]"
+      }
+    ],
+    "duree_totale": 4954.991999999999,
+    "image": "Change - 1985 - Turn on Your Radio.jpg",
+    "nom": "Change - 1985 - Turn on Your Radio"
+  },
+  {
+    "artiste": "Change",
+    "annee": "2009",
+    "album": "Change Your Mind",
+    "nb_pistes": 3,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Change Your Mind (Original Mix)"
+      },
+      {
+        "numero": "02",
+        "titre": "Change Your Mind (Myon & Shane 54 Remix)"
+      },
+      {
+        "numero": "03",
+        "titre": "Change Your Mind (Fast Distance Remix)"
+      }
+    ],
+    "duree_totale": 1519.848,
+    "image": "Change - 2009 - Change Your Mind.jpg",
+    "nom": "Change - 2009 - Change Your Mind"
+  },
+  {
     "artiste": "Chapter 8",
     "annee": "1979",
     "album": "Chapter 8",
@@ -46686,6 +47060,159 @@
   },
   {
     "artiste": "Jeffrey Osborne",
+    "annee": "1984",
+    "album": "Don't Stop",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Don't Stop"
+      },
+      {
+        "numero": "02",
+        "titre": "Let Me Know"
+      },
+      {
+        "numero": "03",
+        "titre": "The Borderlines"
+      },
+      {
+        "numero": "04",
+        "titre": "The Power"
+      },
+      {
+        "numero": "05",
+        "titre": "Is It Right"
+      },
+      {
+        "numero": "06",
+        "titre": "You Can't Be Serious"
+      },
+      {
+        "numero": "07",
+        "titre": "Crazy 'Bout Cha"
+      },
+      {
+        "numero": "08",
+        "titre": "Hot Coals"
+      },
+      {
+        "numero": "09",
+        "titre": "Live For Today"
+      }
+    ],
+    "duree_totale": 2439.4080000000004,
+    "image": "Jeffrey Osborne - 1984 - Don't Stop.jpg",
+    "nom": "Jeffrey Osborne - 1984 - Don't Stop"
+  },
+  {
+    "artiste": "Jeffrey Osborne",
+    "annee": "1986",
+    "album": "Emotional",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "We Belong To Love (Album Version)"
+      },
+      {
+        "numero": "02",
+        "titre": "You Should Be Mine (The Woo Woo Song)"
+      },
+      {
+        "numero": "03",
+        "titre": "Soweto"
+      },
+      {
+        "numero": "04",
+        "titre": "In Your Eyes (Album Version)"
+      },
+      {
+        "numero": "05",
+        "titre": "Room With A View (Album Version)"
+      },
+      {
+        "numero": "06",
+        "titre": "Who Would Have Guessed (Album Version)"
+      },
+      {
+        "numero": "07",
+        "titre": "Emotional (Album Version)"
+      },
+      {
+        "numero": "08",
+        "titre": "A Second Chance"
+      },
+      {
+        "numero": "09",
+        "titre": "Love's Not Ready (Album Version)"
+      },
+      {
+        "numero": "10",
+        "titre": "Come Midnight (Album Version)"
+      }
+    ],
+    "duree_totale": 2676.408,
+    "image": "Jeffrey Osborne - 1986 - Emotional.jpg",
+    "nom": "Jeffrey Osborne - 1986 - Emotional"
+  },
+  {
+    "artiste": "Jeffrey Osborne",
+    "annee": "1988",
+    "album": "One Love – One Dream",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "One Love - One Dream"
+      },
+      {
+        "numero": "02",
+        "titre": "All Because Of You"
+      },
+      {
+        "numero": "03",
+        "titre": "She's On The Left"
+      },
+      {
+        "numero": "04",
+        "titre": "Can't Go Back On A Promise"
+      },
+      {
+        "numero": "05",
+        "titre": "True Believers"
+      },
+      {
+        "numero": "06",
+        "titre": "La Cuenta Por Favor"
+      },
+      {
+        "numero": "07",
+        "titre": "The Family"
+      },
+      {
+        "numero": "08",
+        "titre": "My Heart Can Wait Forever"
+      },
+      {
+        "numero": "09",
+        "titre": "[You Can't Get] Love From A Stone"
+      },
+      {
+        "numero": "10",
+        "titre": "Cindy"
+      },
+      {
+        "numero": "11",
+        "titre": "Social Climbers"
+      }
+    ],
+    "duree_totale": 3047.4719999999998,
+    "image": "Jeffrey Osborne - 1988 - One Love – One Dream.jpg",
+    "nom": "Jeffrey Osborne - 1988 - One Love – One Dream"
+  },
+  {
+    "artiste": "Jeffrey Osborne",
     "annee": "1990",
     "album": "Only Human",
     "nb_pistes": 16,
@@ -46761,6 +47288,179 @@
   },
   {
     "artiste": "Jeffrey Osborne",
+    "annee": "1997",
+    "album": "Something Warm for Christmas",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Christmas Time Is Here"
+      },
+      {
+        "numero": "02",
+        "titre": "Just A Little Snow"
+      },
+      {
+        "numero": "03",
+        "titre": "First Noel"
+      },
+      {
+        "numero": "04",
+        "titre": "Little Drummer Boy"
+      },
+      {
+        "numero": "05",
+        "titre": "Christmas Song"
+      },
+      {
+        "numero": "06",
+        "titre": "O' Holy Night"
+      },
+      {
+        "numero": "07",
+        "titre": "I'll Be Home For Christmas"
+      },
+      {
+        "numero": "08",
+        "titre": "Can't Wait For Christmas"
+      },
+      {
+        "numero": "09",
+        "titre": "Silent Night"
+      },
+      {
+        "numero": "10",
+        "titre": "Angels We Have Heard On High ⧸ Hark The Herald Angles Sing"
+      }
+    ],
+    "duree_totale": 2455.92,
+    "image": "Jeffrey Osborne - 1997 - Something Warm for Christmas.jpg",
+    "nom": "Jeffrey Osborne - 1997 - Something Warm for Christmas"
+  },
+  {
+    "artiste": "Jeffrey Osborne",
+    "annee": "2000",
+    "album": "That's for Sure",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "2nd Time Around"
+      },
+      {
+        "numero": "02",
+        "titre": "Kreepin'"
+      },
+      {
+        "numero": "03",
+        "titre": "That's For Sure"
+      },
+      {
+        "numero": "04",
+        "titre": "I'll Do It All For Love"
+      },
+      {
+        "numero": "05",
+        "titre": "Can't Find An Easy Way"
+      },
+      {
+        "numero": "06",
+        "titre": "Soft And Slow"
+      },
+      {
+        "numero": "07",
+        "titre": "Work That Body"
+      },
+      {
+        "numero": "08",
+        "titre": "Call My Name"
+      },
+      {
+        "numero": "09",
+        "titre": "Come With Me"
+      },
+      {
+        "numero": "10",
+        "titre": "All My Money"
+      },
+      {
+        "numero": "11",
+        "titre": "Was It Something I Said"
+      },
+      {
+        "numero": "12",
+        "titre": "Love Ballad"
+      }
+    ],
+    "duree_totale": 3924.024,
+    "image": "Jeffrey Osborne - 2000 - That's for Sure.jpg",
+    "nom": "Jeffrey Osborne - 2000 - That's for Sure"
+  },
+  {
+    "artiste": "Jeffrey Osborne",
+    "annee": "2003",
+    "album": "Music Is Life",
+    "nb_pistes": 13,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Music Is Life"
+      },
+      {
+        "numero": "02",
+        "titre": "Rest Of Our Lives"
+      },
+      {
+        "numero": "03",
+        "titre": "Paradise"
+      },
+      {
+        "numero": "04",
+        "titre": "Say You've Had Enough"
+      },
+      {
+        "numero": "05",
+        "titre": "When You Loved Me"
+      },
+      {
+        "numero": "06",
+        "titre": "Caller Id"
+      },
+      {
+        "numero": "07",
+        "titre": "Stranger"
+      },
+      {
+        "numero": "08",
+        "titre": "Her Kisses"
+      },
+      {
+        "numero": "09",
+        "titre": "Pretty Thing"
+      },
+      {
+        "numero": "10",
+        "titre": "I Don't Know"
+      },
+      {
+        "numero": "11",
+        "titre": "One Love"
+      },
+      {
+        "numero": "12",
+        "titre": "Love The Pain Away"
+      },
+      {
+        "numero": "13",
+        "titre": "Ain't No More"
+      }
+    ],
+    "duree_totale": 3405.8640000000005,
+    "image": "Jeffrey Osborne - 2003 - Music Is Life.jpg",
+    "nom": "Jeffrey Osborne - 2003 - Music Is Life"
+  },
+  {
+    "artiste": "Jeffrey Osborne",
     "annee": "2005",
     "album": "From The Soul",
     "nb_pistes": 10,
@@ -46809,6 +47509,136 @@
     "duree_totale": 2495.904,
     "image": "Jeffrey Osborne - 2005 - From The Soul.jpg",
     "nom": "Jeffrey Osborne - 2005 - From The Soul"
+  },
+  {
+    "artiste": "Jeffrey Osborne",
+    "annee": "2013",
+    "album": "A Time for Love",
+    "nb_pistes": 15,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "We're Going All The Way"
+      },
+      {
+        "numero": "02",
+        "titre": "Don't You Get So Mad ⧸ Really Don't Need No Light"
+      },
+      {
+        "numero": "03",
+        "titre": "Only Human"
+      },
+      {
+        "numero": "04",
+        "titre": "We Party Hearty"
+      },
+      {
+        "numero": "05",
+        "titre": "Stranger"
+      },
+      {
+        "numero": "06",
+        "titre": "Stay With Me Tonight"
+      },
+      {
+        "numero": "07",
+        "titre": "Close The Door"
+      },
+      {
+        "numero": "08",
+        "titre": "On The Wings Of Love"
+      },
+      {
+        "numero": "09",
+        "titre": "Holding On"
+      },
+      {
+        "numero": "10",
+        "titre": "Concentrate On You"
+      },
+      {
+        "numero": "11",
+        "titre": "We Both Deserve Each Other's Love"
+      },
+      {
+        "numero": "12",
+        "titre": "Love Ballad"
+      },
+      {
+        "numero": "13",
+        "titre": "Woo Woo"
+      },
+      {
+        "numero": "14",
+        "titre": "[Every Time I Turn Around I'm] Back In Love Again"
+      },
+      {
+        "numero": "15",
+        "titre": "I'll Be Around"
+      }
+    ],
+    "duree_totale": 4668.167999999999,
+    "image": "Jeffrey Osborne - 2013 - A Time for Love.jpg",
+    "nom": "Jeffrey Osborne - 2013 - A Time for Love"
+  },
+  {
+    "artiste": "Jeffrey Osborne",
+    "annee": "2018",
+    "album": "Worth It All",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Let a Brotha Know"
+      },
+      {
+        "numero": "02",
+        "titre": "Greatest Night"
+      },
+      {
+        "numero": "03",
+        "titre": "Just Can't Stand It"
+      },
+      {
+        "numero": "04",
+        "titre": "Worth It All"
+      },
+      {
+        "numero": "05",
+        "titre": "Stay the Way You Are"
+      },
+      {
+        "numero": "06",
+        "titre": "I Want You"
+      },
+      {
+        "numero": "07",
+        "titre": "Summer Nights"
+      },
+      {
+        "numero": "08",
+        "titre": "Work It"
+      },
+      {
+        "numero": "09",
+        "titre": "Saving My Love"
+      },
+      {
+        "numero": "10",
+        "titre": "Can't Help Myself"
+      },
+      {
+        "numero": "11",
+        "titre": "Your Lover"
+      },
+      {
+        "numero": "12",
+        "titre": "That Man"
+      }
+    ],
+    "duree_totale": 3098.472,
+    "image": "Jeffrey Osborne - 2018 - Worth It All.jpg",
+    "nom": "Jeffrey Osborne - 2018 - Worth It All"
   },
   {
     "artiste": "Jerry Butler",
@@ -58237,6 +59067,53 @@
     "nom": "Mtume - 1984 - You, Me and He"
   },
   {
+    "artiste": "Mtume",
+    "annee": "1986",
+    "album": "Theater Of The Mind",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Mtume ⧸ Theme from Theater of the Mind (1986)"
+      },
+      {
+        "numero": "02",
+        "titre": "Mtume ⧸ P.O.P. Generation (1986)"
+      },
+      {
+        "numero": "03",
+        "titre": "Mtume ⧸ Breathless (1986)"
+      },
+      {
+        "numero": "04",
+        "titre": "Mtume I Don't Believe You Heard Me (A Tribute To James Brown) (1986)"
+      },
+      {
+        "numero": "05",
+        "titre": "Mtume ⧸ Body & Soul Take Me (1986)"
+      },
+      {
+        "numero": "06",
+        "titre": "Mtume ⧸ New Face Deli (1986)"
+      },
+      {
+        "numero": "07",
+        "titre": "Mtume ⧸ I'd Rather Be with You (1986)"
+      },
+      {
+        "numero": "08",
+        "titre": "Mtume ⧸ Deep Freez (Rap A Song Part Ⅰ) (1986)"
+      },
+      {
+        "numero": "09",
+        "titre": "Mtume ⧸ Deep Freez (Tree's Thing Part Ⅱ) (1986)"
+      }
+    ],
+    "duree_totale": 2368.056,
+    "image": "Mtume - 1986 - Theater Of The Mind.jpg",
+    "nom": "Mtume - 1986 - Theater Of The Mind"
+  },
+  {
     "artiste": "Mystic Merlin",
     "annee": "1982",
     "album": "Full Moon",
@@ -62420,6 +63297,53 @@
     "duree_totale": 3485.928,
     "image": "Prince - 2015 - Hitnrun Phase Two.jpg",
     "nom": "Prince - 2015 - Hitnrun Phase Two"
+  },
+  {
+    "artiste": "Process and the Doo Rags",
+    "annee": "1987",
+    "album": "Colorful Changes",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Process and the Doo Rags ⧸ Colorful Changes (1987)"
+      },
+      {
+        "numero": "02",
+        "titre": "Process and the Doo Rags ⧸ Satisfy My Love (1987)"
+      },
+      {
+        "numero": "03",
+        "titre": "Process and the Doo Rags ⧸ Call Me Up (1987)"
+      },
+      {
+        "numero": "04",
+        "titre": "Process and the Doo Rags ⧸ Forever (1987)"
+      },
+      {
+        "numero": "05",
+        "titre": "Process and the Doo Rags ⧸ Sexy Dancer (1987)"
+      },
+      {
+        "numero": "06",
+        "titre": "Process and the Doo Rags ⧸ Colorful Changes (Interlude) - I Promise To Remember (1987)"
+      },
+      {
+        "numero": "07",
+        "titre": "Process and the Doo Rags ⧸ Not That Kinda Guy (1987)"
+      },
+      {
+        "numero": "08",
+        "titre": "Process and the Doo Rags ⧸ Change Your Name To Mine (1987)"
+      },
+      {
+        "numero": "09",
+        "titre": "Process and the Doo Rags ⧸ Stage Lights - Colorful Changes (Interlude) (1987)"
+      }
+    ],
+    "duree_totale": 2284.728,
+    "image": "Process and the Doo Rags - 1987 - Colorful Changes.jpg",
+    "nom": "Process and the Doo Rags - 1987 - Colorful Changes"
   },
   {
     "artiste": "Purple Vault",
@@ -67678,6 +68602,49 @@
   },
   {
     "artiste": "The Bar-Kays",
+    "annee": "1985",
+    "album": "Banging The Wall",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Bar-Kays ⧸ Your Place Or Mine (1985)"
+      },
+      {
+        "numero": "02",
+        "titre": "Bar-Kays ⧸ Banging The Walls (1985)"
+      },
+      {
+        "numero": "03",
+        "titre": "Bar-Kays ⧸ Paper Doll (1985)"
+      },
+      {
+        "numero": "04",
+        "titre": "Bar-Kays ⧸ Sex Driver (1985)"
+      },
+      {
+        "numero": "05",
+        "titre": "Bar-Kays ⧸ Dance Your Body, Desara (1985)"
+      },
+      {
+        "numero": "06",
+        "titre": "Bar-Kays ⧸ Love Don't Wait (1985)"
+      },
+      {
+        "numero": "07",
+        "titre": "Bar-Kays ⧸ Missiles On Target (1985)"
+      },
+      {
+        "numero": "08",
+        "titre": "Bar-Kays ⧸ Gina (1985)"
+      }
+    ],
+    "duree_totale": 2293.2239999999997,
+    "image": "The Bar-Kays - 1985 - Banging The Wall.jpg",
+    "nom": "The Bar-Kays - 1985 - Banging The Wall"
+  },
+  {
+    "artiste": "The Bar-Kays",
     "annee": "2009",
     "album": "House Party",
     "nb_pistes": 12,
@@ -69962,6 +70929,253 @@
   },
   {
     "artiste": "The O'Jays",
+    "annee": "1970",
+    "album": "In Philadelphia",
+    "nb_pistes": 11,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "One Night Affair"
+      },
+      {
+        "numero": "02",
+        "titre": "You're the Best Thing Since Candy"
+      },
+      {
+        "numero": "03",
+        "titre": "Branded Bad"
+      },
+      {
+        "numero": "04",
+        "titre": "I Should Be Your Lover"
+      },
+      {
+        "numero": "05",
+        "titre": "Looky Looky (Look at Me Girl)"
+      },
+      {
+        "numero": "06",
+        "titre": "Deeper (In Love with You)"
+      },
+      {
+        "numero": "07",
+        "titre": "Let Me In Your World"
+      },
+      {
+        "numero": "08",
+        "titre": "Just Can't Get Enough"
+      },
+      {
+        "numero": "09",
+        "titre": "I've Got the Groove"
+      },
+      {
+        "numero": "10",
+        "titre": "Medley： Little Green Apples ⧸ Something"
+      },
+      {
+        "numero": "11",
+        "titre": "It's Too Strong"
+      }
+    ],
+    "duree_totale": 1806.1679999999997,
+    "image": "The O'Jays - 1970 - In Philadelphia.jpg",
+    "nom": "The O'Jays - 1970 - In Philadelphia"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1971",
+    "album": "Super Bad",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Now He's Home"
+      },
+      {
+        "numero": "02",
+        "titre": "Little Brother"
+      },
+      {
+        "numero": "03",
+        "titre": "Crossroads of Life"
+      },
+      {
+        "numero": "04",
+        "titre": "La-De-Da"
+      },
+      {
+        "numero": "05",
+        "titre": "Peace"
+      },
+      {
+        "numero": "06",
+        "titre": "Shattered Man"
+      },
+      {
+        "numero": "07",
+        "titre": "Your Turn This Time"
+      },
+      {
+        "numero": "08",
+        "titre": "Just to Be with You"
+      },
+      {
+        "numero": "09",
+        "titre": "Gotta Get My Broom Out"
+      },
+      {
+        "numero": "10",
+        "titre": "Never Gonna Say Goodbye"
+      }
+    ],
+    "duree_totale": 2015.8079999999998,
+    "image": "The O'Jays - 1971 - Super Bad.jpg",
+    "nom": "The O'Jays - 1971 - Super Bad"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1972",
+    "album": "Back Stabbers",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "When the World's at Peace"
+      },
+      {
+        "numero": "02",
+        "titre": "Back Stabbers"
+      },
+      {
+        "numero": "03",
+        "titre": "Who Am I"
+      },
+      {
+        "numero": "04",
+        "titre": "[They Call Me] Mr. Lucky"
+      },
+      {
+        "numero": "05",
+        "titre": "Time to Get Down"
+      },
+      {
+        "numero": "06",
+        "titre": "992 Arguments"
+      },
+      {
+        "numero": "07",
+        "titre": "Listen to the Clock on the Wall"
+      },
+      {
+        "numero": "08",
+        "titre": "Shiftless, Shady, Jealous Kind of People"
+      },
+      {
+        "numero": "09",
+        "titre": "Sunshine"
+      },
+      {
+        "numero": "10",
+        "titre": "Love Train"
+      }
+    ],
+    "duree_totale": 2394.96,
+    "image": "The O'Jays - 1972 - Back Stabbers.jpg",
+    "nom": "The O'Jays - 1972 - Back Stabbers"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1973",
+    "album": "Ship Ahoy",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Put Your Hands Together"
+      },
+      {
+        "numero": "02",
+        "titre": "Ship Ahoy"
+      },
+      {
+        "numero": "03",
+        "titre": "This Air I Breathe"
+      },
+      {
+        "numero": "04",
+        "titre": "You Got Your Hooks in Me"
+      },
+      {
+        "numero": "05",
+        "titre": "For the Love of Money"
+      },
+      {
+        "numero": "06",
+        "titre": "Now That We Found Love"
+      },
+      {
+        "numero": "07",
+        "titre": "Don't Call Me Brother"
+      },
+      {
+        "numero": "08",
+        "titre": "People Keep Tellin' Me"
+      },
+      {
+        "numero": "09",
+        "titre": "Put Your Hands Together (Live at Hammersmith Odeon, London, England - December 1973)"
+      }
+    ],
+    "duree_totale": 3130.4640000000004,
+    "image": "The O'Jays - 1973 - Ship Ahoy.jpg",
+    "nom": "The O'Jays - 1973 - Ship Ahoy"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1975",
+    "album": "Family Reunion",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Unity"
+      },
+      {
+        "numero": "02",
+        "titre": "Family Reunion"
+      },
+      {
+        "numero": "03",
+        "titre": "You and Me"
+      },
+      {
+        "numero": "04",
+        "titre": "She's Only a Woman"
+      },
+      {
+        "numero": "05",
+        "titre": "Livin' for the Weekend"
+      },
+      {
+        "numero": "06",
+        "titre": "Stairway to Heaven"
+      },
+      {
+        "numero": "07",
+        "titre": "I Love Music"
+      },
+      {
+        "numero": "08",
+        "titre": "I Love Music (A Tom Moulton Mix)"
+      }
+    ],
+    "duree_totale": 3167.784,
+    "image": "The O'Jays - 1975 - Family Reunion.jpg",
+    "nom": "The O'Jays - 1975 - Family Reunion"
+  },
+  {
+    "artiste": "The O'Jays",
     "annee": "1975",
     "album": "Survival",
     "nb_pistes": 8,
@@ -70002,6 +71216,419 @@
     "duree_totale": 1955.7120000000002,
     "image": "The O'Jays - 1975 - Survival.jpg",
     "nom": "The O'Jays - 1975 - Survival"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1976",
+    "album": "Message in the Music",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Message In Our Music"
+      },
+      {
+        "numero": "02",
+        "titre": "A Prayer"
+      },
+      {
+        "numero": "03",
+        "titre": "Paradise"
+      },
+      {
+        "numero": "04",
+        "titre": "Make a Joyful Noise"
+      },
+      {
+        "numero": "05",
+        "titre": "Desire Me"
+      },
+      {
+        "numero": "06",
+        "titre": "Darlin' Darlin' Baby (Sweet, Tender, Love)"
+      },
+      {
+        "numero": "07",
+        "titre": "I Swear, I Love No One But You"
+      },
+      {
+        "numero": "08",
+        "titre": "Let Life Flow"
+      }
+    ],
+    "duree_totale": 2512.4399999999996,
+    "image": "The O'Jays - 1976 - Message in the Music.jpg",
+    "nom": "The O'Jays - 1976 - Message in the Music"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1977",
+    "album": "Travelin' at the Speed of Thought",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Travelin' At The Speed Of Thought"
+      },
+      {
+        "numero": "02",
+        "titre": "We're All In This Thing Together"
+      },
+      {
+        "numero": "03",
+        "titre": "So Glad I Got You, Girl"
+      },
+      {
+        "numero": "04",
+        "titre": "Stand Up"
+      },
+      {
+        "numero": "05",
+        "titre": "Those Lies (Done Caught Up with You This Time)"
+      },
+      {
+        "numero": "06",
+        "titre": "Feelings"
+      },
+      {
+        "numero": "07",
+        "titre": "Work on Me"
+      },
+      {
+        "numero": "08",
+        "titre": "Let's Spend Some Time Together"
+      }
+    ],
+    "duree_totale": 2294.712,
+    "image": "The O'Jays - 1977 - Travelin' at the Speed of Thought.jpg",
+    "nom": "The O'Jays - 1977 - Travelin' at the Speed of Thought"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1978",
+    "album": "So Full of Love",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sing My Heart Out"
+      },
+      {
+        "numero": "02",
+        "titre": "Use Ta Be My Girl"
+      },
+      {
+        "numero": "03",
+        "titre": "Cry Together"
+      },
+      {
+        "numero": "04",
+        "titre": "This Time Baby"
+      },
+      {
+        "numero": "05",
+        "titre": "Brandy"
+      },
+      {
+        "numero": "06",
+        "titre": "Take Me To The Stars"
+      },
+      {
+        "numero": "07",
+        "titre": "Help (Somebody Please)"
+      },
+      {
+        "numero": "08",
+        "titre": "Strokety Stroke"
+      }
+    ],
+    "duree_totale": 2171.472,
+    "image": "The O'Jays - 1978 - So Full of Love.jpg",
+    "nom": "The O'Jays - 1978 - So Full of Love"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1979",
+    "album": "Identify Yourself",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Sing A Happy Song"
+      },
+      {
+        "numero": "02",
+        "titre": "Get On Out And Party"
+      },
+      {
+        "numero": "03",
+        "titre": "Identify"
+      },
+      {
+        "numero": "04",
+        "titre": "So Nice I Tried It Twice"
+      },
+      {
+        "numero": "05",
+        "titre": "Hurry Up & Come Back"
+      },
+      {
+        "numero": "06",
+        "titre": "Forever Mine"
+      },
+      {
+        "numero": "07",
+        "titre": "I Want You Here With Me"
+      },
+      {
+        "numero": "08",
+        "titre": "One In A Million (Girl)"
+      }
+    ],
+    "duree_totale": 2471.496,
+    "image": "The O'Jays - 1979 - Identify Yourself.jpg",
+    "nom": "The O'Jays - 1979 - Identify Yourself"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1980",
+    "album": "The Year 2000",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The Year 2000"
+      },
+      {
+        "numero": "02",
+        "titre": "To Prove I Love You"
+      },
+      {
+        "numero": "03",
+        "titre": "You'll Never Know (All There Is to Know 'bout My Love)"
+      },
+      {
+        "numero": "04",
+        "titre": "You're the Girl of My Dream (Sho Nuff Real)"
+      },
+      {
+        "numero": "05",
+        "titre": "You Won't Fail"
+      },
+      {
+        "numero": "06",
+        "titre": "Girl, Don't Let It Get You Down"
+      },
+      {
+        "numero": "07",
+        "titre": "The Answer's in You"
+      },
+      {
+        "numero": "08",
+        "titre": "Once Is Not Enough"
+      }
+    ],
+    "duree_totale": 2196.0480000000002,
+    "image": "The O'Jays - 1980 - The Year 2000.jpg",
+    "nom": "The O'Jays - 1980 - The Year 2000"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1982",
+    "album": "My Favorite Person",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Just Want to Satisfy You"
+      },
+      {
+        "numero": "02",
+        "titre": "Your Body's Here with Me (But Your Mind's on the Other Side of Town)"
+      },
+      {
+        "numero": "03",
+        "titre": "My Favorite Person"
+      },
+      {
+        "numero": "04",
+        "titre": "One on One"
+      },
+      {
+        "numero": "05",
+        "titre": "I Like to See Us Get Down"
+      },
+      {
+        "numero": "06",
+        "titre": "Your True Heart (And Shining Star)"
+      },
+      {
+        "numero": "07",
+        "titre": "Out in the Real World"
+      },
+      {
+        "numero": "08",
+        "titre": "Don't Walk Away Mad"
+      }
+    ],
+    "duree_totale": 2143.176,
+    "image": "The O'Jays - 1982 - My Favorite Person.jpg",
+    "nom": "The O'Jays - 1982 - My Favorite Person"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1983",
+    "album": "When Will I See You Again",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Can't Stand the Pain"
+      },
+      {
+        "numero": "02",
+        "titre": "Betcha Don't Know (What Comes After That)"
+      },
+      {
+        "numero": "03",
+        "titre": "When Will I See You Again"
+      },
+      {
+        "numero": "04",
+        "titre": "House of Fire"
+      },
+      {
+        "numero": "05",
+        "titre": "A Letter to My Friends"
+      },
+      {
+        "numero": "06",
+        "titre": "Put Our Heads Together"
+      },
+      {
+        "numero": "07",
+        "titre": "Ain't Nothin' Wrong with Good Lovin'"
+      },
+      {
+        "numero": "08",
+        "titre": "Nice and Easy"
+      }
+    ],
+    "duree_totale": 2406.48,
+    "image": "The O'Jays - 1983 - When Will I See You Again.jpg",
+    "nom": "The O'Jays - 1983 - When Will I See You Again"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1984",
+    "album": "Love and More",
+    "nb_pistes": 0,
+    "pistes": [],
+    "duree_totale": 0,
+    "image": "The O'Jays - 1984 - Love and More.jpg",
+    "nom": "The O'Jays - 1984 - Love and More"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1985",
+    "album": "Love Fever",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Can't Slow Down"
+      },
+      {
+        "numero": "02",
+        "titre": "Dollar Bill"
+      },
+      {
+        "numero": "03",
+        "titre": "All Eyes on Africa"
+      },
+      {
+        "numero": "04",
+        "titre": "Just Another Lonely Night"
+      },
+      {
+        "numero": "05",
+        "titre": "I Wanna Be with You Tonight"
+      },
+      {
+        "numero": "06",
+        "titre": "Love Fever"
+      },
+      {
+        "numero": "07",
+        "titre": "I Love America"
+      },
+      {
+        "numero": "08",
+        "titre": "What a Woman"
+      },
+      {
+        "numero": "09",
+        "titre": "We're Still Together"
+      },
+      {
+        "numero": "10",
+        "titre": "What Good Are These Arms of Mine"
+      }
+    ],
+    "duree_totale": 2566.872,
+    "image": "The O'Jays - 1985 - Love Fever.jpg",
+    "nom": "The O'Jays - 1985 - Love Fever"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1987",
+    "album": "Let Me Touch You",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Don't Take Your Love Away"
+      },
+      {
+        "numero": "02",
+        "titre": "Lovin' You"
+      },
+      {
+        "numero": "03",
+        "titre": "True Love Never Dies"
+      },
+      {
+        "numero": "04",
+        "titre": "Still Missing"
+      },
+      {
+        "numero": "05",
+        "titre": "I Just Want Somebody to Love Me"
+      },
+      {
+        "numero": "06",
+        "titre": "Let Me Touch You"
+      },
+      {
+        "numero": "07",
+        "titre": "Undercover Lover"
+      },
+      {
+        "numero": "08",
+        "titre": "No Lies to Cloud My Eyes"
+      },
+      {
+        "numero": "09",
+        "titre": "Don't Let the Dream Get Away"
+      },
+      {
+        "numero": "10",
+        "titre": "Cause I Want You Back Again"
+      }
+    ],
+    "duree_totale": 2857.368,
+    "image": "The O'Jays - 1987 - Let Me Touch You.jpg",
+    "nom": "The O'Jays - 1987 - Let Me Touch You"
   },
   {
     "artiste": "The O'Jays",
@@ -70116,6 +71743,420 @@
     "duree_totale": 4159.56,
     "image": "The O'Jays - 1991 - Emotionally Yours.jpg",
     "nom": "The O'Jays - 1991 - Emotionally Yours"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1991",
+    "album": "Home for Christmas",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Can Hardly Wait 'Til Christmas"
+      },
+      {
+        "numero": "02",
+        "titre": "Merry Christmas Baby"
+      },
+      {
+        "numero": "03",
+        "titre": "White Christmas"
+      },
+      {
+        "numero": "04",
+        "titre": "The Christmas Song (Merry Christmas To You)"
+      },
+      {
+        "numero": "05",
+        "titre": "Wanna Be Home For Christmas"
+      },
+      {
+        "numero": "06",
+        "titre": "Christmas Time In The City"
+      },
+      {
+        "numero": "07",
+        "titre": "(Tell 'Em) Santa's On His Way"
+      },
+      {
+        "numero": "08",
+        "titre": "Have Yourself A Merry Little Christmas"
+      },
+      {
+        "numero": "09",
+        "titre": "What Are You Doing New Year's Eve？"
+      },
+      {
+        "numero": "10",
+        "titre": "Carol Of The Bells"
+      }
+    ],
+    "duree_totale": 2712.048,
+    "image": "The O'Jays - 1991 - Home for Christmas.jpg",
+    "nom": "The O'Jays - 1991 - Home for Christmas"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1993",
+    "album": "Heartbreaker",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Cryin' The Blues"
+      },
+      {
+        "numero": "02",
+        "titre": "One Wonderful Girl"
+      },
+      {
+        "numero": "03",
+        "titre": "Somebody Else Will"
+      },
+      {
+        "numero": "04",
+        "titre": "Show Me The Right Way"
+      },
+      {
+        "numero": "05",
+        "titre": "Trouble"
+      },
+      {
+        "numero": "06",
+        "titre": "Can't Let You Go"
+      },
+      {
+        "numero": "07",
+        "titre": "Decisions"
+      },
+      {
+        "numero": "08",
+        "titre": "No Can Do"
+      },
+      {
+        "numero": "09",
+        "titre": "Heartbreaker"
+      },
+      {
+        "numero": "10",
+        "titre": "He Loves You"
+      }
+    ],
+    "duree_totale": 3054.6959999999995,
+    "image": "The O'Jays - 1993 - Heartbreaker.jpg",
+    "nom": "The O'Jays - 1993 - Heartbreaker"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "1997",
+    "album": "Love You to Tears",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Pay The Bills"
+      },
+      {
+        "numero": "02",
+        "titre": "Turned Out"
+      },
+      {
+        "numero": "03",
+        "titre": "I Want My Cake"
+      },
+      {
+        "numero": "04",
+        "titre": "What's Stopping You"
+      },
+      {
+        "numero": "05",
+        "titre": "Serious Affair"
+      },
+      {
+        "numero": "06",
+        "titre": "You Make Me Fall In Love Again"
+      },
+      {
+        "numero": "07",
+        "titre": "Baby You Know"
+      },
+      {
+        "numero": "08",
+        "titre": "Another Lonely Night (Did You Forget About Me)"
+      },
+      {
+        "numero": "09",
+        "titre": "Getting Along Much Better"
+      },
+      {
+        "numero": "10",
+        "titre": "Love You To Tears"
+      }
+    ],
+    "duree_totale": 2725.176,
+    "image": "The O'Jays - 1997 - Love You to Tears.jpg",
+    "nom": "The O'Jays - 1997 - Love You to Tears"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "2001",
+    "album": "For the Love",
+    "nb_pistes": 0,
+    "pistes": [],
+    "duree_totale": 0,
+    "image": null,
+    "nom": "The O'Jays - 2001 - For the Love"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "2001",
+    "album": "For the Love..#",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "- Pay The Bills"
+      },
+      {
+        "numero": "02",
+        "titre": "- Turned Out"
+      },
+      {
+        "numero": "03",
+        "titre": "- I Want My Cake"
+      },
+      {
+        "numero": "04",
+        "titre": "- What's Stopping You"
+      },
+      {
+        "numero": "05",
+        "titre": "- Serious Affair"
+      },
+      {
+        "numero": "06",
+        "titre": "- You Make Me Fall In Love Again"
+      },
+      {
+        "numero": "07",
+        "titre": "- Baby You Know"
+      },
+      {
+        "numero": "08",
+        "titre": "- Another Lonely Night (Did You Forget About Me)"
+      },
+      {
+        "numero": "09",
+        "titre": "- Getting Along Much Better"
+      },
+      {
+        "numero": "10",
+        "titre": "- Love You To Tears"
+      }
+    ],
+    "duree_totale": 2725.176,
+    "image": null,
+    "nom": "The O'Jays - 2001 - For the Love..#"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "2004",
+    "album": "Imagination",
+    "nb_pistes": 12,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Made It Back"
+      },
+      {
+        "numero": "02",
+        "titre": "Repair Man"
+      },
+      {
+        "numero": "03",
+        "titre": "Make Up"
+      },
+      {
+        "numero": "04",
+        "titre": "Imagination"
+      },
+      {
+        "numero": "05",
+        "titre": "Chauvinistic"
+      },
+      {
+        "numero": "06",
+        "titre": "Separate Ways"
+      },
+      {
+        "numero": "07",
+        "titre": "Why You Wanna Settle for Less"
+      },
+      {
+        "numero": "08",
+        "titre": "Busy Tonight"
+      },
+      {
+        "numero": "09",
+        "titre": "One Good Woman"
+      },
+      {
+        "numero": "10",
+        "titre": "I Would Rather Cry"
+      },
+      {
+        "numero": "11",
+        "titre": "For the Love of Money (Grizz Remix)"
+      },
+      {
+        "numero": "12",
+        "titre": "The Christmas Song"
+      }
+    ],
+    "duree_totale": 3501.048,
+    "image": "The O'Jays - 2004 - Imagination.jpg",
+    "nom": "The O'Jays - 2004 - Imagination"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "2004",
+    "album": "Together We Are One",
+    "nb_pistes": 8,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "Love Is The Key (Remastered 2004)"
+      },
+      {
+        "numero": "02",
+        "titre": "Right On Time (Remastered 2004)"
+      },
+      {
+        "numero": "03",
+        "titre": "Your Own Kind Of Way (Remastered 2004)"
+      },
+      {
+        "numero": "04",
+        "titre": "I Wanna Thank You (Remastered 2004)"
+      },
+      {
+        "numero": "05",
+        "titre": "We Are One (Remastered 2004)"
+      },
+      {
+        "numero": "06",
+        "titre": "Never Let You Down (Remastered 2004)"
+      },
+      {
+        "numero": "07",
+        "titre": "I Love You Too Much (Remastered 2004)"
+      },
+      {
+        "numero": "08",
+        "titre": "Metropolis (Remastered 2004)"
+      }
+    ],
+    "duree_totale": 2409.624,
+    "image": "The O'Jays - 2004 - Together We Are One.jpg",
+    "nom": "The O'Jays - 2004 - Together We Are One"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "2010",
+    "album": "Christmas with the O'Jays",
+    "nb_pistes": 10,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "The First Noel"
+      },
+      {
+        "numero": "02",
+        "titre": "Hark! The Herald Angels Sing"
+      },
+      {
+        "numero": "03",
+        "titre": "Joy To The World"
+      },
+      {
+        "numero": "04",
+        "titre": "Silent Night"
+      },
+      {
+        "numero": "05",
+        "titre": "Jingle Bells"
+      },
+      {
+        "numero": "06",
+        "titre": "I'm What You Want This Christmas"
+      },
+      {
+        "numero": "07",
+        "titre": "Oh, Holy Night"
+      },
+      {
+        "numero": "08",
+        "titre": "What Child Is This (Greensleeves)"
+      },
+      {
+        "numero": "09",
+        "titre": "Cause it's Christmas"
+      },
+      {
+        "numero": "10",
+        "titre": "We Wish You A Merry Christmas"
+      }
+    ],
+    "duree_totale": 2230.848,
+    "image": "The O'Jays - 2010 - Christmas with the O'Jays.jpg",
+    "nom": "The O'Jays - 2010 - Christmas with the O'Jays"
+  },
+  {
+    "artiste": "The O'Jays",
+    "annee": "2019",
+    "album": "The Last Word",
+    "nb_pistes": 9,
+    "pistes": [
+      {
+        "numero": "01",
+        "titre": "I Got You"
+      },
+      {
+        "numero": "02",
+        "titre": "Stand Up"
+      },
+      {
+        "numero": "03",
+        "titre": "Enjoy Yourself"
+      },
+      {
+        "numero": "04",
+        "titre": "Do You Really Know How I Feel"
+      },
+      {
+        "numero": "05",
+        "titre": "Above The Law"
+      },
+      {
+        "numero": "06",
+        "titre": "'68 Summer Nights"
+      },
+      {
+        "numero": "07",
+        "titre": "Start Stoppin'"
+      },
+      {
+        "numero": "08",
+        "titre": "Pressure"
+      },
+      {
+        "numero": "09",
+        "titre": "I'll Be Sweeter Tomorrow (Than I Was Today)"
+      }
+    ],
+    "duree_totale": 2163.0,
+    "image": "The O'Jays - 2019 - The Last Word.jpg",
+    "nom": "The O'Jays - 2019 - The Last Word"
   },
   {
     "artiste": "The Pointer Sisters",
